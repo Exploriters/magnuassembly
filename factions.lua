@@ -1,7 +1,7 @@
 
 {
 	1257 = {
-		name=_("_text_faction_Lapismarine"),
+		name=_("_text_faction_Lapismarine"),-- Lapismarine
 		playable=2,
 		start="1257_Knight",
 		primaries=3,
@@ -13,7 +13,7 @@
 	},
 	
 	1235 = {
-		name=_("_text_faction_DSSETRNDD"),
+		name=_("_text_faction_DSSETRNDD"),-- SantasumuStandard
 		playable=1,
 		start="1235_Venture",
 		primaries=3,
@@ -25,7 +25,7 @@
 	},
 	
 	1238 = {
-		name=_("_text_faction_Light_Guard"),
+		name=_("_text_faction_Light_Guard"),-- 38Tech
 		playable=1,
 		start="1238_Tech_Bomber",
 		primaries=3,
@@ -37,7 +37,7 @@
 	
 	
 	1880 = {
-		name=_("_text_faction_Phage"),
+		name=_("_text_faction_Phage"),-- Protein
 		playable=2,
 		start="1880_A-1",
 		primaries=3,
@@ -49,7 +49,7 @@
 	},
 
 	1242 = {
-		name=_("_text_faction_Winter_Ender"),
+		name=_("_text_faction_Winter_Ender"),-- WE2BoLaX
 		playable=1,
 		start="1242_Guard",
 		primaries=3,
@@ -61,7 +61,7 @@
 	},
 
 	1243 = {
-		name=_("_text_faction_Outlaw"),
+		name=_("_text_faction_Outlaw"),-- BeetSys
 		playable=1,
 		start="1243_Interpreter",
 		primaries=3,
@@ -73,7 +73,7 @@
 	},
 	
 	1881 = {
-		name=_("_text_faction_Null_setter"),
+		name=_("_text_faction_Null_setter"),-- Antimatter
 		start="1881_Nanf",
 		primaries=3,
 		color0=0x800080,
@@ -84,19 +84,19 @@
 	},
 
 	1443 = {
-		name=_("_text_faction_Stragegic_Brawler"),
+		name=_("_text_faction_Stragegic_Brawler"),-- 3tr8g8gi3
 		playable=1,
 		start="1443_Explorer_Lapis",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
+		color0=0x0984ff,
+		color1=0xea8700,
+		color2=0x3f3f3f,
 		aiflags=CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 
 	1259 = {
-		name=_("_text_faction_Ancient"),
+		name=_("_text_faction_Ancient"),-- Magnualand
 		primaries=3,
 		--color0=,
 		--color1=,
