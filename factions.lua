@@ -61,7 +61,7 @@
 	},
 
 	1243 = {
-		name=_("_text_faction_Outlaw"),-- RRAK.BEET423SYS
+		name=_("_text_faction_Outlaw"),-- BeetSys
 		playable=1,
 		start="1243_Interpreter",
 		primaries=3,
