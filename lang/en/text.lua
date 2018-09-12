@@ -5,6 +5,7 @@
 	"_n"="\n",
 	
 	"_text_word_Ancient"="Ancient",
+	"_text_AncientTech"="Magnualand",
 	"_text_material_Lapismarine"="Lapismarine",
 	
 	"_text_faction_Lapismarine"="Lapismarine",
