@@ -1,6 +1,10 @@
- COLOR_R = 0xa89100
+ COLOR_R = 0x5862a0
+# COLOR_RESOURCE0 = 0x9603d8 资源球的颜色1
+# COLOR_RESOURCE1 = 0x0061c8 资源球的颜色2
+ COLOR_RESOURCE2 = 0xa89100
+ COLOR_RESOURCE3 = 0x3f3f3f
  kMaxResPocketQuant = 8000
- kGameName = "MAGNUASSEMBLY"
+ kGameName = "^4MAGNUASSEMBLY"
  kStartingP = 500
  kStartingC = 2000
  kPointMax = 715555
