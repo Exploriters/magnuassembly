@@ -14702,6 +14702,7 @@
 	{
 		1258206,
 		group=1257,
+		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
 		name=_("_text_lapismBorealisOuroborosCannon"),
 		blurb=_("_text_lapismInnerSweepCannon"),
