@@ -6,6 +6,7 @@
 	"_n"="\n",
 	
 	"_text_word_Ancient"="古代",
+	"_text_AncientTech"="马葛兰",
 	"_text_material_Lapismarine"="海青",
 	
 	"_text_faction_Lapismarine"="海青族",
