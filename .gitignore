@@ -1,0 +1,11 @@
+*~
+*.vim
+
+.vs
+Debug
+Develop
+Release
+
+*.user
+
+win32/ReassemblyDe*
