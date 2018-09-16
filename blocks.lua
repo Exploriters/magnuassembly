@@ -1,6 +1,6 @@
 {
 	{
-		1257000,
+		ident=1257000,
 		group=1257,
 		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Capsule"),
@@ -33,7 +33,7 @@
 	},
 
 	{
-		1257001,
+		ident=1257001,
 		group=1257,
 		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SEED|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Struction_Operation"),
@@ -63,7 +63,7 @@
 	},
 
 	{
-		1257002,
+		ident=1257002,
 		group=1257,
 		features=PHOTOSYNTH|SEED|THRUSTER|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Seed"),
@@ -93,7 +93,7 @@
 	},
 
 	{
-		1257003,
+		ident=1257003,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -110,7 +110,7 @@
 	},
 
 	{
-		1257004,
+		ident=1257004,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -127,7 +127,7 @@
 	},
 
 	{
-		1257005,
+		ident=1257005,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -144,7 +144,7 @@
 	},
 
 	{
-		1257006,
+		ident=1257006,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -161,7 +161,7 @@
 	},
 
 	{
-		1257007,
+		ident=1257007,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -178,7 +178,7 @@
 	},
 
 	{
-		1257008,
+		ident=1257008,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Structue"),
@@ -195,7 +195,7 @@
 	},
 
 	{
-		1257009,
+		ident=1257009,
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Factory"),
@@ -212,7 +212,7 @@
 	},
 
 	{
-		1257010,
+		ident=1257010,
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Factory"),
@@ -229,7 +229,7 @@
 	},
 
 	{
-		1257011,
+		ident=1257011,
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Factory"),
@@ -246,7 +246,7 @@
 	},
 
 	{
-		1257012,
+		ident=1257012,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -264,7 +264,7 @@
 	},
 
 	{
-		1257013,
+		ident=1257013,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -282,7 +282,7 @@
 	},
 
 	{
-		1257014,
+		ident=1257014,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -300,7 +300,7 @@
 	},
 
 	{
-		1257015,
+		ident=1257015,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -318,7 +318,7 @@
 	},
 
 	{
-		1257016,
+		ident=1257016,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -336,7 +336,7 @@
 	},
 
 	{
-		1257017,
+		ident=1257017,
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resContainer"),
@@ -354,7 +354,7 @@
 	},
 
 	{
-		1257018,
+		ident=1257018,
 		group=1257,
 		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
@@ -373,7 +373,7 @@
 	},
 
 	{
-		1257019,
+		ident=1257019,
 		group=1257,
 		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
@@ -392,7 +392,7 @@
 	},
 
 	{
-		1257020,
+		ident=1257020,
 		group=1257,
 		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
@@ -411,7 +411,7 @@
 	},
 
 	{
-		1257021,
+		ident=1257021,
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismSpike"),
@@ -430,7 +430,7 @@
 	},
 
 	{
-		1257022,
+		ident=1257022,
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismSpike"),
@@ -449,7 +449,7 @@
 	},
 
 	{
-		1257023,
+		ident=1257023,
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismSpike"),
@@ -468,7 +468,7 @@
 	},
 
 	{
-		1257024,
+		ident=1257024,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -487,7 +487,7 @@
 	},
 
 	{
-		1257025,
+		ident=1257025,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -506,7 +506,7 @@
 	},
 
 	{
-		1257026,
+		ident=1257026,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -525,7 +525,7 @@
 	},
 
 	{
-		1257027,
+		ident=1257027,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -544,7 +544,7 @@
 	},
 
 	{
-		1257028,
+		ident=1257028,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -563,7 +563,7 @@
 	},
 
 	{
-		1257029,
+		ident=1257029,
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismHiddenBlock"),
@@ -582,7 +582,7 @@
 	},
 
 	{
-		1257030,
+		ident=1257030,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -599,7 +599,7 @@
 	},
 
 	{
-		1257031,
+		ident=1257031,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -616,7 +616,7 @@
 	},
 
 	{
-		1257032,
+		ident=1257032,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -650,7 +650,7 @@
 	-- },
 
 	{
-		1257034,
+		ident=1257034,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -667,7 +667,7 @@
 	},
 
 	{
-		1257035,
+		ident=1257035,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -684,7 +684,7 @@
 	},
 
 	{
-		1257036,
+		ident=1257036,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismDirt"),
@@ -701,7 +701,7 @@
 	},
 
 	{
-		1257037,
+		ident=1257037,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismStone"),
@@ -719,7 +719,7 @@
 	},
 
 	{
-		1257038,
+		ident=1257038,
 		group=1257,
 		features=PALETTE|INTLINES,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Blank_Device"),
@@ -736,7 +736,7 @@
 	},
 
 	{
-		1257039,
+		ident=1257039,
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Shield"),
@@ -761,7 +761,7 @@
 	},
 
 	{
-		1257040,
+		ident=1257040,
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Shield"),
@@ -786,7 +786,7 @@
 	},
 
 	{
-		1257041,
+		ident=1257041,
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Shield"),
@@ -811,7 +811,7 @@
 	},
 
 	{
-		1257042,
+		ident=1257042,
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismMegaShield"),
@@ -836,7 +836,7 @@
 	},
 
 	{
-		1257043,
+		ident=1257043,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -854,7 +854,7 @@
 	},
 
 	{
-		1257044,
+		ident=1257044,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -872,7 +872,7 @@
 	},
 
 	{
-		1257045,
+		ident=1257045,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -890,7 +890,7 @@
 	},
 
 	{
-		1257046,
+		ident=1257046,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -908,7 +908,7 @@
 	},
 
 	{
-		1257047,
+		ident=1257047,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -926,7 +926,7 @@
 	},
 
 	{
-		1257048,
+		ident=1257048,
 		group=1257,
 		features=PALETTE|GENERATOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Generator"),
@@ -944,7 +944,7 @@
 	},
 
 	{
-		1257049,
+		ident=1257049,
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismResBoot"),
@@ -961,7 +961,7 @@
 	},
 
 	{
-		1257050,
+		ident=1257050,
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismResBoot"),
@@ -978,7 +978,7 @@
 	},
 
 	{
-		1257051,
+		ident=1257051,
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_lapismResBoot"),
@@ -995,7 +995,7 @@
 	},
 
 	{
-		1257052,
+		ident=1257052,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1016,7 +1016,7 @@
 	},
 
 	{
-		1257053,
+		ident=1257053,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1037,7 +1037,7 @@
 	},
 
 	{
-		1257054,
+		ident=1257054,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1058,7 +1058,7 @@
 	},
 
 	{
-		1257055,
+		ident=1257055,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1079,7 +1079,7 @@
 	},
 
 	{
-		1257056,
+		ident=1257056,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1100,7 +1100,7 @@
 	},
 
 	{
-		1257057,
+		ident=1257057,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Thruster"),
@@ -1121,7 +1121,7 @@
 	},
 
 	{
-		1257058,
+		ident=1257058,
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_MomentumWhell"),
@@ -1138,7 +1138,7 @@
 	},
 
 	{
-		1257059,
+		ident=1257059,
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_MomentumWhell"),
@@ -1155,7 +1155,7 @@
 	},
 
 	{
-		1257060,
+		ident=1257060,
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_MomentumWhell"),
@@ -1172,7 +1172,7 @@
 	},
 
 	{
-		1257061,
+		ident=1257061,
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_MomentumWhell"),
@@ -1189,7 +1189,7 @@
 	},
 
 	{
-		1257062,
+		ident=1257062,
 		group=1257,
 		features=PALETTE|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resTractor"),
@@ -1206,7 +1206,7 @@
 	},
 
 	{
-		1257063,
+		ident=1257063,
 		group=1257,
 		features=PALETTE|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resTractor"),
@@ -1223,7 +1223,7 @@
 	},
 
 	{
-		1257064,
+		ident=1257064,
 		group=1257,
 		features=PALETTE|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resTractor"),
@@ -1240,7 +1240,7 @@
 	},
 
 	{
-		1257065,
+		ident=1257065,
 		group=1257,
 		features=PALETTE|TRACTOR,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_resTractor"),
@@ -1257,7 +1257,7 @@
 	},
 
 	{
-		1257066,
+		ident=1257066,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Autocannon"),
@@ -1285,7 +1285,7 @@
 	},
 
 	{
-		1257067,
+		ident=1257067,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Autocannon"),
@@ -1314,7 +1314,7 @@
 	},
 
 	{
-		1257068,
+		ident=1257068,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Autocannon"),
@@ -1342,7 +1342,7 @@
 	},
 
 	{
-		1257069,
+		ident=1257069,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Autocannon"),
@@ -1370,7 +1370,7 @@
 	},
 
 	{
-		1257070,
+		ident=1257070,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -1405,7 +1405,7 @@
 	},
 
 	{
-		1257071,
+		ident=1257071,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -1439,7 +1439,7 @@
 	},
 
 	{
-		1257072,
+		ident=1257072,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -1474,7 +1474,7 @@
 	},
 
 	{
-		1257073,
+		ident=1257073,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -1509,7 +1509,7 @@
 	},
 
 	{
-		1257074,
+		ident=1257074,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Flakcannon"),
@@ -1537,7 +1537,7 @@
 	},
 
 	{
-		1257075,
+		ident=1257075,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Flakcannon"),
@@ -1565,7 +1565,7 @@
 	},
 
 	{
-		1257076,
+		ident=1257076,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Flakcannon"),
@@ -1593,7 +1593,7 @@
 	},
 
 	{
-		1257077,
+		ident=1257077,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headBasic")_("_bl")_("_text_LLaser"),
@@ -1617,7 +1617,7 @@
 	},
 
 	{
-		1257078,
+		ident=1257078,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headBasic")_("_bl")_("_text_LLaser"),
@@ -1641,7 +1641,7 @@
 	},
 
 	{
-		1257079,
+		ident=1257079,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headBasic")_("_bl")_("_text_LLaser"),
@@ -1666,7 +1666,7 @@
 	},
 
 	{
-		1257080,
+		ident=1257080,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headBasic")_("_bl")_("_text_LLaser"),
@@ -1691,7 +1691,7 @@
 	},
 
 	{
-		1257081,
+		ident=1257081,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_TractorBeam"),
@@ -1716,7 +1716,7 @@
 	},
 
 	{
-		1257082,
+		ident=1257082,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_TractorBeam"),
@@ -1741,7 +1741,7 @@
 	},
 
 	{
-		1257083,
+		ident=1257083,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_TractorBeam"),
@@ -1766,7 +1766,7 @@
 	},
 
 	{
-		1257084,
+		ident=1257084,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_TractorBeam"),
@@ -1791,7 +1791,7 @@
 	},
 
 	{
-		1257085,
+		ident=1257085,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_ForceBeam"),
@@ -1816,7 +1816,7 @@
 	},
 
 	{
-		1257086,
+		ident=1257086,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_ForceBeam"),
@@ -1841,7 +1841,7 @@
 	},
 
 	{
-		1257087,
+		ident=1257087,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_ForceBeam"),
@@ -1866,7 +1866,7 @@
 	},
 
 	{
-		1257088,
+		ident=1257088,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_ForceBeam"),
@@ -1891,7 +1891,7 @@
 	},
 
 	{
-		1257089,
+		ident=1257089,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_StaticBeam"),
@@ -1916,7 +1916,7 @@
 	},
 
 	{
-		1257090,
+		ident=1257090,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_StaticBeam"),
@@ -1941,7 +1941,7 @@
 	},
 
 	{
-		1257091,
+		ident=1257091,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_StaticBeam"),
@@ -1966,7 +1966,7 @@
 	},
 
 	{
-		1257092,
+		ident=1257092,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_StaticBeam"),
@@ -1991,7 +1991,7 @@
 	},
 
 	{
-		1257093,
+		ident=1257093,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_TractorBeam"),
@@ -2016,7 +2016,7 @@
 	},
 
 	{
-		1257094,
+		ident=1257094,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_TractorBeam"),
@@ -2041,7 +2041,7 @@
 	},
 
 	{
-		1257095,
+		ident=1257095,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_TractorBeam"),
@@ -2066,7 +2066,7 @@
 	},
 
 	{
-		1257096,
+		ident=1257096,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_TractorBeam"),
@@ -2091,7 +2091,7 @@
 	},
 
 	{
-		1257097,
+		ident=1257097,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ForceBeam"),
@@ -2116,7 +2116,7 @@
 	},
 
 	{
-		1257098,
+		ident=1257098,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ForceBeam"),
@@ -2141,7 +2141,7 @@
 	},
 
 	{
-		1257099,
+		ident=1257099,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ForceBeam"),
@@ -2166,7 +2166,7 @@
 	},
 
 	{
-		1257100,
+		ident=1257100,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ForceBeam"),
@@ -2191,7 +2191,7 @@
 	},
 
 	{
-		1257101,
+		ident=1257101,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_StaticBeam"),
@@ -2216,7 +2216,7 @@
 	},
 
 	{
-		1257102,
+		ident=1257102,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_StaticBeam"),
@@ -2241,7 +2241,7 @@
 	},
 
 	{
-		1257103,
+		ident=1257103,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_StaticBeam"),
@@ -2266,7 +2266,7 @@
 	},
 
 	{
-		1257104,
+		ident=1257104,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_StaticBeam"),
@@ -2291,7 +2291,7 @@
 	},
 
 	{
-		1257105,
+		ident=1257105,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -2315,7 +2315,7 @@
 	},
 
 	{
-		1257106,
+		ident=1257106,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -2339,7 +2339,7 @@
 	},
 
 	{
-		1257107,
+		ident=1257107,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -2363,7 +2363,7 @@
 	},
 
 	{
-		1257108,
+		ident=1257108,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Shotgun"),
@@ -2392,7 +2392,7 @@
 	},
 
 	{
-		1257109,
+		ident=1257109,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Shotgun"),
@@ -2421,7 +2421,7 @@
 	},
 
 	{
-		1257110,
+		ident=1257110,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_Shotgun"),
@@ -2450,7 +2450,7 @@
 	},
 
 	{
-		1257111,
+		ident=1257111,
 		group=1257,
 		features=PALETTE|CANNON|CHARGING|TURRET,
 		name=_("_text_Rail"),
@@ -2479,7 +2479,7 @@
 	},
 
 	{
-		1257112,
+		ident=1257112,
 		group=1257,
 		features=PALETTE|CANNON|CHARGING|TURRET,
 		name=_("_text_Rail"),
@@ -2508,7 +2508,7 @@
 	},
 
 	{
-		1257113,
+		ident=1257113,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_Rifle"),
@@ -2540,7 +2540,7 @@
 	},
 
 	{
-		1257114,
+		ident=1257114,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_Rifle"),
@@ -2572,7 +2572,7 @@
 	},
 
 	{
-		1257115,
+		ident=1257115,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_Rifle"),
@@ -2604,7 +2604,7 @@
 	},
 
 	{
-		1257116,
+		ident=1257116,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapismRoyalRifle"),
@@ -2634,7 +2634,7 @@
 	},
 
 	{
-		1257117,
+		ident=1257117,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapismGravitationBeam"),
@@ -2661,7 +2661,7 @@
 	},
 
 	{
-		1257118,
+		ident=1257118,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapismKineticBomb"),
@@ -2687,7 +2687,7 @@
 	},
 
 	{
-		1257119,
+		ident=1257119,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_Smartbomb"),
@@ -2722,7 +2722,7 @@
 	},
 
 	{
-		1257120,
+		ident=1257120,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_Smartbomb"),
@@ -2757,7 +2757,7 @@
 	},
 
 	{
-		1257121,
+		ident=1257121,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_Smartbomb"),
@@ -2792,7 +2792,7 @@
 	},
 
 	{
-		1257122,
+		ident=1257122,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_lapismStrategicSmartbomb"),
@@ -2827,7 +2827,7 @@
 	},
 
 	{
-		1257123,
+		ident=1257123,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_visualLaserSenser"),
@@ -2852,7 +2852,7 @@
 	},
 
 	{
-		1257124,
+		ident=1257124,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_visualLaserSenser"),
@@ -2877,7 +2877,7 @@
 	},
 
 	{
-		1257125,
+		ident=1257125,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_visualLaserSenser"),
@@ -2902,7 +2902,7 @@
 	},
 
 	{
-		1257126,
+		ident=1257126,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_visualLaserSenser"),
@@ -2927,7 +2927,7 @@
 	},
 
 	{
-		1257127,
+		ident=1257127,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_visualLaserSenser"),
@@ -2952,7 +2952,7 @@
 	},
 
 	{
-		1257128,
+		ident=1257128,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_headFriendly")_("_bl")_("_text_visualLaserSenser"),
@@ -2977,7 +2977,7 @@
 	},
 
 	{
-		1257129,
+		ident=1257129,
 		group=1257,
 		features=PALETTE|LASER|TURRET
 		name=_("_text_superLaserSenser"),
@@ -3002,7 +3002,7 @@
 	},
 
 	{
-		1257130,
+		ident=1257130,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_PlasmaCannon"),
@@ -3029,7 +3029,7 @@
 	},
 
 	{
-		1257131,
+		ident=1257131,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_BlizzardLauncher"),
@@ -3181,7 +3181,7 @@
 	},
 
 	{
-		1257132,
+		ident=1257132,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv1"),
@@ -3220,7 +3220,7 @@
 	},
 
 	{
-		1257133,
+		ident=1257133,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv2"),
@@ -3283,7 +3283,7 @@
 	},
 
 	{
-		1257134,
+		ident=1257134,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv3"),
@@ -3369,7 +3369,7 @@
 	},
 
 	{
-		1257135,
+		ident=1257135,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismDmgMod"),
@@ -3397,7 +3397,7 @@
 	},
 
 	{
-		1257136,
+		ident=1257136,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismDmgMod")_("_bl")_("_text_MkII"),
@@ -3425,7 +3425,7 @@
 	},
 
 	{
-		1257137,
+		ident=1257137,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismDmgMod")_("_bl")_("_text_MkIII"),
@@ -3453,7 +3453,7 @@
 	},
 
 	{
-		1257138,
+		ident=1257138,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRngMod"),
@@ -3481,7 +3481,7 @@
 	},
 
 	{
-		1257139,
+		ident=1257139,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRngMod")_("_bl")_("_text_MkII"),
@@ -3509,7 +3509,7 @@
 	},
 
 	{
-		1257140,
+		ident=1257140,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRngMod")_("_bl")_("_text_MkIII"),
@@ -3537,7 +3537,7 @@
 	},
 
 	{
-		1257141,
+		ident=1257141,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismVelMod"),
@@ -3565,7 +3565,7 @@
 	},
 
 	{
-		1257142,
+		ident=1257142,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismVelMod")_("_bl")_("_text_MkII"),
@@ -3593,7 +3593,7 @@
 	},
 
 	{
-		1257143,
+		ident=1257143,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismVelMod")_("_bl")_("_text_MkIII"),
@@ -3621,7 +3621,7 @@
 	},
 
 	{
-		1257144,
+		ident=1257144,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRpsMod"),
@@ -3649,7 +3649,7 @@
 	},
 
 	{
-		1257145,
+		ident=1257145,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRpsMod")_("_bl")_("_text_MkII"),
@@ -3677,7 +3677,7 @@
 	},
 
 	{
-		1257146,
+		ident=1257146,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismRpsMod")_("_bl")_("_text_MkIII"),
@@ -3705,7 +3705,7 @@
 	},
 
 	{
-		1257147,
+		ident=1257147,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismErdMod"),
@@ -3733,7 +3733,7 @@
 	},
 
 	{
-		1257148,
+		ident=1257148,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismErdMod")_("_bl")_("_text_MkII"),
@@ -3761,7 +3761,7 @@
 	},
 
 	{
-		1257149,
+		ident=1257149,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismErdMod")_("_bl")_("_text_MkII"),
@@ -3789,7 +3789,7 @@
 	},
 
 	{
-		1257150,
+		ident=1257150,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismPwrMod"),
@@ -3817,7 +3817,7 @@
 	},
 
 	{
-		1257151,
+		ident=1257151,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismPwrMod")_("_bl")_("_text_MkII"),
@@ -3845,7 +3845,7 @@
 	},
 
 	{
-		1257152,
+		ident=1257152,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismPwrMod")_("_bl")_("_text_MkIII"),
@@ -3873,7 +3873,7 @@
 	},
 
 	{
-		1257153,
+		ident=1257153,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismPwrMod")_("_bl")_("_text_MkIV"),
@@ -3901,7 +3901,7 @@
 	},
 
 	{
-		1257154,
+		ident=1257154,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismPwrMod")_("_bl")_("_text_MkV"),
@@ -3929,7 +3929,7 @@
 	},
 
 	{
-		1257155,
+		ident=1257155,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecShortMod"),
@@ -3959,7 +3959,7 @@
 	},
 
 	{
-		1257156,
+		ident=1257156,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecLightMod"),
@@ -3989,7 +3989,7 @@
 	},
 
 	{
-		1257157,
+		ident=1257157,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecQuickMod"),
@@ -4019,7 +4019,7 @@
 	},
 
 	{
-		1257158,
+		ident=1257158,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecBlastMod"),
@@ -4048,7 +4048,7 @@
 	},
 
 	{
-		1257159,
+		ident=1257159,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecRageMod"),
@@ -4077,7 +4077,7 @@
 	},
 
 	{
-		1257160,
+		ident=1257160,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecOneShotMod"),
@@ -4107,7 +4107,7 @@
 	},
 
 	{
-		1257161,
+		ident=1257161,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_lapismSpecWeakMod"),
@@ -4138,7 +4138,7 @@
 	},
 
 	{
-		1257162,
+		ident=1257162,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_headBasic")_("_bl")_("_text_MissileDroneLauncher"),
@@ -4212,7 +4212,7 @@
 	},
 
 	{
-		1257164,
+		ident=1257164,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_headBasic")_("_bl")_("_text_MissileBattery"),
@@ -4257,7 +4257,7 @@
 	},
 
 	{
-		1257166,
+		ident=1257166,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_headBasic")_("_bl")_("_text_MissileBattery"),
@@ -4302,7 +4302,7 @@
 	},
 
 	{
-		1257168,
+		ident=1257168,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_headBasic")_("_bl")_("_text_MissileBattery"),
@@ -4346,7 +4346,7 @@
 		launcherAngVel=0,
 	},
 	{
-		1257170,
+		ident=1257170,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_FragmentDroneLauncher"),
@@ -4442,7 +4442,7 @@
 	-- },
 
 	{
-		1257172,
+		ident=1257172,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_AntiMissileDroneLauncher"),
@@ -4501,7 +4501,7 @@
 	},
 
 	{
-		1257174,
+		ident=1257174,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismNanobotLauncher"),
@@ -4560,7 +4560,7 @@
 	},
 
 	{
-		1257176,
+		ident=1257176,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismNanobotLauncher"),
@@ -4620,7 +4620,7 @@
 	},
 
 	{
-		1257178,
+		ident=1257178,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismNanobotLauncher"),
@@ -4680,7 +4680,7 @@
 	},
 
 	{
-		1257180,
+		ident=1257180,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_CruiseMissileBattery"),
@@ -4726,7 +4726,7 @@
 	},
 
 	{
-		1257182,
+		ident=1257182,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismAnchorSentryLauncher"),
@@ -4784,7 +4784,7 @@
 	},
 
 	{
-		1257184,
+		ident=1257184,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_launcherPlanter"),
@@ -4805,7 +4805,7 @@
 	},
 
 	{
-		1257185,
+		ident=1257185,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismGuardDroneLauncher"),
@@ -4868,7 +4868,7 @@
 	},
 
 	{
-		1257187,
+		ident=1257187,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismOrbcannonLauncher"),
@@ -4924,7 +4924,7 @@
 	},
 
 	{
-		1257189,
+		ident=1257189,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_ARC-4675Launcher"),
@@ -4980,7 +4980,7 @@
 	},
 
 	{
-		1257190,
+		ident=1257190,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_ARC-4675Launcher"),
@@ -5037,7 +5037,7 @@
 --			explodeDamage=34028235679733642748073463979561713663,
 --			explodeRadius=1288490123265,
 	{
-		1257191,
+		ident=1257191,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_StrategicShieldDisturberLauncher"),
@@ -5196,7 +5196,7 @@
 	},
 
 	{
-		1257193,
+		ident=1257193,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_StructionLauncher"),
@@ -5217,7 +5217,7 @@
 	},
 	
 	{
-		1257194,
+		ident=1257194,
 		group=1257,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockBranch"),
 		blurb=_("_blurb_lapismblockBranch"),
@@ -5233,7 +5233,7 @@
 	},
 	
 	{
-		1257195,
+		ident=1257195,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_DashingTorpedoLauncher"),
@@ -5302,7 +5302,7 @@
 	},
 
 	{
-		1257196,
+		ident=1257196,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_FlatWebCannon"),
@@ -5457,7 +5457,7 @@
 	},
 
 	{
-		1257197,
+		ident=1257197,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5478,7 +5478,7 @@
 	},
 
 	{
-		1257198,
+		ident=1257198,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5499,7 +5499,7 @@
 	},
 
 	{
-		1257199,
+		ident=1257199,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5520,7 +5520,7 @@
 	},
 
 	{
-		1257200,
+		ident=1257200,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5541,7 +5541,7 @@
 	},
 
 	{
-		1257201,
+		ident=1257201,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5562,7 +5562,7 @@
 	},
 
 	{
-		1257202,
+		ident=1257202,
 		group=1257,
 		features=PALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_HeavyThruster"),
@@ -5583,7 +5583,7 @@
 	},
 	
 	{
-		1257203,
+		ident=1257203,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismOrbCannon"),
@@ -5812,7 +5812,7 @@
 	},
 	
 	{
-		1257204,
+		ident=1257204,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismSelfSweepCannon"),
@@ -6219,7 +6219,7 @@
 	-- 靛0x00b0f0
 	-- 紫0x7030a0
 	{
-		1257205,
+		ident=1257205,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_lapismRainbowThrower"),
@@ -6316,7 +6316,7 @@
 	},
 	
 	{
-		1257206,
+		ident=1257206,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismBorealisOuroborosCannon"),
@@ -6738,7 +6738,7 @@
 	},
 
 	{
-		1257900,
+		ident=1257900,
 		group=1257,
 		features=PALETTE|INTLINES,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine"),
@@ -6755,7 +6755,7 @@
 	},
 
 	{
-		1257901,
+		ident=1257901,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -6785,7 +6785,7 @@
 	},
 
 	{
-		1257902,
+		ident=1257902,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -6816,7 +6816,7 @@
 	},
 
 	{
-		1257903,
+		ident=1257903,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
@@ -6847,7 +6847,7 @@
 	},
 
 	{
-		1257904,
+		ident=1257904,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Flakcannon"),
@@ -6878,7 +6878,7 @@
 	},
 
 	{
-		1257905,
+		ident=1257905,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Flakcannon"),
@@ -6909,7 +6909,7 @@
 	},
 
 	{
-		1257906,
+		ident=1257906,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Autocannon"),
@@ -6938,7 +6938,7 @@
 	},
 
 	{
-		1257907,
+		ident=1257907,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Autocannon"),
@@ -6967,7 +6967,7 @@
 	},
 
 	{
-		1257908,
+		ident=1257908,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Autocannon"),
@@ -6996,7 +6996,7 @@
 	},
 
 	{
-		1257909,
+		ident=1257909,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Autocannon"),
@@ -7025,7 +7025,7 @@
 	},
 
 	{
-		1257910,
+		ident=1257910,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Rail"),
@@ -7056,7 +7056,7 @@
 	},
 
 	{
-		1257911,
+		ident=1257911,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_cannonwordPlasma"),
@@ -7087,7 +7087,7 @@
 	},
 
 	{
-		1257912,
+		ident=1257912,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_cannonwordPlasma"),
@@ -7118,7 +7118,7 @@
 	},
 
 	{
-		1257913,
+		ident=1257913,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Smartbomb"),
@@ -7158,7 +7158,7 @@
 	},
 
 	{
-		1257914,
+		ident=1257914,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Shotgun"),
@@ -7188,7 +7188,7 @@
 	},
 
 	{
-		1257915,
+		ident=1257915,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_Shotgun"),
@@ -7218,7 +7218,7 @@
 	},
 
 	{
-		1257916,
+		ident=1257916,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismcannonwordBomber"),
@@ -7249,7 +7249,7 @@
 	},
 
 	{
-		1257917,
+		ident=1257917,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_PDCannon"),
@@ -7281,7 +7281,7 @@
 	},
 
 	{
-		1257918,
+		ident=1257918,
 		group=1257,
 		features=PALETTE|AUTOFIRE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_PDLaser"),
@@ -7308,7 +7308,7 @@
 	},
 
 	{
-		1257919,
+		ident=1257919,
 		group=1257,
 		features=PALETTE|AUTOFIRE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_PDLaser"),
@@ -7335,7 +7335,7 @@
 	},
 
 	{
-		1257920,
+		ident=1257920,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_LLaser"),
@@ -7362,7 +7362,7 @@
 	},
 
 	{
-		1257921,
+		ident=1257921,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_LLaser"),
@@ -7389,7 +7389,7 @@
 	},
 
 	{
-		1257922,
+		ident=1257922,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_LLaser"),
@@ -7416,7 +7416,7 @@
 	},
 
 	{
-		1257923,
+		ident=1257923,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismKiteLaser"),
@@ -7444,7 +7444,7 @@
 	},
 
 	{
-		1257924,
+		ident=1257924,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismKiteLaser"),
@@ -7473,7 +7473,7 @@
 	},
 
 	{
-		1257925,
+		ident=1257925,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -7500,7 +7500,7 @@
 	},
 
 	{
-		1257926,
+		ident=1257926,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -7527,7 +7527,7 @@
 	},
 
 	{
-		1257927,
+		ident=1257927,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
@@ -7554,7 +7554,7 @@
 	},
 
 	{
-		1257928,
+		ident=1257928,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_TractorBeam"),
@@ -7582,7 +7582,7 @@
 	},
 
 	{
-		1257929,
+		ident=1257929,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_ForceBeam"),
@@ -7610,7 +7610,7 @@
 	},
 
 	{
-		1257930,
+		ident=1257930,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_StaticBeam"),
@@ -7638,7 +7638,7 @@
 	},
 
 	{
-		1257931,
+		ident=1257931,
 		group=1257,
 		features=PALETTE|CHARGING|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismBomberLaser"),
@@ -7666,7 +7666,7 @@
 	},
 
 	{
-		1257932,
+		ident=1257932,
 		group=1257,
 		features=PALETTE|CHARGING|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismDoomsdayBeam"),
@@ -7695,7 +7695,7 @@
 	},
 	
 	{
-		1257933,
+		ident=1257933,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismSpecMergeMod"),
@@ -7724,7 +7724,7 @@
 	},
 	
 	{
-		1257934,
+		ident=1257934,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismSpecEnduranceMod"),
@@ -7753,7 +7753,7 @@
 	},
 	
 	{
-		1257935,
+		ident=1257935,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismSpecTurnMod"),
@@ -7782,7 +7782,7 @@
 	},
 	
 	{
-		1257936,
+		ident=1257936,
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_AncientTech")_("_bl")_("_text_Thruster"),
@@ -7804,7 +7804,7 @@
 	},
 	
 	{
-		1258000,
+		ident=1258000,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|ASSEMBLER|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
@@ -7839,7 +7839,7 @@
 	},
 
 	{
-		1258003,
+		ident=1258003,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7857,7 +7857,7 @@
 	},
 
 	{
-		1258004,
+		ident=1258004,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7875,7 +7875,7 @@
 	},
 
 	{
-		1258005,
+		ident=1258005,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7893,7 +7893,7 @@
 	},
 
 	{
-		1258006,
+		ident=1258006,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7911,7 +7911,7 @@
 	},
 
 	{
-		1258007,
+		ident=1258007,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7929,7 +7929,7 @@
 	},
 
 	{
-		1258008,
+		ident=1258008,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -7947,7 +7947,7 @@
 	},
 
 	{
-		1258009,
+		ident=1258009,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|FACTORY,
@@ -7965,7 +7965,7 @@
 	},
 
 	{
-		1258010,
+		ident=1258010,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|FACTORY,
@@ -7983,7 +7983,7 @@
 	},
 
 	{
-		1258011,
+		ident=1258011,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|FACTORY,
@@ -8001,7 +8001,7 @@
 	},
 
 	{
-		1258012,
+		ident=1258012,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8020,7 +8020,7 @@
 	},
 
 	{
-		1258013,
+		ident=1258013,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8039,7 +8039,7 @@
 	},
 
 	{
-		1258014,
+		ident=1258014,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8058,7 +8058,7 @@
 	},
 
 	{
-		1258015,
+		ident=1258015,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8077,7 +8077,7 @@
 	},
 
 	{
-		1258016,
+		ident=1258016,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8096,7 +8096,7 @@
 	},
 
 	{
-		1258017,
+		ident=1258017,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE,
@@ -8115,7 +8115,7 @@
 	},
 
 	{
-		1258018,
+		ident=1258018,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
@@ -8135,7 +8135,7 @@
 	},
 
 	{
-		1258019,
+		ident=1258019,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
@@ -8155,7 +8155,7 @@
 	},
 
 	{
-		1258020,
+		ident=1258020,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
@@ -8175,7 +8175,7 @@
 	},
 
 	{
-		1258021,
+		ident=1258021,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|MELEE,
@@ -8195,7 +8195,7 @@
 	},
 
 	{
-		1258022,
+		ident=1258022,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|MELEE,
@@ -8215,7 +8215,7 @@
 	},
 
 	{
-		1258023,
+		ident=1258023,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|MELEE,
@@ -8235,7 +8235,7 @@
 	},
 
 	{
-		1258024,
+		ident=1258024,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8255,7 +8255,7 @@
 	},
 
 	{
-		1258025,
+		ident=1258025,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8275,7 +8275,7 @@
 	},
 
 	{
-		1258026,
+		ident=1258026,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8295,7 +8295,7 @@
 	},
 
 	{
-		1258027,
+		ident=1258027,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8315,7 +8315,7 @@
 	},
 
 	{
-		1258028,
+		ident=1258028,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8335,7 +8335,7 @@
 	},
 
 	{
-		1258029,
+		ident=1258029,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INVISIBLE,
@@ -8355,7 +8355,7 @@
 	},
 
 	{
-		1258030,
+		ident=1258030,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8373,7 +8373,7 @@
 	},
 
 	{
-		1258031,
+		ident=1258031,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8391,7 +8391,7 @@
 	},
 
 	{
-		1258032,
+		ident=1258032,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8426,7 +8426,7 @@
 	-- },
 
 	{
-		1258034,
+		ident=1258034,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8444,7 +8444,7 @@
 	},
 
 	{
-		1258035,
+		ident=1258035,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8462,7 +8462,7 @@
 	},
 
 	{
-		1258036,
+		ident=1258036,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8480,7 +8480,7 @@
 	},
 
 	{
-		1258037,
+		ident=1258037,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|ENVIRONMENTAL,
@@ -8499,7 +8499,7 @@
 	},
 
 	{
-		1258038,
+		ident=1258038,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INTLINES,
@@ -8517,7 +8517,7 @@
 	},
 
 	{
-		1258039,
+		ident=1258039,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|SHIELD,
@@ -8543,7 +8543,7 @@
 	},
 
 	{
-		1258040,
+		ident=1258040,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|SHIELD,
@@ -8569,7 +8569,7 @@
 	},
 
 	{
-		1258041,
+		ident=1258041,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|SHIELD,
@@ -8595,7 +8595,7 @@
 	},
 
 	{
-		1258042,
+		ident=1258042,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|SHIELD,
@@ -8621,7 +8621,7 @@
 	},
 
 	{
-		1258043,
+		ident=1258043,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8640,7 +8640,7 @@
 	},
 
 	{
-		1258044,
+		ident=1258044,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8659,7 +8659,7 @@
 	},
 
 	{
-		1258045,
+		ident=1258045,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8678,7 +8678,7 @@
 	},
 
 	{
-		1258046,
+		ident=1258046,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8697,7 +8697,7 @@
 	},
 
 	{
-		1258047,
+		ident=1258047,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8716,7 +8716,7 @@
 	},
 
 	{
-		1258048,
+		ident=1258048,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|GENERATOR,
@@ -8735,7 +8735,7 @@
 	},
 
 	{
-		1258049,
+		ident=1258049,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|PHOTOSYNTH,
@@ -8753,7 +8753,7 @@
 	},
 
 	{
-		1258050,
+		ident=1258050,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|PHOTOSYNTH,
@@ -8771,7 +8771,7 @@
 	},
 
 	{
-		1258051,
+		ident=1258051,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|PHOTOSYNTH,
@@ -8789,7 +8789,7 @@
 	},
 
 	{
-		1258052,
+		ident=1258052,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8811,7 +8811,7 @@
 	},
 
 	{
-		1258053,
+		ident=1258053,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8833,7 +8833,7 @@
 	},
 
 	{
-		1258054,
+		ident=1258054,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8855,7 +8855,7 @@
 	},
 
 	{
-		1258055,
+		ident=1258055,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8877,7 +8877,7 @@
 	},
 
 	{
-		1258056,
+		ident=1258056,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8899,7 +8899,7 @@
 	},
 
 	{
-		1258057,
+		ident=1258057,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -8921,7 +8921,7 @@
 	},
 
 	{
-		1258058,
+		ident=1258058,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TORQUER,
@@ -8939,7 +8939,7 @@
 	},
 
 	{
-		1258059,
+		ident=1258059,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TORQUER,
@@ -8957,7 +8957,7 @@
 	},
 
 	{
-		1258060,
+		ident=1258060,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TORQUER,
@@ -8975,7 +8975,7 @@
 	},
 
 	{
-		1258061,
+		ident=1258061,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TORQUER,
@@ -8993,7 +8993,7 @@
 	},
 
 	{
-		1258062,
+		ident=1258062,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TRACTOR,
@@ -9011,7 +9011,7 @@
 	},
 
 	{
-		1258063,
+		ident=1258063,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TRACTOR,
@@ -9029,7 +9029,7 @@
 	},
 
 	{
-		1258064,
+		ident=1258064,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TRACTOR,
@@ -9047,7 +9047,7 @@
 	},
 
 	{
-		1258065,
+		ident=1258065,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|TRACTOR,
@@ -9065,7 +9065,7 @@
 	},
 
 	{
-		1258066,
+		ident=1258066,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9096,7 +9096,7 @@
 	},
 
 	{
-		1258067,
+		ident=1258067,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9128,7 +9128,7 @@
 	},
 
 	{
-		1258068,
+		ident=1258068,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9159,7 +9159,7 @@
 	},
 
 	{
-		1258069,
+		ident=1258069,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9190,7 +9190,7 @@
 	},
 
 	{
-		1258070,
+		ident=1258070,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9230,7 +9230,7 @@
 	},
 
 	{
-		1258071,
+		ident=1258071,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9269,7 +9269,7 @@
 	},
 
 	{
-		1258072,
+		ident=1258072,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9309,7 +9309,7 @@
 	},
 
 	{
-		1258073,
+		ident=1258073,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9349,7 +9349,7 @@
 	},
 
 	{
-		1258074,
+		ident=1258074,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9380,7 +9380,7 @@
 	},
 
 	{
-		1258075,
+		ident=1258075,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9411,7 +9411,7 @@
 	},
 
 	{
-		1258076,
+		ident=1258076,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -9442,7 +9442,7 @@
 	},
 
 	{
-		1258077,
+		ident=1258077,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9469,7 +9469,7 @@
 	},
 
 	{
-		1258078,
+		ident=1258078,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9496,7 +9496,7 @@
 	},
 
 	{
-		1258079,
+		ident=1258079,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9524,7 +9524,7 @@
 	},
 
 	{
-		1258080,
+		ident=1258080,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9552,7 +9552,7 @@
 	},
 
 	{
-		1258081,
+		ident=1258081,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9580,7 +9580,7 @@
 	},
 
 	{
-		1258082,
+		ident=1258082,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9608,7 +9608,7 @@
 	},
 
 	{
-		1258083,
+		ident=1258083,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9636,7 +9636,7 @@
 	},
 
 	{
-		1258084,
+		ident=1258084,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9664,7 +9664,7 @@
 	},
 
 	{
-		1258085,
+		ident=1258085,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9692,7 +9692,7 @@
 	},
 
 	{
-		1258086,
+		ident=1258086,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9720,7 +9720,7 @@
 	},
 
 	{
-		1258087,
+		ident=1258087,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9748,7 +9748,7 @@
 	},
 
 	{
-		1258088,
+		ident=1258088,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9776,7 +9776,7 @@
 	},
 
 	{
-		1258089,
+		ident=1258089,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9804,7 +9804,7 @@
 	},
 
 	{
-		1258090,
+		ident=1258090,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9832,7 +9832,7 @@
 	},
 
 	{
-		1258091,
+		ident=1258091,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9860,7 +9860,7 @@
 	},
 
 	{
-		1258092,
+		ident=1258092,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9888,7 +9888,7 @@
 	},
 
 	{
-		1258093,
+		ident=1258093,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9916,7 +9916,7 @@
 	},
 
 	{
-		1258094,
+		ident=1258094,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9944,7 +9944,7 @@
 	},
 
 	{
-		1258095,
+		ident=1258095,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -9972,7 +9972,7 @@
 	},
 
 	{
-		1258096,
+		ident=1258096,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10000,7 +10000,7 @@
 	},
 
 	{
-		1258097,
+		ident=1258097,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10028,7 +10028,7 @@
 	},
 
 	{
-		1258098,
+		ident=1258098,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10056,7 +10056,7 @@
 	},
 
 	{
-		1258099,
+		ident=1258099,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10084,7 +10084,7 @@
 	},
 
 	{
-		1258100,
+		ident=1258100,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10112,7 +10112,7 @@
 	},
 
 	{
-		1258101,
+		ident=1258101,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10140,7 +10140,7 @@
 	},
 
 	{
-		1258102,
+		ident=1258102,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10168,7 +10168,7 @@
 	},
 
 	{
-		1258103,
+		ident=1258103,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10196,7 +10196,7 @@
 	},
 
 	{
-		1258104,
+		ident=1258104,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10224,7 +10224,7 @@
 	},
 
 	{
-		1258105,
+		ident=1258105,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10251,7 +10251,7 @@
 	},
 
 	{
-		1258106,
+		ident=1258106,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10278,7 +10278,7 @@
 	},
 
 	{
-		1258107,
+		ident=1258107,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10305,7 +10305,7 @@
 	},
 
 	{
-		1258108,
+		ident=1258108,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -10337,7 +10337,7 @@
 	},
 
 	{
-		1258109,
+		ident=1258109,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -10369,7 +10369,7 @@
 	},
 
 	{
-		1258110,
+		ident=1258110,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -10401,7 +10401,7 @@
 	},
 
 	{
-		1258111,
+		ident=1258111,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|CHARGING|TURRET,
@@ -10433,7 +10433,7 @@
 	},
 
 	{
-		1258112,
+		ident=1258112,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|CHARGING|TURRET,
@@ -10465,7 +10465,7 @@
 	},
 
 	{
-		1258113,
+		ident=1258113,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10500,7 +10500,7 @@
 	},
 
 	{
-		1258114,
+		ident=1258114,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10535,7 +10535,7 @@
 	},
 
 	{
-		1258115,
+		ident=1258115,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10570,7 +10570,7 @@
 	},
 
 	{
-		1258116,
+		ident=1258116,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10603,7 +10603,7 @@
 	},
 
 	{
-		1258117,
+		ident=1258117,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10633,7 +10633,7 @@
 	},
 
 	{
-		1258118,
+		ident=1258118,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10662,7 +10662,7 @@
 	},
 
 	{
-		1258119,
+		ident=1258119,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -10702,7 +10702,7 @@
 	},
 
 	{
-		1258120,
+		ident=1258120,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -10742,7 +10742,7 @@
 	},
 
 	{
-		1258121,
+		ident=1258121,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -10782,7 +10782,7 @@
 	},
 
 	{
-		1258122,
+		ident=1258122,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -10822,7 +10822,7 @@
 	},
 
 	{
-		1258123,
+		ident=1258123,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10850,7 +10850,7 @@
 	},
 
 	{
-		1258124,
+		ident=1258124,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10878,7 +10878,7 @@
 	},
 
 	{
-		1258125,
+		ident=1258125,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10906,7 +10906,7 @@
 	},
 
 	{
-		1258126,
+		ident=1258126,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10934,7 +10934,7 @@
 	},
 
 	{
-		1258127,
+		ident=1258127,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10962,7 +10962,7 @@
 	},
 
 	{
-		1258128,
+		ident=1258128,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -10990,7 +10990,7 @@
 	},
 
 	{
-		1258129,
+		ident=1258129,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -11018,7 +11018,7 @@
 	},
 
 	{
-		1258130,
+		ident=1258130,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -11048,7 +11048,7 @@
 	},
 
 	{
-		1258131,
+		ident=1258131,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -11227,7 +11227,7 @@
 	},
 
 	{
-		1258132,
+		ident=1258132,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -11271,7 +11271,7 @@
 	},
 
 	{
-		1258133,
+		ident=1258133,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -11343,7 +11343,7 @@
 	},
 
 	{
-		1258134,
+		ident=1258134,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -11442,7 +11442,7 @@
 	},
 
 	{
-		1258135,
+		ident=1258135,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11473,7 +11473,7 @@
 	},
 
 	{
-		1258136,
+		ident=1258136,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11504,7 +11504,7 @@
 	},
 
 	{
-		1258137,
+		ident=1258137,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11535,7 +11535,7 @@
 	},
 
 	{
-		1258138,
+		ident=1258138,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11566,7 +11566,7 @@
 	},
 
 	{
-		1258139,
+		ident=1258139,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11597,7 +11597,7 @@
 	},
 
 	{
-		1258140,
+		ident=1258140,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11628,7 +11628,7 @@
 	},
 
 	{
-		1258141,
+		ident=1258141,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11659,7 +11659,7 @@
 	},
 
 	{
-		1258142,
+		ident=1258142,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11690,7 +11690,7 @@
 	},
 
 	{
-		1258143,
+		ident=1258143,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11721,7 +11721,7 @@
 	},
 
 	{
-		1258144,
+		ident=1258144,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11752,7 +11752,7 @@
 	},
 
 	{
-		1258145,
+		ident=1258145,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11783,7 +11783,7 @@
 	},
 
 	{
-		1258146,
+		ident=1258146,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11814,7 +11814,7 @@
 	},
 
 	{
-		1258147,
+		ident=1258147,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11845,7 +11845,7 @@
 	},
 
 	{
-		1258148,
+		ident=1258148,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11876,7 +11876,7 @@
 	},
 
 	{
-		1258149,
+		ident=1258149,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11907,7 +11907,7 @@
 	},
 
 	{
-		1258150,
+		ident=1258150,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11938,7 +11938,7 @@
 	},
 
 	{
-		1258151,
+		ident=1258151,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -11969,7 +11969,7 @@
 	},
 
 	{
-		1258152,
+		ident=1258152,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12000,7 +12000,7 @@
 	},
 
 	{
-		1258153,
+		ident=1258153,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12031,7 +12031,7 @@
 	},
 
 	{
-		1258154,
+		ident=1258154,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12062,7 +12062,7 @@
 	},
 
 	{
-		1258155,
+		ident=1258155,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12095,7 +12095,7 @@
 	},
 
 	{
-		1258156,
+		ident=1258156,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12128,7 +12128,7 @@
 	},
 
 	{
-		1258157,
+		ident=1258157,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12161,7 +12161,7 @@
 	},
 
 	{
-		1258158,
+		ident=1258158,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12193,7 +12193,7 @@
 	},
 
 	{
-		1258159,
+		ident=1258159,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12225,7 +12225,7 @@
 	},
 
 	{
-		1258160,
+		ident=1258160,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12258,7 +12258,7 @@
 	},
 
 	{
-		1258161,
+		ident=1258161,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -12292,7 +12292,7 @@
 	},
 
 	{
-		1258162,
+		ident=1258162,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12367,7 +12367,7 @@
 	},
 
 	{
-		1258164,
+		ident=1258164,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER|LAUNCHER_BARRAGE,
@@ -12413,7 +12413,7 @@
 	},
 
 	{
-		1258166,
+		ident=1258166,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER|LAUNCHER_BARRAGE,
@@ -12459,7 +12459,7 @@
 	},
 
 	{
-		1258168,
+		ident=1258168,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER|LAUNCHER_BARRAGE,
@@ -12504,7 +12504,7 @@
 		launcherAngVel=0,
 	},
 	{
-		1258170,
+		ident=1258170,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12604,7 +12604,7 @@
 	-- },
 
 	{
-		1258172,
+		ident=1258172,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12666,7 +12666,7 @@
 	},
 
 	{
-		1258174,
+		ident=1258174,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12728,7 +12728,7 @@
 	},
 
 	{
-		1258176,
+		ident=1258176,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12792,7 +12792,7 @@
 	},
 
 	{
-		1258178,
+		ident=1258178,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12856,7 +12856,7 @@
 	},
 
 	{
-		1258180,
+		ident=1258180,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12903,7 +12903,7 @@
 	},
 
 	{
-		1258182,
+		ident=1258182,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12964,7 +12964,7 @@
 	},
 
 	{
-		1258184,
+		ident=1258184,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -12986,7 +12986,7 @@
 	},
 
 	{
-		1258185,
+		ident=1258185,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13053,7 +13053,7 @@
 	},
 
 	{
-		1258187,
+		ident=1258187,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13113,7 +13113,7 @@
 	},
 
 	{
-		1258189,
+		ident=1258189,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13173,7 +13173,7 @@
 	},
 
 	{
-		1258190,
+		ident=1258190,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13232,7 +13232,7 @@
 	},
 
 	{
-		1258191,
+		ident=1258191,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13420,7 +13420,7 @@
 	-- },
 	
 	{
-		1258193,
+		ident=1258193,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13442,7 +13442,7 @@
 	},
 	
 	{
-		1258195,
+		ident=1258195,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
@@ -13516,7 +13516,7 @@
 	},
 
 	{
-		1258196,
+		ident=1258196,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -13700,7 +13700,7 @@
 	},
 
 	{
-		1258197,
+		ident=1258197,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13722,7 +13722,7 @@
 	},
 
 	{
-		1258198,
+		ident=1258198,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13744,7 +13744,7 @@
 	},
 
 	{
-		1258199,
+		ident=1258199,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13766,7 +13766,7 @@
 	},
 
 	{
-		1258200,
+		ident=1258200,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13788,7 +13788,7 @@
 	},
 
 	{
-		1258201,
+		ident=1258201,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13810,7 +13810,7 @@
 	},
 
 	{
-		1258202,
+		ident=1258202,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER|LAUNCHER|NEVERFIRE,
@@ -13832,7 +13832,7 @@
 	},
 	
 	{
-		1258203,
+		ident=1258203,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -14102,7 +14102,7 @@
 	},
 	
 	{
-		1258204,
+		ident=1258204,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -14586,7 +14586,7 @@
 	-- 靛0x00b0f0
 	-- 紫0x7030a0
 	{
-		1258205,
+		ident=1258205,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -14700,7 +14700,7 @@
 	},
 	
 	{
-		1258206,
+		ident=1258206,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -15203,7 +15203,7 @@
 	},
 	
 	{
-		1258900,
+		ident=1258900,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|INTLINES,
@@ -15221,7 +15221,7 @@
 	},
 
 	{
-		1258901,
+		ident=1258901,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15254,7 +15254,7 @@
 	},
 
 	{
-		1258902,
+		ident=1258902,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15288,7 +15288,7 @@
 	},
 
 	{
-		1258903,
+		ident=1258903,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15322,7 +15322,7 @@
 	},
 
 	{
-		1258904,
+		ident=1258904,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15356,7 +15356,7 @@
 	},
 
 	{
-		1258905,
+		ident=1258905,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15390,7 +15390,7 @@
 	},
 
 	{
-		1258906,
+		ident=1258906,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15422,7 +15422,7 @@
 	},
 
 	{
-		1258907,
+		ident=1258907,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15454,7 +15454,7 @@
 	},
 
 	{
-		1258908,
+		ident=1258908,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15486,7 +15486,7 @@
 	},
 
 	{
-		1258909,
+		ident=1258909,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15518,7 +15518,7 @@
 	},
 
 	{
-		1258910,
+		ident=1258910,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15552,7 +15552,7 @@
 	},
 
 	{
-		1258911,
+		ident=1258911,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15586,7 +15586,7 @@
 	},
 
 	{
-		1258912,
+		ident=1258912,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15620,7 +15620,7 @@
 	},
 
 	{
-		1258913,
+		ident=1258913,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|LASER|TURRET,
@@ -15665,7 +15665,7 @@
 	},
 
 	{
-		1258914,
+		ident=1258914,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15698,7 +15698,7 @@
 	},
 
 	{
-		1258915,
+		ident=1258915,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15731,7 +15731,7 @@
 	},
 
 	{
-		1258916,
+		ident=1258916,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CANNON|TURRET,
@@ -15765,7 +15765,7 @@
 	},
 
 	{
-		1258917,
+		ident=1258917,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON|TURRET,
@@ -15800,7 +15800,7 @@
 	},
 
 	{
-		1258918,
+		ident=1258918,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|LASER|TURRET,
@@ -15830,7 +15830,7 @@
 	},
 
 	{
-		1258919,
+		ident=1258919,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|LASER|TURRET,
@@ -15860,7 +15860,7 @@
 	},
 
 	{
-		1258920,
+		ident=1258920,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -15890,7 +15890,7 @@
 	},
 
 	{
-		1258921,
+		ident=1258921,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -15920,7 +15920,7 @@
 	},
 
 	{
-		1258922,
+		ident=1258922,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -15950,7 +15950,7 @@
 	},
 
 	{
-		1258923,
+		ident=1258923,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -15981,7 +15981,7 @@
 	},
 
 	{
-		1258924,
+		ident=1258924,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16013,7 +16013,7 @@
 	},
 
 	{
-		1258925,
+		ident=1258925,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16043,7 +16043,7 @@
 	},
 
 	{
-		1258926,
+		ident=1258926,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16073,7 +16073,7 @@
 	},
 
 	{
-		1258927,
+		ident=1258927,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16103,7 +16103,7 @@
 	},
 
 	{
-		1258928,
+		ident=1258928,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16134,7 +16134,7 @@
 	},
 
 	{
-		1258929,
+		ident=1258929,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16165,7 +16165,7 @@
 	},
 
 	{
-		1258930,
+		ident=1258930,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
@@ -16196,7 +16196,7 @@
 	},
 
 	{
-		1258931,
+		ident=1258931,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CHARGING|LASER|TURRET,
@@ -16228,7 +16228,7 @@
 	},
 
 	{
-		1258932,
+		ident=1258932,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|CHARGING|LASER|TURRET,
@@ -16260,7 +16260,7 @@
 	},
 	
 	{
-		1258933,
+		ident=1258933,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -16292,7 +16292,7 @@
 	},
 	
 	{
-		1258934,
+		ident=1258934,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -16324,7 +16324,7 @@
 	},
 	
 	{
-		1258935,
+		ident=1258935,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
@@ -16356,7 +16356,7 @@
 	},
 	
 	{
-		1258936,
+		ident=1258936,
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|THRUSTER,
@@ -16400,7 +16400,7 @@
 	-- },
 	
 	{
-		1258999,
+		ident=1258999,
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapismDecoyGenerator"),
@@ -16421,7 +16421,7 @@
 	},
 	
 	{
-		1880000,
+		ident=1880000,
 		group=1880,
 		features=ASSEMBLER|CANNON|COMMAND|MELEE|GENERATOR|SELFFACTORY|SHIELD|TELEPORTER|THRUSTER|TORQUER|TRACTOR|TURRET,
 		name=_("_text_PhageCore"),
@@ -16537,7 +16537,7 @@
 	},
 
 	{
-		1880001,
+		ident=1880001,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_phageHull"),
@@ -16557,7 +16557,7 @@
 	},
 
 	{
-		1880002,
+		ident=1880002,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_phageHull"),
@@ -16577,7 +16577,7 @@
 	},
 
 	{
-		1880003,
+		ident=1880003,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|MELEE|THRUSTER,
 		name=_("_text_Thruster"),
@@ -16602,7 +16602,7 @@
 	},
 
 	{
-		1880004,
+		ident=1880004,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|MELEE|THRUSTER,
 		name=_("_text_Thruster"),
@@ -16628,7 +16628,7 @@
 	},
 
 	{
-		1880005,
+		ident=1880005,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|MELEE|THRUSTER,
 		name=_("_text_Thruster"),
@@ -16654,7 +16654,7 @@
 	},
 
 	{
-		1880006,
+		ident=1880006,
 		group=1880,
 		features=NOPALETTE|CANNON_BOOST|MELEE|FACTORY|PHOTOSYNTH|TRACTOR,
 		name=_("_text_Factory"),
@@ -16676,7 +16676,7 @@
 	},
 
 	{
-		1880007,
+		ident=1880007,
 		group=1880,
 		features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
 		name=_("_text_CacheGenerator"),
@@ -16712,7 +16712,7 @@
 	},
 
 	{
-		1880008,
+		ident=1880008,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkI"),
@@ -16750,7 +16750,7 @@
 	},
 
 	{
-		1880009,
+		ident=1880009,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkII"),
@@ -16788,7 +16788,7 @@
 	},
 
 	{
-		1880010,
+		ident=1880010,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIII"),
@@ -16826,7 +16826,7 @@
 	},
 
 	{
-		1880011,
+		ident=1880011,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIV"),
@@ -16864,7 +16864,7 @@
 	},
 
 	{
-		1880012,
+		ident=1880012,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkV"),
@@ -16902,7 +16902,7 @@
 	},
 
 	{
-		1880013,
+		ident=1880013,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkI"),
@@ -16940,7 +16940,7 @@
 	},
 
 	{
-		1880014,
+		ident=1880014,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkII"),
@@ -16978,7 +16978,7 @@
 	},
 
 	{
-		1880015,
+		ident=1880015,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIII"),
@@ -17016,7 +17016,7 @@
 	},
 
 	{
-		1880016,
+		ident=1880016,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIV"),
@@ -17054,7 +17054,7 @@
 	},
 
 	{
-		1880017,
+		ident=1880017,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkV"),
@@ -17092,7 +17092,7 @@
 	},
 
 	{
-		1880018,
+		ident=1880018,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkI"),
@@ -17130,7 +17130,7 @@
 	},
 
 	{
-		1880019,
+		ident=1880019,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkII"),
@@ -17168,7 +17168,7 @@
 	},
 
 	{
-		1880020,
+		ident=1880020,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIII"),
@@ -17206,7 +17206,7 @@
 	},
 
 	{
-		1880021,
+		ident=1880021,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIV"),
@@ -17244,7 +17244,7 @@
 	},
 
 	{
-		1880022,
+		ident=1880022,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkV"),
@@ -17282,7 +17282,7 @@
 	},
 
 	{
-		1880023,
+		ident=1880023,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRpsBooster")_("_bl")_("_text_MkI"),
@@ -17320,7 +17320,7 @@
 	},
 
 	{
-		1880024,
+		ident=1880024,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRpsBooster")_("_bl")_("_text_MkII"),
@@ -17358,7 +17358,7 @@
 	},
 
 	{
-		1880025,
+		ident=1880025,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRpsBooster")_("_bl")_("_text_MkIII"),
@@ -17396,7 +17396,7 @@
 	},
 
 	{
-		1880026,
+		ident=1880026,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRpsBooster")_("_bl")_("_text_MkIV"),
@@ -17434,7 +17434,7 @@
 	},
 
 	{
-		1880027,
+		ident=1880027,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageRpsBooster")_("_bl")_("_text_MkV"),
@@ -17472,7 +17472,7 @@
 	},
 
 	{
-		1880028,
+		ident=1880028,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkI"),
@@ -17510,7 +17510,7 @@
 	},
 
 	{
-		1880029,
+		ident=1880029,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkII"),
@@ -17548,7 +17548,7 @@
 	},
 
 	{
-		1880030,
+		ident=1880030,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIII"),
@@ -17586,7 +17586,7 @@
 	},
 
 	{
-		1880031,
+		ident=1880031,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIV"),
@@ -17624,7 +17624,7 @@
 	},
 
 	{
-		1880032,
+		ident=1880032,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkV"),
@@ -17662,7 +17662,7 @@
 	},
 	
 	{
-		1881000,
+		ident=1881000,
 		group=1881,
 		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SELFFACTORY|THRUSTER|TORQUER|TRACTOR,
 		name=_("_text_NullsetterCommand"),
@@ -17702,7 +17702,7 @@
 	},
 
 	{
-		1881001,
+		ident=1881001,
 		group=1881,
 		features=PALETTE|MELEE,
 		name=_("_text_NullsetterHull"),
@@ -17720,7 +17720,7 @@
 	},
 
 	{
-		1881002,
+		ident=1881002,
 		group=1881,
 		features=PALETTE|LAUNCHER|MELEE|THRUSTER|TORQUER|NEVERFIRE,
 		name=_("_text_NullsetterThruster"),
@@ -17745,7 +17745,7 @@
 	},
 
 	{
-		1881003,
+		ident=1881003,
 		group=1881,
 		features=PALETTE|AUTOFIRE|LASER|MELEE|TURRET,
 		name=_("_text_NullsetterLaser"),
