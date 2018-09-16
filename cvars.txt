@@ -16,7 +16,7 @@
  kUpgradeDecryptTime = 0.05
  kUpgradePCostC = 2
  kUpgradePCostR = 0
- kUpgradePStepFrac = 0.004987562112089027021926491276
+ kUpgradePStepFrac = 0.1
  kStationActivateC = 1000
  kStationLiberateC = 2000
  kTargetDestoryC = 1000
