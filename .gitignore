@@ -8,4 +8,5 @@ Release
 
 *.user
 
-win32/ReassemblyDe*
+magnuassembly
+magnuassembly.sln
