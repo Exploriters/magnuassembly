@@ -61,7 +61,7 @@
 	},
 
 	1243 = {
-		name=_("_text_faction_Outlaw"),-- BeetSys
+		name=_("_text_faction_Outlaw"),-- Bootten
 		playable=1,
 		start="1243_Interpreter",
 		primaries=3,
