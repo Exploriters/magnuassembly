@@ -5052,7 +5052,7 @@
 		growRate=5,
 		replicateBlock={
 			group=1257,
-			features=COMMAND|INVISIBLE|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+			features=COMMAND|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 			name=_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
@@ -5070,7 +5070,7 @@
 			explodeRadius=13e11,
 			replicateBlock={
 				group=1257,
-				features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 				name=_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
@@ -5088,7 +5088,7 @@
 				explodeRadius=13e11,
 				replicateBlock={
 					group=1257,
-					features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 					name=_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
@@ -5106,7 +5106,7 @@
 					explodeRadius=13e11,
 					replicateBlock={
 						group=1257,
-						features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 						name=_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
@@ -5124,7 +5124,7 @@
 						explodeRadius=13e11,
 						replicateBlock={
 							group=1257,
-							features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 							name=_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
@@ -5143,7 +5143,7 @@
 							
 							replicateBlock={
 								group=1257,
-								features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 								name=_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
@@ -13248,7 +13248,7 @@
 		growRate=inf,
 		replicateBlock={
 			group=1257,
-			features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+			features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 			name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
@@ -13267,7 +13267,7 @@
 			explodeRadius=0,
 			replicateBlock={
 				group=1257,
-				features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+				features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 				name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
@@ -13286,7 +13286,7 @@
 				explodeRadius=0,
 				replicateBlock={
 					group=1257,
-					features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+					features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 					name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
@@ -13305,7 +13305,7 @@
 					explodeRadius=0,
 					replicateBlock={
 						group=1257,
-						features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+						features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 						name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
@@ -13324,7 +13324,7 @@
 						explodeRadius=0,
 						replicateBlock={
 							group=1257,
-							features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+							features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 							name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
@@ -13344,7 +13344,7 @@
 							
 							replicateBlock={
 								group=1257,
-								features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+								features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 								name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
