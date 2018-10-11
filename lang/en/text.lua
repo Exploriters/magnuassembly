@@ -87,7 +87,7 @@
 	
 	"_text_Autocannon"="Autocannon",
 	"_text_Phaser"="Phaser",
-	"_text_Flakcannon"="自动引信炮",
+	"_text_Flakcannon"="Flakcannon",
 	"_text_TractorBeam"="Tractor Beam",
 	"_text_ForceBeam"="Force Beam",
 	"_text_StaticBeam"="Static Beam",
