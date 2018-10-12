@@ -2676,7 +2676,7 @@
 		growRate=5,
 		laser={
 			damage=100,
-			power=50000,
+			power=5000,
 			range=10000,
 			width=1,
 			color=0xffff0000,
@@ -3017,7 +3017,7 @@
 		growRate=5,
 		cannon={
 			damage=1000,
-			power=12800,
+			power=2560,
 			roundsPerSec=0.1,
 			color=0x7fc0ff,
 			muzzleVel=1000,

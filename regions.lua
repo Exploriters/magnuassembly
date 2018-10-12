@@ -17,7 +17,7 @@
 			fleetFraction=1,
 			unique={
 				{
-					"1257_Lapismarine_Homeworld",
+					"1257_SFWarship",
 					"1257_Cargoship",
 				},
 			},
