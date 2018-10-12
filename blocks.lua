@@ -2676,7 +2676,7 @@
 		growRate=5,
 		laser={
 			damage=100,
-			power=50000,
+			power=5000,
 			range=10000,
 			width=1,
 			color=0xffff0000,
@@ -3017,7 +3017,7 @@
 		growRate=5,
 		cannon={
 			damage=1000,
-			power=12800,
+			power=2560,
 			roundsPerSec=0.1,
 			color=0x7fc0ff,
 			muzzleVel=1000,
@@ -5052,7 +5052,7 @@
 		growRate=5,
 		replicateBlock={
 			group=1257,
-			features=COMMAND|INVISIBLE|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+			features=COMMAND|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 			name=_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
@@ -5070,7 +5070,7 @@
 			explodeRadius=13e11,
 			replicateBlock={
 				group=1257,
-				features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 				name=_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
@@ -5088,7 +5088,7 @@
 				explodeRadius=13e11,
 				replicateBlock={
 					group=1257,
-					features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 					name=_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
@@ -5106,7 +5106,7 @@
 					explodeRadius=13e11,
 					replicateBlock={
 						group=1257,
-						features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 						name=_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
@@ -5124,7 +5124,7 @@
 						explodeRadius=13e11,
 						replicateBlock={
 							group=1257,
-							features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 							name=_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
@@ -5143,7 +5143,7 @@
 							
 							replicateBlock={
 								group=1257,
-								features=COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 								name=_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
@@ -7476,7 +7476,7 @@
 		ident=1257925,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
-		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
@@ -7503,7 +7503,7 @@
 		ident=1257926,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
-		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
@@ -7530,7 +7530,7 @@
 		ident=1257927,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
-		name=_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
@@ -13248,7 +13248,7 @@
 		growRate=inf,
 		replicateBlock={
 			group=1257,
-			features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+			features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 			name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
@@ -13267,7 +13267,7 @@
 			explodeRadius=0,
 			replicateBlock={
 				group=1257,
-				features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+				features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 				name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
@@ -13286,7 +13286,7 @@
 				explodeRadius=0,
 				replicateBlock={
 					group=1257,
-					features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+					features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 					name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
@@ -13305,7 +13305,7 @@
 					explodeRadius=0,
 					replicateBlock={
 						group=1257,
-						features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+						features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 						name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
@@ -13324,7 +13324,7 @@
 						explodeRadius=0,
 						replicateBlock={
 							group=1257,
-							features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+							features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 							name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
@@ -13344,7 +13344,7 @@
 							
 							replicateBlock={
 								group=1257,
-								features=FREERES|NOCLIP|INVULNERABLE|COMMAND|INVISIBLE|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
+								features=FREERES|NOCLIP|INVULNERABLE|COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOREGEN,
 								name=_("_text_Decoy")_("_bl")_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
@@ -16017,7 +16017,7 @@
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
-		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block")_("_n")_("_blurb_decoy_block"),
 		shape=TRI,
 		scale=2,
@@ -16047,7 +16047,7 @@
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
-		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block")_("_n")_("_blurb_decoy_block"),
 		shape=HEXAGON,
 		scale=1,
@@ -16077,7 +16077,7 @@
 		group=1257,
 		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LASER|TURRET,
-		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Nanoassembler"),
+		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_Nanoassembler"),
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block")_("_n")_("_blurb_decoy_block"),
 		shape=HEXAGON,
 		scale=2,

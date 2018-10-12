@@ -88,6 +88,7 @@
 	
 	"_text_Autocannon"="自动机炮",
 	"_text_Phaser"="相位炮",
+	"_text_Flakcannon"="自动引信炮",
 	"_text_TractorBeam"="牵引激光器",
 	"_text_ForceBeam"="推力激光器",
 	"_text_StaticBeam"="静滞激光器",
