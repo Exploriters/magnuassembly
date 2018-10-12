@@ -5,6 +5,7 @@
 # COLOR_RESOURCE3 = 0x3f3f3f
  kMaxResPocketQuant = 8000
  kGameName = "^4MAGNUASSEMBLY"
+ kShipMaxSpeed = 3000000000
  kStartingP = 500
  kStartingC = 2000
  kPointMax = 715555
