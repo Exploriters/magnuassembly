@@ -521,7 +521,7 @@
 	-- SQUARE_TRRUSTER_R_END 无后续推进节点右转方形推进器
 	{
 		1257022,
-		{}, mirror_of=1257019
+		{}, mirror_of=1257021
 	},
 	
 --
