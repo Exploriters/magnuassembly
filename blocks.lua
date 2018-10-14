@@ -19894,8 +19894,6 @@
 		name="3tr8g8gi3 Script And Thruster Bud",
 		shape=1257025,
 		scale=3,
-		shape=SQUARE_1,
-		scale=1,
 		fillColor=0x3f3f3f,
 		fillColor1=0x4f4f4f,
 		lineColor=0xffffff,
