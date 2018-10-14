@@ -110,7 +110,7 @@
 		{
 			ident=1881000,
 			faction=1881,
-			count=15,
+			count=50,
 			position={0.1, 1.1},
 			radius={0.02, 0.02},
 			type=0,
@@ -128,6 +128,28 @@
 				},
 			},
 			uniqueFraction=0.25,
+		},
+		
+		{
+			ident=1443000,
+			faction=1881,
+			count=100,
+			position={0.1, 1.1},
+			radius={0.02, 0.02},
+			type=0,
+			fleets={
+				{1443, { {0, 715555}, {1, 715555} }},
+--				{1881, { {0, 71555}, {1, 71555} }},
+--				{1881, { {0, 7155}, {1, 7155} }},
+--				{1881, { {0, 715}, {1, 715} }},
+			},
+			fleetCount={1, 1},
+			fleetFraction=1,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0,
 		},
 	}
 }
