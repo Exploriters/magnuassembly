@@ -19905,6 +19905,11 @@
 		growRate=16,
 		armor=20,
 		meleeDamage=0,
+		thrusterForce=0,
+		thrusterBoost=-inf,
+		thrusterBoostTime=inf,
+		thrusterColor=0x003f3f3f,
+		thrusterColor1=0x003f3f3f,
 		cannonBoost={
 		},
 	},
