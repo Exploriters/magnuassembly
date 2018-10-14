@@ -17774,7 +17774,7 @@
 	},
 	
 	{
-		1443000,
+		ident=1443000,
 		group=1443,
 		features=ASSEMBLER|CANNON_BOOST|COMMAND|FACTORY|GENERATOR|MELEE|TELEPORTER|THRUSTER|TRACTOR,
 		name="Explorer Capsule",
@@ -17807,7 +17807,7 @@
 	},
 
 	{
-		1443001,
+		ident=1443001,
 		group=1443,
 		features=ASSEMBLER|CANNON_BOOST|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TRACTOR,
 		name="Rookie Capsule",
@@ -17841,7 +17841,7 @@
 	},
 
 	{
-		1443002,
+		ident=1443002,
 		group=1443,
 		features=ASSEMBLER|CANNON_BOOST|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TRACTOR,
 		name="Drone Capsule",
@@ -17875,7 +17875,7 @@
 	},
 
 	{
-		1443003,
+		ident=1443003,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17893,7 +17893,7 @@
 	},
 
 	{
-		1443004,
+		ident=1443004,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17911,7 +17911,7 @@
 	},
 
 	{
-		1443005,
+		ident=1443005,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17929,7 +17929,7 @@
 	},
 
 	{
-		1443006,
+		ident=1443006,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17947,7 +17947,7 @@
 	},
 
 	{
-		1443007,
+		ident=1443007,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17965,7 +17965,7 @@
 	},
 
 	{
-		1443008,
+		ident=1443008,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -17983,7 +17983,7 @@
 	},
 
 	{
-		1443009,
+		ident=1443009,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18001,7 +18001,7 @@
 	},
 
 	{
-		1443010,
+		ident=1443010,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18019,7 +18019,7 @@
 	},
 
 	{
-		1443011,
+		ident=1443011,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18037,7 +18037,7 @@
 	},
 
 	{
-		1443012,
+		ident=1443012,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18055,7 +18055,7 @@
 	},
 
 	{
-		1443013,
+		ident=1443013,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18073,7 +18073,7 @@
 	},
 
 	{
-		1443014,
+		ident=1443014,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18091,7 +18091,7 @@
 	},
 
 	{
-		1443015,
+		ident=1443015,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18109,7 +18109,7 @@
 	},
 
 	{
-		1443016,
+		ident=1443016,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18127,7 +18127,7 @@
 	},
 
 	{
-		1443017,
+		ident=1443017,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18145,7 +18145,7 @@
 	},
 
 	{
-		1443018,
+		ident=1443018,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Orange Armor",
@@ -18163,7 +18163,7 @@
 	},
 
 	{
-		1443019,
+		ident=1443019,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18181,7 +18181,7 @@
 	},
 
 	{
-		1443020,
+		ident=1443020,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18199,7 +18199,7 @@
 	},
 
 	{
-		1443021,
+		ident=1443021,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18217,7 +18217,7 @@
 	},
 
 	{
-		1443022,
+		ident=1443022,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18235,7 +18235,7 @@
 	},
 
 	{
-		1443023,
+		ident=1443023,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18253,7 +18253,7 @@
 	},
 
 	{
-		1443024,
+		ident=1443024,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18271,7 +18271,7 @@
 	},
 
 	{
-		1443025,
+		ident=1443025,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18289,7 +18289,7 @@
 	},
 
 	{
-		1443026,
+		ident=1443026,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18307,7 +18307,7 @@
 	},
 
 	{
-		1443027,
+		ident=1443027,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18325,7 +18325,7 @@
 	},
 
 	{
-		1443028,
+		ident=1443028,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18343,7 +18343,7 @@
 	},
 
 	{
-		1443029,
+		ident=1443029,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18361,7 +18361,7 @@
 	},
 
 	{
-		1443030,
+		ident=1443030,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18379,7 +18379,7 @@
 	},
 
 	{
-		1443031,
+		ident=1443031,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18397,7 +18397,7 @@
 	},
 
 	{
-		1443032,
+		ident=1443032,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18415,7 +18415,7 @@
 	},
 
 	{
-		1443033,
+		ident=1443033,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18433,7 +18433,7 @@
 	},
 
 	{
-		1443034,
+		ident=1443034,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blue Armor",
@@ -18451,7 +18451,7 @@
 	},
 
 	{
-		1443035,
+		ident=1443035,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18469,7 +18469,7 @@
 	},
 
 	{
-		1443036,
+		ident=1443036,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18487,7 +18487,7 @@
 	},
 
 	{
-		1443037,
+		ident=1443037,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18505,7 +18505,7 @@
 	},
 
 	{
-		1443038,
+		ident=1443038,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18523,7 +18523,7 @@
 	},
 
 	{
-		1443039,
+		ident=1443039,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18541,7 +18541,7 @@
 	},
 
 	{
-		1443040,
+		ident=1443040,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18559,7 +18559,7 @@
 	},
 
 	{
-		1443041,
+		ident=1443041,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18577,7 +18577,7 @@
 	},
 
 	{
-		1443042,
+		ident=1443042,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18595,7 +18595,7 @@
 	},
 
 	{
-		1443043,
+		ident=1443043,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18613,7 +18613,7 @@
 	},
 
 	{
-		1443044,
+		ident=1443044,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18631,7 +18631,7 @@
 	},
 
 	{
-		1443045,
+		ident=1443045,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18649,7 +18649,7 @@
 	},
 
 	{
-		1443046,
+		ident=1443046,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18667,7 +18667,7 @@
 	},
 
 	{
-		1443047,
+		ident=1443047,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18685,7 +18685,7 @@
 	},
 
 	{
-		1443048,
+		ident=1443048,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18703,7 +18703,7 @@
 	},
 
 	{
-		1443049,
+		ident=1443049,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18721,7 +18721,7 @@
 	},
 
 	{
-		1443050,
+		ident=1443050,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Lapismarine Quartz Armor",
@@ -18739,7 +18739,7 @@
 	},
 
 	{
-		1443051,
+		ident=1443051,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18757,7 +18757,7 @@
 	},
 
 	{
-		1443052,
+		ident=1443052,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18775,7 +18775,7 @@
 	},
 
 	{
-		1443053,
+		ident=1443053,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18793,7 +18793,7 @@
 	},
 
 	{
-		1443054,
+		ident=1443054,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18811,7 +18811,7 @@
 	},
 
 	{
-		1443055,
+		ident=1443055,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18829,7 +18829,7 @@
 	},
 
 	{
-		1443056,
+		ident=1443056,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18847,7 +18847,7 @@
 	},
 
 	{
-		1443057,
+		ident=1443057,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18865,7 +18865,7 @@
 	},
 
 	{
-		1443058,
+		ident=1443058,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18883,7 +18883,7 @@
 	},
 
 	{
-		1443059,
+		ident=1443059,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18901,7 +18901,7 @@
 	},
 
 	{
-		1443060,
+		ident=1443060,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18919,7 +18919,7 @@
 	},
 
 	{
-		1443061,
+		ident=1443061,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18937,7 +18937,7 @@
 	},
 
 	{
-		1443062,
+		ident=1443062,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18955,7 +18955,7 @@
 	},
 
 	{
-		1443063,
+		ident=1443063,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18973,7 +18973,7 @@
 	},
 
 	{
-		1443064,
+		ident=1443064,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -18991,7 +18991,7 @@
 	},
 
 	{
-		1443065,
+		ident=1443065,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -19009,7 +19009,7 @@
 	},
 
 	{
-		1443066,
+		ident=1443066,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Explorer Hull",
@@ -19027,7 +19027,7 @@
 	},
 
 	{
-		1443067,
+		ident=1443067,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19047,7 +19047,7 @@
 	},
 
 	{
-		1443068,
+		ident=1443068,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Power Saver Subsystem",
@@ -19068,7 +19068,7 @@
 	},
 
 	{
-		1443069,
+		ident=1443069,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19088,7 +19088,7 @@
 	},
 
 	{
-		1443070,
+		ident=1443070,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19108,7 +19108,7 @@
 	},
 
 	{
-		1443071,
+		ident=1443071,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19128,7 +19128,7 @@
 	},
 
 	{
-		1443072,
+		ident=1443072,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19148,7 +19148,7 @@
 	},
 
 	{
-		1443073,
+		ident=1443073,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19168,7 +19168,7 @@
 	},
 
 	{
-		1443074,
+		ident=1443074,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19188,7 +19188,7 @@
 	},
 
 	{
-		1443075,
+		ident=1443075,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19208,7 +19208,7 @@
 	},
 
 	{
-		1443076,
+		ident=1443076,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19228,7 +19228,7 @@
 	},
 
 	{
-		1443077,
+		ident=1443077,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19248,7 +19248,7 @@
 	},
 
 	{
-		1443078,
+		ident=1443078,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19268,7 +19268,7 @@
 	},
 
 	{
-		1443079,
+		ident=1443079,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19288,7 +19288,7 @@
 	},
 
 	{
-		1443080,
+		ident=1443080,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19308,7 +19308,7 @@
 	},
 
 	{
-		1443081,
+		ident=1443081,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19328,7 +19328,7 @@
 	},
 
 	{
-		1443082,
+		ident=1443082,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19348,7 +19348,7 @@
 	},
 
 	{
-		1443083,
+		ident=1443083,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19368,7 +19368,7 @@
 	},
 
 	{
-		1443084,
+		ident=1443084,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19388,7 +19388,7 @@
 	},
 
 	{
-		1443085,
+		ident=1443085,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19408,7 +19408,7 @@
 	},
 
 	{
-		1443086,
+		ident=1443086,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19428,7 +19428,7 @@
 	},
 
 	{
-		1443087,
+		ident=1443087,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Subsystem",
@@ -19448,7 +19448,7 @@
 	},
 
 	{
-		1443088,
+		ident=1443088,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 White Script Bud",
@@ -19468,7 +19468,7 @@
 	},
 
 	{
-		1443089,
+		ident=1443089,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Katoon Script Bud",
@@ -19488,7 +19488,7 @@
 	},
 
 	{
-		1443090,
+		ident=1443090,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Katoon Script Bud",
@@ -19508,7 +19508,7 @@
 	},
 
 	{
-		1443091,
+		ident=1443091,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Katoon Script Bud",
@@ -19528,7 +19528,7 @@
 	},
 
 	{
-		1443092,
+		ident=1443092,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Katoon Script Bud",
@@ -19548,7 +19548,7 @@
 	},
 
 	{
-		1443093,
+		ident=1443093,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Butterfly Script Bud",
@@ -19568,7 +19568,7 @@
 	},
 
 	{
-		1443094,
+		ident=1443094,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Triangle Script Bud",
@@ -19588,7 +19588,7 @@
 	},
 
 	{
-		1443095,
+		ident=1443095,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Single Script Bud",
@@ -19608,7 +19608,7 @@
 	},
 
 	{
-		1443096,
+		ident=1443096,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Mount Script Bud",
@@ -19628,7 +19628,7 @@
 	},
 
 	{
-		1443097,
+		ident=1443097,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Adapter Script Bud",
@@ -19648,7 +19648,7 @@
 	},
 
 	{
-		1443098,
+		ident=1443098,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Tright Script Bud",
@@ -19668,7 +19668,7 @@
 	},
 
 	{
-		1443099,
+		ident=1443099,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Tright Script Bud",
@@ -19688,7 +19688,7 @@
 	},
 
 	{
-		1443100,
+		ident=1443100,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Tright Script Bud",
@@ -19708,7 +19708,7 @@
 	},
 
 	{
-		1443101,
+		ident=1443101,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19728,7 +19728,7 @@
 	},
 
 	{
-		1443102,
+		ident=1443102,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19748,7 +19748,7 @@
 	},
 
 	{
-		1443103,
+		ident=1443103,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19768,7 +19768,7 @@
 	},
 
 	{
-		1443104,
+		ident=1443104,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19788,7 +19788,7 @@
 	},
 
 	{
-		1443105,
+		ident=1443105,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19808,7 +19808,7 @@
 	},
 
 	{
-		1443106,
+		ident=1443106,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19828,7 +19828,7 @@
 	},
 
 	{
-		1443107,
+		ident=1443107,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19848,7 +19848,7 @@
 	},
 
 	{
-		1443108,
+		ident=1443108,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19868,7 +19868,7 @@
 	},
 
 	{
-		1443109,
+		ident=1443109,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Bud",
@@ -19888,7 +19888,7 @@
 	},
 
 	{
-		1443110,
+		ident=1443110,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|THRUSTER,
 		name="3tr8g8gi3 Script And Thruster Bud",
@@ -19910,7 +19910,7 @@
 	},
 
 	{
-		1443111,
+		ident=1443111,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -19933,7 +19933,7 @@
 	},
 
 	{
-		1443112,
+		ident=1443112,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -19956,7 +19956,7 @@
 	},
 
 	{
-		1443113,
+		ident=1443113,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -19979,7 +19979,7 @@
 	},
 
 	{
-		1443114,
+		ident=1443114,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -20002,7 +20002,7 @@
 	},
 
 	{
-		1443115,
+		ident=1443115,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -20025,7 +20025,7 @@
 	},
 
 	{
-		1443116,
+		ident=1443116,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Cube Thruster Bud",
@@ -20048,7 +20048,7 @@
 	},
 
 	{
-		1443117,
+		ident=1443117,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Rect Thruster Bud",
@@ -20071,7 +20071,7 @@
 	},
 
 	{
-		1443118,
+		ident=1443118,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Rect Thruster Bud",
@@ -20094,7 +20094,7 @@
 	},
 
 	{
-		1443119,
+		ident=1443119,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Rect Thruster Bud",
@@ -20117,7 +20117,7 @@
 	},
 
 	{
-		1443120,
+		ident=1443120,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Rect Thruster Bud",
@@ -20140,7 +20140,7 @@
 	},
 
 	{
-		1443121,
+		ident=1443121,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Rect Thruster Bud",
@@ -20163,7 +20163,7 @@
 	},
 
 	{
-		1443122,
+		ident=1443122,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Mid Tri Thruster Bud",
@@ -20186,7 +20186,7 @@
 	},
 
 	{
-		1443123,
+		ident=1443123,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Side Tri Thruster Bud",
@@ -20209,7 +20209,7 @@
 	},
 
 	{
-		1443124,
+		ident=1443124,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20232,7 +20232,7 @@
 	},
 
 	{
-		1443125,
+		ident=1443125,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Mid Quarter Thruster Bud",
@@ -20255,7 +20255,7 @@
 	},
 
 	{
-		1443126,
+		ident=1443126,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Side Quarter Thruster Bud",
@@ -20278,7 +20278,7 @@
 	},
 
 	{
-		1443127,
+		ident=1443127,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Side Quarter  Thruster Bud",
@@ -20301,7 +20301,7 @@
 	},
 
 	{
-		1443128,
+		ident=1443128,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 S Thruster Bud",
@@ -20324,7 +20324,7 @@
 	},
 
 	{
-		1443129,
+		ident=1443129,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 S Thruster Bud",
@@ -20347,7 +20347,7 @@
 	},
 
 	{
-		1443130,
+		ident=1443130,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 L Thruster Bud",
@@ -20370,7 +20370,7 @@
 	},
 
 	{
-		1443131,
+		ident=1443131,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 L Thruster Bud",
@@ -20393,7 +20393,7 @@
 	},
 
 	{
-		1443132,
+		ident=1443132,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 E Thruster Bud",
@@ -20416,7 +20416,7 @@
 	},
 
 	{
-		1443133,
+		ident=1443133,
 		group=1443,
 		features=PALETTE|MELEE|THRUSTER,
 		name="3tr8g8gi3 Sqrt3 E Thruster Bud",
@@ -20439,7 +20439,7 @@
 	},
 
 	{
-		1443134,
+		ident=1443134,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20462,7 +20462,7 @@
 	},
 
 	{
-		1443135,
+		ident=1443135,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20485,7 +20485,7 @@
 	},
 
 	{
-		1443136,
+		ident=1443136,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20508,7 +20508,7 @@
 	},
 
 	{
-		1443137,
+		ident=1443137,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20531,7 +20531,7 @@
 	},
 
 	{
-		1443138,
+		ident=1443138,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20554,7 +20554,7 @@
 	},
 
 	{
-		1443139,
+		ident=1443139,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20577,7 +20577,7 @@
 	},
 
 	{
-		1443140,
+		ident=1443140,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20600,7 +20600,7 @@
 	},
 
 	{
-		1443141,
+		ident=1443141,
 		group=1443,
 		features=MELEE|THRUSTER,
 		name="3tr8g8gi3 Blank Thruster Bud",
@@ -20623,7 +20623,7 @@
 	},
 
 	{
-		1443142,
+		ident=1443142,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 Blank Script Mk0",
@@ -20649,7 +20649,7 @@
 	},
 
 	{
-		1443143,
+		ident=1443143,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < PWR Script MkV",
@@ -20671,7 +20671,7 @@
 	},
 
 	{
-		1443144,
+		ident=1443144,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < PWR Script MkIV",
@@ -20693,7 +20693,7 @@
 	},
 
 	{
-		1443145,
+		ident=1443145,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < PWR Script MkIII",
@@ -20715,7 +20715,7 @@
 	},
 
 	{
-		1443146,
+		ident=1443146,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < PWR Script MkII",
@@ -20737,7 +20737,7 @@
 	},
 
 	{
-		1443147,
+		ident=1443147,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < PWR Script MkI",
@@ -20759,7 +20759,7 @@
 	},
 
 	{
-		1443148,
+		ident=1443148,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < VEL Script MkV",
@@ -20782,7 +20782,7 @@
 	},
 
 	{
-		1443149,
+		ident=1443149,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < VEL Script MkIV",
@@ -20805,7 +20805,7 @@
 	},
 
 	{
-		1443150,
+		ident=1443150,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < VEL Script MkIII",
@@ -20828,7 +20828,7 @@
 	},
 
 	{
-		1443151,
+		ident=1443151,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < VEL Script MkII",
@@ -20851,7 +20851,7 @@
 	},
 
 	{
-		1443152,
+		ident=1443152,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < VEL Script MkI",
@@ -20874,7 +20874,7 @@
 	},
 
 	{
-		1443153,
+		ident=1443153,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < RNG Script MkV",
@@ -20897,7 +20897,7 @@
 	},
 
 	{
-		1443154,
+		ident=1443154,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < RNG Script MkIV",
@@ -20920,7 +20920,7 @@
 	},
 
 	{
-		1443155,
+		ident=1443155,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < RNG Script MkIII",
@@ -20943,7 +20943,7 @@
 	},
 
 	{
-		1443156,
+		ident=1443156,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < RNG Script MkII",
@@ -20966,7 +20966,7 @@
 	},
 
 	{
-		1443157,
+		ident=1443157,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < RNG Script MkI",
@@ -20989,7 +20989,7 @@
 	},
 
 	{
-		1443158,
+		ident=1443158,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < ROF Script MkV",
@@ -21012,7 +21012,7 @@
 	},
 
 	{
-		1443159,
+		ident=1443159,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < ROF Script MkIV",
@@ -21035,7 +21035,7 @@
 	},
 
 	{
-		1443160,
+		ident=1443160,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < ROF Script MkIII",
@@ -21058,7 +21058,7 @@
 	},
 
 	{
-		1443161,
+		ident=1443161,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < ROF Script MkII",
@@ -21081,7 +21081,7 @@
 	},
 
 	{
-		1443162,
+		ident=1443162,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 DMG < ROF Script MkI",
@@ -21104,7 +21104,7 @@
 	},
 
 	{
-		1443163,
+		ident=1443163,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < DMG Script MkV",
@@ -21127,7 +21127,7 @@
 	},
 
 	{
-		1443164,
+		ident=1443164,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < DMG Script MkIV",
@@ -21150,7 +21150,7 @@
 	},
 
 	{
-		1443165,
+		ident=1443165,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < DMG Script MkIII",
@@ -21173,7 +21173,7 @@
 	},
 
 	{
-		1443166,
+		ident=1443166,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < DMG Script MkII",
@@ -21196,7 +21196,7 @@
 	},
 
 	{
-		1443167,
+		ident=1443167,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < DMG Script MkI",
@@ -21219,7 +21219,7 @@
 	},
 
 	{
-		1443168,
+		ident=1443168,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < PWR  Script MkV",
@@ -21241,7 +21241,7 @@
 	},
 
 	{
-		1443169,
+		ident=1443169,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < PWR  Script MkIV",
@@ -21263,7 +21263,7 @@
 	},
 
 	{
-		1443170,
+		ident=1443170,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < PWR  Script MkIII",
@@ -21285,7 +21285,7 @@
 	},
 
 	{
-		1443171,
+		ident=1443171,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < PWR  Script MkII",
@@ -21307,7 +21307,7 @@
 	},
 
 	{
-		1443172,
+		ident=1443172,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < PWR  Script MkI",
@@ -21329,7 +21329,7 @@
 	},
 
 	{
-		1443173,
+		ident=1443173,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < RNG  Script MkV",
@@ -21352,7 +21352,7 @@
 	},
 
 	{
-		1443174,
+		ident=1443174,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < RNG  Script MkIV",
@@ -21375,7 +21375,7 @@
 	},
 
 	{
-		1443175,
+		ident=1443175,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < RNG  Script MkIII",
@@ -21398,7 +21398,7 @@
 	},
 
 	{
-		1443176,
+		ident=1443176,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < RNG  Script MkII",
@@ -21421,7 +21421,7 @@
 	},
 
 	{
-		1443177,
+		ident=1443177,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < RNG  Script MkI",
@@ -21444,7 +21444,7 @@
 	},
 
 	{
-		1443178,
+		ident=1443178,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < ROF  Script MkV",
@@ -21467,7 +21467,7 @@
 	},
 
 	{
-		1443179,
+		ident=1443179,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < ROF  Script MkIV",
@@ -21490,7 +21490,7 @@
 	},
 
 	{
-		1443180,
+		ident=1443180,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < ROF  Script MkIII",
@@ -21513,7 +21513,7 @@
 	},
 
 	{
-		1443181,
+		ident=1443181,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < ROF  Script MkII",
@@ -21536,7 +21536,7 @@
 	},
 
 	{
-		1443182,
+		ident=1443182,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 VEL < ROF  Script MkI",
@@ -21559,7 +21559,7 @@
 	},
 
 	{
-		1443183,
+		ident=1443183,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < DMG Script MkV",
@@ -21582,7 +21582,7 @@
 	},
 
 	{
-		1443184,
+		ident=1443184,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < DMG Script MkIV",
@@ -21605,7 +21605,7 @@
 	},
 
 	{
-		1443185,
+		ident=1443185,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < DMG Script MkIII",
@@ -21628,7 +21628,7 @@
 	},
 
 	{
-		1443186,
+		ident=1443186,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < DMG Script MkII",
@@ -21651,7 +21651,7 @@
 	},
 
 	{
-		1443187,
+		ident=1443187,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < DMG Script MkI",
@@ -21674,7 +21674,7 @@
 	},
 
 	{
-		1443188,
+		ident=1443188,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < VEL Script MkV",
@@ -21697,7 +21697,7 @@
 	},
 
 	{
-		1443189,
+		ident=1443189,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < VEL Script MkIV",
@@ -21720,7 +21720,7 @@
 	},
 
 	{
-		1443190,
+		ident=1443190,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < VEL Script MkIII",
@@ -21743,7 +21743,7 @@
 	},
 
 	{
-		1443191,
+		ident=1443191,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < VEL Script MkII",
@@ -21766,7 +21766,7 @@
 	},
 
 	{
-		1443192,
+		ident=1443192,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < VEL Script MkI",
@@ -21789,7 +21789,7 @@
 	},
 
 	{
-		1443193,
+		ident=1443193,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < PWR  Script MkV",
@@ -21811,7 +21811,7 @@
 	},
 
 	{
-		1443194,
+		ident=1443194,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < PWR  Script MkIV",
@@ -21833,7 +21833,7 @@
 	},
 
 	{
-		1443195,
+		ident=1443195,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < PWR  Script MkIII",
@@ -21855,7 +21855,7 @@
 	},
 
 	{
-		1443196,
+		ident=1443196,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < PWR  Script MkII",
@@ -21877,7 +21877,7 @@
 	},
 
 	{
-		1443197,
+		ident=1443197,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < PWR  Script MkI",
@@ -21899,7 +21899,7 @@
 	},
 
 	{
-		1443198,
+		ident=1443198,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < ROF Script MkV",
@@ -21922,7 +21922,7 @@
 	},
 
 	{
-		1443199,
+		ident=1443199,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < ROF Script MkIV",
@@ -21945,7 +21945,7 @@
 	},
 
 	{
-		1443200,
+		ident=1443200,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < ROF Script MkIII",
@@ -21968,7 +21968,7 @@
 	},
 
 	{
-		1443201,
+		ident=1443201,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < ROF Script MkII",
@@ -21991,7 +21991,7 @@
 	},
 
 	{
-		1443202,
+		ident=1443202,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 RNG < ROF Script MkI",
@@ -22014,7 +22014,7 @@
 	},
 
 	{
-		1443203,
+		ident=1443203,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < DMG Script MkV",
@@ -22037,7 +22037,7 @@
 	},
 
 	{
-		1443204,
+		ident=1443204,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < DMG Script MkIV",
@@ -22060,7 +22060,7 @@
 	},
 
 	{
-		1443205,
+		ident=1443205,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < DMG Script MkIII",
@@ -22083,7 +22083,7 @@
 	},
 
 	{
-		1443206,
+		ident=1443206,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < DMG Script MkII",
@@ -22106,7 +22106,7 @@
 	},
 
 	{
-		1443207,
+		ident=1443207,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < DMG Script MkI",
@@ -22129,7 +22129,7 @@
 	},
 
 	{
-		1443208,
+		ident=1443208,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < PWR Script MkV",
@@ -22151,7 +22151,7 @@
 	},
 
 	{
-		1443209,
+		ident=1443209,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < PWR Script MkIV",
@@ -22173,7 +22173,7 @@
 	},
 
 	{
-		1443210,
+		ident=1443210,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < PWR Script MkIII",
@@ -22195,7 +22195,7 @@
 	},
 
 	{
-		1443211,
+		ident=1443211,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < PWR Script MkII",
@@ -22217,7 +22217,7 @@
 	},
 
 	{
-		1443212,
+		ident=1443212,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < PWR Script MkI",
@@ -22239,7 +22239,7 @@
 	},
 
 	{
-		1443213,
+		ident=1443213,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < VEL Script MkV",
@@ -22262,7 +22262,7 @@
 	},
 
 	{
-		1443214,
+		ident=1443214,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < VEL Script MkIV",
@@ -22285,7 +22285,7 @@
 	},
 
 	{
-		1443215,
+		ident=1443215,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < VEL Script MkIII",
@@ -22308,7 +22308,7 @@
 	},
 
 	{
-		1443216,
+		ident=1443216,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < VEL Script MkII",
@@ -22331,7 +22331,7 @@
 	},
 
 	{
-		1443217,
+		ident=1443217,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < VEL Script MkI",
@@ -22354,7 +22354,7 @@
 	},
 
 	{
-		1443218,
+		ident=1443218,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < RNG Script MkV",
@@ -22377,7 +22377,7 @@
 	},
 
 	{
-		1443219,
+		ident=1443219,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < RNG Script MkIV",
@@ -22400,7 +22400,7 @@
 	},
 
 	{
-		1443220,
+		ident=1443220,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < RNG Script MkIII",
@@ -22423,7 +22423,7 @@
 	},
 
 	{
-		1443221,
+		ident=1443221,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < RNG Script MkII",
@@ -22446,7 +22446,7 @@
 	},
 
 	{
-		1443222,
+		ident=1443222,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ROF < RNG Script MkI",
@@ -22469,7 +22469,7 @@
 	},
 
 	{
-		1443223,
+		ident=1443223,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ERD < PWR Script MkV",
@@ -22491,7 +22491,7 @@
 	},
 
 	{
-		1443224,
+		ident=1443224,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ERD < PWR Script MkIV",
@@ -22513,7 +22513,7 @@
 	},
 
 	{
-		1443225,
+		ident=1443225,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ERD < PWR Script MkIII",
@@ -22535,7 +22535,7 @@
 	},
 
 	{
-		1443226,
+		ident=1443226,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ERD < PWR Script MkII",
@@ -22557,7 +22557,7 @@
 	},
 
 	{
-		1443227,
+		ident=1443227,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name="3tr8g8gi3 ERD < PWR Script MkI",
@@ -22579,7 +22579,7 @@
 	},
 
 	{
-		1443228,
+		ident=1443228,
 		group=1443,
 		features=PALETTE|MELEE,
 		name="3tr8g8gi3 Blank Device",
@@ -22597,7 +22597,7 @@
 	},
 
 	{
-		1443229,
+		ident=1443229,
 		group=1443,
 		features=PALETTE|GENERATOR|MELEE,
 		name="3tr8g8gi3 Generator",
@@ -22617,7 +22617,7 @@
 	},
 
 	{
-		1443230,
+		ident=1443230,
 		group=1443,
 		features=PALETTE|GENERATOR|MELEE,
 		name="3tr8g8gi3 Generator",
@@ -22637,7 +22637,7 @@
 	},
 
 	{
-		1443231,
+		ident=1443231,
 		group=1443,
 		features=PALETTE|GENERATOR|MELEE,
 		name="3tr8g8gi3 Generator",
@@ -22657,7 +22657,7 @@
 	},
 
 	{
-		1443232,
+		ident=1443232,
 		group=1443,
 		features=PALETTE|GENERATOR|MELEE,
 		name="3tr8g8gi3 Power Storger",
@@ -22677,7 +22677,7 @@
 	},
 
 	{
-		1443233,
+		ident=1443233,
 		group=1443,
 		features=PALETTE|FACTORY|MELEE,
 		name="3tr8g8gi3 Cloning Machine",
@@ -22695,7 +22695,7 @@
 	},
 
 	{
-		1443234,
+		ident=1443234,
 		group=1443,
 		features=PALETTE|CANNON|MELEE|TURRET,
 		name="3tr8g8gi3 A-1",
@@ -22725,7 +22725,7 @@
 	},
 
 	{
-		1443235,
+		ident=1443235,
 		group=1443,
 		features=PALETTE|CANNON|MELEE|TURRET,
 		name="3tr8g8gi3 DSD-4625",
@@ -22755,7 +22755,7 @@
 	},
 
 	{
-		1443236,
+		ident=1443236,
 		group=1443,
 		features=PALETTE|CANNON|MELEE|TURRET,
 		name="3tr8g8gi3 RRSKK-3",
@@ -22785,7 +22785,7 @@
 	},
 
 	{
-		1443237,
+		ident=1443237,
 		group=1443,
 		features=PALETTE|CANNON|MELEE|TURRET,
 		name="3tr8g8gi3 ASET-8",
@@ -22817,7 +22817,7 @@
 	},
 
 	{
-		1443238,
+		ident=1443238,
 		group=1443,
 		features=PALETTE|CANNON|MELEE|TURRET,
 		name="3tr8g8gi3 BRMG-64",
@@ -22847,9 +22847,9 @@
 	},
 
 	{
-		1443239,
+		ident=1443239,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster F",
 		shape=1257019,
 		scale=1,
@@ -22871,9 +22871,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443240,
+		ident=1443240,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster F",
 		shape=1257019,
 		scale=2,
@@ -22895,9 +22895,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443241,
+		ident=1443241,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster F",
 		shape=1257019,
 		scale=3,
@@ -22919,9 +22919,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443242,
+		ident=1443242,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster L",
 		shape=1257021,
 		scale=1,
@@ -22943,9 +22943,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443243,
+		ident=1443243,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster L",
 		shape=1257021,
 		scale=2,
@@ -22967,9 +22967,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443244,
+		ident=1443244,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster L",
 		shape=1257021,
 		scale=3,
@@ -22991,9 +22991,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443245,
+		ident=1443245,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster R",
 		shape=1257022,
 		scale=1,
@@ -23015,9 +23015,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443246,
+		ident=1443246,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster R",
 		shape=1257022,
 		scale=2,
@@ -23039,9 +23039,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443247,
+		ident=1443247,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster R",
 		shape=1257022,
 		scale=3,
@@ -23063,9 +23063,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443248,
+		ident=1443248,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster B",
 		shape=1257023,
 		scale=1,
@@ -23087,9 +23087,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443249,
+		ident=1443249,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster B",
 		shape=1257023,
 		scale=2,
@@ -23111,9 +23111,9 @@ replicateBlock=0,
 	},
 
 	{
-		1443250,
+		ident=1443250,
 		group=1443,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|NEVERFIRE,
 		name="3tr8g8gi3 Thruster B",
 		shape=1257023,
 		scale=3,
@@ -23135,7 +23135,7 @@ replicateBlock=0,
 	},
 
 	{
-		1443251,
+		ident=1443251,
 		group=1443,
 		features=PALETTE|LASER|MELEE|TURRET,
 		name="3tr8g8gi3 MED-99",
