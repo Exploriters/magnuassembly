@@ -914,7 +914,7 @@
 		{
 			{
 				verts={{-7.071, -11.785}, {0, 9.428}, {7.071, 2.357}},
-				ports={{1,0.276,THRUSTER_OUT}, {1, 0.724}, {2, 0.25,THRUSTER_OUT}, {2, 0.75}, {0, 0.5,THRUSTER_IN}}
+				ports={{0,0.276}, {0, 0.724,THRUSTER_OUT}, {2, 0.25,THRUSTER_OUT}, {2, 0.75}, {1, 0.5,THRUSTER_IN}}
 			}
 		}
 	},
@@ -931,7 +931,7 @@
 		{
 			{
 				verts={{-7.071, -11.785}, {0, 9.428}, {7.071, 2.357}},
-				ports={{1,0.276,THRUSTER_OUT}, {1, 0.724}, {2, 0.25,THRUSTER_IN}, {2, 0.75}, {0, 0.5,THRUSTER_OUT}}
+				ports={{0,0.276}, {0, 0.724,THRUSTER_OUT}, {2, 0.25,THRUSTER_IN}, {2, 0.75}, {1, 0.5,THRUSTER_OUT}}
 			}
 		}
 	},
@@ -948,7 +948,7 @@
 		{
 			{
 				verts={{-7.071, -11.785}, {0, 9.428}, {7.071, 2.357}},
-				ports={{1,0.276,THRUSTER_IN}, {1, 0.724}, {2, 0.25,THRUSTER_OUT}, {2, 0.75}, {0, 0.5,THRUSTER_OUT}}
+				ports={{0,0.276}, {0, 0.724,THRUSTER_IN}, {2, 0.25,THRUSTER_OUT}, {2, 0.75}, {1, 0.5,THRUSTER_OUT}}
 			}
 		}
 	},
