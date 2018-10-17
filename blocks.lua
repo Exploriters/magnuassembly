@@ -1298,7 +1298,6 @@
 		durability=3,
 		density=0.2,
 		growRate=5,
-		bindingId=1,
 		cannon={
 			damage=20,
 			power=10,
@@ -3394,6 +3393,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3422,6 +3422,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3450,6 +3451,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3478,6 +3480,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3506,6 +3509,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3534,6 +3538,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3562,6 +3567,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3590,6 +3596,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3618,6 +3625,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3646,6 +3654,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3674,6 +3683,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3702,6 +3712,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3730,6 +3741,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3758,6 +3770,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3786,6 +3799,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3814,6 +3828,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3842,6 +3857,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3870,6 +3886,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3898,6 +3915,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3926,6 +3944,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3956,6 +3975,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -3986,6 +4006,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -4016,6 +4037,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -4045,6 +4067,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -4074,6 +4097,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -4104,6 +4128,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -4135,6 +4160,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -7721,6 +7747,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
@@ -7750,6 +7777,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
@@ -7779,6 +7807,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
@@ -11470,6 +11499,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11501,6 +11531,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11532,6 +11563,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11563,6 +11595,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11594,6 +11627,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11625,6 +11659,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11656,6 +11691,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11687,6 +11723,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11718,6 +11755,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11749,6 +11787,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11780,6 +11819,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11811,6 +11851,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11842,6 +11883,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11873,6 +11915,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11904,6 +11947,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11935,6 +11979,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11966,6 +12011,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -11997,6 +12043,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12028,6 +12075,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12059,6 +12107,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12092,6 +12141,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12125,6 +12175,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12158,6 +12209,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12190,6 +12242,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12222,6 +12275,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12255,6 +12309,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -12289,6 +12344,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 
 	{
@@ -16289,6 +16345,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
@@ -16321,6 +16378,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
@@ -16353,6 +16411,7 @@
 			color=0x007f7f7f,
 		},
 		turretSpeed=0,
+		turretLimit=0,
 	},
 	
 	{
