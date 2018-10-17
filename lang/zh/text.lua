@@ -112,7 +112,7 @@
 	"_text_lapismRngMod"="射程修改器",
 	"_text_lapismVelMod"="弹速修改器",
 	"_text_lapismRofMod"="填装修改器",
-	"_text_lapismErdMod"="爆炸修改器",
+	"_text_lapismErdMod"="溅射修改器",
 	"_text_lapismPwrMod"="能耗修改器",
 	"_text_lapismSpecShortMod"="短见修改器",
 	"_text_lapismSpecLightMod"="轻盈修改器",
@@ -319,7 +319,7 @@
 	
 	"_text_3883Capsule"="探索家航天舱",
 
-	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n====================\n感谢您使用3883科技系统，\n再见。",
+	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n===== = == === ==== =====\n感谢您使用3883科技系统，\n再见。",
 	
 	"_text_3883OrangeStructue"="橙色结构",
 	"_text_3883BlueStructue"="橙色结构",
@@ -329,4 +329,55 @@
 	"_text_3883BlankSubsystem"="空白子系统",
 	"_text_3883PowerSaverSubsystem"="节电子系统",
 	"_text_3883WhiteSBud"="白色脚本总线"
+	"_text_3883KatoonSBud"="喀通脚本总线",
+	"_text_3883ButterflySBud"="蝴蝶脚本总线",
+	"_text_3883TriangleSBud"="三角脚本总线",
+	"_text_3883SingleSBud"="一字脚本总线",
+	"_text_3883MountSBud"="山形脚本总线",
+	"_text_3883MountSBud"="适配脚本总线",
+	"_text_3883TrightSBud"="直角脚本总线",
+	"_text_3883BlankSBud"="空白脚本总线"
+	"_text_3883STBud"="脚本及推进总线"
+	"_text_3883CubeTBud"="方块推进总线",
+	"_text_3883RectTBud"="矩形推进总线",
+	"_text_3883MTTBud"="中三角推进总线",
+	"_text_3883STTBud"="侧三角推进总线",
+	"_text_3883MQTBud"="中四分推进总线",
+	"_text_3883SQTBud"="侧四分推进总线",
+	"_text_3883SSTBud"="长三角短边接入推进总线",
+	"_text_3883SLTBud"="长三角长边接入推进总线",
+	"_text_3883SETBud"="长三角斜边接入推进总线",
+	"_text_3883SBlankBud"="空白推进总线",
+	"_text_3883BlankScript"="空白脚本Mk0",
+	
+	"_text_3883Script"="脚本",
+	"_3883lt"="<",
+	"_text_kw_DMG"="伤害",
+	"_text_kw_PWR"="能耗",
+	"_text_kw_VEL"="弹速",
+	"_text_kw_RNG"="射程",
+	"_text_kw_ROF"="填装",
+	"_text_kw_ERD"="溅射",
+	
+	"_text_3883AfterburnerOrange"="橙色助推器",
+	"_text_3883AfterburnerBlue"="蓝色助推器",
+	
+	"_text_3883Factory"="克隆机",
+	"_text_PowerStorger"="电容器",
+	
+	"_text_3883CannonS1"="A-1",
+	"_text_3883CannonS2"="DSD-4625",
+	"_text_3883CannonS3"="RRSKK-3",
+	"_text_3883CannonS4"="ASET-8",
+	"_text_3883CannonS5"="BRMG-64",
+	"_text_3883Nanoassembler"="MED-99",
+	
+	"_blurb_3883WhiteStructue"="厚重强硬锋利",
+	"_blurb_3883DarkStructue"="",
+	"_blurb_3883SBud"="",
+	"_blurb_3883TBud"="",
+	"_blurb_3883STBud"="",
+	
+	"_blurb_3883CannonS1"="Blank cannon. ",
+	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
 }
