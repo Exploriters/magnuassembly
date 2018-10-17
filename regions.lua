@@ -1,6 +1,95 @@
 
 {
+	totalSize=1000000,
+	-- ident=2,
+	-- color=0x0984ff,
+	
+	-- fleets =
+		-- {
+			-- {20004,{				{0.2, 9800},	{1, 4900}}},
+			-- {20005,{	{0, 7350},	{0.5, 9800},	{1, 4900}}},
+			-- {20009,{	{0.2, 7350},{0.5, 9800},	{1, 4900}}}
+		-- },
+	-- fleetCount={{12, 24},{9, 18}},
+	-- unique=
+		-- {
+			-- {
+				-- "20002_EnispeLunatumLeech",
+				-- "20002_LampropteraCurius",
+				-- "20002_AtrophaneuraAidoneus",
+				-- "20002_StibochionaNicea",
+				-- "20002_PapilioButlerianus",
+			-- },
+			-- {
+				-- "20004_Fermion",
+				-- "20004_ENeutrino",
+				-- "20004_PElectron",
+				-- "20004_Antineutrino",
+				-- "20004_Muon",
+			-- },
+			-- {
+				-- "20005_KochCurve",
+				-- "20005_Cissoid",
+				-- "20005_Cochleoid",
+				-- "20005_Cycloid",
+				-- "20005_Conchoid",
+			-- },
+			-- {
+				-- "20006_Castor",
+				-- "20006_Spica",
+				-- "20006_Scheat",
+				-- "20006_Alpheratz",
+				-- "20006_Sirius",
+			-- },
+			-- {
+				-- "20007_Po-212",
+				-- "20007_Fr-223",
+				-- "20007_Fr-224",
+				-- "20007_Np-237",
+				-- "20007_Np-239",
+			-- },
+			-- {
+				-- "20009_108B02620",
+				-- "20009_12AC8C12C",
+				-- "20009_101C667CC",
+				-- "20009_3EBF1556",
+				-- "20009_FB9E14D8",
+			-- },
+			-- {
+				-- "20010_Grinder",
+				-- "20010_Screw",
+				-- "20010_Spacer",
+				-- "20010_Crank",
+				-- "20010_Rivet",
+			-- },
+			-- {
+				-- "20011_Titan-Jaguar",
+				-- "20011_G3258-5.0G",
+				-- "20011_Gjwf",
+				-- "20011_Tjy",
+				-- "20011_sfc",
+			-- },
+			-- {
+				-- "20016_Idocrase",
+				-- "20016_Moonstone_I",
+				-- "20016_Moonstone_II",
+				-- "20016_Olivine_I",
+				-- "20016_Olivine_II",
+			-- },
+			-- {
+				-- "20050_Lesliei",
+				-- "20050_Cordyceps_cicadicola_Teng",
+				-- "20050_Gyromitra_ambigua_Harmaja",
+				-- "20050_Hygrophorus_pudorinus_Fr",
+				-- "20050_Inocybe_pudica_Kunn",
+			-- },
+		-- },
+	-- uniqueFraction=0.07,
+	-- ambient={ 2, 1, 0 },
+	
 	subregions={
+	
+	
 		{
 			ident=1257001,
 			faction=1257,
@@ -102,6 +191,7 @@
 			},
 			fleetCount={8, 15},
 			fleetFraction=0.8,
+			uniqueFraction=0.25,
 			ambient={ 0 },
 			asteroidDensity={0.1, 0.3},
 			asteroidSize={1, 10},
@@ -113,7 +203,7 @@
 			count=50,
 			position={0.1, 1.1},
 			radius={0.02, 0.02},
-			type=0,
+			type=2,
 			fleets={
 				{1881, { {0, 715555}, {1, 715555} }},
 --				{1881, { {0, 71555}, {1, 71555} }},
@@ -128,20 +218,24 @@
 				},
 			},
 			uniqueFraction=0.25,
+			ambient={ },
+			asteroidDensity={0.1, 0.3},
+			asteroidSize={1, 10},
+			asteroidFlags=SQUARE,
 		},
 		
 		{
 			ident=1443000,
-			faction=1881,
+			faction=1443,
 			count=100,
 			position={0.1, 1.1},
 			radius={0.02, 0.02},
-			type=0,
+			type=2,
 			fleets={
 				{1443, { {0, 715555}, {1, 715555} }},
---				{1881, { {0, 71555}, {1, 71555} }},
---				{1881, { {0, 7155}, {1, 7155} }},
---				{1881, { {0, 715}, {1, 715} }},
+--				{1443, { {0, 71555}, {1, 71555} }},
+--				{1443, { {0, 7155}, {1, 7155} }},
+--				{1443, { {0, 715}, {1, 715} }},
 			},
 			fleetCount={1, 1},
 			fleetFraction=1,

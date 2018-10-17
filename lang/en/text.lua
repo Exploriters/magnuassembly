@@ -8,13 +8,13 @@
 	"_text_word_Ancient"="Ancient",
 	"_text_AncientTech"="Magnualand",
 	"_text_material_Lapismarine"="Lapismarine",
-	"_text_faction_DSSETRNDD_tech"="SantasumuStandard",
-	"_text_faction_Light_Guard_tech"="38Tech",
-	"_text_faction_Phage_tech"="Protein",
-	"_text_faction_Winter_Ender_tech"="WE2BoLaX",
-	"_text_faction_Outlaw_tech"="Bootten",
-	"_text_faction_Null_setter_tech"="Antimatter",
-	"_text_faction_Stragegic_Brawler_tech"="3tr8g8gi3",
+	"_text_DSDtech"="SantasumuStandard",
+	"_text_38tech"="38Tech",
+	"_text_Proteintech"="Protein",
+	"_text_WE2tech"="WE2BoLaX",
+	"_text_B10tech"="Bootten",
+	"_text_Nulltech"="Antimatter",
+	"_text_3883tech"="3tr8g8gi3",
 	
 	"_text_faction_Lapismarine"="Lapismarine",
 	"_text_faction_DSSETRNDD"="DSSETRNDD",
@@ -65,7 +65,7 @@
 	
 	"_text_Capsule"="Capsule",
 	"_text_Struction_Operation"="Struction Operation",
-	"_text_Structue"="Structue"
+	"_text_Structue"="Structue",
 	"_text_Seed"="Seed",
 	"_text_Factory"="Factory",
 	"_text_resContainer"="Container",
@@ -189,7 +189,10 @@
 	"_text_NullsetterHull"="Anti Matter",
 	"_text_NullsetterThruster"="Annihilator Engine",
 	"_text_NullsetterLaser"="Annihilator Radiator",
+	
 	"_blurb_NullsetterNil"="(nil)",
+	
+--  Lapismarine
 	
 	"_blurb_lapismCapsule"="Hard capsule container. \n Jump device is installed, Jumping and clear power capacity. ",
 	"_blurb_StructionOperation"="Struction Command. \nRooted is required to assemble. ",
@@ -311,5 +314,48 @@
 	"_blurb_lapismDecoyGenerator_Ship_1257_Knight"="(i)Decoy ship：Knight. ",
 	
 	"_blurb_AncientMicroThruster"="A thruster with brust - hope you are not just find that all other thruster has no brust, put this on the back of thruster cluster may make you find back something missed - and unfortunately, no more future thruster can connect behind this one. ",
+	
+--  3883
+	
+	"_text_3883Capsule"="Explorer Capsule"
+
+	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n====================\n感谢您使用3883科技系统，\n再见。",
+	
+	"_text_3883OrangeStructue"="Orange Structue",
+	"_text_3883BlueStructue"="Blue Structue",
+	"_text_3883WhiteStructue"="Lapismarine Armor",
+	"_text_3883DarkStructue"="Insulator Hull",
+	
+	"_text_3883BlankSubsystem"="Blank Subsystem",
+	"_text_3883PowerSaverSubsystem"="Power Saver Subsystem",
+	"_text_3883WhiteSBud"="White Script Bud",
+	"_text_3883KatoonSBud"="Katoon Script Bud",
+	"_text_3883ButterflySBud"="Butterfly Script Bud",
+	"_text_3883TriangleSBud"="Triangle Script Bud",
+	"_text_3883SingleSBud"="Single Script Bud",
+	"_text_3883MountSBud"="Mount Script Bud",
+	"_text_3883MountSBud"="Adapter Script Bud",
+	"_text_3883TrightSBud"="Tright Script Bud",
+	"_text_3883BlankSBud"="Blank Script Bud"
+	"_text_3883STBud"="Script And Thruster Bud"
+	"_text_3883CubeTBud"="Cube Thruster Bud",
+	"_text_3883RectTBud"="Rect Thruster Bud",
+	"_text_3883MTTBud"="Mid Tri Thruster Bud",
+	"_text_3883STTBud"="Side Tri Thruster Bud",
+	"_text_3883MQTBud"="Mid Quarter Thruster Bud",
+	"_text_3883SQTBud"="Side Quarter Thruster Bud",
+	"_text_3883SSTBud"="Sqrt3 S Thruster Bud",
+	"_text_3883SLTBud"="Sqrt3 L Thruster Bud",
+	"_text_3883SETBud"="Sqrt3 E Thruster Bud",
+	"_text_3883SBlankBud"="Blank Thruster Bud",
+	
+	"_text_3883Script"="Script",
+	"_3883lt"="<",
+	"_text_kw_DMG"="DMG",
+	"_text_kw_PWR"="PWR",
+	"_text_kw_VEL"="VEL",
+	"_text_kw_RNG"="RNG",
+	"_text_kw_ROF"="ROF",
+	"_text_kw_ERD"="ERD",
 	
 }

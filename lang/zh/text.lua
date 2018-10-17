@@ -8,13 +8,13 @@
 	"_text_word_Ancient"="古代",
 	"_text_AncientTech"="马葛兰",
 	"_text_material_Lapismarine"="海青",
-	"_text_faction_DSSETRNDD_tech"="圣塔苏姆标准版",
-	"_text_faction_Light_Guard_tech"="三八科技",
-	"_text_faction_Phage_tech"="蛋白质",
-	"_text_faction_Winter_Ender_tech"="维图博拉兹",
-	"_text_faction_Outlaw_tech"="引导十",
-	"_text_faction_Null_setter_tech"="反物质",
-	"_text_faction_Stragegic_Brawler_tech"="三略级",
+	"_text_DSDtech"="圣塔苏姆标准版",
+	"_text_38tech"="三八科技",
+	"_text_Proteintech"="蛋白质",
+	"_text_WE2tech"="维图博拉兹",
+	"_text_B10tech"="引导十",
+	"_text_Nulltech"="反物质",
+	"_text_3883tech"="三略级",
 	
 	"_text_faction_Lapismarine"="海青族",
 	"_text_faction_DSSETRNDD"="深空战略勘探技术研发部",
@@ -63,10 +63,9 @@
 	"_text_headFriendly"="友军型",
 	"_text_LLaser"="激光",
 	
-	
 	"_text_Capsule"="航天舱",
 	"_text_Struction_Operation"="建筑控制器",
-	"_text_Structue"="结构"
+	"_text_Structue"="结构",
 	"_text_Seed"="种子",
 	"_text_Factory"="工厂",
 	"_text_resContainer"="容器",
@@ -190,7 +189,10 @@
 	"_text_NullsetterHull"="反物质",
 	"_text_NullsetterThruster"="湮灭引擎",
 	"_text_NullsetterLaser"="湮灭放射器",
+	
 	"_blurb_NullsetterNil"="(nil)",
+	
+--  海青族
 	
 	"_blurb_lapismCapsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并清空电容器。",
 	"_blurb_StructionOperation"="建筑物核心。\n需要扎根才可以重组。",
@@ -313,4 +315,18 @@
 	
 	"_blurb_AncientMicroThruster"="一个具有爆发能力的推进器——希望你不会才发现其他推进器没有爆发推进，将这个设备安置在引擎组后面或许能让你找回一些感觉——而且很不幸，这玩意后面不能安置推进器。",
 	
+--  战略狂欢者
+	
+	"_text_3883Capsule"="探索家航天舱",
+
+	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n====================\n感谢您使用3883科技系统，\n再见。",
+	
+	"_text_3883OrangeStructue"="橙色结构",
+	"_text_3883BlueStructue"="橙色结构",
+	"_text_3883WhiteStructue"="海青装甲",
+	"_text_3883DarkStructue"="绝缘结构",
+	
+	"_text_3883BlankSubsystem"="空白子系统",
+	"_text_3883PowerSaverSubsystem"="节电子系统",
+	"_text_3883WhiteSBud"="白色脚本总线"
 }
