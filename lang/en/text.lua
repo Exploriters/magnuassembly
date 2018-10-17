@@ -358,4 +358,7 @@
 	"_text_kw_ROF"="ROF",
 	"_text_kw_ERD"="ERD",
 	
+	"_text_3883AfterburnerOrange"="Orange Afterburner"
+	"_text_3883AfterburnerBlue"="Blue Afterburner"
+	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. "
 }
