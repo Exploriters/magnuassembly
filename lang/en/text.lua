@@ -319,7 +319,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n===== = == === ==== =====\n感谢您使用3883科技系统，\n再见。",
+	"_blurb_3883Capsule"="Hard capsule container. \n Jump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem available slot. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
@@ -327,7 +327,9 @@
 	"_text_3883DarkStructue"="Insulator Hull",
 	
 	"_text_3883BlankSubsystem"="Blank Subsystem",
-	"_text_3883PowerSaverSubsystem"="Power Saver Subsystem",
+	"_blurb_3883BlankSubsystem"="(-)This do nothing. ",
+	"_blurb_3883PowerSaverSubsystem"="(+)Decrease 5% power cost for boosting cannon. ",
+	
 	"_text_3883WhiteSBud"="White Script Bud",
 	"_text_3883KatoonSBud"="Katoon Script Bud",
 	"_text_3883ButterflySBud"="Butterfly Script Bud",
@@ -337,17 +339,17 @@
 	"_text_3883MountSBud"="Adapter Script Bud",
 	"_text_3883TrightSBud"="Tright Script Bud",
 	"_text_3883BlankSBud"="Blank Script Bud"
-	"_text_3883STBud"="Script And Thruster Bud"
-	"_text_3883CubeTBud"="Cube Thruster Bud",
-	"_text_3883RectTBud"="Rect Thruster Bud",
-	"_text_3883MTTBud"="Mid Tri Thruster Bud",
-	"_text_3883STTBud"="Side Tri Thruster Bud",
-	"_text_3883MQTBud"="Mid Quarter Thruster Bud",
-	"_text_3883SQTBud"="Side Quarter Thruster Bud",
-	"_text_3883SSTBud"="Sqrt3 S Thruster Bud",
-	"_text_3883SLTBud"="Sqrt3 L Thruster Bud",
-	"_text_3883SETBud"="Sqrt3 E Thruster Bud",
-	"_text_3883SBlankBud"="Blank Thruster Bud",
+	"_text_3883STBud"="Script And Thrust Bud"
+	"_text_3883CubeTBud"="Cube Thrust Bud",
+	"_text_3883RectTBud"="Rect Thrust Bud",
+	"_text_3883MTTBud"="Mid Tri Thrust Bud",
+	"_text_3883STTBud"="Side Tri Thrust Bud",
+	"_text_3883MQTBud"="Mid Quarter Thrust Bud",
+	"_text_3883SQTBud"="Side Quarter Thrust Bud",
+	"_text_3883SSTBud"="Sqrt3 S Thrust Bud",
+	"_text_3883SLTBud"="Sqrt3 L Thrust Bud",
+	"_text_3883SETBud"="Sqrt3 E Thrust Bud",
+	"_text_3883SBlankBud"="Blank Thrust Bud",
 	"_text_3883BlankScript"="Blank Script Mk0",
 	
 	"_text_3883Script"="Script",
@@ -364,6 +366,10 @@
 	
 	"_text_3883Factory"="Cloning Machine",
 	"_text_PowerStorger"="Power Storger",
+	"_text_3883techThrusterF"="Thruster F",
+	"_text_3883techThrusterL"="Thruster L",
+	"_text_3883techThrusterR"="Thruster R",
+	"_text_3883techThrusterB"="Thruster B",
 	
 	"_text_3883CannonS1"="A-1",
 	"_text_3883CannonS2"="DSD-4625",
@@ -372,12 +378,15 @@
 	"_text_3883CannonS5"="BRMG-64",
 	"_text_3883Nanoassembler"="MED-99",
 	
-	"_blurb_3883WhiteStructue"="",
-	"_blurb_3883DarkStructue"="",
-	"_blurb_3883SBud"="",
-	"_blurb_3883TBud"="",
-	"_blurb_3883STBud"="",
+	"_blurb_3883WhiteStructue"="Heavy hard spiky white armor. ",
+	"_blurb_3883DarkStructue"="Light ships structue. ",
+	"_blurb_3883SBud"="Part of Script Bud System, use this wire your weapons. ",
+	"_blurb_3883TBud"="Part of Thrust Bud System, use this wire your thrusters. ",
+	"_blurb_3883STBud"="Part of Script Bud System and Thrust Bud System, use this wire your weapons and thrusters - if they go across. ",
 	
 	"_blurb_3883CannonS1"="Blank cannon. ",
+	"_blurb_3883CannonS5"="Deadly haste blaster. ",
 	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
+	"_blurb_standardGenerator0s"="Standard generator device. ",
+	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 }
