@@ -23235,13 +23235,13 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1443252,
+		ident=1443253,
 		group=1443,
 		features=PALETTE|SHIELD|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_Shield"),
 		blurb=_("_blurb_BasicShield"),
 		shape=SQUARE,
-		scale=3,
+		scale=2,
 		fillColor=0x8fb8ff,
 		fillColor1=0xffb856,
 		lineColor=0x3f3f3f,
@@ -23263,7 +23263,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1443252,
+		ident=1443254,
 		group=1443,
 		features=PALETTE|SHIELD|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_Shield"),
@@ -23291,7 +23291,7 @@ replicateBlock=0,
 	},
 	
 	{
-		ident=1443253,
+		ident=1443255,
 		group=1443,
 		features=PALETTE|CANNON|LASER|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_3883AfterburnerOrange"),
@@ -23328,7 +23328,7 @@ replicateBlock=0,
 	},
 	
 	{
-		ident=1443254,
+		ident=1443256,
 		group=1443,
 		features=PALETTE|CANNON|LASER|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_3883AfterburnerBlue"),
@@ -23365,7 +23365,7 @@ replicateBlock=0,
 	},
 	
 	-- {
-		-- ident=1443255,
+		-- ident=1443257,
 		-- group=1443,
 		-- features=MELEE|LAUNCHER,
 		-- name="",
