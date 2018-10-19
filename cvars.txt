@@ -31,3 +31,5 @@
  kAssemblerSpeed = 700
  kRecruitCostC = 0.1
  kReleaseCostC = 0.1
+ kRecoilPercent = 0.4
+ kHudVisibleDist = 50000
