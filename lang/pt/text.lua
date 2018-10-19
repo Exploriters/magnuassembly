@@ -372,6 +372,10 @@
 	"_text_3883techThrusterL"="Thruster L",
 	"_text_3883techThrusterR"="Thruster R",
 	"_text_3883techThrusterB"="Thruster B",
+	"_blurb_3883techThrusterF"="Forward thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterL"="Left thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterR"="Right thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterB"="Backward thruster. Wired to command is required to work. ",
 	
 	"_text_3883CannonS1"="A-1",
 	"_text_3883CannonS2"="DSD-4625",

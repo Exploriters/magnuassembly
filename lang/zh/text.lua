@@ -371,7 +371,11 @@
 	"_text_3883techThrusterF"="正置推进器",
 	"_text_3883techThrusterL"="左置推进器",
 	"_text_3883techThrusterR"="右置推进器",
-	"_text_3883techThrusterB"="置推进器",
+	"_text_3883techThrusterB"="后置推进器",
+	"_blurb_3883techThrusterF"="正置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
+	"_blurb_3883techThrusterL"="左置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
+	"_blurb_3883techThrusterR"="右置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
+	"_blurb_3883techThrusterB"="后置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
 	
 	"_text_3883CannonS1"="A-1",
 	"_text_3883CannonS2"="DSD-4625",
