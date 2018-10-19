@@ -384,7 +384,7 @@
 	"_text_3883CannonS5"="BRMG-64",
 	"_text_3883Nanoassembler"="MED-99",
 	
-	"_blurb_3883WhiteStructue"="Heavy hard spiky white armor. ",
+	"_blurb_3883WhiteStructue"="Heavy hard spiky white lapismarine armor. ",
 	"_blurb_3883DarkStructue"="Light ships structue. ",
 	"_blurb_3883SBud"="Part of Script Bud System, use this wire your weapons. ",
 	"_blurb_3883TBud"="Part of Thrust Bud System, use this wire your thrusters. ",
