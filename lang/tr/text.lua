@@ -354,6 +354,7 @@
 	"_text_3883BlankScript"="Blank Script Mk0",
 	
 	"_text_3883Script"="Script",
+	"_blurb_3883Script"="Script device, boosting all cannon on same bud line at the cost of your choose. ",
 	"_3883lt"="<",
 	"_text_kw_DMG"="DMG",
 	"_text_kw_PWR"="PWR",

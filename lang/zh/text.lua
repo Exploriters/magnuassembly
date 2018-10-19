@@ -354,6 +354,7 @@
 	"_text_3883BlankScript"="空白脚本Mk0",
 	
 	"_text_3883Script"="脚本",
+	"_blurb_3883Script"="脚本设备，增幅同一总线上的所有火炮并承受你选择的负面效果。",
 	"_3883lt"="<",
 	"_text_kw_DMG"="伤害",
 	"_text_kw_PWR"="能耗",
