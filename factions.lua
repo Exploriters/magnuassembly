@@ -101,7 +101,7 @@
 		--color0=,
 		--color1=,
 		--color2=,
-		aiflags=ATTACK|INACTIVE,
+		aiflags=ATTACK,
 		thrustSFX=1,
 	},
 
