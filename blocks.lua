@@ -22650,7 +22650,6 @@
 		growRate=10,
 		armor=20,
 		meleeDamage=1,
-		bindingId=3,
 		laser={
 			damage=-28000,
 			power=28000,
