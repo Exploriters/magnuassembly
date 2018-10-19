@@ -22889,7 +22889,7 @@
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=25000,
+		torquerTorque=2500000,
 	},
 
 	{
@@ -22915,7 +22915,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=150000,
+		torquerTorque=15000000,
 	},
 
 	{
@@ -22941,7 +22941,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=600000,
+		torquerTorque=60000000,
 	},
 
 	{
@@ -22967,7 +22967,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=25000,
+		torquerTorque=2500000,
 	},
 
 	{
@@ -22993,7 +22993,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=150000,
+		torquerTorque=15000000,
 	},
 
 	{
@@ -23019,7 +23019,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=600000,
+		torquerTorque=60000000,
 	},
 
 	{
@@ -23045,7 +23045,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=25000,
+		torquerTorque=2500000,
 	},
 
 	{
@@ -23071,7 +23071,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=150000,
+		torquerTorque=15000000,
 	},
 
 	{
@@ -23097,7 +23097,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=600000,
+		torquerTorque=60000000,
 	},
 
 	{
@@ -23123,7 +23123,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=25000,
+		torquerTorque=2500000,
 	},
 
 	{
@@ -23149,7 +23149,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=150000,
+		torquerTorque=15000000,
 	},
 
 	{
@@ -23175,7 +23175,7 @@ replicateBlock=0,
 		thrusterColor=0x7fea8700,
 		thrusterColor1=0x7f0984ff,
 replicateBlock=0,
-		torquerTorque=600000,
+		torquerTorque=60000000,
 	},
 
 	{
@@ -23322,7 +23322,7 @@ replicateBlock=0,
 			range=300,
 			width=20,
 			color=0xffea8700,
-			linearForce=7500000,
+			linearForce=750000000,
 			decay=3,
 		},
 	},
@@ -23359,7 +23359,7 @@ replicateBlock=0,
 			range=200,
 			width=20,
 			color=0xff0984ff,
-			linearForce=7500000,
+			linearForce=750000000,
 			decay=3,
 		},
 	},
