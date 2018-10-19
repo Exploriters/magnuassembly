@@ -327,7 +327,9 @@
 	"_text_3883DarkStructue"="绝缘结构",
 	
 	"_text_3883BlankSubsystem"="空白子系统",
+	"_blurb_3883BlankSubsystem"="(-)什么都不做。",
 	"_text_3883PowerSaverSubsystem"="节电子系统",
+	"_blurb_3883PowerSaverSubsystem"="(+)为目标火炮武器降低5%能量消耗。"
 	
 	"_text_3883WhiteSBud"="白色脚本总线"
 	"_text_3883KatoonSBud"="喀通脚本总线",

@@ -327,7 +327,7 @@
 	"_text_3883DarkStructue"="Insulator Hull",
 	
 	"_text_3883BlankSubsystem"="Blank Subsystem",
-	"_blurb_3883BlankSubsystem"="Blank Subsystem. This do nothing",
+	"_blurb_3883BlankSubsystem"="(-)This do nothing",
 	"_text_3883PowerSaverSubsystem"="Power Saver Subsystem",
 	"_blurb_3883PowerSaverSubsystem"="(+)Decrease 5% power cost for boosting cannon. ",
 	
