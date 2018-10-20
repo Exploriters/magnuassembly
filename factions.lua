@@ -55,7 +55,7 @@
 		primaries=3,
 		color0=0xa879a8,
 		color1=0xaac9ff,
-		color2=0xeeffff,
+		color2=0x64a08f,
 		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|MUTATE|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
 		thrustSFX=1,
 	},
