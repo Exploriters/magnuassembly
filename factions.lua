@@ -51,11 +51,11 @@
 	1242 = {
 		name=_("_text_faction_Winter_Ender"),-- WE2BoLaX
 		playable=1,
-		start="1242_Guard",
+		start="1242_Squate",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
+		color0=0xa879a8,
+		color1=0xaac9ff,
+		color2=0xeeffff,
 		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|MUTATE|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
 		thrustSFX=1,
 	},
@@ -101,7 +101,7 @@
 		--color0=,
 		--color1=,
 		--color2=,
-		aiflags=ATTACK|INACTIVE,
+		aiflags=ATTACK,
 		thrustSFX=1,
 	},
 

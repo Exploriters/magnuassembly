@@ -8,13 +8,13 @@
 	"_text_word_Ancient"="Ancient",
 	"_text_AncientTech"="Magnualand",
 	"_text_material_Lapismarine"="Lapismarine",
-	"_text_faction_DSSETRNDD_tech"="SantasumuStandard",
-	"_text_faction_Light_Guard_tech"="38Tech",
-	"_text_faction_Phage_tech"="Protein",
-	"_text_faction_Winter_Ender_tech"="WE2BoLaX",
-	"_text_faction_Outlaw_tech"="Bootten",
-	"_text_faction_Null_setter_tech"="Antimatter",
-	"_text_faction_Stragegic_Brawler_tech"="3tr8g8gi3",
+	"_text_DSDtech"="SantasumuStandard",
+	"_text_38tech"="38Tech",
+	"_text_Proteintech"="Protein",
+	"_text_WE2tech"="WE2BoLaX",
+	"_text_B10tech"="Bootten",
+	"_text_Nulltech"="Antimatter",
+	"_text_3883tech"="3tr8g8gi3",
 	
 	"_text_faction_Lapismarine"="Lapismarine",
 	"_text_faction_DSSETRNDD"="DSSETRNDD",
@@ -65,7 +65,7 @@
 	
 	"_text_Capsule"="Capsule",
 	"_text_Struction_Operation"="Struction Operation",
-	"_text_Structue"="Structue"
+	"_text_Structue"="Structue",
 	"_text_Seed"="Seed",
 	"_text_Factory"="Factory",
 	"_text_resContainer"="Container",
@@ -189,7 +189,10 @@
 	"_text_NullsetterHull"="Anti Matter",
 	"_text_NullsetterThruster"="Annihilator Engine",
 	"_text_NullsetterLaser"="Annihilator Radiator",
+	
 	"_blurb_NullsetterNil"="(nil)",
+	
+--  Lapismarine
 	
 	"_blurb_lapismCapsule"="Hard capsule container. \n Jump device is installed, Jumping and clear power capacity. ",
 	"_blurb_StructionOperation"="Struction Command. \nRooted is required to assemble. ",
@@ -312,4 +315,84 @@
 	
 	"_blurb_AncientMicroThruster"="A thruster with brust - hope you are not just find that all other thruster has no brust, put this on the back of thruster cluster may make you find back something missed - and unfortunately, no more future thruster can connect behind this one. ",
 	
+--  3883
+	
+	"_text_3883Capsule"="Explorer Capsule"
+
+	"_blurb_3883Capsule"="Hard capsule container. \n Jump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem available slot. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	
+	"_text_3883OrangeStructue"="Orange Structue",
+	"_text_3883BlueStructue"="Blue Structue",
+	"_text_3883WhiteStructue"="Lapismarine Armor",
+	"_text_3883DarkStructue"="Insulator Hull",
+	
+	"_text_3883BlankSubsystem"="Blank Subsystem",
+	"_blurb_3883BlankSubsystem"="(-)This do nothing",
+	"_text_3883PowerSaverSubsystem"="Power Saver Subsystem",
+	"_blurb_3883PowerSaverSubsystem"="(+)Decrease 5% power cost for boosting cannon. ",
+	
+	"_text_3883WhiteSBud"="White Script Bud",
+	"_text_3883KatoonSBud"="Katoon Script Bud",
+	"_text_3883ButterflySBud"="Butterfly Script Bud",
+	"_text_3883TriangleSBud"="Triangle Script Bud",
+	"_text_3883SingleSBud"="Single Script Bud",
+	"_text_3883MountSBud"="Mount Script Bud",
+	"_text_3883MountSBud"="Adapter Script Bud",
+	"_text_3883TrightSBud"="Tright Script Bud",
+	"_text_3883BlankSBud"="Blank Script Bud"
+	"_text_3883STBud"="Script And Thrust Bud"
+	"_text_3883CubeTBud"="Cube Thrust Bud",
+	"_text_3883RectTBud"="Rect Thrust Bud",
+	"_text_3883MTTBud"="Mid Tri Thrust Bud",
+	"_text_3883STTBud"="Side Tri Thrust Bud",
+	"_text_3883MQTBud"="Mid Quarter Thrust Bud",
+	"_text_3883SQTBud"="Side Quarter Thrust Bud",
+	"_text_3883SSTBud"="Sqrt3 S Thrust Bud",
+	"_text_3883SLTBud"="Sqrt3 L Thrust Bud",
+	"_text_3883SETBud"="Sqrt3 E Thrust Bud",
+	"_text_3883SBlankBud"="Blank Thrust Bud",
+	"_text_3883BlankScript"="Blank Script Mk0",
+	
+	"_text_3883Script"="Script",
+	"_blurb_3883Script"="Script device, boosting all cannon on same bud line at the cost of your choose. ",
+	"_3883lt"="<",
+	"_text_kw_DMG"="DMG",
+	"_text_kw_PWR"="PWR",
+	"_text_kw_VEL"="VEL",
+	"_text_kw_RNG"="RNG",
+	"_text_kw_ROF"="ROF",
+	"_text_kw_ERD"="ERD",
+	
+	"_text_3883AfterburnerOrange"="Orange Afterburner",
+	"_text_3883AfterburnerBlue"="Blue Afterburner",
+	
+	"_text_3883Factory"="Cloning Machine",
+	"_text_PowerStorger"="Power Storger",
+	"_text_3883techThrusterF"="Thruster F",
+	"_text_3883techThrusterL"="Thruster L",
+	"_text_3883techThrusterR"="Thruster R",
+	"_text_3883techThrusterB"="Thruster B",
+	"_blurb_3883techThrusterF"="Forward thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterL"="Left thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterR"="Right thruster. Wired to command is required to work. ",
+	"_blurb_3883techThrusterB"="Backward thruster. Wired to command is required to work. ",
+	
+	"_text_3883CannonS1"="A-1",
+	"_text_3883CannonS2"="DSD-4625",
+	"_text_3883CannonS3"="RRSKK-3",
+	"_text_3883CannonS4"="ASET-8",
+	"_text_3883CannonS5"="BRMG-64",
+	"_text_3883Nanoassembler"="MED-99",
+	
+	"_blurb_3883WhiteStructue"="Heavy hard spiky white lapismarine armor. ",
+	"_blurb_3883DarkStructue"="Light ships structue. ",
+	"_blurb_3883SBud"="Part of Script Bud System, use this wire your weapons. ",
+	"_blurb_3883TBud"="Part of Thrust Bud System, use this wire your thrusters. ",
+	"_blurb_3883STBud"="Part of Script Bud System and Thrust Bud System, use this wire your weapons and thrusters - if they go across. ",
+	
+	"_blurb_3883CannonS1"="Blank cannon. ",
+	"_blurb_3883CannonS5"="Deadly haste blaster. ",
+	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
+	"_blurb_standardGenerator0s"="Standard generator device. ",
+	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 }
