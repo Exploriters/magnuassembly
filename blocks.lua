@@ -23640,11 +23640,11 @@ replicateBlock=0,
 		features=PALETTE|CANNON_BOOST|ENVIRONMENTAL|NORECOLOR,
 		name="Ender Stone",
 		shape=SQUARE,
-		scale=20,
+		scale=4,
 		fillColor=0xdddfa5,
 		fillColor1=0xe1e7ab,
 		lineColor=0xc9c690,
-		points=-1,
+		points=20,
 		durability=5,
 		density=1,
 		growRate=2.5,
@@ -24733,7 +24733,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1242800,
+		ident=1242801,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_BlizzardLauncher"),
@@ -24886,7 +24886,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1242801,
+		ident=1242802,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv1"),
@@ -24926,7 +24926,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1242802,
+		ident=1242803,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv2"),
@@ -24990,7 +24990,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1242803,
+		ident=1242804,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismFragMineCannonLv3"),
@@ -25077,7 +25077,7 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1242804,
+		ident=1242805,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismOrbCannon"),
@@ -25307,7 +25307,7 @@ replicateBlock=0,
 	},
 	
 	{
-		ident=1242805,
+		ident=1242806,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismSelfSweepCannon"),
@@ -25715,7 +25715,7 @@ replicateBlock=0,
 	-- 靛0x00b0f0
 	-- 紫0x7030a0
 	{
-		ident=1242806,
+		ident=1242807,
 		group=1242,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_lapismRainbowThrower"),
@@ -25813,7 +25813,7 @@ replicateBlock=0,
 	},
 	
 	{
-		ident=1242807,
+		ident=1242808,
 		group=1242,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapismBorealisOuroborosCannon"),
