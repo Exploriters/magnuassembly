@@ -110,7 +110,7 @@
 					"1257_Cargoship",
 				},
 			},
-			fleetFraction=0.2,
+			uniqueFraction=0.2,
 			ambient={ 0,1,2 },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
@@ -244,6 +244,31 @@
 				},
 			},
 			uniqueFraction=0,
+		},
+		
+		{
+			ident=1242001,
+			faction=1242,
+			count=3,
+			position={0.5, 0.5},
+			radius={0.12, 0.12},
+			type=2,
+			fleets={
+				{1242,{{0,715555},{0.8, 71555},{0.33,12500},{1,8000}}},
+--				{1242,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
+--				{1242,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
+			},
+			fleetCount={10, 15},
+			fleetFraction=1,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0,
+			ambient={ 0 },
+			asteroidDensity={0.25, 0.5},
+			asteroidSize={40, 160},
+			asteroidFlags=SQUARE,
 		},
 	}
 }
