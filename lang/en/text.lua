@@ -395,4 +395,8 @@
 	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
 	"_blurb_standardGenerator0s"="Standard generator device. ",
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
+	
+--  WE2BoLaX
+	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
+	
 }
