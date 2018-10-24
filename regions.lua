@@ -265,7 +265,7 @@
 				},
 			},
 			uniqueFraction=0,
-			ambient={ 0 },
+			ambient={ -1, 0 },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
 			asteroidFlags=SQUARE,
