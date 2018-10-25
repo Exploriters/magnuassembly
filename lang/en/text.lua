@@ -392,7 +392,7 @@
 	
 	"_blurb_3883CannonS1"="Blank cannon. ",
 	"_blurb_3883CannonS5"="Deadly haste blaster. ",
-	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
+	"_blurb_3883Afterburner1000"="Active manually, 1000k thrust force, no wiring is needed. ",
 	"_blurb_standardGenerator0s"="Standard generator device. ",
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 	
