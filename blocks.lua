@@ -23819,8 +23819,8 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1257932,
-		group=1257,
+		ident=1242011,
+		group=1242,
 		features=PALETTE|CHARGING|LASER|GENERATOR|TURRET,
 		name=_("_text_lapismDoomsdayBeam"),
 		blurb=_("_blurb_lapismAncientDoomsdayBeam"),
@@ -23847,8 +23847,8 @@ replicateBlock=0,
 	},
 
 	{
-		ident=1257932,
-		group=1257,
+		ident=1242012,
+		group=1242,
 		features=PALETTE|CHARGING|LASER|TURRET,
 		name=_("_text_AncientTech")_("_bl")_("_text_lapismDoomsdayBeam"),
 		blurb=_("_blurb_lapismAncientDoomsdayBeam")_("_n")_("_blurb_ancient_block"),
