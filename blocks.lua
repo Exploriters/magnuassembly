@@ -30,6 +30,7 @@
 		thrusterColor1=0x5f7fc0ff,
 		torquerTorque=5000,
 		teleporterPower=nan,
+		teleporterRadius=30000,
 	},
 
 	{
@@ -16614,6 +16615,7 @@
 		thrusterColor1=0xbfc0ff7f,
 		torquerTorque=25000,
 		teleporterPower=20,
+		teleporterRadius=30000,
 		cannon={--初始
 			damage=1,
 			power=20,
@@ -17957,6 +17959,7 @@
 		thrusterColor=0x017f7f7f,
 		thrusterColor1=0x017f7f7f,
 		teleporterPower=100,
+		teleporterRadius=30000,
 		cannonBoost={
 			power={0.05, 0},
 		},
