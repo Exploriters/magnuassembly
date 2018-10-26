@@ -33,4 +33,4 @@
  kReleaseCostC = 0.1
  kRecoilPercent = 0.4
  kHudVisibleDist = 50000
- kButtonCorners = 0
+ kButtonCorners = 0.05
