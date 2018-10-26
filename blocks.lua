@@ -22961,7 +22961,7 @@
 			}
 		},
 		turretSpeed=6,
-		turretLimit=2.356,
+		turretLimit=4.7123889803846898576939650749193,
 	},
 
 	{
