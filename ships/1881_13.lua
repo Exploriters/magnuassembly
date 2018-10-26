@@ -1,6 +1,6 @@
 
 {data={name="Nanf", author="Magnus siiftun1857 Frankline"}, blocks={
-    {5},
+    {1881000},
     {1881001, {10, 0}, -1.571},
     {1881001, {0, 10}},
     {1881001, {0, -10}},
