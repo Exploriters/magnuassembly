@@ -16587,10 +16587,10 @@
 		fillColor1=0x007fc0ff,
 		lineColor=0x5862a0,
 		command={
-			flags=ATTACK|RACKLESS,
+			flags=ATTACK|RECKLESS|FLOCKING|SOCIAL,
 			faction=1259,
 		},
-		points=10000,
+		points=100,
 		durability=100,
 		density=0.8,
 		growRate=inf,
