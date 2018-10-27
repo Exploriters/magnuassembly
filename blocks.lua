@@ -16624,9 +16624,9 @@
 		name="Ancient Sub Orb",
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x0000007f,
-		fillColor1=0x0000007f,
-		lineColor=0x00007f,
+		fillColor=0x0000003f,
+		fillColor1=0x0000003f,
+		lineColor=0x00003f,
 		points=1,
 		durability=1,
 		density=0.05,
@@ -16641,7 +16641,7 @@
 			lineColor=0xfe7fc0ff,
 			damagedColor=0xfe7fc0ff,
 		},
-		barrelSizr={inf,inf}
+		barrelSizr={inf,inf},
 		laser={
 			damage=200,
 			power=inf,
