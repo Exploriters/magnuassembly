@@ -16651,6 +16651,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16687,6 +16688,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16723,6 +16725,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16759,6 +16762,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16795,6 +16799,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16831,6 +16836,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16867,6 +16873,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16903,6 +16910,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	
 	{
@@ -16939,6 +16947,7 @@
 			decay=0,
 			barrelTaper=inf,
 		},
+		turretSpeed=inf,
 	},
 	----------------------------------------
 	{

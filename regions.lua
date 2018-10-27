@@ -223,6 +223,31 @@
 			asteroidSize={1, 10},
 			asteroidFlags=SQUARE,
 		},
+		{
+			ident=1259000,
+			faction=1259,
+			count=100,
+			position={0.05, 0.9},
+			radius={0.02, 0.02},
+			type=2,
+			fleets={
+				{1259, { {0, 715555}, {1, 715555} }},
+--				{1259, { {0, 71555}, {1, 71555} }},
+--				{1259, { {0, 7155}, {1, 7155} }},
+--				{1259, { {0, 715}, {1, 715} }},
+			},
+			fleetCount={3, 8},
+			fleetFraction=0.75,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0.25,
+			ambient={ },
+			asteroidDensity={0.1, 0.3},
+			asteroidSize={1, 10},
+			asteroidFlags=PENROSE|SQUARE|HEXAGON|TRIANGLE|OCTAGON,
+		},
 		
 		{
 			ident=1443000,
