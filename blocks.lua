@@ -16597,6 +16597,7 @@
 		shield={
 			strength=960,
 			regen=960,
+			power=0,
 			radius=10,
 			delay=5,
 			armor=100,
@@ -17821,7 +17822,7 @@
 	{
 		ident=1881000,
 		group=1881,
-		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SELFFACTORY|THRUSTER|TORQUER|TRACTOR,
+		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SELFFACTORY|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
 		name=_("_text_NullsetterCommand"),
 		blurb=_("_blurb_NullsetterNil"),
 		shape=SQUARE,
@@ -17856,6 +17857,7 @@
 		thrusterColor1=0xff800080,
 		torquerTorque=200000,
 		teleporterPower=nan,
+		teleporterRadius=1,
 	},
 
 	{
@@ -23549,7 +23551,7 @@ replicateBlock=0,
 	{
 		ident=1242000,
 		group=1242,
-		features=ASSEMBLER|CANNON_BOOST|COMMAND|GENERATOR|SELFFACTORY|TORQUER|TRACTOR|PHOTOSYNTH,
+		features=ASSEMBLER|CANNON_BOOST|COMMAND|GENERATOR|SELFFACTORY|TELEPORTER|TORQUER|TRACTOR|PHOTOSYNTH,
 		name=_("_text_WE2tech"),
 		blurb=_("_blurb_WE2BoLaXCapsule"),
 		shape=SQUARE_LAUNCHER,
@@ -23572,7 +23574,8 @@ replicateBlock=0,
 		cannonBoost={
 			power={0, -inf},
 		},
-		teleporterPower=-inf,
+		teleporterPower=nan,
+		teleporterRadius=1000,
 	},
 
 	{
