@@ -392,7 +392,11 @@
 	
 	"_blurb_3883CannonS1"="空白火炮。",
 	"_blurb_3883CannonS5"="致命的急速火炮。",
-	"_blurb_3883Afterburner3000"="手动激活，具有3000k推力，不需要连接总线。",
+	"_blurb_3883Afterburner1000"="手动激活，具有1000k推力，不需要连接总线。",
 	"_blurb_standardGenerator0s"="标准化电力模块。",
 	"_blurb_standardPowerStorger"="提供电容但不产生电量。",
+	
+--  WE2BoLaX
+	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
+	
 }

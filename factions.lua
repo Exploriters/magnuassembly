@@ -55,7 +55,7 @@
 		primaries=3,
 		color0=0xa879a8,
 		color1=0xaac9ff,
-		color2=0xeeffff,
+		color2=0x64a08f,
 		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|MUTATE|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
 		thrustSFX=1,
 	},
@@ -98,10 +98,11 @@
 	1259 = {
 		name=_("_text_faction_Ancient"),-- Magnualand
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
-		aiflags=ATTACK,
+		start="1259_Orb1",
+		color0=0x0000ff,
+		color1=0x7fc0ff,
+		color2=0xffffff,
+		aiflags=ATTACK|RECKLESS|FLOCKING|SOCIAL,
 		thrustSFX=1,
 	},
 
