@@ -16641,7 +16641,7 @@
 			lineColor=0xfe7fc0ff,
 			damagedColor=0xfe7fc0ff,
 		},
-		barrelSizr={inf,inf},
+		barrelSize={inf,inf},
 		laser={
 			damage=200,
 			power=inf,
