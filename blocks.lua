@@ -16608,7 +16608,7 @@
 		shield={
 			strength=10000,
 			regen=3,
-			radius=11,
+			radius=20,
 			power=0,
 			delay=1,
 			color=0xfe7fc0ff,
