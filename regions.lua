@@ -110,7 +110,7 @@
 					"1257_Cargoship",
 				},
 			},
-			fleetFraction=0.2,
+			uniqueFraction=0.2,
 			ambient={ 0,1,2 },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
@@ -205,7 +205,7 @@
 			radius={0.02, 0.02},
 			type=2,
 			fleets={
-				{1881, { {0, 715555}, {1, 715555} }},
+				{1881, { {0, 71555}, {1, 71555} }},
 --				{1881, { {0, 71555}, {1, 71555} }},
 --				{1881, { {0, 7155}, {1, 7155} }},
 --				{1881, { {0, 715}, {1, 715} }},
@@ -222,6 +222,31 @@
 			asteroidDensity={0.1, 0.3},
 			asteroidSize={1, 10},
 			asteroidFlags=SQUARE,
+		},
+		{
+			ident=1259000,
+			faction=1259,
+			count=100,
+			position={0.05, 0.9},
+			radius={0.02, 0.02},
+			type=2,
+			fleets={
+				{1259, { {0, 715555}, {1, 715555} }},
+--				{1259, { {0, 71555}, {1, 71555} }},
+--				{1259, { {0, 7155}, {1, 7155} }},
+--				{1259, { {0, 715}, {1, 715} }},
+			},
+			fleetCount={3, 8},
+			fleetFraction=0.75,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0.25,
+			ambient={ },
+			asteroidDensity={0.1, 0.3},
+			asteroidSize={1, 10},
+			asteroidFlags=PENROSE|SQUARE|HEXAGON|TRIANGLE|OCTAGON,
 		},
 		
 		{
@@ -244,6 +269,31 @@
 				},
 			},
 			uniqueFraction=0,
+		},
+		
+		{
+			ident=1242001,
+			faction=1242,
+			count=3,
+			position={0.5, 0.5},
+			radius={0.12, 0.12},
+			type=2,
+			fleets={
+				{1242,{{0,715555},{0.8, 71555},{0.33,12500},{1,8000}}},
+--				{1242,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
+--				{1242,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
+			},
+			fleetCount={10, 15},
+			fleetFraction=1,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0,
+			ambient={ -1, 0 },
+			asteroidDensity={0.25, 0.5},
+			asteroidSize={40, 160},
+			asteroidFlags=SQUARE,
 		},
 	}
 }
