@@ -226,9 +226,9 @@
 		{
 			ident=1259000,
 			faction=1259,
-			count=100,
-			position={0.05, 0.9},
-			radius={0.02, 0.02},
+			count=50,
+			position={0.05, 0.95},
+			radius={0.01, 0.01},
 			type=2,
 			fleets={
 				{1259, { {0, 715555}, {1, 715555} }},
