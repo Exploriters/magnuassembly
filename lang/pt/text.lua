@@ -315,6 +315,8 @@
 	
 	"_blurb_AncientMicroThruster"="A thruster with brust - hope you are not just find that all other thruster has no brust, put this on the back of thruster cluster may make you find back something missed - and unfortunately, no more future thruster can connect behind this one. ",
 	
+	"_text_AncientOrbCore"="Ancient Orb",
+	"_text_AncientOrbHull"="Ancient Sub Orb",
 --  3883
 	
 	"_text_3883Capsule"="Explorer Capsule"
@@ -339,8 +341,10 @@
 	"_text_3883MountSBud"="Mount Script Bud",
 	"_text_3883MountSBud"="Adapter Script Bud",
 	"_text_3883TrightSBud"="Tright Script Bud",
-	"_text_3883BlankSBud"="Blank Script Bud"
-	"_text_3883STBud"="Script And Thrust Bud"
+	"_text_3883BlankSBud"="Blank Script Bud",
+	"_text_3883HalfSBud"="Crossing Script Bud",
+	"_text_3883STBud"="Script And Thrust Bud",
+	
 	"_text_3883CubeTBud"="Cube Thrust Bud",
 	"_text_3883RectTBud"="Rect Thrust Bud",
 	"_text_3883MTTBud"="Mid Tri Thrust Bud",
@@ -392,7 +396,11 @@
 	
 	"_blurb_3883CannonS1"="Blank cannon. ",
 	"_blurb_3883CannonS5"="Deadly haste blaster. ",
-	"_blurb_3883Afterburner3000"="Active manually, 3000k thrust force, no wiring is needed. ",
+	"_blurb_3883Afterburner1000"="Active manually, 1000k thrust force, no wiring is needed. ",
 	"_blurb_standardGenerator0s"="Standard generator device. ",
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
+	
+--  WE2BoLaX
+	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
+	
 }

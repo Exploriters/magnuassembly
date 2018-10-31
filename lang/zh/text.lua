@@ -315,6 +315,8 @@
 	
 	"_blurb_AncientMicroThruster"="一个具有爆发能力的推进器——希望你不会才发现其他推进器没有爆发推进，将这个设备安置在引擎组后面或许能让你找回一些感觉——而且很不幸，这玩意后面不能安置推进器。",
 	
+	"_text_AncientOrbCore"="古代聚合物",
+	"_text_AncientOrbHull"="古代聚合体",
 --  战略狂欢者
 	
 	"_text_3883Capsule"="探索家航天舱",
@@ -339,8 +341,10 @@
 	"_text_3883MountSBud"="山形脚本总线",
 	"_text_3883MountSBud"="适配脚本总线",
 	"_text_3883TrightSBud"="直角脚本总线",
-	"_text_3883BlankSBud"="空白脚本总线"
-	"_text_3883STBud"="脚本及推进总线"
+	"_text_3883BlankSBud"="空白脚本总线",
+	"_text_3883HalfSBud"="交叉脚本总线",
+	"_text_3883STBud"="脚本及推进总线",
+	
 	"_text_3883CubeTBud"="方块推进总线",
 	"_text_3883RectTBud"="矩形推进总线",
 	"_text_3883MTTBud"="中三角推进总线",
