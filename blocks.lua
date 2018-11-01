@@ -16577,6 +16577,38 @@
 	},
 	
 	{
+		ident=1259006,
+		group=1259,
+		features=PALETTE,
+		name=_("_text_AncientTech")_("_bl")_("_text_Structue"),
+		shape=602,
+		scale=1,
+		fillColor=0xeeffff,
+		fillColor1=0x7fc0ff,
+		lineColor=0x0000ff,
+		points=-1,
+		durability=inf,
+		density=1,
+		growRate=inf,
+	},
+	
+	{
+		ident=1259007,
+		group=1259,
+		features=PALETTE,
+		name=_("_text_AncientTech")_("_bl")_("_text_Structue"),
+		shape=1257042,
+		scale=1,
+		fillColor=0xeeffff,
+		fillColor1=0x7fc0ff,
+		lineColor=0x0000ff,
+		points=-1,
+		durability=inf,
+		density=1,
+		growRate=inf,
+	},
+	
+	{
 		ident=1259600,
 		group=1259,
 		features=ASSEMBLER|COMMAND|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
