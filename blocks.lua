@@ -16633,7 +16633,7 @@
 	{
 		ident=1259600,
 		group=1259,
-		features=ASSEMBLER|COMMAND|EXPLODE|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
+		features=ASSEMBLER|COMMAND|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
 		name=_("_text_AncientOrbCore"),
 		shape=HEXAGON,
 		scale=1,
@@ -16676,7 +16676,7 @@
 	{
 		ident=1259601,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=1,
@@ -16715,7 +16715,7 @@
 	{
 		ident=1259602,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=1,
@@ -16754,7 +16754,7 @@
 	{
 		ident=1259603,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=1,
@@ -16793,7 +16793,7 @@
 	{
 		ident=1259604,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=1,
@@ -16832,7 +16832,7 @@
 	{
 		ident=1259605,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=1,
@@ -16871,7 +16871,7 @@
 	{
 		ident=1259606,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=1,
@@ -16910,7 +16910,7 @@
 	{
 		ident=1259607,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=1,
@@ -16949,7 +16949,7 @@
 	{
 		ident=1259608,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=1,
@@ -16988,7 +16988,7 @@
 	{
 		ident=1259609,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=1,
@@ -17027,7 +17027,7 @@
 	{
 		ident=1259610,
 		group=1259,
-		features=ASSEMBLER|COMMAND|EXPLODE|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
+		features=ASSEMBLER|COMMAND|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
 		name=_("_text_AncientOrbCore"),
 		shape=TRI,
 		scale=1,
@@ -17070,7 +17070,7 @@
 	{
 		ident=1259611,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=3,
@@ -17109,7 +17109,7 @@
 	{
 		ident=1259612,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=3,
@@ -17148,7 +17148,7 @@
 	{
 		ident=1259613,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=HEXAGON,
 		scale=3,
@@ -17187,7 +17187,7 @@
 	{
 		ident=1259614,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=3,
@@ -17226,7 +17226,7 @@
 	{
 		ident=1259615,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=3,
@@ -17265,7 +17265,7 @@
 	{
 		ident=1259616,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=TRI,
 		scale=3,
@@ -17304,7 +17304,7 @@
 	{
 		ident=1259617,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=3,
@@ -17343,7 +17343,7 @@
 	{
 		ident=1259618,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=3,
@@ -17382,7 +17382,7 @@
 	{
 		ident=1259619,
 		group=1259,
-		features=SHIELD|INVISIBLE|EXPLODE|NOCLIP|LASER|TURRET,
+		features=SHIELD|INVISIBLE|NOCLIP|LASER|TURRET,
 		name=_("_text_AncientOrbHull"),
 		shape=602,
 		scale=3,
