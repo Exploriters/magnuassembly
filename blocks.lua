@@ -16483,6 +16483,7 @@
 	{
 		ident=1258999,
 		group=1257,
+		lifetime=30,
 		features=FREERES|NOCLIP|INVULNERABLE|NOPALETTE|LAUNCHER,
 		name=_("_text_Decoy")_("_bl")_("_text_lapismDecoyGenerator"),
 		blurb=_("_blurb_lapismDecoyGenerator")_("_n")_("_blurb_decoy_block"),
