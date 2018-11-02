@@ -16649,7 +16649,7 @@
 		points=100,
 		durability=100,
 		density=0.8,
-		growRate=100,
+		growRate=inf,
 		capacity=inf,
 		generatorCapacityPerSec=inf,
 		powerCapacity=inf,
