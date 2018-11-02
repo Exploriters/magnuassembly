@@ -1,9 +1,9 @@
 
 {data={name="", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x13385a, {25.151, -0.8}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}},
-    {0x133864, {13.604, -0.8}, command={faction=1259, blueprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}, nextprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}}},
-    {0x133864, {30.924, -10.8}, command={faction=1259, blueprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}, nextprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}}},
-    {0x133864, {30.924, 9.2}, command={faction=1259, blueprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}, nextprint={blocks={{0x133864, {-8.66, 0}, command={faction=1259}},{0x133850, {8.66, 0}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}}}}}},
+    {0x133850, {13.604, -0.8}, command={faction=1259, blueprint="1259_Orb1", nextprint="1259_Orb1"}},
+    {0x133850, {30.924, -10.8}, command={faction=1259, blueprint="1259_Orb2", nextprint="1259_Orb2"}},
+    {0x133850, {30.924, 9.2}, command={faction=1259, blueprint="1259_Orb3", nextprint="1259_Orb3"}},
     {0x13385c, {66.274, -11.21}},
     {0x13385d, {109.576, 23.79}},
     {0x133862, {-33.327, 46.285}, 4.189},
