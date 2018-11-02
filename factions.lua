@@ -51,7 +51,7 @@
 	1242 = {
 		name=_("_text_faction_Winter_Ender"),-- WE2BoLaX
 		playable=1,
-		start="1242_Squate",
+		start="1242_Squate2",
 		primaries=3,
 		color0=0xa879a8,
 		color1=0xaac9ff,
