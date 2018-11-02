@@ -1,7 +1,6 @@
 
-{data={name="Squate2", author="siiftun1857", color0=0xa879a8, color1=0xaac9ff, color2=0x64a08f,
-    wgroup={2, 2, 2, 2}}, blocks={
-    {0x12f390, {37.408, 0}, command={faction=1242}, features=COMMAND|GENERATOR|TORQUER|ASSEMBLER|CANNON_BOOST|TRACTOR|PHOTOSYNTH|UNIQUE|SELFFACTORY|TELEPORTER},
+{data={name="Squate2", author="siiftun1857", wgroup={2, 2, 2, 2}}, blocks={
+    {0x12f390, {37.408, 0}, command={faction=1242}},
     {0x12f391, {22.408, -15}},
     {0x12f391, {32.408, -15}},
     {0x12f391, {32.408, -25}},
