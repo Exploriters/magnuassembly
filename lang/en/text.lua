@@ -404,4 +404,21 @@
 	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
 	"_text_blockRoot"="Root",
 	"_blurb_blockRoot"="Struction root block. ",
+	
+	"_text_WE2cube"="Frozen Cube",
+	"_blurb_WE2cube"="More cube you have, more big of your fireworks. ",
+	"_text_WE2shull"="Shull",
+	"_blurb_WE2shull"="Anti melee hard armor, cannot wiring cannons. ",
+	"_text_WE2estone"="Ender Stone",
+	"_blurb_WE2estone"="Ender Stone. ",
+	"_text_WE2assembler"="Reassemble Crystal",
+	"_blurb_WE2assembler"="Reassemble Crystal. ",
+	
+	"_blurb_WE2weapon_A1"="A1",
+	"_blurb_WE2weapon_bslash"="Backslash Crossbow",
+	"_blurb_WE2weapon_fusion"="Fusion Blaster",
+	"_blurb_WE2weapon_ATB"="Anti Fleet Bomber",
+	"_blurb_WE2weapon_striker"="Striker",
+	"_blurb_WE2weapon_WallSpawner"="Wall Spawner",
+	"_blurb_WE2weapon_BusterRifle"="Buster Rifle",
 }

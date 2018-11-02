@@ -404,4 +404,21 @@
 	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
 	"_text_blockRoot"="根基",
 	"_blurb_blockRoot"="建筑物根部方块。",
+	
+	"_text_WE2cube"="冷方块",
+	"_blurb_WE2cube"="More cube you have, more big of your fireworks. ",
+	"_text_WE2shull"="壳",
+	"_blurb_WE2shull"="坚硬的反近战绝缘装甲。",
+	"_text_WE2estone"="Ender Stone",
+	"_blurb_WE2estone"="Ender Stone. ",
+	"_text_WE2assembler"="Reassemble Crystal",
+	"_blurb_WE2assembler"="Reassemble Crystal. ",
+	
+	"_blurb_WE2weapon_A1"="A1",
+	"_blurb_WE2weapon_bslash"="Backslash Crossbow",
+	"_blurb_WE2weapon_fusion"="Fusion Blaster",
+	"_blurb_WE2weapon_ATB"="Anti Fleet Bomber",
+	"_blurb_WE2weapon_striker"="Striker",
+	"_blurb_WE2weapon_WallSpawner"="Wall Spawner",
+	"_blurb_WE2weapon_BusterRifle"="Buster Rifle",
 }
