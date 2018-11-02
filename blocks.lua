@@ -16637,6 +16637,8 @@
 		name=_("_text_AncientOrbCore"),
 		shape=HEXAGON,
 		scale=1,
+		growFeatures=AUTOLAUNCH, 
+		launchFeatures=ASSEMBLER|COMMAND|ONEUSE|GENERATOR|SHIELD|INVISIBLE|NOCLIP|THRUSTER|TORQUER,
 		fillColor=0x005862a0,
 		fillColor1=0x007fc0ff,
 		lineColor=0x5862a0,
