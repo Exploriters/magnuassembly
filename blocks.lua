@@ -16662,7 +16662,7 @@
 		teleporterPower=nan,
 		teleporterRadius=100,
 		shield={
-			strength=10000,
+			strength=7500,
 			regen=3,
 			radius=20,
 			power=0,
@@ -17427,8 +17427,8 @@
 	{
 		ident=1259620,
 		group=1259,
-	--	lifetime=1,
-		features=ASSEMBLER|COMMAND|FACTORY|ONEUSE|GENERATOR|INVISIBLE|NOCLIP,
+		lifetime=2,
+		features=ASSEMBLER|COMMAND|EXPLODE|GENERATOR|INVISIBLE|NOCLIP,
 		name=_("_text_AncientOrbCore"),
 		shape=1257043,
 		scale=1,
