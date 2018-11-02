@@ -16658,7 +16658,7 @@
 		thrusterBoostTime=inf,
 		thrusterColor=0x01000001,
 		thrusterColor1=0x01000001,
-		torquerTorque=400000,
+		torquerTorque=800000,
 		teleporterPower=nan,
 		teleporterRadius=100,
 		shield={
@@ -17056,7 +17056,7 @@
 		thrusterBoostTime=inf,
 		thrusterColor=0x01000001,
 		thrusterColor1=0x01000001,
-		torquerTorque=3600000,
+		torquerTorque=10000000,
 		teleporterPower=nan,
 		teleporterRadius=100,
 		shield={
