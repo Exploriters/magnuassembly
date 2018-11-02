@@ -1,9 +1,9 @@
 
 {data={name="", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x13385a, {41.882, 2.997}, command={faction=1259, blueprint="1259_MegaOrb1", nextprint="1259_MegaOrb1"}},
-    {0x133864, {53.43, 2.997}, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb1", nextprint="1259_Orb1"}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb1", nextprint="1259_Orb1"}}}}}},
-    {0x133864, {36.109, -7.003}, -2.094, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb2", nextprint="1259_Orb2"}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb2", nextprint="1259_Orb2"}}}}}},
-    {0x133864, {36.109, 12.998}, 2.094, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb3", nextprint="1259_Orb3"}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259}},{0x133850, {-1.663, 0}, command={faction=1259, blueprint="1259_Orb3", nextprint="1259_Orb3"}}}}}},
+    {0x133864, {53.43, 2.997}, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb1", {}, {}, {}}}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb1", {}, {}, {}}}}}}}},
+    {0x133864, {36.109, -7.003}, -2.094, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb2", {}, {}, {}}}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb2", {}, {}, {}}}}}}}},
+    {0x133864, {36.109, 12.998}, 2.094, command={faction=1259, blueprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb3", {}, {}, {}}}}}}, nextprint={blocks={{0x133864, {9.884, 0}, command={faction=1259,children={"1259_Orb3", {}, {}, {}}}}}}}},
     {0x133861, {59.203, -12.003}},
     {0x13385d, {59.203, 32.997}},
     {0x13385b, {15.91, -32.008}, 1.047},

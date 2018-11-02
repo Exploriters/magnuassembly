@@ -17421,8 +17421,8 @@
 	{
 		ident=1259620,
 		group=1259,
-		lifetime=1,
-		features=ASSEMBLER|COMMAND|EXPLODE|GENERATOR|INVISIBLE|NOCLIP,
+	--	lifetime=1,
+		features=ASSEMBLER|COMMAND|FACTORY|ONEUSE|GENERATOR|INVISIBLE|NOCLIP,
 		name=_("_text_AncientOrbCore"),
 		shape=1257043,
 		scale=1,
