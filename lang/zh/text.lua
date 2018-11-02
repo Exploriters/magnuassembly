@@ -402,5 +402,6 @@
 	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
-	
+	"_text_blockRoot"="根基",
+	"_blurb_blockRoot"="建筑物根部方块。",
 }

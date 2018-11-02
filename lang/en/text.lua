@@ -402,5 +402,6 @@
 	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
-	
+	"_text_blockRoot"="Root",
+	"_blurb_blockRoot"="Struction root block. ",
 }
