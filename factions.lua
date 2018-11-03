@@ -29,9 +29,9 @@
 		playable=1,
 		start="1238_Tech_Bomber",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
+		color0=0xffbf00,
+		color1=0x725538,
+		color2=0xbfbfbf,
 		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
 	},
 	
