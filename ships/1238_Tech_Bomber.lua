@@ -1,6 +1,6 @@
 
 {data={name="Tech Bomber", author="Magnus siiftun1857 Frankline"}, blocks={
-    {0x12e3f0, {0.147, -9.714}},
+    {0x12e3f0, {0.147, -9.714}, command={faction=1238}},
     {0x12e3f1, {-50.06, 18.946}, -1.571},
     {0x12e3f1, {-40.06, 18.946}, -1.571},
     {0x12e3f1, {-60.06, -18.374}, -1.571},
