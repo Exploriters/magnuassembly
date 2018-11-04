@@ -9160,7 +9160,6 @@
 		durability=3,
 		density=0.2,
 		growRate=inf,
-		bindingId=1,
 		cannon={
 			explosive=FINAL,
 			explodeRadius=0,
@@ -27509,6 +27508,7 @@ replicateBlock=0,
 		generatorCapacityPerSec=5000,
 		powerCapacity=200000,
 		teleporterPower=8,
+		teleporterRadius=30000,
 	},
 
 	{
@@ -28543,7 +28543,6 @@ replicateBlock=0,
 		replicateTime=5.04,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28590,7 +28589,6 @@ replicateBlock=0,
 		replicateTime=2.52,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28637,7 +28635,6 @@ replicateBlock=0,
 		replicateTime=1.68,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28684,7 +28681,6 @@ replicateBlock=0,
 		replicateTime=1.26,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28731,7 +28727,6 @@ replicateBlock=0,
 		replicateTime=1.008,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28778,7 +28773,6 @@ replicateBlock=0,
 		replicateTime=0.84,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28825,7 +28819,6 @@ replicateBlock=0,
 		replicateTime=0.72,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28872,7 +28865,6 @@ replicateBlock=0,
 		replicateTime=0.63,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28919,7 +28911,6 @@ replicateBlock=0,
 		replicateTime=0.56,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 
 	{
@@ -28966,7 +28957,6 @@ replicateBlock=0,
 		replicateTime=0.504,
 		launcherPower=100,
 		launcherOutSpeed=2000,
-		bindingId=1,
 	},
 	
 	{
@@ -29128,7 +29118,7 @@ replicateBlock=0,
 				explodeRadius=125,
 			},
 		},
-		turretSpeed=7.069,
+		turretSpeed=4.712,
 		turretLimit=4.712,
 	},
 	
@@ -29177,7 +29167,7 @@ replicateBlock=0,
 		},
 		turretSpeed=9.424,
 		turretLimit=0.13089969389957471826927680763665,
-		barrelSize={-1e-160,1e-160}
+		barrelSize={-1e-160,1e-16},
 	},
 }
 
