@@ -29100,7 +29100,7 @@ replicateBlock=0,
 		features=PALETTE|AUTOFIRE|CANNON|TURRET,
 		name="Modular Rail Rifle",
 		blurb="Modular Rail Rifle.",
-		shape=TRI,
+		shape=CANNON2,
 		scale=3,
 		fillColor=0xc0c0c0,
 		fillColor1=0x3f3f3f,
@@ -29129,6 +29129,8 @@ replicateBlock=0,
 			},
 		},
 		turretSpeed=9.424,
+		turretLimit=0.13089969389957471826927680763665,
+		barrelSize={-1e-160,1e-3}
 	},
 }
 
