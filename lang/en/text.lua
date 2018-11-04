@@ -315,6 +315,8 @@
 	
 	"_blurb_AncientMicroThruster"="A thruster with brust - hope you are not just find that all other thruster has no brust, put this on the back of thruster cluster may make you find back something missed - and unfortunately, no more future thruster can connect behind this one. ",
 	
+	"_text_AncientOrbCore"="Ancient Orb",
+	"_text_AncientOrbHull"="Ancient Sub Orb",
 --  3883
 	
 	"_text_3883Capsule"="Explorer Capsule"
@@ -339,8 +341,10 @@
 	"_text_3883MountSBud"="Mount Script Bud",
 	"_text_3883MountSBud"="Adapter Script Bud",
 	"_text_3883TrightSBud"="Tright Script Bud",
-	"_text_3883BlankSBud"="Blank Script Bud"
-	"_text_3883STBud"="Script And Thrust Bud"
+	"_text_3883BlankSBud"="Blank Script Bud",
+	"_text_3883HalfSBud"="Crossing Script Bud",
+	"_text_3883STBud"="Script And Thrust Bud",
+	
 	"_text_3883CubeTBud"="Cube Thrust Bud",
 	"_text_3883RectTBud"="Rect Thrust Bud",
 	"_text_3883MTTBud"="Mid Tri Thrust Bud",
@@ -398,5 +402,23 @@
 	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
+	"_text_blockRoot"="Root",
+	"_blurb_blockRoot"="Struction root block. ",
 	
+	"_text_WE2cube"="Frozen Cube",
+	"_blurb_WE2cube"="More cube you have, more big of your fireworks. ",
+	"_text_WE2shull"="Shull",
+	"_blurb_WE2shull"="Anti melee hard armor, cannot wiring cannons. ",
+	"_text_WE2estone"="Ender Stone",
+	"_blurb_WE2estone"="Ender Stone. ",
+	"_text_WE2assembler"="Reassemble Crystal",
+	"_blurb_WE2assembler"="Reassemble Crystal. ",
+	
+	"_blurb_WE2weapon_A1"="A1",
+	"_blurb_WE2weapon_bslash"="Backslash Crossbow",
+	"_blurb_WE2weapon_fusion"="Fusion Blaster",
+	"_blurb_WE2weapon_ATB"="Anti Fleet Bomber",
+	"_blurb_WE2weapon_striker"="Striker",
+	"_blurb_WE2weapon_WallSpawner"="Wall Spawner",
+	"_blurb_WE2weapon_BusterRifle"="Buster Rifle",
 }

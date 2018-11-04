@@ -197,6 +197,7 @@
 			asteroidSize={1, 10},
 			asteroidFlags=PENROSE,
 		},
+		
 		{
 			ident=1881000,
 			faction=1881,
@@ -223,12 +224,13 @@
 			asteroidSize={1, 10},
 			asteroidFlags=SQUARE,
 		},
+		
 		{
 			ident=1259000,
 			faction=1259,
-			count=100,
-			position={0.05, 0.9},
-			radius={0.02, 0.02},
+			count=50,
+			position={0.05, 0.95},
+			radius={0.01, 0.01},
 			type=2,
 			fleets={
 				{1259, { {0, 715555}, {1, 715555} }},
@@ -236,7 +238,7 @@
 --				{1259, { {0, 7155}, {1, 7155} }},
 --				{1259, { {0, 715}, {1, 715} }},
 			},
-			fleetCount={3, 8},
+			fleetCount={1, 3},
 			fleetFraction=0.75,
 			unique={
 				{
@@ -291,6 +293,56 @@
 			},
 			uniqueFraction=0,
 			ambient={ -1, 0 },
+			asteroidDensity={0.25, 0.5},
+			asteroidSize={40, 160},
+			asteroidFlags=SQUARE,
+		},
+		
+		{
+			ident=1238000,
+			faction=1238,
+			count=1,
+			position={0.88, 0.88},
+			radius={0.175, 0.175},
+			type=2,
+			fleets={
+				{1238,{{0,715555},{0.8, 71555},{0.33,12500},{1,8000}}},
+--				{1238,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
+--				{1238,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
+			},
+			fleetCount={4, 12},
+			fleetFraction=1,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0,
+			ambient={ 0 },
+			asteroidDensity={0.25, 0.5},
+			asteroidSize={40, 160},
+			asteroidFlags=SQUARE,
+		},
+		
+		{
+			ident=1238001,
+			faction=1238,
+			count=7,
+			position={0.1, 0.88},
+			radius={0.04, 0.04},
+			type=2,
+			fleets={
+				{1238,{{0,71555},{0.8, 71555},{0.33,12500},{1,8000}}},
+--				{1238,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
+--				{1238,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
+			},
+			fleetCount={3, 8},
+			fleetFraction=1,
+			unique={
+				{
+				},
+			},
+			uniqueFraction=0,
+			ambient={ 0 },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
 			asteroidFlags=SQUARE,

@@ -20,7 +20,7 @@
 		--color0=,
 		--color1=,
 		--color2=,
-		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|RECKLESS|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
+		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -29,10 +29,10 @@
 		playable=1,
 		start="1238_Tech_Bomber",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
-		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
+		color0=0xffbf00,
+		color1=0x725538,
+		color2=0xbfbfbf,
+		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 	},
 	
 	
@@ -51,24 +51,24 @@
 	1242 = {
 		name=_("_text_faction_Winter_Ender"),-- WE2BoLaX
 		playable=1,
-		start="1242_Squate",
+		start="1242_Squate2",
 		primaries=3,
 		color0=0xa879a8,
 		color1=0xaac9ff,
 		color2=0x64a08f,
-		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|MUTATE|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
+		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
 		thrustSFX=1,
 	},
 
 	1243 = {
 		name=_("_text_faction_Outlaw"),-- Bootten
 		playable=1,
-		start="1243_Interpreter",
+		start="1243_Outlaw_Interpreter_MkI",
 		primaries=3,
 		--color0=,
 		--color1=,
 		--color2=,
-		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|MUTATE|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -91,7 +91,7 @@
 		color0=0x0984ff,
 		color1=0xea8700,
 		color2=0x3f3f3f,
-		aiflags=CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=NO_PARENT|CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 
