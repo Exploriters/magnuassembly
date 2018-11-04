@@ -27480,7 +27480,7 @@ replicateBlock=0,
 	{
 		ident=1238000,
 		group=1238,
-		features=PALETTE|ASSEMBLER|COMMAND|GENERATOR|MELEE|SHIELD|TELEPORTER|TRACTOR,
+		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SHIELD|TELEPORTER|TRACTOR,
 		name="38Tech Capsule",
 		blurb="38Tech Capsule.",
 		shape=TRI,

@@ -302,7 +302,7 @@
 			ident=1238000,
 			faction=1238,
 			count=1,
-			position={1.0, 1.0},
+			position={0.9, 0.9},
 			radius={0.175, 0.175},
 			type=2,
 			fleets={
@@ -327,7 +327,7 @@
 			ident=1238001,
 			faction=1238,
 			count=7,
-			position={0.1, 1.02},
+			position={0.1, 0.98},
 			radius={0.04, 0.04},
 			type=2,
 			fleets={
