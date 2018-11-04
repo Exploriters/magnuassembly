@@ -66,6 +66,7 @@
 	"_text_Capsule"="航天舱",
 	"_text_Struction_Operation"="建筑控制器",
 	"_text_Structue"="结构",
+	"_text_Hull"="船体",
 	"_text_Seed"="种子",
 	"_text_Factory"="工厂",
 	"_text_resContainer"="容器",
@@ -401,7 +402,7 @@
 	"_blurb_standardPowerStorger"="提供电容但不产生电量。",
 	
 --  WE2BoLaX
-	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
+	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n配备跃迁设备。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
 	"_text_blockRoot"="根基",
 	"_blurb_blockRoot"="建筑物根部方块。",
 	
@@ -421,4 +422,38 @@
 	"_blurb_WE2weapon_striker"="前锋火炮",
 	"_blurb_WE2weapon_WallSpawner"="屏障生成器",
 	"_blurb_WE2weapon_BusterRifle"="终结者来复枪",
+	
+-- 38Tech
+	"_blurb_38techCapsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n配备核心护盾，消耗持续性伤害。",
+	"_blurb_38TechArmor"="坚硬的重型装甲。",
+	"_text_infbThruster"="微跃迁引擎",
+	"_text_38techReactor"="反应堆",
+	"_blurb_38techReactor"="强力发电设备。",
+	"_text_38techTelespawner"="遥传机",
+	"_blurb_38techTelespawner"="遥传诱导设备，消耗资源激活诱导并直接将友军传送至附近。",
+	"_text_38techBarrier"="屏障",
+	"_blurb_38techBarrier"="旗舰级强力舰队护盾模块。",
+	"_text_38techRecycler"="回收机",
+	"_blurb_38techRecycler"="收集宇宙背景能量并将其转换为资源。",
+	
+	"_text_38techDSB_Launcher"="深空炸弹投射平台",
+	"_text_38techDSB_Missile"="深空炸弹",
+	"_text_38techDSB_Bomb"="深空炸弹核心",
+	"_blurb_38techDSB_Launcher"="和你的友军一起发射最为致命的恐怖炸弹用于轰掉一整个敌人舰队，这将会看上去非常赞。\n炸弹能够在不爆炸的情况下被摧毁。\n这就是光明护卫集团的行事方式。",
+	"_blurb_38techDSB_Missile"="将一颗致命的反舰队炸弹带入深空。",
+	"_blurb_38techDSB_Bomb"="发射时起爆。",
+	
+	"_text_38techGTLauncher"="制导鱼雷发射平台",
+	"_blurb_38techGTLauncher"="发射一群动力发射的快速致命性制导鱼雷。",
+	"_text_38techGTMissile"="制导鱼雷",
+	"_blurb_38techGTMissile"="快速致命性制导鱼雷。",
+	
+	"_text_38techMSPDS"="小型点防御子系统",
+	"_blurb_38techMSPDS"="推离并摧毁飞来的导弹。",
+	"_text_38techABlaster"="自动爆破炮",
+	"_blurb_38techABlaster"="自动索敌的快速且致命的极速火炮。",
+	"_text_38techMRR"="模块化轨道炮来复枪",
+	"_blurb_38techMRR"="具有插件槽位的狙击武器。",
+	"_text_38techAstHealer"="小行星治疗器",
+	"_blurb_38techAstHealer"="保持小行星处于完整状态以避免其被深空炸弹摧毁。对农业或许也有点用。",
 }

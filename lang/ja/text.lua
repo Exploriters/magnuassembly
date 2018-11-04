@@ -66,6 +66,7 @@
 	"_text_Capsule"="Capsule",
 	"_text_Struction_Operation"="Struction Operation",
 	"_text_Structue"="Structue",
+	"_text_Hull"="Hull",
 	"_text_Seed"="Seed",
 	"_text_Factory"="Factory",
 	"_text_resContainer"="Container",
@@ -194,7 +195,7 @@
 	
 --  Lapismarine
 	
-	"_blurb_lapismCapsule"="Hard capsule container. \n Jump device is installed, Jumping and clear power capacity. ",
+	"_blurb_lapismCapsule"="Hard capsule container. \nJump device is installed, Jumping and clear power capacity. ",
 	"_blurb_StructionOperation"="Struction Command. \nRooted is required to assemble. ",
 	"_blurb_lapismSeed"="Lapismarine plants root. ",
 	"_blurb_standardStructue"="Standard ships structue. ",
@@ -321,7 +322,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="Hard capsule container. \n Jump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem available slot. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem available slot. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
@@ -401,7 +402,7 @@
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 	
 --  WE2BoLaX
-	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
+	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nJump device is installed. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
 	"_text_blockRoot"="Root",
 	"_blurb_blockRoot"="Struction root block. ",
 	
@@ -421,4 +422,38 @@
 	"_blurb_WE2weapon_striker"="Striker",
 	"_blurb_WE2weapon_WallSpawner"="Wall Spawner",
 	"_blurb_WE2weapon_BusterRifle"="Buster Rifle",
+	
+-- 38Tech
+	"_blurb_38techCapsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nCore shield is installed, keeping you from being killed by long time damage. ",
+	"_blurb_38TechArmor"="Heavy hard armor. ",
+	"_text_infbThruster"="Microwarp Engine",
+	"_text_38techReactor"="Reactor",
+	"_blurb_38techReactor"="Powerful generator device. ",
+	"_text_38techTelespawner"="Telespawner",
+	"_blurb_38techTelespawner"="Telespawner of bombers which directly spawn allies into nearby. ",
+	"_text_38techBarrier"="Barrier",
+	"_blurb_38techBarrier"="Powerful capital shield device. ",
+	"_text_38techRecycler"="Recycler",
+	"_blurb_38techRecycler"="Collet energy from background universe and produce resource. ",
+	
+	"_text_38techDSB_Launcher"="Deep Space Bomber",
+	"_text_38techDSB_Missile"="Launch the most powerful bomb ever that destroying entirely hostile fleet when you launch a lot of this with allies bomber, looks awesome when you doing it. \nBomb can be destroy without being explode. \nThis what L.G.Corp do. ",
+	"_text_38techDSB_Bomb"="Deep Space Bomb Core",
+	"_blurb_38techDSB_Launcher"="Bring a deadly anti fleet bomb into deep space. ",
+	"_blurb_38techDSB_Missile"="Deep Space Bomba",
+	"_blurb_38techDSB_Bomb"="Explode on launch. ",
+	
+	"_text_38techGTLauncher"="Guiding Torpedo Launcher",
+	"_blurb_38techGTLauncher"="Launch a crowd of powered fast deadly guiding torpedo. ",
+	"_text_38techGTMissile"="Guiding Torpedo",
+	"_blurb_38techGTMissile"="Fast deadly guiding torpedo. ",
+	
+	"_text_38techMSPDS"="MSPDS",
+	"_blurb_38techMSPDS"="Push and destroy incoming missie. ",
+	"_text_38techABlaster"="Auto Blaster",
+	"_blurb_38techABlaster"="Fast and deadly haste cannon that attack enemies automatically. ",
+	"_text_38techMRR"="Modular Rail Rifle",
+	"_blurb_38techMRR"="Sniping weapon with plugin slot available. ",
+	"_text_38techAstHealer"="Asteroid Healer",
+	"_blurb_38techAstHealer"="Keep asteroid fully healed preventing it from being destroyed by DSB. Good for farming, too, maybe. ",
 }
