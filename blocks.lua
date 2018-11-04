@@ -29125,7 +29125,7 @@ replicateBlock=0,
 	{
 		ident=1238063,
 		group=1238,
-		features=PALETTE|CANNON|LASER|TURRET,
+		features=PALETTE|CANNON|TURRET,
 		name="Modular Rail Rifle",
 		blurb="Modular Rail Rifle.",
 		shape=CANNON2,
