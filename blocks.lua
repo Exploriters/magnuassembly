@@ -29120,6 +29120,7 @@ replicateBlock=0,
 		},
 		turretSpeed=4.712,
 		turretLimit=4.712,
+		barrelCount=3,
 	},
 	
 	{

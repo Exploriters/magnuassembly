@@ -20,7 +20,7 @@
 		--color0=,
 		--color1=,
 		--color2=,
-		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|RECKLESS|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
+		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -32,7 +32,7 @@
 		color0=0xffbf00,
 		color1=0x725538,
 		color2=0xbfbfbf,
-		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 	},
 	
 	
@@ -63,7 +63,7 @@
 	1243 = {
 		name=_("_text_faction_Outlaw"),-- Bootten
 		playable=1,
-		start="1243_Interpreter",
+		start="1243_Outlaw_Interpreter_MkI",
 		primaries=3,
 		--color0=,
 		--color1=,

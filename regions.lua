@@ -197,6 +197,7 @@
 			asteroidSize={1, 10},
 			asteroidFlags=PENROSE,
 		},
+		
 		{
 			ident=1881000,
 			faction=1881,
@@ -223,6 +224,7 @@
 			asteroidSize={1, 10},
 			asteroidFlags=SQUARE,
 		},
+		
 		{
 			ident=1259000,
 			faction=1259,
@@ -236,7 +238,7 @@
 --				{1259, { {0, 7155}, {1, 7155} }},
 --				{1259, { {0, 715}, {1, 715} }},
 			},
-			fleetCount={3, 8},
+			fleetCount={1, 3},
 			fleetFraction=0.75,
 			unique={
 				{
@@ -333,7 +335,7 @@
 --				{1242,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
 --				{1242,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
 			},
-			fleetCount={10, 15},
+			fleetCount={3, 8},
 			fleetFraction=1,
 			unique={
 				{
