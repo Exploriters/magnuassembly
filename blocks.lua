@@ -29167,7 +29167,7 @@ replicateBlock=0,
 		},
 		turretSpeed=9.424,
 		turretLimit=0.13089969389957471826927680763665,
-		barrelSize={-1e-160,1e-0}
+		barrelSize={-1e-160,1e-160}
 	},
 }
 
