@@ -1,5 +1,5 @@
 
-{data={name="Tech Bomber", author="siiftun1857"}, blocks={
+{data={name="Tech Bomber", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x12e3f0, {0.147, -9.714}},
     {0x12e3f1, {-50.06, 18.946}, -1.571},
     {0x12e3f1, {-40.06, 18.946}, -1.571},
