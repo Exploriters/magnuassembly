@@ -7971,7 +7971,7 @@
 			faction=1257,
 			blueprint="1258__Decoy_Knight",
 		},
-		points=100,
+		points=250,
 		durability=23.1,
 		density=0.15,
 		growRate=inf,
