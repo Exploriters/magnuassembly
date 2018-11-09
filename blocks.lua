@@ -29915,7 +29915,7 @@ replicateBlock=0,
 	{
 		ident=1238081,
 		group=1238,
-		features=PALETTE|LAUNCHER,
+		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_38tech")_("_bl")_("_text_38techAMMLauncher"),
 		blurb=_("_blurb_38techAMM"),
 		shape=1257050,
