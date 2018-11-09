@@ -18,10 +18,10 @@
  kUpgradePCostC = 2
  kUpgradePCostR = 0
  kUpgradePStepFrac = 0.1
- kStationActivateC = 1000
- kStationLiberateC = 2000
- kTargetDestoryC = 1000
- kConstructorBlockLimit = 7500
+ kStationActivateC = 2000
+ kStationLiberateC = 1000
+ kTargetDestoryC = 2000
+ kConstructorBlockLimit += 715555
  kFactionUnlockThreshold = 2000
  kPlayerBlockHealTime = 1
  kSlowGrowRate = 1
