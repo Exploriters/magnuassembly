@@ -6821,10 +6821,9 @@
 			thrusterColor=0xff007fff,
 			thrusterColor1=0xbf7fc0ff,
 			torquerTorque=5000000,
-			torquerTorque=0,
 			cannon={
 				damage=1000,
-				power=1e-16,
+				power=1,
 				roundsPerSec=3,
 				muzzleVel=3000,
 				range=2000,
@@ -14894,7 +14893,7 @@
 		growRate=5,
 		cannon={--起始
 			damage=100,
-			power=30025,
+			power=0.001,
 			roundsPerSec=0.1,
 			muzzleVel=1000,
 			range=3000,
@@ -15420,10 +15419,9 @@
 			thrusterColor=0xff007fff,
 			thrusterColor1=0xbf7fc0ff,
 			torquerTorque=5000000,
-			torquerTorque=0,
 			cannon={
 				damage=1000,
-				power=1e-16,
+				power=0.001,
 				roundsPerSec=3,
 				muzzleVel=3000,
 				range=2000,
