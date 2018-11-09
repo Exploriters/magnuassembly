@@ -280,7 +280,7 @@
 	"_blurb_MissileDroneLauncher"="Missile drone launcher. ",
 	"_blurb_QuickMissileBattery"="Quick missile battery. ",
 	"_blurb_FragmentDroneLauncher"="Melee drone launcher, deals mass of damage to both shield and armor. ",
-	"_blurb_lapismAntiMissileDroneLauncher"="Launcher of the most lovely anti missie drone ever. ",
+	"_blurb_lapismAntiMissileDroneLauncher"="Launcher of the most lovely anti missile drone ever. ",
 	"_blurb_lapismNanobotLauncherSc1"="Nanobot injector drone launcher, repair 1000 health per drone. ",
 	"_blurb_lapismNanobotLauncherSc2"="Nanobot injector drone launcher, repair 4000 health per drone. ",
 	"_blurb_lapismNanobotLauncherSc3"="Nanobot injector drone launcher, repair 9000 health per drone. ",
@@ -467,4 +467,10 @@
 	"_blurb_38techAFBCannon"="AFB Cannon. ",
 	"_text_38techAFBLauncher"="Anti Fleet Bomber",
 	"_blurb_38techAFBLauncher"="Launch a horrible bomb spread in a large area that destroying hostile fleet. ",
+	
+	"_text_38techAMMLauncher"="Anti-Missile Missile Battery",
+	"_blurb_38techAMM"="Launch alot of small missile that ram hostile missile force it set off. ",
+	"_text_38techAMMMajor"="Anti-Missile Missile",
+	"_blurb_38techAMMMajor"="One of the most tiny missile. ",
+	"_text_38techBubbleLauncher"="Bubble Launcher",
 }

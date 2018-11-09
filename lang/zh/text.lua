@@ -456,4 +456,21 @@
 	"_blurb_38techMRR"="具有插件槽位的狙击武器。",
 	"_text_38techAstHealer"="小行星治疗器",
 	"_blurb_38techAstHealer"="保持小行星处于完整状态以避免其被深空炸弹摧毁。对农业或许也有点用。",
+	
+	"_text_38tech100sfc"="100秒火力核心",
+	"_blurb_38tech100sfc"="后备操作系统",
+	"_text_38techAFBTrigger"="AFB触发核心",
+	"_blurb_38techAFBTrigger"="命中传感器。",
+	"_text_38techAFBMajor"="AFB主要部分",
+	"_blurb_38techAFBMajor"="AFB破坏性部件。",
+	"_text_38techAFBCannon"="AFB火炮",
+	"_blurb_38techAFBCannon"="AFB火炮。",
+	"_text_38techAFBLauncher"="反舰队炸弹",
+	"_blurb_38techAFBLauncher"="发射一颗可大量扩散的恐怖炸弹用于炸毁敌人舰队。",
+	
+	"_text_38techAMMLauncher"="反导弹导弹发射台",
+	"_blurb_38techAMM"="发射大量小型导弹直接冲撞诱爆敌对导弹。",
+	"_text_38techAMMMajor"="反导弹导弹",
+	"_blurb_38techAMMMajor"="最小的导弹之一。",
+	"_text_38techBubbleLauncher"="泡泡发射器",
 }
