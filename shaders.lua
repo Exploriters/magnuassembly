@@ -67,12 +67,12 @@
 		,
 		"
 		#include 'randnum.glsl'
-		varying vec4 DestinationColor;
-		varying float Sides, v, ang;
-		varying vec2 Coord, nosC;
+		varying float  v, ang;
+		varying vec2 nosC;
 		#if USE_TRIS
 			varying float dRt;
-		#endif",
+		#endif"
+		,
 		"
 		attribute float StartTime, EndTime;
 		attribute vec3  Offset, Velocity;
