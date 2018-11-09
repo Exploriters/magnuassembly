@@ -481,4 +481,8 @@
 	"_blurb_38techBubbleLauncher"="发射自动索敌的泡泡并携带一份礼物。",
 	"_text_38techBubble"="泡泡",
 	"_blurb_38techBubble"="远程伤人的致命泡泡。",
+	"_text_38techHeliumFlashLauncher"="氦闪生成器",
+	"_blurb_38techHeliumFlashLauncher"="发射毁灭性脉冲，杀伤当前可视宇宙中所有敌人的护盾。对护盾以外的任何东西不造成伤害",
+	"_text_38techHeliumFlashbang"="氦闪光弹",
+	"_blurb_38techHeliumFlashbang"="仅杀伤护盾。发射时爆炸。",
 }

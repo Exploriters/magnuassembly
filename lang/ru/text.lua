@@ -481,4 +481,8 @@
 	"_blurb_38techBubbleLauncher"="Launch bubbles that find hostile and bring them a gift. ",
 	"_text_38techBubble"="Bubble",
 	"_blurb_38techBubble"="Deadly bubble damage hostile remotly. ",
+	"_text_38techHeliumFlashLauncher"="Helium Flash Generator",
+	"_blurb_38techHeliumFlashLauncher"="Launch lethality pluse which damage all hostile shield in observable universe. Deals damage to nothing which not shield. ",
+	"_text_38techHeliumFlashbang"="Helium Flashbang",
+	"_blurb_38techHeliumFlashbang"="Damage shield only. Explode on launch. ",
 }
