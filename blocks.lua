@@ -6799,7 +6799,7 @@
 		replicateBlock={
 			group=1257,
 			points=1,
-			features=CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER,
+			features=CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER|NOCLIP_ALLY,
 			name=_("_text_lapismUberTurret"),
 			shape=1257052,
 		--	scale=3,
@@ -6857,7 +6857,7 @@
 			replicateBlock={
 				group=1257,
 				points=1,
-				features=FREERES|EXPLODE,
+				features=FREERES|EXPLODE|NOCLIP_ALLY,
 				name=_("_text_lapismUberTurretArmor"),
 				shape=1257006,
 				scale=3,
@@ -15397,7 +15397,7 @@
 		replicateBlock={
 			group=1257,
 			points=1,
-			features=FREERES|NOCLIP|INVULNERABLE|CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER,
+			features=FREERES|NOCLIP|INVULNERABLE|CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER|NOCLIP_ALLY,
 			name=_("_text_Decoy")_("_bl")_("_text_lapismUberTurret"),
 			shape=1257052,
 		--	scale=3,
@@ -15459,7 +15459,7 @@
 			replicateBlock={
 				group=1257,
 				points=1,
-				features=FREERES|NOCLIP|INVULNERABLE|FREERES|EXPLODE,
+				features=FREERES|NOCLIP|INVULNERABLE|FREERES|EXPLODE|NOCLIP_ALLY,
 				name=_("_text_Decoy")_("_bl")_("_text_lapismUberTurretArmor"),
 				shape=1257006,
 				scale=3,
