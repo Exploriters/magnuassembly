@@ -7,6 +7,15 @@
        varying vec2 Coord;
        #endif"
       ,
+      "attribute vec3  Offset;
+       attribute float StartTime;
+       attribute float EndTime;
+       attribute vec3  Velocity;
+       attribute vec4  Color;
+       uniform   float CurrentTime;
+       uniform   float ToPixels;
+       "
+      ,
       "
        float length2(vec2 x) { return dot(x, x); }
 
