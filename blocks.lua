@@ -6830,7 +6830,7 @@
 				color=0x7fc0ff,
 				roundsPerBurst=2,
 				burstyness=1,
-				barrelTaper=0.95
+				barrelTaper=0.5,
 				fragment={
 					damage=100,
 					muzzleVel=1000,
@@ -6872,7 +6872,7 @@
 				explodeDamage=0,
 				explodeRadius=0,
 			},
-			replicateTime=0.3,
+			replicateTime=0.1,
 			launcherPower=0,
 			launcherOutSpeed=0,
 			launcherAngVel=0,
@@ -15428,7 +15428,7 @@
 				color=0x7fc0ff,
 				roundsPerBurst=2,
 				burstyness=1,
-				barrelTaper=0.95
+				barrelTaper=0.5,
 				explosive=ENABLED,
 				explodeRadius=0,
 				fragment={
@@ -15474,7 +15474,7 @@
 				explodeDamage=0,
 				explodeRadius=0,
 			},
-			replicateTime=0.3,
+			replicateTime=0.1,
 			launcherPower=0,
 			launcherOutSpeed=0,
 			launcherAngVel=0,
