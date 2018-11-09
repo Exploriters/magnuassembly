@@ -473,4 +473,7 @@
 	"_text_38techAMMMajor"="反导弹导弹",
 	"_blurb_38techAMMMajor"="最小的导弹之一。",
 	"_text_38techBubbleLauncher"="泡泡发射器",
+	"_blurb_38techBubbleLauncher"="发射自动索敌的泡泡并携带一份礼物。",
+	"_text_38techBubble"="泡泡",
+	"_blurb_38techBubble"="远程伤人的致命泡泡。",
 }

@@ -473,4 +473,7 @@
 	"_text_38techAMMMajor"="Anti-Missile Missile",
 	"_blurb_38techAMMMajor"="One of the most tiny missile. ",
 	"_text_38techBubbleLauncher"="Bubble Launcher",
+	"_blurb_38techBubbleLauncher"="Launch bubbles that find hostile and bring them a gift. ",
+	"_text_38techBubble"="Bubble",
+	"_blurb_38techBubble"="Deadly bubble damage hostile remotly. ",
 }
