@@ -459,11 +459,12 @@
 	
 	"_text_38tech100sfc"="100s Fire command",
 	"_blurb_38tech100sfc"="Backup operating system. ",
-	
 	"_text_38techAFBTrigger"="AFB Trigger command",
 	"_blurb_38techAFBTrigger"="Aim senser. ",
 	"_text_38techAFBMajor"="AFB Major",
-	"_blurb_38techAFBMajor"="AFB Core",
+	"_blurb_38techAFBMajor"="AFB Dest. ",
+	"_text_38techAFBCannon"="AFB Cannon",
+	"_blurb_38techAFBCannon"="AFB Cannon. ",
 	"_text_38techAFBLauncher"="Anti Fleet Bomber",
 	"_blurb_38techAFBLauncher"="Launch a horrible bomb spread in a large area that destroying hostile fleet. ",
 }
