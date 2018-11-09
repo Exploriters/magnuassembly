@@ -1,4 +1,5 @@
 
+{
    -- used for particles (GL_POINTS)
    ShaderParticlePoints = {
       "varying vec4 DestinationColor;
@@ -223,3 +224,4 @@
 		}"
 		"./texture/explosion.jpg"
 	},
+}
