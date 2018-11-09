@@ -311,6 +311,11 @@
 	"_blurb_lapismAncientNanoassembler"="Ancient nanoassembler. ",
 	"_blurb_lapismAncientDoomsdayBeam"="Ancient doomsday laser. ",
 	
+	"_text_lapismUberTurretLauncher"="Uber Turret Launcher",
+	"_text_lapismUberTurret"="Uber Turret",
+	"_text_lapismUberTurretArmor"="Uber Turret Shull",
+	"_blurb_lapismUberTurretLauncher"="Launch a powerful mobile turret that almost unable to be destroyed. ",
+	
 	"_blurb_lapismDecoyGenerator"="Launch a fake holo ship fool who hostile for thirty seconds. ",
 	"_blurb_lapismDecoyGenerator_Ship_1257_Knight"="(i)Decoy ship：Knight. ",
 	

@@ -311,6 +311,11 @@
 	"_blurb_lapismAncientNanoassembler"="古代治疗激光。",
 	"_blurb_lapismAncientDoomsdayBeam"="远古末日激光。",
 	
+	"_text_lapismUberTurretLauncher"="超级炮台发射器",
+	"_text_lapismUberTurret"="超级炮台",
+	"_text_lapismUberTurretArmor"="超级炮台外壳",
+	"_blurb_lapismUberTurretLauncher"="发射一个近乎不可摧毁的强力移动炮台。",
+	
 	"_blurb_lapismDecoyGenerator"="发射一架持续三十秒诱骗敌人火力的虚假全息舰船。",
 	"_blurb_lapismDecoyGenerator_Ship_1257_Knight"="(i)全息舰船：Knight。",
 	
