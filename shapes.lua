@@ -1251,7 +1251,13 @@
 		{
 			{
 				verts={{25.981, -15}, {0, -30}, {-25.981, -15}, {-25.981, 15}, {0, 30}, {25.981, 15}},
-				ports={{2, 0.5, MISSILE},{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER}}
+				ports={{2, 0.5, MISSILE},
+					{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER},
+					{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER},
+					{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER},
+					{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER},
+					{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER},
+				}
 			},
 		}
 		launcher_radial=true,
