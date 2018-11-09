@@ -456,4 +456,14 @@
 	"_blurb_38techMRR"="Sniping weapon with plugin slot available. ",
 	"_text_38techAstHealer"="Asteroid Healer",
 	"_blurb_38techAstHealer"="Keep asteroid fully healed preventing it from being destroyed by DSB. Good for farming, too, maybe. ",
+	
+	"_text_38tech100sfc"="100s Fire command",
+	"_blurb_38tech100sfc"="Backup operating system. ",
+	
+	"_text_38techAFBTrigger"="AFB Trigger command",
+	"_blurb_38techAFBTrigger"="Aim senser. ",
+	"_text_38techAFBMajor"="AFB Major",
+	"_blurb_38techAFBMajor"="AFB Core",
+	"_text_38techAFBLauncher"="Anti Fleet Bomber",
+	"_blurb_38techAFBLauncher"="Launch a horrible bomb spread in a large area that destroying hostile fleet. ",
 }
