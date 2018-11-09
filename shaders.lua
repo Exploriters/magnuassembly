@@ -2,18 +2,11 @@
 {
    -- used for particles (GL_POINTS)
    ShaderParticlePoints = {
-		
-		#include 'randnum.glsl'
-		"varying vec4 DestinationColor;
-		varying float Sides, v, ang;
-		varying vec2 Coord, nosC;
-      varying vec4 DestinationColor;
+      "varying vec4 DestinationColor;
        varying float Sides;
        #if USE_TRIS
        varying vec2 Coord;
-		varying float dRt;
        #endif"
-		
       ,
       "attribute vec3  Offset;
        attribute float StartTime;
@@ -71,7 +64,16 @@
                gl_FragColor = DestinationColor * val;
            }
        }"
-   
+		,
+		"
+		#include 'randnum.glsl'
+		varying vec4 DestinationColor;
+		varying float Sides, v, ang;
+		varying vec2 Coord, nosC;
+		#if USE_TRIS
+			varying float dRt;
+		#endif",
+		"
 		attribute float StartTime, EndTime;
 		attribute vec3  Offset, Velocity;
 		attribute vec4  Color;
