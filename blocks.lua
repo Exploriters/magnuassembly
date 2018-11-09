@@ -29297,7 +29297,7 @@ replicateBlock=0,
 		growRate=inf,
 		armor=0,
 		lifetime=100,
-		replicateBlock{
+		replicateBlock={
 			group=1238,
 			features=NOPALETTE|NOCLIP|FREERES|ALWAYSFIRE|CANNON|ONEUSE|GENERATOR|AUTOLAUNCH,
 			name=_("_text_38tech")_("_bl")_("_text_38techAFBCannon"),
