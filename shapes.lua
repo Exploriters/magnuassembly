@@ -1254,5 +1254,6 @@
 				ports={{2, 0.5, MISSILE},{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{4, 0.5, LAUNCHER},{5, 0.5, LAUNCHER}}
 			},
 		}
+		launcher_radial=true,
 	}
 }

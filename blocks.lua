@@ -6854,6 +6854,7 @@
 				power=0,
 			},
 			turretSpeed=3,
+			barrelCount=2,
 			replicateBlock={
 				group=1257,
 				points=1,
@@ -15454,6 +15455,7 @@
 				power=0,
 			},
 			turretSpeed=3,
+			barrelCount=2,
 			replicateBlock={
 				group=1257,
 				points=1,
