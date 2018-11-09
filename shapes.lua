@@ -1182,6 +1182,7 @@
 				}
 			},
 		}
+		launcher_radial=true,
 	}
 	-- TRI_FORNTROOT 正三角形正面根基
 	{
@@ -1218,6 +1219,7 @@
 				ports={{2, 0.5, LAUNCHER}}
 			},
 		}
+		launcher_radial=true,
 	},
 	
 	
@@ -1230,6 +1232,7 @@
 				ports={{0, 0.5},{1, 0.5},{4, 0.5},{5, 0.5},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER},{2, 0.5, LAUNCHER},{3, 0.5, LAUNCHER}}
 			},
 		}
+		launcher_radial=true,
 	},
 	
 	-- THOMBUS_MID_MISSILE_SMALL 光明护卫迷你夹层导弹
