@@ -29253,7 +29253,7 @@ replicateBlock=0,
 		name=_("_text_38tech")_("_bl")_("_text_38techAFBTrigger"),
 		blurb=_("_blurb_38techAFBTrigger"),
 		command={
-			blueprint={blocks={{1238066, {11.547, 0}, command={}},{1238068},{1238067, {-11.547, 0}, 3.142}}},
+			blueprint="0_1238_AntiFleetBomb",
 		}
 		shape=TRI,
 		scale=1,
