@@ -65,9 +65,8 @@
        }",
 		"
 		#include 'randnum.glsl'
-		varying vec4 DestinationColor;
-		varying float Sides, v, ang;
-		varying vec2 Coord, nosC;
+		varying float ang;
+		varying vec2 nosC;
 		#if USE_TRIS
 			varying float dRt;
 		#endif",
