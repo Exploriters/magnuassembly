@@ -28623,7 +28623,7 @@ replicateBlock=0,
 	{
 		ident=1238048,
 		group=1238,
-		features=PALETTE|LAUNCHER|LASER,
+		features=PALETTE|LAUNCHER,
 		name=_("_text_38tech")_("_bl")_("_text_38techDSB_Launcher"),
 		blurb=_("_blurb_38techDSB_Launcher"),
 		shape=1257007,
