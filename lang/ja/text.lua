@@ -491,8 +491,8 @@
 	"_blurb_38techDSB_Railgun"="This is a great new invention which combined Explosive and Rail Cannon which both are L.G.Corp. good at. Althought it just a horrible idea to put DSB into a rail cannon. ",
 	"_blurb_38techDSB_RailDrone"="Launch someone into sky. ",
 	
-	"_text_38techGTLauncher"="Guiding Bomb Launcher",
-	"_text_38techGTMissile"="Guiding Bomb",
-	"_blurb_38techGTLauncher"="Launch a deadly bomb blast a large area. ",
-	"_blurb_38techGTMissile"="Prepare for impact. ",
+	"_text_38techGBLauncher"="Guiding Bomb Launcher",
+	"_text_38techGBMissile"="Guiding Bomb",
+	"_blurb_38techGBLauncher"="Launch a deadly bomb blast a large area. ",
+	"_blurb_38techGBMissile"="Prepare for impact. ",
 }
