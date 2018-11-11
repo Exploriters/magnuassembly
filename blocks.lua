@@ -16863,7 +16863,7 @@
 		group=1259,
 		features=PALETTE|INVULNERABLE|SHIELD,
 		name=_("_text_AncientTech")_("_bl")_("_text_Shield"),
-		shape=1257042,
+		shape=1257055,
 		scale=3,
 		fillColor=0xeeffff,
 		fillColor1=0x7fc0ff,
