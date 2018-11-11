@@ -6804,8 +6804,8 @@
 			features=CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER|NOCLIP_ALLY|LAUNCHER_BARRAGE,
 			name=_("_text_lapismUberTurret"),
 			shape=1257052,
-			fillColor=0x7f0000ff,
-			fillColor1=0x7f7fc0ff,
+			fillColor=0x0000ff,
+			fillColor1=0x7fc0ff,
 			lineColor=0x5862a0,
 			points=8000,
 			command={
@@ -15403,8 +15403,8 @@
 			features=FREERES|NOCLIP|INVULNERABLE|CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER|NOCLIP_ALLY,
 			name=_("_text_Decoy")_("_bl")_("_text_lapismUberTurret"),
 			shape=1257052,
-			fillColor=0x7f0000ff,
-			fillColor1=0x7f7fc0ff,
+			fillColor=0x0000ff,
+			fillColor1=0x7fc0ff,
 			lineColor=0x5862a0,
 			points=8000,
 			command={
