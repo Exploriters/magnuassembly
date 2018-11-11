@@ -444,7 +444,7 @@
 	"_text_38techDSB_Launcher"="Deep Space Bomber",
 	"_text_38techDSB_Missile"="Deep Space Bomba",
 	"_text_38techDSB_Bomb"="Deep Space Bomb Core",
-	"_blurb_38techDSB_Launcher"="Launch the most powerful bomb ever that destroying entirely hostile fleet when you launch a lot of this with allies bomber, looks awesome when you doing it. \nBomb can be destroy without being explode. \nThis what L.G.Corp do. ",
+	"_blurb_38techDSB_Launcher"="Launch the most powerful bomb ever that destroying entirely hostile fleet when you launch a lot of this with allies bomber, looks awesome when you doing it. \nThis what L.G.Corp. do. \n(*)Bomb can be destroy without being it's primary type of explode. ",
 	"_blurb_38techDSB_Missile"="Bring a deadly anti fleet bomb into deep space. ",
 	"_blurb_38techDSB_Bomb"="Explode on launch. ",
 	
@@ -488,6 +488,11 @@
 	
 	"_text_38techDSB_Railgun"="Deep Space Bomber Railgun",
 	"_text_38techDSB_RailDrone"="Deep Space Bomba Railgun",
-	"_blurb_38techDSB_Railgun"="It just a horrible idea to put DSB into a rail cannon. ",
+	"_blurb_38techDSB_Railgun"="This is a great new invention which combined Explosive and Rail Cannon which both are L.G.Corp. good at. Althought it just a horrible idea to put DSB into a rail cannon. ",
 	"_blurb_38techDSB_RailDrone"="Launch someone into sky. ",
+	
+	"_text_38techGTLauncher"="Guiding Bomb Launcher",
+	"_text_38techGTMissile"="Guiding Bomb",
+	"_blurb_38techGTLauncher"="Launch a deadly bomb blast a large area. ",
+	"_blurb_38techGTMissile"="Prepare for impact. ",
 }

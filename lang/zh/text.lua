@@ -444,7 +444,7 @@
 	"_text_38techDSB_Launcher"="深空炸弹投射平台",
 	"_text_38techDSB_Missile"="深空炸弹",
 	"_text_38techDSB_Bomb"="深空炸弹核心",
-	"_blurb_38techDSB_Launcher"="和你的友军一起发射最为致命的恐怖炸弹用于轰掉一整个敌人舰队，这将会看上去非常赞。\n炸弹能够在不爆炸的情况下被摧毁。\n这就是光明护卫集团的行事方式。",
+	"_blurb_38techDSB_Launcher"="和你的友军一起发射最为致命的恐怖炸弹用于轰掉一整个敌人舰队，这将会看上去非常赞。\n这就是光明护卫集团的行事方式。\n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
 	"_blurb_38techDSB_Missile"="将一颗致命的反舰队炸弹带入深空。",
 	"_blurb_38techDSB_Bomb"="发射时起爆。",
 	
@@ -488,6 +488,11 @@
 	
 	"_text_38techDSB_Railgun"="深空炸弹轨道炮",
 	"_text_38techDSB_RailDrone"="深空炸弹抛射机",
-	"_blurb_38techDSB_Railgun"="把深空炸弹装入轨道炮进行发射是个可怕的主意。",
+	"_blurb_38techDSB_Railgun"="这是一项伟大的创新结合了光明护卫集团在轨道炮和爆炸物两方面的强大科技。尽管把深空炸弹装入轨道炮进行发射是个可怕的想法。",
 	"_blurb_38techDSB_RailDrone"="把某人送上天。",
+	
+	"_text_38techGTLauncher"="制导炸弹发射平台",
+	"_text_38techGTMissile"="制导炸弹",
+	"_blurb_38techGTLauncher"="发射一颗致命炸弹轰爆一大片区域。",
+	"_blurb_38techGTMissile"="准备好冲击。",
 }
