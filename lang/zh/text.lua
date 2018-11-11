@@ -491,8 +491,8 @@
 	"_blurb_38techDSB_Railgun"="这是一项伟大的创新结合了光明护卫集团在轨道炮和爆炸物两方面的强大科技。尽管把深空炸弹装入轨道炮进行发射是个可怕的想法。",
 	"_blurb_38techDSB_RailDrone"="把某人送上天。",
 	
-	"_text_38techGTLauncher"="制导炸弹发射平台",
-	"_text_38techGTMissile"="制导炸弹",
-	"_blurb_38techGTLauncher"="发射一颗致命炸弹轰爆一大片区域。",
-	"_blurb_38techGTMissile"="准备好冲击。",
+	"_text_38techGBLauncher"="制导炸弹发射平台",
+	"_text_38techGBMissile"="制导炸弹",
+	"_blurb_38techGBLauncher"="发射一颗致命炸弹轰爆一大片区域。",
+	"_blurb_38techGBMissile"="准备好冲击。",
 }
