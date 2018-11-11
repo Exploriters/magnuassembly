@@ -30419,7 +30419,7 @@ replicateBlock=0,
 		},
 		replicateTime=5.04,
 		launcherPower=10000,
-		launcherOutSpeed=2000,
+		launcherOutSpeed=0,
 	},
 }
 
