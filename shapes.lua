@@ -1248,7 +1248,7 @@
 		launcher_radial=true,
 	},
 	
-	-- HEXAGON_LAUNCHER_HEX_UBER_MISSILE_SC3 六边形全向三十六发射器导弹尺寸3
+	-- HEXAGON_LAUNCHER_HEX_UBER_MISSILE_SC3 六边形全向三十发射器导弹尺寸3
 	{
 		1257052,
 		{
