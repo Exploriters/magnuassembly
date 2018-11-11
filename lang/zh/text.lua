@@ -485,4 +485,9 @@
 	"_blurb_38techHeliumFlashLauncher"="发射毁灭性脉冲，杀伤当前可视宇宙中所有敌人的护盾。对护盾以外的任何东西不造成伤害",
 	"_text_38techHeliumFlashbang"="氦闪光弹",
 	"_blurb_38techHeliumFlashbang"="仅杀伤护盾。发射时爆炸。",
+	
+	"_text_38techDSB_Railgun"="深空炸弹轨道炮",
+	"_text_38techDSB_RailDrone"="深空炸弹抛射机",
+	"_blurb_38techDSB_Railgun"="把深空炸弹装入轨道炮进行发射是个可怕的主意。",
+	"_blurb_38techDSB_RailDrone"="把某人送上天。",
 }

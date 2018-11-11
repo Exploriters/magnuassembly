@@ -485,4 +485,9 @@
 	"_blurb_38techHeliumFlashLauncher"="Launch lethality pluse which damage all hostile shield in observable universe. Deals damage to nothing which not shield. ",
 	"_text_38techHeliumFlashbang"="Helium Flashbang",
 	"_blurb_38techHeliumFlashbang"="Damage shield only. Explode on launch. ",
+	
+	"_text_38techDSB_Railgun"="Deep Space Bomber Railgun",
+	"_text_38techDSB_RailDrone"="Deep Space Bomba Railgun",
+	"_blurb_38techDSB_Railgun"="It just a horrible idea to put DSB into a rail cannon. ",
+	"_blurb_38techDSB_RailDrone"="Launch someone into sky. ",
 }
