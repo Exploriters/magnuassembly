@@ -34,3 +34,5 @@
  kRecoilPercent = 0.4
  kHudVisibleDist = 50000
  kButtonCorners = 0.05
+ kScreenFrustumDepth = 1000
+ kCursorSize = -0.005
