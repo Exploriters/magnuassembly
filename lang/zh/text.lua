@@ -311,6 +311,11 @@
 	"_blurb_lapismAncientNanoassembler"="古代治疗激光。",
 	"_blurb_lapismAncientDoomsdayBeam"="远古末日激光。",
 	
+	"_text_lapismUberTurretLauncher"="超级炮台发射器",
+	"_text_lapismUberTurret"="超级炮台",
+	"_text_lapismUberTurretArmor"="超级炮台外壳",
+	"_blurb_lapismUberTurretLauncher"="发射一个近乎不可摧毁的强力移动炮台。",
+	
 	"_blurb_lapismDecoyGenerator"="发射一架持续三十秒诱骗敌人火力的虚假全息舰船。",
 	"_blurb_lapismDecoyGenerator_Ship_1257_Knight"="(i)全息舰船：Knight。",
 	
@@ -439,7 +444,7 @@
 	"_text_38techDSB_Launcher"="深空炸弹投射平台",
 	"_text_38techDSB_Missile"="深空炸弹",
 	"_text_38techDSB_Bomb"="深空炸弹核心",
-	"_blurb_38techDSB_Launcher"="和你的友军一起发射最为致命的恐怖炸弹用于轰掉一整个敌人舰队，这将会看上去非常赞。\n炸弹能够在不爆炸的情况下被摧毁。\n这就是光明护卫集团的行事方式。",
+	"_blurb_38techDSB_Launcher"="和你的友军一起发射最为致命的恐怖炸弹用于轰掉一整个敌人舰队，这将会看上去非常赞。\n这就是光明护卫集团的行事方式。\n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
 	"_blurb_38techDSB_Missile"="将一颗致命的反舰队炸弹带入深空。",
 	"_blurb_38techDSB_Bomb"="发射时起爆。",
 	
@@ -456,4 +461,38 @@
 	"_blurb_38techMRR"="具有插件槽位的狙击武器。",
 	"_text_38techAstHealer"="小行星治疗器",
 	"_blurb_38techAstHealer"="保持小行星处于完整状态以避免其被深空炸弹摧毁。对农业或许也有点用。",
+	
+	"_text_38tech100sfc"="100秒火力核心",
+	"_blurb_38tech100sfc"="后备操作系统",
+	"_text_38techAFBTrigger"="AFB触发核心",
+	"_blurb_38techAFBTrigger"="命中传感器。",
+	"_text_38techAFBMajor"="AFB主要部分",
+	"_blurb_38techAFBMajor"="AFB破坏性部件。",
+	"_text_38techAFBCannon"="AFB火炮",
+	"_blurb_38techAFBCannon"="AFB火炮。",
+	"_text_38techAFBLauncher"="反舰队炸弹",
+	"_blurb_38techAFBLauncher"="发射一颗可大量扩散的恐怖炸弹用于炸毁敌人舰队。",
+	
+	"_text_38techAMMLauncher"="反导弹导弹发射台",
+	"_blurb_38techAMM"="发射大量小型导弹直接冲撞诱爆敌对导弹。",
+	"_text_38techAMMMajor"="反导弹导弹",
+	"_blurb_38techAMMMajor"="最小的导弹之一。",
+	"_text_38techBubbleLauncher"="泡泡发射器",
+	"_blurb_38techBubbleLauncher"="发射自动索敌的泡泡并携带一份礼物。",
+	"_text_38techBubble"="泡泡",
+	"_blurb_38techBubble"="远程伤人的致命泡泡。",
+	"_text_38techHeliumFlashLauncher"="氦闪生成器",
+	"_blurb_38techHeliumFlashLauncher"="发射毁灭性脉冲，杀伤当前可视宇宙中所有敌人的护盾。对护盾以外的任何东西不造成伤害",
+	"_text_38techHeliumFlashbang"="氦闪光弹",
+	"_blurb_38techHeliumFlashbang"="仅杀伤护盾。发射时爆炸。",
+	
+	"_text_38techDSB_Railgun"="深空炸弹轨道炮",
+	"_text_38techDSB_RailDrone"="深空炸弹抛射机",
+	"_blurb_38techDSB_Railgun"="这是一项伟大的创新结合了光明护卫集团在轨道炮和爆炸物两方面的强大科技。尽管把深空炸弹装入轨道炮进行发射是个可怕的想法。",
+	"_blurb_38techDSB_RailDrone"="把某人送上天。",
+	
+	"_text_38techGBLauncher"="制导炸弹发射平台",
+	"_text_38techGBMissile"="制导炸弹",
+	"_blurb_38techGBLauncher"="发射一颗致命炸弹轰爆一大片区域。",
+	"_blurb_38techGBMissile"="准备好冲击。",
 }
