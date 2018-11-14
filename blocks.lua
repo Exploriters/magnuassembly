@@ -24875,7 +24875,7 @@
 				damage=1800,
 				muzzleVel=2000,
 				range=1000,
-				spread=2.35619449,
+				spread=1.178,
 				roundsPerBurst=5,
 				color=0xc0c0c0,
 			}
