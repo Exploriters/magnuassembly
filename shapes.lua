@@ -1316,7 +1316,7 @@
 			},
 		}
 	},
-	-- DODECAGON 正十二边形
+	-- DODECAGON_SMALL 小正十二边形
 	{
 		1257055,
 		{
