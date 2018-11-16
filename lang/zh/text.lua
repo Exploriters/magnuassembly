@@ -195,7 +195,7 @@
 	
 --  海青族
 	
-	"_blurb_lapismCapsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并清空电容器。",
+	"_blurb_lapismCapsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并清空电容器。\n\n====================\n海青族已经失去了马葛兰的祝福。\\0\\0\\0\\0\\0\\0\\0\\0",
 	"_blurb_StructionOperation"="建筑物核心。\n需要扎根才可以重组。",
 	"_blurb_lapismSeed"="海青植物根基。",
 	"_blurb_standardStructue"="标准船体结构方块。",
