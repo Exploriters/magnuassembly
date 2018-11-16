@@ -495,4 +495,11 @@
 	"_text_38techGBMissile"="Guiding Bomb",
 	"_blurb_38techGBLauncher"="Launch a deadly bomb blast a large area. ",
 	"_blurb_38techGBMissile"="Prepare for impact. ",
+	
+	"_text_38techAMB_Launcher"="Anti Matter Bomber",
+	"_text_38techAMB_Missile"="Anti Matter Bomba",
+	"_text_38techAMB_Bomb"="Anti Matter Bomb Core",
+	"_blurb_38techAMB_Launcher"="Launch the more-most powerful bomb ever that destroying entirely hostile fleet. \nWhen the true light which brighter than a thousand yellow star is released, the space will be tremble, the star is dark, everything is ashed. \n(*)Bomb can be destroy without being it's primary type of explode. ",
+	"_blurb_38techAMB_Missile"="Bring an extremely deadly anti fleet bomb into deep space. ",
+	"_blurb_38techAMB_Bomb"="Explode on launch. ",
 }
