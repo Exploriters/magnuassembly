@@ -31828,7 +31828,7 @@ replicateBlock=0,
 	
 	{
 		ident=1238087,
-		sort=12380870000,
+		sort=1238087000,
 		group=1238,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_38tech")_("_bl")_("_text_FragmentDroneLauncher"),
