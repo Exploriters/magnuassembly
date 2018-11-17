@@ -98,7 +98,7 @@
 	1259 = {
 		name=_("_text_faction_Ancient"),-- Magnualand
 		primaries=3,
-		start="1259_Orb1",
+		start="1259_MegaOrb1",
 		color0=0x0000ff,
 		color1=0x7fc0ff,
 		color2=0xffffff,
