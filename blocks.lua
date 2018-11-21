@@ -24874,7 +24874,7 @@
 			burstyness=0,
 			color=0xc0c0c0,
 			fragment={
-				damage=1800,
+				damage=1000,
 				muzzleVel=2000,
 				range=1000,
 				spread=1.178,
