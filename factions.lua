@@ -17,9 +17,9 @@
 		playable=1,
 		start="1235_Venture",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
+		color0=0xff7f00,
+		color1=0x39347a,
+		color2=0x000000,
 		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
 		thrustSFX=1,
 	},
@@ -32,7 +32,7 @@
 		color0=0xffbf00,
 		color1=0x725538,
 		color2=0xbfbfbf,
-		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 	},
 	
 	
@@ -44,7 +44,7 @@
 		color0=0xc0ff7f,
 		color1=0x7fff00,
 		color2=0x4fff00,
-		aiflags=CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 
@@ -56,19 +56,19 @@
 		color0=0xa879a8,
 		color1=0xaac9ff,
 		color2=0x64a08f,
-		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
+		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
 		thrustSFX=1,
 	},
 
 	1243 = {
 		name=_("_text_faction_Outlaw"),-- Bootten
 		playable=1,
-		start="1243_Outlaw_Interpreter_MkI",
+		start="1243_Evih",
 		primaries=3,
-		--color0=,
-		--color1=,
-		--color2=,
-		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|RIPPLE_FIRE|SMART_FIRE|SOCIAL|WANDER,
+		color0=0x821d28,
+		color1=0x39347a,
+		color2=0x252b46,
+		aiflags=AGGRESSIVE|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -91,14 +91,14 @@
 		color0=0x0984ff,
 		color1=0xea8700,
 		color2=0x3f3f3f,
-		aiflags=NO_PARENT|CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=NO_PARENT|CAUTIOUS|DODGES|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 
 	1259 = {
 		name=_("_text_faction_Ancient"),-- Magnualand
 		primaries=3,
-		start="1259_Orb1",
+		start="1259_MegaOrb1",
 		color0=0x0000ff,
 		color1=0x7fc0ff,
 		color2=0xffffff,

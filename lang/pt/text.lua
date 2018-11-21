@@ -195,7 +195,7 @@
 	
 --  Lapismarine
 	
-	"_blurb_lapismCapsule"="Hard capsule container. \nJump device is installed, Jumping and clear power capacity. ",
+	"_blurb_lapismCapsule"="Hard capsule container. \nJump device is installed, Jumping and clear power capacity. \n\n====================\nLapismarine has lost the blessing of Magnualand. \\0\\0\\0\\0\\0\\0\\0\\0",
 	"_blurb_StructionOperation"="Struction Command. \nRooted is required to assemble. ",
 	"_blurb_lapismSeed"="Lapismarine plants root. ",
 	"_blurb_standardStructue"="Standard ships structue. ",
@@ -327,7 +327,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem available slot. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
@@ -495,4 +495,11 @@
 	"_text_38techGBMissile"="Guiding Bomb",
 	"_blurb_38techGBLauncher"="Launch a deadly bomb blast a large area. ",
 	"_blurb_38techGBMissile"="Prepare for impact. ",
+	
+	"_text_38techAMB_Launcher"="Anti Matter Bomber",
+	"_text_38techAMB_Missile"="Anti Matter Bomba",
+	"_text_38techAMB_Bomb"="Anti Matter Bomb Core",
+	"_blurb_38techAMB_Launcher"="Launch the more-most powerful bomb ever that destroying entirely hostile fleet. \nWhen the true light which brighter than a thousand yellow star is released, the space will be tremble, the star is dark, everything is ashed. \n(*)Bomb can be destroy without being it's primary type of explode. ",
+	"_blurb_38techAMB_Missile"="Bring an extremely deadly anti fleet bomb into deep space. ",
+	"_blurb_38techAMB_Bomb"="Explode on launch. ",
 }
