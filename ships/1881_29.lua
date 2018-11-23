@@ -1,5 +1,5 @@
 
-{data={name="Nanf", author="Magnus siiftun1857 Frankline"}, blocks={
+{data={name="", author="Magnus siiftun1857 Frankline"}, blocks={
     {1881000, {12.105, 0}},
     {1881003, {2.105, 0}, 3.142, bindingId=0},
     {1881003, {2.105, -10}, bindingId=0},
