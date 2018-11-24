@@ -19529,7 +19529,7 @@
 		ident=1880033,
 		sort=1880007100,
 		group=1880,
-		features=PALETTE|CANNON_BOOST|MELEE|LAUNCHER|LAUNCHER_BARRAGE,
+		features=NOPALETTE|CANNON_BOOST|MELEE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_phageHomingShieldBombLauncher"),
 		shape=1257062,
 		fillColor=0x7f7fff00,
