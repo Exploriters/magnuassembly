@@ -19554,7 +19554,7 @@
 			fillColor1=0x7fc0ff7f,
 			lineColor=0x4fff00,
 			points=234,
-			durability=0.01,
+			durability=0.03,
 			density=0.02,
 			growRate=153.622,
 			meleeDamage=0,
