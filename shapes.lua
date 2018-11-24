@@ -1430,7 +1430,7 @@
 		launcher_radial=true,
 	},
 	
-	-- RHOMBUS_36_144_MISSILE_INNER 宽潘诺斯夹层发射器
+	-- RHOMBUS_36_144_MISSILE_INNER 宽潘诺斯夹层导弹
 	{
 		1257063,
 		{
@@ -1440,5 +1440,17 @@
 			},
 		},
 		launcher_radial=true,
-	}
+	},
+	
+	-- RHOMBUS_36_144_SMALL_MISSILE_INNER 迷你宽潘诺斯夹层导弹
+	{
+		1257064,
+		{
+			{
+				verts={{0,2.939},{4.045,0},{0,-2.939},{0,2.939},{0,-2.939},{-4.045,0}},
+				ports={{2,0.5,MISSILE},{3,0.5,LAUNCHER}}
+			},
+		},
+		launcher_radial=true,
+	},
 }

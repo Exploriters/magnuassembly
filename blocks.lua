@@ -19548,7 +19548,7 @@
 			group=1880,
 			features=COMMAND|THRUSTER|TORQUER|FREERES|INVISIBLE|NOCLIP|MELEE|LASER|CHARGING|SHIELD|ONEUSE|GENERATOR,
 			name=_("_text_phageHomingShieldBomb"),
-			shape=1257063,
+			shape=1257064,
 			lifetime=13,
 			fillColor=0x7f7fff00,
 			fillColor1=0x7fc0ff7f,
