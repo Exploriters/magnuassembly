@@ -18261,6 +18261,7 @@
 		fillColor1=0x7fc0ff7f,
 		lineColor=0x4fff00,
 		command={
+			disruptTime=0.0,
 		},
 		points=10,
 		durability=4.37,
