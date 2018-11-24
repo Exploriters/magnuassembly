@@ -19591,7 +19591,7 @@
 			chargeMaxTime=3,
 			chargeMin=1,
 		},
-		replicateTime=1,
+		replicateTime=2,
 		launcherPower=0,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
