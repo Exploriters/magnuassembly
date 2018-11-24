@@ -1426,8 +1426,8 @@
 				verts={{0,0},{8.507,0},{2.629,-8.09},{0,0},{2.629,-8.09},{-6.882,-5},{0,0},{-6.882,-5},{-6.882,5},{0,0},{-6.882,5},{2.629,8.09},{0,0},{2.629,8.09},{8.507,0}},
 				ports={{0,0.5,LAUNCHER},{1,0.5},{2,0.5,LAUNCHER},{3,0.5,LAUNCHER},{4,0.5},{5,0.5,LAUNCHER},{6,0.5,LAUNCHER},{7,0.5},{8,0.5,LAUNCHER},{9,0.5,LAUNCHER},{10,0.5},{11,0.5,LAUNCHER},{12,0.5,LAUNCHER},{13,0.5},{14,0.5,LAUNCHER}}
 			},
-			launcher_radial=true,
 		}
+		launcher_radial=true,
 	},
 	
 	-- RHOMBUS_36_144_MISSILE_INNER 宽潘诺斯夹层发射器
@@ -1438,7 +1438,7 @@
 				verts={{0,3.09},{9.511,0},{0,-3.09},{0,3.09},{0,-3.09},{-9.511,0}},
 				ports={{2,0.5,MISSILE},{3,0.5,LAUNCHER}}
 			},
-			launcher_radial=true,
-		}
+		},
+		launcher_radial=true,
 	}
 }
