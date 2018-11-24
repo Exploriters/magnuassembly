@@ -19549,6 +19549,7 @@
 			features=COMMAND|NOCLIP|CANNON_BOOST|MELEE|LASER|CHARGING|SHIELD|ONEUSE,
 			name=_("_text_phageHomingShieldBomb"),
 			shape=1257063,
+			lifetime=13,
 			fillColor=0x7f7fff00,
 			fillColor1=0x7fc0ff7f,
 			lineColor=0x4fff00,
