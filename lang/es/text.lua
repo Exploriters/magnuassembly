@@ -185,6 +185,8 @@
 	"_text_phageRngBooster"="Range Booster",
 	"_text_phageRofBooster"="Reload Booster",
 	"_text_phageErdBooster"="Explode Booster",
+	"_text_phageHomingShieldBombLauncher"="Homing Explosive Shield Launcher",
+	"_text_phageHomingShieldBomb"="Homing Explosive Shield",
 	
 	"_text_NullsetterCommand"="Null Setter",
 	"_text_NullsetterHull"="Anti Matter",

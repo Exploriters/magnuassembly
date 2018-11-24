@@ -185,6 +185,8 @@
 	"_text_phageRngBooster"="射程增幅器",
 	"_text_phageRofBooster"="填装增幅器",
 	"_text_phageErdBooster"="爆炸增幅器",
+	"_text_phageHomingShieldBombLauncher"="诱导爆炸性护盾投射器",
+	"_text_phageHomingShieldBomb"="诱导爆炸性护盾",
 	
 	"_text_NullsetterCommand"="归零者",
 	"_text_NullsetterHull"="反物质",
