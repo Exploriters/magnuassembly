@@ -20,7 +20,7 @@
 		color0=0xff7f00,
 		color1=0x39347a,
 		color2=0x000000,
-		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
+		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -38,7 +38,7 @@
 	
 	1880 = {
 		name=_("_text_faction_Phage"),-- Protein
-		playable=2,
+		playable=1,
 		start="1880_A-1",
 		primaries=3,
 		color0=0xc0ff7f,
