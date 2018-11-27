@@ -19662,7 +19662,7 @@
 		ident=1881002,
 		sort=1881002000,
 		group=1881,
-		features=PALETTE|LAUNCHER|MELEE|THRUSTER|TORQUER|NEVERFIRE,
+		features=PALETTE|LAUNCHER|MELEE|THRUSTER|TORQUER|NEVERFIRE|ONEUSE|SHIELD,
 		name=_("_text_NullsetterThruster"),
 		blurb=_("_blurb_NullsetterNil"),
 		shape=SQUARE,
@@ -19682,6 +19682,16 @@
 		thrusterColor1=0xff800080,
 		torquerTorque=100000,
 		replicateBlock=0,
+		shield={
+			strength=1,
+			regen=1,
+			power=inf,
+			radius=-1e-160,
+			delay=0,
+			color=0x00000001,
+			lineColor=0xff800080,
+			damagedColor=0x00000001,
+		},
 	},
 	
 	{
