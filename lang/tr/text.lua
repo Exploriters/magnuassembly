@@ -2,6 +2,7 @@
 -- This text.lua is an English thanslation document.
 
 {
+	"_SQUARE_BLANK"="",
 	"_bl"=" ",
 	"_n"="\n",
 	
