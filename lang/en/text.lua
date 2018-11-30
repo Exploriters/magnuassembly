@@ -390,12 +390,12 @@
 	"_blurb_3883techThrusterR"="Right thruster. Wired to command is required to work. ",
 	"_blurb_3883techThrusterB"="Backward thruster. Wired to command is required to work. ",
 	
-	"_text_3883CannonS1"="A-1",
-	"_text_3883CannonS2"="DSD-4625",
-	"_text_3883CannonS3"="RRSKK-3",
-	"_text_3883CannonS4"="ASET-8",
-	"_text_3883CannonS5"="BRMG-64",
-	"_text_3883Nanoassembler"="MED-99",
+	"_text_3883CannonS1"="Grenade Projector A-1",
+	"_text_3883CannonS2"="Accurate Mortar DSD-4625",
+	"_text_3883CannonS3"="Plasma Cannon RRSKK-3",
+	"_text_3883CannonS4"="Neutron Bomber ASET-8",
+	"_text_3883CannonS5"="Haste EM-Shot Rail Blaster BRMG-64",
+	"_text_3883Nanoassembler"="Recovery MED-99",
 	
 	"_blurb_3883WhiteStructue"="Heavy hard spiky white lapismarine armor. ",
 	"_blurb_3883DarkStructue"="Light ships structue. ",
@@ -403,7 +403,7 @@
 	"_blurb_3883TBud"="Part of Thrust Bud System, use this wire your thrusters. ",
 	"_blurb_3883STBud"="Part of Script Bud System and Thrust Bud System, use this wire your weapons and thrusters - if they go across. ",
 	
-	"_blurb_3883CannonS1"="Blank cannon. ",
+	"_blurb_3883CannonS1"="Launching grenade. ",
 	"_blurb_3883CannonS5"="Deadly haste blaster. ",
 	"_blurb_3883Afterburner1000"="Active manually, 1000k thrust force, no wiring is needed. ",
 	"_blurb_standardGenerator0s"="Standard generator device. ",

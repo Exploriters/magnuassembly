@@ -390,12 +390,12 @@
 	"_blurb_3883techThrusterR"="右置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
 	"_blurb_3883techThrusterB"="后置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
 	
-	"_text_3883CannonS1"="A-1",
-	"_text_3883CannonS2"="DSD-4625",
-	"_text_3883CannonS3"="RRSKK-3",
-	"_text_3883CannonS4"="ASET-8",
-	"_text_3883CannonS5"="BRMG-64",
-	"_text_3883Nanoassembler"="MED-99",
+	"_text_3883CannonS1"="榴弹投射炮A-1",
+	"_text_3883CannonS2"="精准迫击炮DSD-4625",
+	"_text_3883CannonS3"="等离子加农炮RRSKK-3",
+	"_text_3883CannonS4"="中子爆破炮ASET-8",
+	"_text_3883CannonS5"="疾速电磁弹轨道炮BRMG-64",
+	"_text_3883Nanoassembler"="恢复器MED-99",
 	
 	"_blurb_3883WhiteStructue"="厚重强硬且锋利的海青装甲。",
 	"_blurb_3883DarkStructue"="轻盈的灰色船体结构组件。",
@@ -403,7 +403,7 @@
 	"_blurb_3883TBud"="推进器总线，用于传递推进。",
 	"_blurb_3883STBud"="武器及推进器总线，在武器总线与推进器总线交叉时，此设备很有用。",
 	
-	"_blurb_3883CannonS1"="空白火炮。",
+	"_blurb_3883CannonS1"="发射榴弹。",
 	"_blurb_3883CannonS5"="致命的急速火炮。",
 	"_blurb_3883Afterburner1000"="手动激活，具有1000k推力，不需要连接总线。",
 	"_blurb_standardGenerator0s"="标准化电力模块。",

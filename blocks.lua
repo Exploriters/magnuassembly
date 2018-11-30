@@ -24855,9 +24855,10 @@
 			color=0xc0c0c0,
 			fragment={
 				damage=200,
-				muzzleVel=-1000,
-				range=-1,
-				spread=0,
+				muzzleVel=1000,
+				range=10000,
+				spread=3.141,
+				pattern=CONSTANT,
 				roundsPerBurst=1,
 				color=0xc0c0c0,
 				explosive=FINAL,
