@@ -458,8 +458,8 @@
 	
 	"_text_38techMSPDS"="小型点防御子系统",
 	"_blurb_38techMSPDS"="推离并摧毁飞来的导弹。",
-	"_text_38techABlaster"="自动爆破炮",
-	"_blurb_38techABlaster"="自动索敌的快速且致命的极速火炮。",
+	"_text_SharedABlaster"="自动爆破炮",
+	"_blurb_SharedABlaster"="自动索敌的快速且致命的极速火炮。",
 	"_text_38techMRR"="模块化轨道炮来复枪",
 	"_blurb_38techMRR"="具有插件槽位的狙击武器。",
 	"_text_38techAstHealer"="小行星治疗器",

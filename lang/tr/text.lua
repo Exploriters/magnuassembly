@@ -458,8 +458,8 @@
 	
 	"_text_38techMSPDS"="MSPDS",
 	"_blurb_38techMSPDS"="Push and destroy incoming missie. ",
-	"_text_38techABlaster"="Auto Blaster",
-	"_blurb_38techABlaster"="Fast and deadly haste cannon that attack enemies automatically. ",
+	"_text_SharedABlaster"="Auto Blaster",
+	"_blurb_SharedABlaster"="Fast and deadly haste cannon that attack enemies automatically. ",
 	"_text_38techMRR"="Modular Rail Rifle",
 	"_blurb_38techMRR"="Sniping weapon with plugin slot available. ",
 	"_text_38techAstHealer"="Asteroid Healer",
