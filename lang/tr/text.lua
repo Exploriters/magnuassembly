@@ -509,11 +509,16 @@
 	"_blurb_B10Armor"="Heavy hard armor. ",
 	"_blurb_B10Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. ",
 	
-	"_name_B10RCS"="RCS Thruster",
+	"_text_B10RCS"="RCS Thruster",
 	"_blurb_B10RCS1"="Standard RCS thrust out port, 10% thrust power. ",
 	"_blurb_B10RCS2"="Standard RCS thrust out port, 50% thrust power. ",
 	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
 	
 	"_text_B10Thruster_RAA"="RAA Thruster",
 	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440k\nRCS Force: 200k"
+	
+	"_text_B10GooLauncher"="Goo Gun",
+	"_text_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
+	"_text_B10GooLauncher"="Goo Orb",
+	"_text_B10GooLauncher"="Sticky. ",
 }

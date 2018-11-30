@@ -509,11 +509,16 @@
 	"_blurb_B10Armor"="坚硬的重型装甲。",
 	"_blurb_B10Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
 	
-	"_name_B10RCS"="RCS喷射口",
+	"_text_B10RCS"="RCS喷射口",
 	"_blurb_B10RCS1"="标准RCS喷射口，10%喷射能力。",
 	"_blurb_B10RCS2"="标准RCS喷射口，50%喷射能力。",
 	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
 	
 	"_text_B10Thruster_RAA"="RAA推进器",
 	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：440k\nRCS喷射力度；200k"
+	
+	"_text_B10GooLauncher"="粘液球喷枪",
+	"_text_B10GooLauncher"="发射延迟爆炸的追踪性粘液球。",
+	"_text_B10GooLauncher"="粘液球",
+	"_text_B10GooLauncher"="黏糊糊的。",
 }
