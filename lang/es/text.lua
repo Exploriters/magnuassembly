@@ -509,7 +509,7 @@
 	"_blurb_B10Armor"="Heavy hard armor. ",
 	"_blurb_B10Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. ",
 	
-	"_blurb_B10RCS"="RCS Thruster",
+	"_name_B10RCS"="RCS Thruster",
 	"_blurb_B10RCS1"="Standard RCS thrust out port, 10% thrust power. ",
 	"_blurb_B10RCS2"="Standard RCS thrust out port, 50% thrust power. ",
 	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",

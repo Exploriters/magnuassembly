@@ -509,7 +509,7 @@
 	"_blurb_B10Armor"="坚硬的重型装甲。",
 	"_blurb_B10Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
 	
-	"_blurb_B10RCS"="RCS喷射口",
+	"_name_B10RCS"="RCS喷射口",
 	"_blurb_B10RCS1"="标准RCS喷射口，10%喷射能力。",
 	"_blurb_B10RCS2"="标准RCS喷射口，50%喷射能力。",
 	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
