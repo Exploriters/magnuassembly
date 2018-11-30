@@ -36844,7 +36844,7 @@ replicateBlock=0,
 
 	{
 		ident=1243293,
-		sort=1243293000,
+		sort=1243263001,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 3/5 PENTAGON)",
@@ -36865,7 +36865,7 @@ replicateBlock=0,
 
 	{
 		ident=1243294,
-		sort=1243294000,
+		sort=1243263002,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 3/5 PENTAGON)",
@@ -36886,7 +36886,7 @@ replicateBlock=0,
 
 	{
 		ident=1243295,
-		sort=1243295000,
+		sort=1243263003,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 3/5 PENTAGON)",
@@ -36907,7 +36907,7 @@ replicateBlock=0,
 
 	{
 		ident=1243296,
-		sort=1243296000,
+		sort=1243263004,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 4/5 PENTAGON)",
@@ -36928,7 +36928,7 @@ replicateBlock=0,
 
 	{
 		ident=1243297,
-		sort=1243297000,
+		sort=1243263005,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 4/5 PENTAGON)",
@@ -36949,7 +36949,7 @@ replicateBlock=0,
 
 	{
 		ident=1243298,
-		sort=1243298000,
+		sort=1243263006,
 		group=1243,
 		features=PALETTE|MELEE,
 		name="Bootten Armor(ISOTRI 4/5 PENTAGON)",
