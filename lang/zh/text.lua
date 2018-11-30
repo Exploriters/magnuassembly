@@ -515,5 +515,5 @@
 	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
 	
 	"_text_B10Thruster_RAA"="RAA推进器",
-	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：110k\nRCS喷射力度；50k"
+	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：440k\nRCS喷射力度；200k"
 }

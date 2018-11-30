@@ -515,5 +515,5 @@
 	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
 	
 	"_text_B10Thruster_RAA"="RAA Thruster",
-	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 110k\nRCS Force: 50k"
+	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440k\nRCS Force: 200k"
 }
