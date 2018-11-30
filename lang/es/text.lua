@@ -505,4 +505,15 @@
 	"_blurb_38techAMB_Launcher"="Launch the more-most powerful bomb ever that destroying entirely hostile fleet. \nWhen the true light which brighter than a thousand yellow star is released, the space will be tremble, the star is dark, everything is ashed. \n(*)Bomb can be destroy without being it's primary type of explode. ",
 	"_blurb_38techAMB_Missile"="Bring an extremely deadly anti fleet bomb into deep space. ",
 	"_blurb_38techAMB_Bomb"="Explode on launch. ",
+-- Bootten
+	"_blurb_B10Armor"="Heavy hard armor. ",
+	"_blurb_B10Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. ",
+	
+	"_blurb_B10RCS"="RCS Thruster",
+	"_blurb_B10RCS1"="Standard RCS thrust out port, 10% thrust power. ",
+	"_blurb_B10RCS2"="Standard RCS thrust out port, 50% thrust power. ",
+	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
+	
+	"_text_B10Thruster_RAA"="RAA Thruster",
+	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 110k\nRCS Force: 50k"
 }

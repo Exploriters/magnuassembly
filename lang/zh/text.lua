@@ -505,4 +505,15 @@
 	"_blurb_38techDSB_Launcher"="发射更加最为致命的恐怖炸弹用于轰掉一整个敌人舰队。\n比黄色主序星亮一千倍的真正光芒被释放之时，宇宙也要为之颤动，星空暗淡无光，万物只余灰烬。 \n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
 	"_blurb_38techDSB_Missile"="将一颗极端致命的反舰队炸弹带入深空。",
 	"_blurb_38techDSB_Bomb"="发射时起爆。",
+-- 引导十
+	"_blurb_B10Armor"="坚硬的重型装甲。",
+	"_blurb_B10Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
+	
+	"_blurb_B10RCS"="RCS喷射口",
+	"_blurb_B10RCS1"="标准RCS喷射口，10%喷射能力。",
+	"_blurb_B10RCS2"="标准RCS喷射口，50%喷射能力。",
+	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
+	
+	"_text_B10Thruster_RAA"="RAA推进器",
+	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：110k\nRCS喷射力度；50k"
 }
