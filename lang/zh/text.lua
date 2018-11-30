@@ -518,7 +518,7 @@
 	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：440k\nRCS喷射力度；200k"
 	
 	"_text_B10GooLauncher"="粘液球喷枪",
-	"_text_B10GooLauncher"="发射延迟爆炸的追踪性粘液球。",
+	"_blurb_B10Goo"="发射延迟爆炸的追踪性粘液球。",
 	"_text_B10GooLauncher"="粘液球",
-	"_text_B10GooLauncher"="黏糊糊的。",
+	"_blurb_B10Goo"="黏糊糊的。",
 }

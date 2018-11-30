@@ -518,7 +518,7 @@
 	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440k\nRCS Force: 200k"
 	
 	"_text_B10GooLauncher"="Goo Gun",
-	"_text_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
-	"_text_B10GooLauncher"="Goo Orb",
-	"_text_B10GooLauncher"="Sticky. ",
+	"_blurb_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
+	"_text_B10Goo"="Goo Orb",
+	"_blurb_B10Goo"="Sticky. ",
 }
