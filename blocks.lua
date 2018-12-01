@@ -34798,7 +34798,7 @@ replicateBlock=0,
 
 	{
 		ident=1243093,
-		sort=1243063001,
+		sort=1243034001,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -34818,7 +34818,7 @@ replicateBlock=0,
 
 	{
 		ident=1243094,
-		sort=1243063002,
+		sort=1243034002,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -34838,7 +34838,7 @@ replicateBlock=0,
 
 	{
 		ident=1243095,
-		sort=1243063003,
+		sort=1243034003,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -34858,7 +34858,7 @@ replicateBlock=0,
 
 	{
 		ident=1243096,
-		sort=1243063004,
+		sort=1243034004,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
@@ -34878,7 +34878,7 @@ replicateBlock=0,
 
 	{
 		ident=1243097,
-		sort=1243063005,
+		sort=1243034005,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
@@ -34898,7 +34898,7 @@ replicateBlock=0,
 
 	{
 		ident=1243098,
-		sort=1243063006,
+		sort=1243034006,
 		group=1243,
 		features=PALETTE,
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
