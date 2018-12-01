@@ -36947,7 +36947,7 @@ replicateBlock=0,
 
 	{
 		ident=1243293,
-		sort=1243263001,
+		sort=1243234001,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -36968,7 +36968,7 @@ replicateBlock=0,
 
 	{
 		ident=1243294,
-		sort=1243263002,
+		sort=1243234002,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -36989,7 +36989,7 @@ replicateBlock=0,
 
 	{
 		ident=1243295,
-		sort=1243263003,
+		sort=1243234003,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
@@ -37010,7 +37010,7 @@ replicateBlock=0,
 
 	{
 		ident=1243296,
-		sort=1243263004,
+		sort=1243234004,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
@@ -37031,7 +37031,7 @@ replicateBlock=0,
 
 	{
 		ident=1243297,
-		sort=1243263005,
+		sort=1243234005,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
@@ -37052,7 +37052,7 @@ replicateBlock=0,
 
 	{
 		ident=1243298,
-		sort=1243263006,
+		sort=1243234006,
 		group=1243,
 		features=PALETTE|MELEE,
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
