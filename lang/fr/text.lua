@@ -520,6 +520,8 @@
 	"_blurb_B10Thruster_RAA"="Provide RCS ports. \nPrimary Force: 0K\nRCS Force: 100K"
 	"_text_B10Thruster_GIGAB"="GIGAB Thruster",
 	"_blurb_B10Thruster_GIGAB"="Heavy microwarp thruster for capital ship. \nPrimary Force: 1500K\nRCS Force: 0K"
+	"_text_B10Thruster_BLINK"="BLINK Thruster",
+	"_blurb_B10Thruster_BLINK"="Midium microwarp thruster for curiser. \nPrimary Force: 800K\nRCS Force: 200K"
 	
 	"_text_B10GooLauncher"="Goo Gun",
 	"_blurb_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
