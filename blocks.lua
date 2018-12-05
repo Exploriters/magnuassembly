@@ -38076,7 +38076,7 @@ replicateBlock=0,
 		thrusterColor=0x7f39347a,
 		thrusterColor1=0x7f821d28,
 		cannonBoost={
-			power={0,inf},
+			power={0, inf},
 		}
 	},
 
