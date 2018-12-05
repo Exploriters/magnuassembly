@@ -515,9 +515,11 @@
 	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
 	
 	"_text_B10Thruster_RAA"="RAA Thruster",
-	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440k\nRCS Force: 200k"
+	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440K\nRCS Force: 200K"
 	"_text_B10Thruster_XCS"="XCS Thruster",
-	"_blurb_B10Thruster_RAA"="Provide RCS ports. \nPrimary Force: 0k\nRCS Force: 100k"
+	"_blurb_B10Thruster_RAA"="Provide RCS ports. \nPrimary Force: 0K\nRCS Force: 100K"
+	"_text_B10Thruster_GIGAB"="GIGAB Thruster",
+	"_blurb_B10Thruster_GIGAB"="Heavy microwarp thruster for capital ship. \nPrimary Force: 1500K\nRCS Force: 0K"
 	
 	"_text_B10GooLauncher"="Goo Gun",
 	"_blurb_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
