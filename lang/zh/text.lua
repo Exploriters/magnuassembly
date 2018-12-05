@@ -515,7 +515,11 @@
 	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
 	
 	"_text_B10Thruster_RAA"="RAA推进器",
-	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n推进器喷射力度：440k\nRCS喷射力度；200k"
+	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n主要喷射力度：440k\nRCS喷射力度；200k"
+	"_text_B10Thruster_XCS"="XCS推进器",
+	"_blurb_B10Thruster_RAA"="提供RCS接口。\n主要喷射力度：0k\nRCS喷射力度；100k"
+	"_text_B10Thruster_GIGAB"="GIGAB推进器",
+	"_blurb_B10Thruster_GIGAB"="适用于旗舰的重型微跃迁推进器。\n主要喷射力度：1500K\nRCS喷射力度；0K"
 	
 	"_text_B10GooLauncher"="粘液球喷枪",
 	"_blurb_B10Goo"="发射延迟爆炸的追踪性粘液球。",
