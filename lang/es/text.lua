@@ -510,9 +510,11 @@
 	"_blurb_B10Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. ",
 	
 	"_text_B10RCS"="RCS Thruster",
+	"_text_B10RCSTraps"="RCS Traps",
 	"_blurb_B10RCS1"="Standard RCS thrust out port, 10% thrust power. ",
 	"_blurb_B10RCS2"="Standard RCS thrust out port, 50% thrust power. ",
 	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
+	"_blurb_B10RCSTraps"="Traps RCS thrust out port, 0% thrust power. Disable thruster flame and cannon which connected with this. ",
 	
 	"_text_B10Thruster_RAA"="RAA Thruster",
 	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440K\nRCS Force: 200K"

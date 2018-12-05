@@ -510,9 +510,11 @@
 	"_blurb_B10Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
 	
 	"_text_B10RCS"="RCS喷射口",
+	"_text_B10RCSTraps"="RCS陷阱",
 	"_blurb_B10RCS1"="标准RCS喷射口，10%喷射能力。",
 	"_blurb_B10RCS2"="标准RCS喷射口，50%喷射能力。",
 	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
+	"_blurb_B10RCSTraps"="陷阱RCS喷射口，0%喷射能力。禁用连接此部件的火炮和引擎尾焰。",
 	
 	"_text_B10Thruster_RAA"="RAA推进器",
 	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n主要喷射力度：440k\nRCS喷射力度；200k"
