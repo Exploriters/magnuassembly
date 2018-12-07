@@ -519,7 +519,7 @@
 	"_text_B10Thruster_RAA"="RAA Thruster",
 	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440K\nRCS Force: 200K"
 	"_text_B10Thruster_XCS"="XCS Thruster",
-	"_blurb_B10Thruster_RAA"="Provide RCS ports. \nPrimary Force: 0K\nRCS Force: 100K"
+	"_blurb_B10Thruster_XCS"="Provide RCS ports. \nPrimary Force: 0K\nRCS Force: 100K"
 	"_text_B10Thruster_GIGAB"="GIGAB Thruster",
 	"_blurb_B10Thruster_GIGAB"="Heavy microwarp thruster for capital ship. \nPrimary Force: 1500K\nRCS Force: 0K"
 	"_text_B10Thruster_BLINK"="BLINK Thruster",
