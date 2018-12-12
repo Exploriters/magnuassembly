@@ -529,4 +529,7 @@
 	"_blurb_B10Goo"="发射延迟爆炸的追踪性粘液球。",
 	"_text_B10GooLauncher"="粘液球",
 	"_blurb_B10Goo"="黏糊糊的。",
+-- 马葛兰
+	"_text_SovGenerator"="主权宣布设施",
+	"_blurb_SovGenerator"="提供跃迁出口和安全保护。",
 }
