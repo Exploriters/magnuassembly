@@ -177,9 +177,13 @@
 	
 	"_text_lapismDecoyGenerator"="诱饵投影仪",
 	
-	"_text_PhageCore"="噬菌体核心",
+	"_text_PhageCore"="噬菌体核心 - 连发地雷霰弹枪",
 	"_text_phageHull"="空白蛋白质",
 	"_text_CacheGenerator"="缓冲发电机",
+	"_blurb_PhageCore"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n已装配连发地雷霰弹枪，接受来自全舰的蛋白质增幅器。",
+	"_blurb_phageHull"="轻量级高速重组船体。",
+	"_blurb_CacheGenerator"="间歇性充能发电机。无法保持电容注满。",
+	"_blurb_phageBooster"="蛋白质增幅器。配备反发射物点防御激光。",
 	
 	"_text_phageDmgBooster"="伤害增幅器",
 	"_text_phageVelBooster"="弹速增幅器",

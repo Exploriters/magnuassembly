@@ -177,9 +177,13 @@
 	
 	"_text_lapismDecoyGenerator"="Decoy Generator",
 	
-	"_text_PhageCore"="Phage Core",
+	"_text_PhageCore"="Phage Core - Repeat Mine Shotgun",
 	"_text_phageHull"="Blank Protein",
 	"_text_CacheGenerator"="Generator Cache",
+	"_blurb_PhageCore"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nRepeat Mine Shotgun is installed, intake all protein booster on hull. ",
+	"_blurb_phageHull"="Light hull reassemble in haste. ",
+	"_blurb_CacheGenerator"="Cache generator. Can not keep capacity being full. ",
+	"_blurb_phageBooster"="Protein booster. Anti missile PD laser is installed. ",
 	
 	"_text_phageDmgBooster"="Damage Booster",
 	"_text_phageVelBooster"="Velocity Booster",
@@ -330,7 +334,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
