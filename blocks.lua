@@ -2501,7 +2501,7 @@
 			roundsPerBurst=10,
 			burstyness=1,
 			color=0xffc000,
-			pattern=WAVE,
+			pattern=RANDOM,
 		},
 		turretSpeed=12.566,
 	},
@@ -2531,7 +2531,7 @@
 			roundsPerBurst=20,
 			burstyness=1,
 			color=0xffc000,
-			pattern=WAVE,
+			pattern=RANDOM,
 		},
 		turretSpeed=6.283,
 	},
@@ -7132,6 +7132,7 @@
 			explosive=FINAL,
 			explodeRadius=5,
 		},
+		barrelCount=1,
 		turretSpeed=16.755,
 	},
 
@@ -7164,6 +7165,7 @@
 			explosive=FINAL,
 			explodeRadius=5,
 		},
+		barrelCount=2,
 		turretSpeed=12.566,
 	},
 
@@ -7196,6 +7198,7 @@
 			explosive=FINAL,
 			explodeRadius=5,
 		},
+		barrelCount=3,
 		turretSpeed=8.377,
 	},
 
@@ -7228,6 +7231,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=250,
 		},
+		barrelCount=1,
 		turretSpeed=9.424,
 	},
 
@@ -7239,7 +7243,7 @@
 		name=_("_text_AncientTech")_("_bl")_("_text_Flakcannon"),
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
-		scale=1,
+		scale=2,
 		fillColor=0x5862a0,
 		lineColor=0x7fc0ff,
 		points=132,
@@ -7260,6 +7264,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=250,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -7290,6 +7295,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=1,
 		turretSpeed=15.708,
 	},
 
@@ -7320,6 +7326,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=2,
 		turretSpeed=15.708,
 	},
 
@@ -7350,6 +7357,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=9.424,
 	},
 
@@ -7380,6 +7388,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=4,
 		turretSpeed=6.283,
 	},
 
@@ -7412,6 +7421,7 @@
 			explosive=FINAL,
 			explodeRadius=50,
 		},
+		barrelCount=1,
 		turretSpeed=2.513,
 	},
 
@@ -7444,6 +7454,7 @@
 			explosive=FINAL,
 			explodeRadius=50,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -7476,6 +7487,7 @@
 			explosive=FINAL,
 			explodeRadius=125,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -7519,6 +7531,7 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
+		barrelCount=20,
 		turretSpeed=125.663,
 	},
 
@@ -7550,6 +7563,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=2,
 		turretSpeed=6.632,
 	},
 
@@ -7581,6 +7595,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=2.094,
 	},
 
@@ -7613,6 +7628,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=2.094,
 	},
 
@@ -7646,6 +7662,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=15,
 		},
+		barrelCount=2,
 		turretSpeed=2.094,
 	},
 
@@ -10833,7 +10850,7 @@
 			roundsPerBurst=10,
 			burstyness=1,
 			color=0xffc000,
-			pattern=WAVE,
+			pattern=RANDOM,
 		},
 		turretSpeed=12.566,
 	},
@@ -10866,7 +10883,7 @@
 			roundsPerBurst=20,
 			burstyness=1,
 			color=0xffc000,
-			pattern=WAVE,
+			pattern=RANDOM,
 		},
 		turretSpeed=6.283,
 	},
@@ -15971,6 +15988,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=16.755,
 	},
 
@@ -16006,6 +16024,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=2,
 		turretSpeed=12.566,
 	},
 
@@ -16041,6 +16060,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=3,
 		turretSpeed=8.377,
 	},
 
@@ -16076,6 +16096,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=9.424,
 	},
 
@@ -16088,7 +16109,7 @@
 		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_Flakcannon"),
 		blurb=_("_blurb_flakcannon")_("_n")_("_blurb_decoy_block"),
 		shape=HEXAGON,
-		scale=1,
+		scale=2,
 		fillColor=0x5862a0,
 		lineColor=0x7fc0ff,
 		points=-1,
@@ -16111,6 +16132,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -16144,6 +16166,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=1,
 		turretSpeed=15.708,
 	},
 
@@ -16177,6 +16200,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=2,
 		turretSpeed=15.708,
 	},
 
@@ -16210,6 +16234,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=9.424,
 	},
 
@@ -16243,6 +16268,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=4,
 		turretSpeed=6.283,
 	},
 
@@ -16278,6 +16304,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=2.513,
 	},
 
@@ -16313,6 +16340,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -16348,6 +16376,7 @@
 			explosive=FINAL,
 			explodeRadius=0,
 		},
+		barrelCount=1,
 		turretSpeed=6.283,
 	},
 
@@ -16394,6 +16423,7 @@
 			color=0xff0000ff,
 			decay=0,
 		},
+		barrelCount=20,
 		turretSpeed=125.663,
 	},
 
@@ -16428,6 +16458,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=2,
 		turretSpeed=6.632,
 	},
 
@@ -16462,6 +16493,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=2.094,
 	},
 
@@ -16497,6 +16529,7 @@
 			burstyness=1,
 			color=0x0000ff,
 		},
+		barrelCount=3,
 		turretSpeed=2.094,
 	},
 
@@ -16533,6 +16566,7 @@
 			explosive=PROXIMITY,
 			explodeRadius=0,
 		},
+		barrelCount=2,
 		turretSpeed=2.094,
 	},
 
