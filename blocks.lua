@@ -17204,7 +17204,7 @@
 		fillColor=0x0000ff,
 		lineColor=0x7fc0ff,
 		points=230,
-		durability=1e30,--3,
+		durability=3,
 		density=0.2,
 		growRate=5,
 		replicateBlock=1258000,
