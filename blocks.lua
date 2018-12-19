@@ -21304,9 +21304,9 @@
 		ident=1443069,
 		sort=1443069000,
 		group=1443,
-		features=CANNON_BOOST|MELEE,
-		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
-		blurb=_("_blurb_3883BlankSubsystem"),
+		features=PALETTE|CANNON_BOOST|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883HeatSinkSubsystem"),
+		blurb=_("_blurb_3883HeatSinkSubsystem"),
 		shape=1257026,
 		scale=1,
 		fillColor=0x3f3f3f,
@@ -21319,6 +21319,7 @@
 		armor=20,
 		meleeDamage=0,
 		cannonBoost={
+			damage={1.05, 0},
 		},
 	},
 
@@ -21326,9 +21327,9 @@
 		ident=1443070,
 		sort=1443070000,
 		group=1443,
-		features=CANNON_BOOST|MELEE,
-		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
-		blurb=_("_blurb_3883BlankSubsystem"),
+		features=PALETTE|CANNON_BOOST|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883BootingSubsystem"),
+		blurb=_("_blurb_3883BootingSubsystem"),
 		shape=1257026,
 		scale=1,
 		fillColor=0x3f3f3f,
@@ -21341,6 +21342,7 @@
 		armor=20,
 		meleeDamage=0,
 		cannonBoost={
+			roundsPerSec={1.05, 0},
 		},
 	},
 
@@ -21349,8 +21351,8 @@
 		sort=1443071000,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
-		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
-		blurb=_("_blurb_3883BlankSubsystem"),
+		name=_("_text_3883tech")_("_bl")_("_text_3883LifetimeSubsystem"),
+		blurb=_("_blurb_3883LifetimeSubsystem"),
 		shape=1257026,
 		scale=1,
 		fillColor=0x3f3f3f,
@@ -21363,6 +21365,7 @@
 		armor=20,
 		meleeDamage=0,
 		cannonBoost={
+			range={1.05, 0},
 		},
 	},
 
@@ -21371,8 +21374,8 @@
 		sort=1443072000,
 		group=1443,
 		features=CANNON_BOOST|MELEE,
-		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
-		blurb=_("_blurb_3883BlankSubsystem"),
+		name=_("_text_3883tech")_("_bl")_("_text_3883EjectorSubsystem"),
+		blurb=_("_blurb_3883EjectorSubsystem"),
 		shape=1257026,
 		scale=1,
 		fillColor=0x3f3f3f,
@@ -21385,6 +21388,7 @@
 		armor=20,
 		meleeDamage=0,
 		cannonBoost={
+			muzzleVel={1.05, 0},
 		},
 	},
 

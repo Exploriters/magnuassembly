@@ -345,6 +345,14 @@
 	"_blurb_3883BlankSubsystem"="(-)什么都不做。",
 	"_text_3883PowerSaverSubsystem"="节电子系统",
 	"_blurb_3883PowerSaverSubsystem"="(+)为目标火炮武器降低5%能量消耗。"
+	"_text_3883HeatSinkSubsystem"="导热槽子系统",
+	"_blurb_3883HeatSinkSubsystem"="(+)为目标火炮武器增加5%伤害。",
+	"_text_3883BootingSubsystem"="引导子系统",
+	"_blurb_3883BootingSubsystem"="(+)为目标火炮武器增加5%射速。",
+	"_text_3883LifetimeSubsystem"="寿命子系统",
+	"_blurb_3883LifetimeSubsystem"="(+)为目标火炮武器增加5%射程。",
+	"_text_3883EjectorSubsystem"="弹射子系统",
+	"_blurb_3883EjectorSubsystem"="(+)为目标火炮武器增加5%弹速。",
 	
 	"_text_3883WhiteSBud"="白色脚本总线"
 	"_text_3883KatoonSBud"="喀通脚本总线",
