@@ -1298,7 +1298,7 @@
 		},
 		launcher_radial=true,
 	},
-	-- TRI_MISSILE_HEAVY_HEAD 头重脚轻三角形
+	-- TRI_HEAVY_HEAD 头重脚轻三角形
 	{
 		1257055,
 		{
