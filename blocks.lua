@@ -24918,7 +24918,7 @@
 		features=PALETTE|FACTORY|MELEE|LASER|TURRET,
 		name=_("_text_3883tech")_("_bl")_("_text_3883Factory"),
 		blurb=_("_blurb_blockFactory"),
-		shape=1243082,
+		shape=1243083,
 		scale=1,
 		fillColor=0x8fb8ff,
 		fillColor1=0xffb856,
