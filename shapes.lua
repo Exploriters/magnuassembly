@@ -810,8 +810,8 @@
 		1257026,
 		{
 			{
-				verts={{5, -5},{-5, -5},{-5, 5},{5, 5}},
-				ports={{0, 0.5, MISSILE},{1, 0.5, WEAPON_IN},{2, 0.5, MISSILE},{3, 0.5, MISSILE}}
+				verts={{0,0},{-5,-5},{-5,0},{0,0},{-5,0},{-5,5},{0,0},{-5,5},{0,5},{0,0},{0,5},{5,5},{0,0},{5,5},{5,0},{0,0},{5,0},{5,-5},{0,0},{5,-5},{0,-5},{0,0},{0,-5},{-5,-5}},
+				ports={{1, 1, WEAPON_IN},{0, 0.5, MISSILE},{1, 0.5, MISSILE},{2, 0.5, MISSILE},{3, 0.5, MISSILE},{4, 0.5, MISSILE},{5, 0.5, MISSILE},{6, 0.5, MISSILE},{7, 0.5, MISSILE},{8, 0.5, MISSILE},{9, 0.5, MISSILE},{10, 0.5, MISSILE},{11, 0.5, MISSILE},{12, 0.5, MISSILE},{13, 0.5, MISSILE},{14, 0.5, MISSILE},{15, 0.5, MISSILE},{16, 0.5, MISSILE},{17, 0.5, MISSILE},{18, 0.5, MISSILE},{19, 0.5, MISSILE},{20, 0.5, MISSILE},{21, 0.5, MISSILE},{22, 0.5, MISSILE},{23, 0.5, MISSILE}}
 			},
 		}
 	},
