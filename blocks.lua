@@ -18604,7 +18604,7 @@
 		ident=1880007,
 		sort=1880007000,
 		group=1880,
-		features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|GENERATOR,--|LASER
+		features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_CacheGenerator"),
 		blurb=_("_blurb_CacheGenerator"),
@@ -18619,8 +18619,8 @@
 		meleeDamage=0,
 		armor=100,
 		capacity=172,
-		--generatorCapacityPerSec=3100,
-		generatorCapacityPerSec=1000,
+		generatorCapacityPerSec=3100,
+		--generatorCapacityPerSec=1000,
 		powerCapacity=10000,
 		cannonBoost={
 		},
