@@ -1,6 +1,6 @@
 
 {blocks={
-    {0x132e2a, {-28.995, 0}, command={flags=NONE}},
+    {0x132e2a, {-28.995, 0}, command={flags=NONE,faction=5}},
     {0x132eea, {-17.115, 0}},
     {0x132eea, {-13.896, -2.588}, 3.142},
     {0x132eea, {-7.456, -2.588}},
