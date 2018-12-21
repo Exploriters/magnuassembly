@@ -1,5 +1,5 @@
 
-{data={name="Lapismarine Outer Ring Checkpoint", author="siiftun1857"}, blocks={
+{data={name="Lapismarine Outer Ring Checkpoint", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x132e28, {-14.434, 0}, command={faction=1257}},
     {0x132e3a, {392.598, -395}},
     {0x132e3a, {395.485, -390}, -3.142},

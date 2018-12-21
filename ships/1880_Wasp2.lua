@@ -1,9 +1,6 @@
 
-{name="1880_Wasp2", position={12638.594, 13945.495}, data={name="Wasp2", author="siiftun1857"},
-   blocks={
-    {0x1cafc0, {10.673, 0}, command={flags=NONE|METAMORPHOSIS|FLOCKING|RECKLESS|CAUTIOUS|SOCIAL|WANDER|DODGES|SMART_FIRE,
-        ident=0x679634e7, faction=1880, resources=0.58, resourceCapacity=10491, energy=189,
-        blueprint="1880_Wasp2"}},
+{data={name="Wasp2", author="Magnus siiftun1857 Frankline"}, blocks={
+    {0x1cafc0, {10.673, 0}, command={faction=1880}},
     {0x1cafc5, {-15.098, 36.18}},
     {0x1cafc3, {-25.971, 72.803}, -0.628},
     {0x1cafc3, {-29.364, 62.361}},

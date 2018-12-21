@@ -1,5 +1,5 @@
 
-{data={name="Explorer PLP-1864/7", author="Magnus siiftun1857 Frankline"}, blocks={
+{data={name="Explorer PLP", author="PLP"}, blocks={
     {0x1604b8, {-113.699, 0}, command={faction=1443}},
     {0x160514, {31.291, 20}, -1.571},
     {0x160547, {26.291, -10}},
