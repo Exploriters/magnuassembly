@@ -334,7 +334,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping requiring Subsystem and cost power capacity. \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
@@ -353,6 +353,8 @@
 	"_blurb_3883LifetimeSubsystem"="(+)Increase 5% range for boosting cannon. ",
 	"_text_3883EjectorSubsystem"="Ejector Subsystem",
 	"_blurb_3883EjectorSubsystem"="(+)Increase 5% velocity for boosting cannon. ",
+	"_text_3883LonerSubsystem"="Loner Subsystem",
+	"_blurb_3883LonerSubsystem"="(+)+15% damage \n(-)-100% explode effect ",
 	
 	"_text_3883WhiteSBud"="White Script Bud",
 	"_text_3883KatoonSBud"="Katoon Script Bud",
