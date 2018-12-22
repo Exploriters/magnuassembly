@@ -25179,12 +25179,12 @@
 		cannon={
 			damage=100,
 			power=5000,
-			roundsPerSec=6,
+			roundsPerSec=3,
 			muzzleVel=2000,
 			range=0,
 			spread=0,
-			roundsPerBurst=1,
-			burstyness=0,
+			roundsPerBurst=30,
+			burstyness=0.5,
 			color=0xc0c0c0,
 			fragment={
 				damage=1000,
