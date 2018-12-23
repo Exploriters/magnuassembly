@@ -25178,7 +25178,7 @@
 		meleeDamage=1,
 		cannon={
 			damage=100,
-			power=5000,
+			power=3000,
 			roundsPerSec=5,
 			muzzleVel=2000,
 			range=0,
