@@ -25179,11 +25179,11 @@
 		cannon={
 			damage=100,
 			power=5000,
-			roundsPerSec=3,
+			roundsPerSec=5,
 			muzzleVel=2000,
 			range=0,
 			spread=0,
-			roundsPerBurst=30,
+			roundsPerBurst=50,
 			burstyness=0.5,
 			color=0xc0c0c0,
 			fragment={
@@ -25191,7 +25191,7 @@
 				muzzleVel=2000,
 				range=1000,
 				spread=1.178,
-				roundsPerBurst=5,
+				roundsPerBurst=3,
 				color=0xc0c0c0,
 			}
 		},
