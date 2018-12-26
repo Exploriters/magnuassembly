@@ -1,5 +1,5 @@
 
-{data={name="Tech Heavy Assault", author="siiftun1857"}, blocks={
+{data={name="Tech Heavy Assault", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x12e3f0, {4.079, 13.656}, command={faction=1238}},
     {0x12e425, {-77.109, -0.004}, bindingId=1},
     {0x12e3f1, {18.022, 6.826}, -2.618},

@@ -2,6 +2,7 @@
 -- This text.lua is an English thanslation document.
 
 {
+	"_SQUARE_BLANK"=" ",
 	"_bl"=" ",
 	"_n"="\n",
 	
@@ -176,15 +177,21 @@
 	
 	"_text_lapismDecoyGenerator"="Decoy Generator",
 	
-	"_text_PhageCore"="Phage Core",
+	"_text_PhageCore"="Phage Core - Repeat Mine Shotgun",
 	"_text_phageHull"="Blank Protein",
 	"_text_CacheGenerator"="Generator Cache",
+	"_blurb_PhageCore"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nRepeat Mine Shotgun is installed, intake all protein booster on hull. ",
+	"_blurb_phageHull"="Light hull reassemble in haste. ",
+	"_blurb_CacheGenerator"="Cache generator. Can not keep capacity being full. ",
+	"_blurb_phageBooster"="Protein booster. Anti missile PD laser is installed. ",
 	
 	"_text_phageDmgBooster"="Damage Booster",
 	"_text_phageVelBooster"="Velocity Booster",
 	"_text_phageRngBooster"="Range Booster",
 	"_text_phageRofBooster"="Reload Booster",
 	"_text_phageErdBooster"="Explode Booster",
+	"_text_phageHomingShieldBombLauncher"="Homing Explosive Shield Launcher",
+	"_text_phageHomingShieldBomb"="Homing Explosive Shield",
 	
 	"_text_NullsetterCommand"="Null Setter",
 	"_text_NullsetterHull"="Anti Matter",
@@ -327,7 +334,7 @@
 	
 	"_text_3883Capsule"="Explorer Capsule"
 
-	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity.  \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
+	"_blurb_3883Capsule"="Hard capsule container. \nJump device is installed, Jumping requiring Subsystem and cost power capacity. \nProvide power control, offline weapon has 20x power cost penalty. \nProvide thrust force, offline thruster has no thrust force. \nThree subsystem slot available. \n\n====================\nDear explorer：\nReading this means you have accessed the ship operation of Stragegic Brawler. \nYou may noticed that every one of Stragegic Brawler will mark on map. The reason that worth we do this is we are rare, every Stragegic Brawler is valuable. \nWe powerful as gift and cause we loney, but when travel around the world alone, don't forget that you still have allies - at least, drones. \n\nYou are the most valuable one. \nUse your powerful power wisely, find the members of your species who lost, and explode the umlimited universe. \n Fly safe. \n===== = == === ==== =====\nThank you for using 3tr8g8gi3 tech system ,\nGood bye ye ee. . ..y..  . ",
 	
 	"_text_3883OrangeStructue"="Orange Structue",
 	"_text_3883BlueStructue"="Blue Structue",
@@ -338,6 +345,16 @@
 	"_blurb_3883BlankSubsystem"="(-)This do nothing",
 	"_text_3883PowerSaverSubsystem"="Power Saver Subsystem",
 	"_blurb_3883PowerSaverSubsystem"="(+)Decrease 5% power cost for boosting cannon. ",
+	"_text_3883HeatSinkSubsystem"="Heat Sink Subsystem",
+	"_blurb_3883HeatSinkSubsystem"="(+)Increase 5% damage for boosting cannon. ",
+	"_text_3883BootingSubsystem"="Booting Subsystem",
+	"_blurb_3883BootingSubsystem"="(+)Increase 5% rate for boosting cannon. ",
+	"_text_3883LifetimeSubsystem"="Lifetime Subsystem",
+	"_blurb_3883LifetimeSubsystem"="(+)Increase 5% range for boosting cannon. ",
+	"_text_3883EjectorSubsystem"="Ejector Subsystem",
+	"_blurb_3883EjectorSubsystem"="(+)Increase 5% velocity for boosting cannon. ",
+	"_text_3883LonerSubsystem"="Loner Subsystem",
+	"_blurb_3883LonerSubsystem"="(+)+15% damage \n(-)-100% explode effect ",
 	
 	"_text_3883WhiteSBud"="White Script Bud",
 	"_text_3883KatoonSBud"="Katoon Script Bud",
@@ -387,12 +404,12 @@
 	"_blurb_3883techThrusterR"="Right thruster. Wired to command is required to work. ",
 	"_blurb_3883techThrusterB"="Backward thruster. Wired to command is required to work. ",
 	
-	"_text_3883CannonS1"="A-1",
-	"_text_3883CannonS2"="DSD-4625",
-	"_text_3883CannonS3"="RRSKK-3",
-	"_text_3883CannonS4"="ASET-8",
-	"_text_3883CannonS5"="BRMG-64",
-	"_text_3883Nanoassembler"="MED-99",
+	"_text_3883CannonS1"="Grenade Projector A-1",
+	"_text_3883CannonS2"="Accurate Mortar DSD-4625",
+	"_text_3883CannonS3"="Plasma Cannon RRSKK-3",
+	"_text_3883CannonS4"="Neutron Bomber ASET-8",
+	"_text_3883CannonS5"="Haste EM-Shot Rail Blaster BRMG-64",
+	"_text_3883Nanoassembler"="Recovery MED-99",
 	
 	"_blurb_3883WhiteStructue"="Heavy hard spiky white lapismarine armor. ",
 	"_blurb_3883DarkStructue"="Light ships structue. ",
@@ -400,7 +417,7 @@
 	"_blurb_3883TBud"="Part of Thrust Bud System, use this wire your thrusters. ",
 	"_blurb_3883STBud"="Part of Script Bud System and Thrust Bud System, use this wire your weapons and thrusters - if they go across. ",
 	
-	"_blurb_3883CannonS1"="Blank cannon. ",
+	"_blurb_3883CannonS1"="Launching grenade. ",
 	"_blurb_3883CannonS5"="Deadly haste blaster. ",
 	"_blurb_3883Afterburner1000"="Active manually, 1000k thrust force, no wiring is needed. ",
 	"_blurb_standardGenerator0s"="Standard generator device. ",
@@ -455,8 +472,8 @@
 	
 	"_text_38techMSPDS"="MSPDS",
 	"_blurb_38techMSPDS"="Push and destroy incoming missie. ",
-	"_text_38techABlaster"="Auto Blaster",
-	"_blurb_38techABlaster"="Fast and deadly haste cannon that attack enemies automatically. ",
+	"_text_SharedABlaster"="Auto Blaster",
+	"_blurb_SharedABlaster"="Fast and deadly haste cannon that attack enemies automatically. ",
 	"_text_38techMRR"="Modular Rail Rifle",
 	"_blurb_38techMRR"="Sniping weapon with plugin slot available. ",
 	"_text_38techAstHealer"="Asteroid Healer",
@@ -502,4 +519,31 @@
 	"_blurb_38techAMB_Launcher"="Launch the more-most powerful bomb ever that destroying entirely hostile fleet. \nWhen the true light which brighter than a thousand yellow star is released, the space will be tremble, the star is dark, everything is ashed. \n(*)Bomb can be destroy without being it's primary type of explode. ",
 	"_blurb_38techAMB_Missile"="Bring an extremely deadly anti fleet bomb into deep space. ",
 	"_blurb_38techAMB_Bomb"="Explode on launch. ",
+-- Bootten
+	"_blurb_B10Armor"="Heavy hard armor. ",
+	"_blurb_B10Capsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. ",
+	
+	"_text_B10RCS"="RCS Thruster",
+	"_text_B10RCSTraps"="RCS Traps",
+	"_blurb_B10RCS1"="Standard RCS thrust out port, 10% thrust power. ",
+	"_blurb_B10RCS2"="Standard RCS thrust out port, 50% thrust power. ",
+	"_blurb_B10RCS3"="Standard RCS thrust out port, 100% thrust power. ",
+	"_blurb_B10RCSTraps"="Traps RCS thrust out port, 0% thrust power. Disable thruster flame and cannon which connected with this. ",
+	
+	"_text_B10Thruster_RAA"="RAA Thruster",
+	"_blurb_B10Thruster_RAA"="A very traditional rookie thruster. \nPrimary Force: 440K\nRCS Force: 200K"
+	"_text_B10Thruster_XCS"="XCS Thruster",
+	"_blurb_B10Thruster_XCS"="Provide RCS ports. \nPrimary Force: 0K\nRCS Force: 100K"
+	"_text_B10Thruster_GIGAB"="GIGAB Thruster",
+	"_blurb_B10Thruster_GIGAB"="Heavy microwarp thruster for capital ship. \nPrimary Force: 1500K\nRCS Force: 0K"
+	"_text_B10Thruster_BLINK"="BLINK Thruster",
+	"_blurb_B10Thruster_BLINK"="Midium microwarp thruster for curiser. \nPrimary Force: 800K\nRCS Force: 200K"
+	
+	"_text_B10GooLauncher"="Goo Gun",
+	"_blurb_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
+	"_text_B10Goo"="Goo Orb",
+	"_blurb_B10Goo"="Sticky. ",
+-- Magnualand
+	"_text_SovGenerator"="Territorial Claim Unit",
+	"_blurb_SovGenerator"="Provide warping portal and safety. ",
 }

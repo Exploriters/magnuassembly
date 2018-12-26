@@ -87,6 +87,8 @@
 	-- uniqueFraction=0.07,
 	-- ambient={ 2, 1, 0 },
 	
+	ident=1257000,
+	count=0,
 	subregions={
 	
 	
@@ -134,7 +136,6 @@
 			unique={
 				{
 					"1257_Lapismarine_Outer_Ring_Checkpoint",
-					"1257_Cargoship",
 				},
 			},
 			uniqueFraction=0.5,

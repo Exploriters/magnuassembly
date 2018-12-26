@@ -2,6 +2,7 @@
 -- This text.lua is an Chinese thanslation document.
 -- 这个text.lua是一份中文翻译文档。
 {
+	"_SQUARE_BLANK"=" ",
 	"_bl"="",
 	"_n"="\n",
 	
@@ -176,15 +177,21 @@
 	
 	"_text_lapismDecoyGenerator"="诱饵投影仪",
 	
-	"_text_PhageCore"="噬菌体核心",
+	"_text_PhageCore"="噬菌体核心 - 连发地雷霰弹枪",
 	"_text_phageHull"="空白蛋白质",
 	"_text_CacheGenerator"="缓冲发电机",
+	"_blurb_PhageCore"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n已装配连发地雷霰弹枪，接受来自全舰的蛋白质增幅器。",
+	"_blurb_phageHull"="轻量级高速重组船体。",
+	"_blurb_CacheGenerator"="间歇性充能发电机。无法保持电容注满。",
+	"_blurb_phageBooster"="蛋白质增幅器。配备反发射物点防御激光。",
 	
 	"_text_phageDmgBooster"="伤害增幅器",
 	"_text_phageVelBooster"="弹速增幅器",
 	"_text_phageRngBooster"="射程增幅器",
 	"_text_phageRofBooster"="填装增幅器",
 	"_text_phageErdBooster"="爆炸增幅器",
+	"_text_phageHomingShieldBombLauncher"="诱导爆炸性护盾投射器",
+	"_text_phageHomingShieldBomb"="诱导爆炸性护盾",
 	
 	"_text_NullsetterCommand"="归零者",
 	"_text_NullsetterHull"="反物质",
@@ -327,7 +334,7 @@
 	
 	"_text_3883Capsule"="探索家航天舱",
 
-	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n具有三个子系统插槽。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n===== = == === ==== =====\n感谢您使用3883科技系统，\n再见 见 。。 见。再。 。",
+	"_blurb_3883Capsule"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁需要子系统并消耗电容器。\n提供能量控制，断线武器具有二十倍能量消耗惩罚。\n提供中央推力供应，断线推进器将不具有推力。\n具有三个子系统插槽。\n\n====================\n致探索家：\n阅读此文本表示您已获得了战略狂欢者的舰船驾驶权限。\n您或许已经注意到，所有战略狂欢者都会被标记在地图上。而值得这么做的原因是，我们的数量如此的稀少，每一个战略狂欢者都是最珍贵的。\n我们生来强大，因而注定孤单。但在独行的同时也不要忘记，您确实还是有友军的——至少还有无人机的陪伴。\n\n您是最珍贵的。\n明智地使用你的强大力量，寻找其他漂泊宇宙的同族，并探索无尽的宇宙。\n启程了。\n===== = == === ==== =====\n感谢您使用3883科技系统，\n再见 见 。。 见。再。 。",
 	
 	"_text_3883OrangeStructue"="橙色结构",
 	"_text_3883BlueStructue"="橙色结构",
@@ -338,6 +345,16 @@
 	"_blurb_3883BlankSubsystem"="(-)什么都不做。",
 	"_text_3883PowerSaverSubsystem"="节电子系统",
 	"_blurb_3883PowerSaverSubsystem"="(+)为目标火炮武器降低5%能量消耗。"
+	"_text_3883HeatSinkSubsystem"="导热槽子系统",
+	"_blurb_3883HeatSinkSubsystem"="(+)为目标火炮武器增加5%伤害。",
+	"_text_3883BootingSubsystem"="引导子系统",
+	"_blurb_3883BootingSubsystem"="(+)为目标火炮武器增加5%射速。",
+	"_text_3883LifetimeSubsystem"="寿命子系统",
+	"_blurb_3883LifetimeSubsystem"="(+)为目标火炮武器增加5%射程。",
+	"_text_3883EjectorSubsystem"="弹射子系统",
+	"_blurb_3883EjectorSubsystem"="(+)为目标火炮武器增加5%弹速。",
+	"_text_3883LonerSubsystem"="独行子系统",
+	"_blurb_3883LonerSubsystem"="(+)伤害增加15%。\n(-)爆炸范围面积降低100%。",
 	
 	"_text_3883WhiteSBud"="白色脚本总线"
 	"_text_3883KatoonSBud"="喀通脚本总线",
@@ -387,12 +404,12 @@
 	"_blurb_3883techThrusterR"="右置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
 	"_blurb_3883techThrusterB"="后置推进器。此设备必须直接或通过总线间接连接核心模块才可以工作。",
 	
-	"_text_3883CannonS1"="A-1",
-	"_text_3883CannonS2"="DSD-4625",
-	"_text_3883CannonS3"="RRSKK-3",
-	"_text_3883CannonS4"="ASET-8",
-	"_text_3883CannonS5"="BRMG-64",
-	"_text_3883Nanoassembler"="MED-99",
+	"_text_3883CannonS1"="榴弹投射炮A-1",
+	"_text_3883CannonS2"="精准迫击炮DSD-4625",
+	"_text_3883CannonS3"="等离子加农炮RRSKK-3",
+	"_text_3883CannonS4"="中子爆破炮ASET-8",
+	"_text_3883CannonS5"="疾速电磁弹轨道炮BRMG-64",
+	"_text_3883Nanoassembler"="恢复器MED-99",
 	
 	"_blurb_3883WhiteStructue"="厚重强硬且锋利的海青装甲。",
 	"_blurb_3883DarkStructue"="轻盈的灰色船体结构组件。",
@@ -400,7 +417,7 @@
 	"_blurb_3883TBud"="推进器总线，用于传递推进。",
 	"_blurb_3883STBud"="武器及推进器总线，在武器总线与推进器总线交叉时，此设备很有用。",
 	
-	"_blurb_3883CannonS1"="空白火炮。",
+	"_blurb_3883CannonS1"="发射榴弹。",
 	"_blurb_3883CannonS5"="致命的急速火炮。",
 	"_blurb_3883Afterburner1000"="手动激活，具有1000k推力，不需要连接总线。",
 	"_blurb_standardGenerator0s"="标准化电力模块。",
@@ -455,8 +472,8 @@
 	
 	"_text_38techMSPDS"="小型点防御子系统",
 	"_blurb_38techMSPDS"="推离并摧毁飞来的导弹。",
-	"_text_38techABlaster"="自动爆破炮",
-	"_blurb_38techABlaster"="自动索敌的快速且致命的极速火炮。",
+	"_text_SharedABlaster"="自动爆破炮",
+	"_blurb_SharedABlaster"="自动索敌的快速且致命的极速火炮。",
 	"_text_38techMRR"="模块化轨道炮来复枪",
 	"_blurb_38techMRR"="具有插件槽位的狙击武器。",
 	"_text_38techAstHealer"="小行星治疗器",
@@ -502,4 +519,31 @@
 	"_blurb_38techDSB_Launcher"="发射更加最为致命的恐怖炸弹用于轰掉一整个敌人舰队。\n比黄色主序星亮一千倍的真正光芒被释放之时，宇宙也要为之颤动，星空暗淡无光，万物只余灰烬。 \n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
 	"_blurb_38techDSB_Missile"="将一颗极端致命的反舰队炸弹带入深空。",
 	"_blurb_38techDSB_Bomb"="发射时起爆。",
+-- 引导十
+	"_blurb_B10Armor"="坚硬的重型装甲。",
+	"_blurb_B10Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
+	
+	"_text_B10RCS"="RCS喷射口",
+	"_text_B10RCSTraps"="RCS陷阱",
+	"_blurb_B10RCS1"="标准RCS喷射口，10%喷射能力。",
+	"_blurb_B10RCS2"="标准RCS喷射口，50%喷射能力。",
+	"_blurb_B10RCS3"="标准RCS喷射口，100%喷射能力。",
+	"_blurb_B10RCSTraps"="陷阱RCS喷射口，0%喷射能力。禁用连接此部件的火炮和引擎尾焰。",
+	
+	"_text_B10Thruster_RAA"="RAA推进器",
+	"_blurb_B10Thruster_RAA"="一个非常传统的小型舰船推进器。\n主要喷射力度：440k\nRCS喷射力度；200k"
+	"_text_B10Thruster_XCS"="XCS推进器",
+	"_blurb_B10Thruster_XCS"="提供RCS接口。\n主要喷射力度：0k\nRCS喷射力度；100k"
+	"_text_B10Thruster_GIGAB"="GIGAB推进器",
+	"_blurb_B10Thruster_GIGAB"="适用于旗舰的重型微跃迁推进器。\n主要喷射力度：1500K\nRCS喷射力度；0K"
+	"_text_B10Thruster_BLINK"="BLINK推进器",
+	"_blurb_B10Thruster_BLINK"="适用于巡洋舰的中型微跃迁推进器。\n主要喷射力度：800K\nRCS喷射力度；200K"
+	
+	"_text_B10GooLauncher"="粘液球喷枪",
+	"_blurb_B10Goo"="发射延迟爆炸的追踪性粘液球。",
+	"_text_B10GooLauncher"="粘液球",
+	"_blurb_B10Goo"="黏糊糊的。",
+-- 马葛兰
+	"_text_SovGenerator"="主权宣布设施",
+	"_blurb_SovGenerator"="提供跃迁出口和安全保护。",
 }

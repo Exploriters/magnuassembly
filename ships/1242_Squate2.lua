@@ -1,5 +1,5 @@
 
-{data={name="Squate2", author="siiftun1857", wgroup={2, 2, 2, 2}}, blocks={
+{data={name="Squate2", author="Magnus siiftun1857 Frankline", wgroup={2, 2, 2, 2}}, blocks={
     {0x12f390, {37.408, 0}, command={faction=1242}},
     {0x12f391, {22.408, -15}},
     {0x12f391, {32.408, -15}},

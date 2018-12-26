@@ -20,7 +20,7 @@
 		color0=0xff7f00,
 		color1=0x39347a,
 		color2=0x000000,
-		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|TRACTOR_TRANSIENT|WANDER,
+		aiflags=DODGES|FLOCKING|METAMORPHOSIS|PEACEFUL|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 	
@@ -33,12 +33,13 @@
 		color1=0x725538,
 		color2=0xbfbfbf,
 		aiflags=DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
+		thrustSFX=0,
 	},
 	
 	
 	1880 = {
 		name=_("_text_faction_Phage"),-- Protein
-		playable=2,
+		playable=1,
 		start="1880_A-1",
 		primaries=3,
 		color0=0xc0ff7f,
@@ -57,7 +58,7 @@
 		color1=0xaac9ff,
 		color2=0x64a08f,
 		aiflags=CAUTIOUS|DODGES|METAMORPHOSIS|RIPPLE_FIRE|SOCIAL|SPREAD_FIRE|WANDER,
-		thrustSFX=1,
+		thrustSFX=0,
 	},
 
 	1243 = {
@@ -103,7 +104,7 @@
 		color1=0x7fc0ff,
 		color2=0xffffff,
 		aiflags=ATTACK|RECKLESS|FLOCKING|SOCIAL,
-		thrustSFX=1,
+		thrustSFX=0,
 	},
 
 }

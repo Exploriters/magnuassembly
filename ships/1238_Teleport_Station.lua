@@ -1,5 +1,5 @@
 
-{data={name="Teleport Station", author="siiftun1857"}, blocks={
+{data={name="Teleport Station", author="Magnus siiftun1857 Frankline"}, blocks={
     {0x12e3f0, {-23.09, 0}, command={faction=1238}},
     {0x12e406, {-21.647, -7.5}, 1.047},
     {0x12e406, {-21.647, 7.5}, -1.047},
