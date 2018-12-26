@@ -8,9 +8,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -22,9 +22,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -36,9 +36,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=3,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -50,9 +50,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -64,9 +64,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -78,9 +78,9 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapishull.lua"
+		#include "blocks/_T_Lapishull.lua"
 		points=-1,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -99,7 +99,7 @@
 		durability=6,
 		density=0.3,
 		growRate=2.5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -118,7 +118,7 @@
 		durability=6,
 		density=0.3,
 		growRate=2.5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -137,7 +137,7 @@
 		durability=6,
 		density=0.3,
 		growRate=2.5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -157,7 +157,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=250,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -177,7 +177,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=1000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -197,7 +197,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=2250,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -217,7 +217,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=1500,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -237,7 +237,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=6000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -257,7 +257,7 @@
 		density=0.05,
 		growRate=100,
 		capacity=9000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -278,7 +278,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -299,7 +299,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -320,7 +320,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -341,7 +341,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=2,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -362,7 +362,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -383,7 +383,7 @@
 		growRate=2,
 		armor=20,
 		meleeDamage=5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -404,7 +404,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -425,7 +425,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -446,7 +446,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -467,7 +467,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -488,7 +488,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -509,7 +509,7 @@
 		growRate=1000,
 		explodeDamage=0,
 		explodeRadius=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -528,7 +528,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -547,7 +547,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -566,7 +566,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	-- {
@@ -602,7 +602,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -621,7 +621,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -640,7 +640,7 @@
 		density=0.02,
 		growRate=100,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -660,7 +660,7 @@
 		density=100,
 		growRate=2,
 		armor=20,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -672,10 +672,10 @@
 		blurb=_("_blurb_BlankDevice"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		capacity=250,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -687,7 +687,7 @@
 		blurb=_("_blurb_BasicShield"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		shield={
 			strength=4000,
@@ -698,7 +698,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -710,7 +710,7 @@
 		blurb=_("_blurb_BasicShield"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=400,
 		shield={
 			strength=16000,
@@ -721,7 +721,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -733,7 +733,7 @@
 		blurb=_("_blurb_BasicShield"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1600,
 		shield={
 			strength=36000,
@@ -744,7 +744,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -756,7 +756,7 @@
 		blurb=_("_blurb_lapismMegaShield"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=4880,
 		shield={
 			strength=128000,
@@ -767,7 +767,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -780,11 +780,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=30,
 		generatorCapacityPerSec=100,
 		powerCapacity=1000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -797,11 +797,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=120,
 		generatorCapacityPerSec=400,
 		powerCapacity=4000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -814,11 +814,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=TRI,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=270,
 		generatorCapacityPerSec=900,
 		powerCapacity=9000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -831,11 +831,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=180,
 		generatorCapacityPerSec=600,
 		powerCapacity=6000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -848,11 +848,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=720,
 		generatorCapacityPerSec=2400,
 		powerCapacity=24000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -865,11 +865,11 @@
 		blurb=_("_blurb_standardGenerator10s"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1620,
 		generatorCapacityPerSec=5400,
 		powerCapacity=54000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -881,10 +881,10 @@
 		blurb=_("_blurb_lapismResBoot"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=5,
 		photosynthPerSec=0.5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -896,10 +896,10 @@
 		blurb=_("_blurb_lapismResBoot"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=30,
 		photosynthPerSec=3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -911,10 +911,10 @@
 		blurb=_("_blurb_lapismResBoot"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		photosynthPerSec=4.5,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -926,14 +926,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257001,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1,
 		thrusterForce=40000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -945,14 +945,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257002,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1,
 		thrusterForce=40000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -964,14 +964,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257001,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=4,
 		thrusterForce=160000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -983,14 +983,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257002,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=4,
 		thrusterForce=160000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1002,14 +1002,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257001,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=9,
 		thrusterForce=360000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1021,14 +1021,14 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=1257002,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=9,
 		thrusterForce=360000,
 		thrusterBoost=1,
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1040,10 +1040,10 @@
 		blurb=_("_blurb_standardMomentumWhell"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1,
 		torquerTorque=25000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1055,10 +1055,10 @@
 		blurb=_("_blurb_standardMomentumWhell"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=6,
 		torquerTorque=150000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1070,10 +1070,10 @@
 		blurb=_("_blurb_standardMomentumWhell"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=24,
 		torquerTorque=600000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1085,10 +1085,10 @@
 		blurb=_("_blurb_standardMomentumWhell"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=96,
 		torquerTorque=1350000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1100,10 +1100,10 @@
 		blurb=_("_blurb_standardResTractorLong"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		tractorRange=1000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1115,10 +1115,10 @@
 		blurb=_("_blurb_standardResTractorLong"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=3,
 		tractorRange=1800,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1130,10 +1130,10 @@
 		blurb=_("_blurb_standardResTractorLong"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=4,
 		tractorRange=3000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1145,10 +1145,10 @@
 		blurb=_("_blurb_standardResTractorLong"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=5,
 		tractorRange=10000,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1160,7 +1160,7 @@
 		blurb=_("_blurb_standardAutocannon"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		cannon={
 			damage=20,
@@ -1174,7 +1174,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1186,7 +1186,7 @@
 		blurb=_("_blurb_standardAutocannon"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		cannon={
 			damage=20,
@@ -1200,7 +1200,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1212,7 +1212,7 @@
 		blurb=_("_blurb_standardAutocannon"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		cannon={
 			damage=20,
@@ -1226,7 +1226,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=9.425,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1238,7 +1238,7 @@
 		blurb=_("_blurb_standardAutocannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		cannon={
 			damage=20,
@@ -1252,7 +1252,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1289,7 +1289,7 @@
 			},
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1300,7 +1300,7 @@
 		name=_("_text_Decoy")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
 		blurb=_("_blurb_lapismPhaser"),
 		shape=1257010,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		cannon={
 			damage=100,
@@ -1321,7 +1321,7 @@
 			},
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1333,7 +1333,7 @@
 		blurb=_("_blurb_lapismPhaser"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=40,
 		cannon={
 			damage=100,
@@ -1354,7 +1354,7 @@
 			},
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1366,7 +1366,7 @@
 		blurb=_("_blurb_lapismPhaser"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=90,
 		cannon={
 			damage=100,
@@ -1387,7 +1387,7 @@
 			},
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1399,7 +1399,7 @@
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=15,
 		cannon={
 			damage=11,
@@ -1413,7 +1413,7 @@
 			spread=0.086,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1425,7 +1425,7 @@
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=60,
 		cannon={
 			damage=22,
@@ -1439,7 +1439,7 @@
 			spread=0.086,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1451,7 +1451,7 @@
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=135,
 		cannon={
 			damage=33,
@@ -1465,7 +1465,7 @@
 			spread=0.086,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1477,7 +1477,7 @@
 		blurb=_("_blurb_standardLaser"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=3,
 		laser={
 			damage=50,
@@ -1487,7 +1487,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1499,7 +1499,7 @@
 		blurb=_("_blurb_standardLaser"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=18,
 		laser={
 			damage=300,
@@ -1509,7 +1509,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1536,7 +1536,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1563,7 +1563,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1575,7 +1575,7 @@
 		blurb=_("_blurb_FriendlyTractorBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=-1,
@@ -1586,7 +1586,7 @@
 			linearForce=-10000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1598,7 +1598,7 @@
 		blurb=_("_blurb_FriendlyTractorBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=-6,
@@ -1609,7 +1609,7 @@
 			linearForce=-60000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1621,7 +1621,7 @@
 		blurb=_("_blurb_FriendlyTractorBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=-24,
@@ -1632,7 +1632,7 @@
 			linearForce=-240000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1644,7 +1644,7 @@
 		blurb=_("_blurb_FriendlyTractorBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=-96,
@@ -1655,7 +1655,7 @@
 			linearForce=-540000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1667,7 +1667,7 @@
 		blurb=_("_blurb_FriendlyForceBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=-1,
@@ -1678,7 +1678,7 @@
 			linearForce=10000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1690,7 +1690,7 @@
 		blurb=_("_blurb_FriendlyForceBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=-6,
@@ -1701,7 +1701,7 @@
 			linearForce=60000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1713,7 +1713,7 @@
 		blurb=_("_blurb_FriendlyForceBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=-24,
@@ -1724,7 +1724,7 @@
 			linearForce=240000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1736,7 +1736,7 @@
 		blurb=_("_blurb_FriendlyForceBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=-96,
@@ -1747,7 +1747,7 @@
 			linearForce=540000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1759,7 +1759,7 @@
 		blurb=_("_blurb_FriendlyStaticBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=-1,
@@ -1770,7 +1770,7 @@
 			immobilizeForce=20000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1782,7 +1782,7 @@
 		blurb=_("_blurb_FriendlyStaticBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=-6,
@@ -1793,7 +1793,7 @@
 			immobilizeForce=120000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1805,7 +1805,7 @@
 		blurb=_("_blurb_FriendlyStaticBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=-24,
@@ -1816,7 +1816,7 @@
 			immobilizeForce=480000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1828,7 +1828,7 @@
 		blurb=_("_blurb_FriendlyStaticBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=-96,
@@ -1839,7 +1839,7 @@
 			immobilizeForce=1080000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1851,7 +1851,7 @@
 		blurb=_("_blurb_TractorBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=1,
@@ -1862,7 +1862,7 @@
 			linearForce=-10000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1874,7 +1874,7 @@
 		blurb=_("_blurb_TractorBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=6,
@@ -1885,7 +1885,7 @@
 			linearForce=-60000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1897,7 +1897,7 @@
 		blurb=_("_blurb_TractorBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=24,
@@ -1908,7 +1908,7 @@
 			linearForce=-240000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1920,7 +1920,7 @@
 		blurb=_("_blurb_TractorBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=96,
@@ -1931,7 +1931,7 @@
 			linearForce=-540000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1943,7 +1943,7 @@
 		blurb=_("_blurb_ForceBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=1,
@@ -1954,7 +1954,7 @@
 			linearForce=10000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1966,7 +1966,7 @@
 		blurb=_("_blurb_ForceBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=6,
@@ -1977,7 +1977,7 @@
 			linearForce=60000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -1989,7 +1989,7 @@
 		blurb=_("_blurb_ForceBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=24,
@@ -2000,7 +2000,7 @@
 			linearForce=240000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2012,7 +2012,7 @@
 		blurb=_("_blurb_ForceBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=96,
@@ -2023,7 +2023,7 @@
 			linearForce=540000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2035,7 +2035,7 @@
 		blurb=_("_blurb_StaticBeam"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2,
 		laser={
 			damage=1,
@@ -2046,7 +2046,7 @@
 			immobilizeForce=20000,
 		},
 		turretSpeed=25.132,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2058,7 +2058,7 @@
 		blurb=_("_blurb_StaticBeam"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=12,
 		laser={
 			damage=6,
@@ -2069,7 +2069,7 @@
 			immobilizeForce=120000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2081,7 +2081,7 @@
 		blurb=_("_blurb_StaticBeam"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=48,
 		laser={
 			damage=24,
@@ -2092,7 +2092,7 @@
 			immobilizeForce=480000,
 		},
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2104,7 +2104,7 @@
 		blurb=_("_blurb_StaticBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=108,
 		laser={
 			damage=96,
@@ -2115,7 +2115,7 @@
 			immobilizeForce=1080000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2127,7 +2127,7 @@
 		blurb=_("_blurb_standardNanoassembler"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		laser={
 			damage=-1250,
@@ -2137,7 +2137,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2149,7 +2149,7 @@
 		blurb=_("_blurb_standardNanoassembler"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=400,
 		laser={
 			damage=-5000,
@@ -2159,7 +2159,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2171,7 +2171,7 @@
 		blurb=_("_blurb_standardNanoassembler"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=900,
 		laser={
 			damage=-11250,
@@ -2181,7 +2181,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2193,7 +2193,7 @@
 		blurb=_("_blurb_shortShotgun"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=22,
 		cannon={
 			damage=20,
@@ -2208,7 +2208,7 @@
 			pattern=RANDOM,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2220,7 +2220,7 @@
 		blurb=_("_blurb_shortShotgun"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=88,
 		cannon={
 			damage=20,
@@ -2235,7 +2235,7 @@
 			pattern=RANDOM,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2247,7 +2247,7 @@
 		blurb=_("_blurb_shortShotgun"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=198,
 		cannon={
 			damage=20,
@@ -2262,7 +2262,7 @@
 			pattern=RANDOM,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2274,7 +2274,7 @@
 		blurb=_("_blurb_bombingRail"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=334,
 		cannon={
 			damage=2000,
@@ -2289,7 +2289,7 @@
 		turretSpeed=6.283,
 		chargeMaxTime=10,
 		chargeMin=0.3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2301,7 +2301,7 @@
 		blurb=_("_blurb_bombingRail"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1339,
 		cannon={
 			damage=4500,
@@ -2316,7 +2316,7 @@
 		turretSpeed=4.712,
 		chargeMaxTime=10,
 		chargeMin=0.3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2328,7 +2328,7 @@
 		blurb=_("_blurb_snipeRifle"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=135,
 		laser={
 			damage=200,
@@ -2346,7 +2346,7 @@
 			barrelTaper=1,
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2358,7 +2358,7 @@
 		blurb=_("_blurb_snipeRifle"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=270,
 		laser={
 			damage=800,
@@ -2376,7 +2376,7 @@
 			barrelTaper=1,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2388,7 +2388,7 @@
 		blurb=_("_blurb_snipeRifle"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=540,
 		laser={
 			damage=3200,
@@ -2406,7 +2406,7 @@
 			barrelTaper=1,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2418,7 +2418,7 @@
 		blurb=_("_blurb_eliteRifle"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1257,
 		laser={
 			damage=1000,
@@ -2434,7 +2434,7 @@
 			barrelTaper=1,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2446,7 +2446,7 @@
 		blurb=_("_blurb_lapismGravitationBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=250,
 		laser={
 			damage=100,
@@ -2459,7 +2459,7 @@
 			decay=3,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2471,7 +2471,7 @@
 		blurb=_("_blurb_lapismKineticBomb"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=250,
 		laser={
 			damage=100,
@@ -2483,7 +2483,7 @@
 			decay=3,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2495,7 +2495,7 @@
 		blurb=_("_blurb_Smartbomb"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=25,
 		cannon={
 			damage=100,
@@ -2518,7 +2518,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2530,7 +2530,7 @@
 		blurb=_("_blurb_Smartbomb"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		cannon={
 			damage=200,
@@ -2553,7 +2553,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2565,7 +2565,7 @@
 		blurb=_("_blurb_Smartbomb"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=400,
 		cannon={
 			damage=300,
@@ -2588,7 +2588,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2600,7 +2600,7 @@
 		blurb=_("_blurb_lapismStrategicSmartbomb"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2000,
 		cannon={
 			damage=3000,
@@ -2623,7 +2623,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2635,7 +2635,7 @@
 		blurb=_("_blurb_visualLaserSenser"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=0.01,
@@ -2648,7 +2648,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2660,7 +2660,7 @@
 		blurb=_("_blurb_visualLaserSenser"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=0.04,
@@ -2673,7 +2673,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2685,7 +2685,7 @@
 		blurb=_("_blurb_visualLaserSenser"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=0.09,
@@ -2698,7 +2698,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2710,7 +2710,7 @@
 		blurb=_("_blurb_visualLaserSenserFriendly"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=-0.01,
@@ -2721,7 +2721,7 @@
 			decay=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2733,7 +2733,7 @@
 		blurb=_("_blurb_visualLaserSenserFriendly"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=-0.04,
@@ -2744,7 +2744,7 @@
 			decay=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2756,7 +2756,7 @@
 		blurb=_("_blurb_visualLaserSenserFriendly"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=-0.09,
@@ -2767,7 +2767,7 @@
 			decay=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2779,7 +2779,7 @@
 		blurb=_("_blurb_superLaserSenser"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=-1,
 		laser={
 			damage=0.01,
@@ -2792,7 +2792,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2804,7 +2804,7 @@
 		blurb=_("_blurb_shortPlasmaCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=489,
 		cannon={
 			damage=1000,
@@ -2817,7 +2817,7 @@
 			explodeRadius=250,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2829,7 +2829,7 @@
 		blurb=_("_blurb_BlizzardLauncher"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1474,
 		cannon={--初始炮弹 2500
 			damage=100,
@@ -2967,7 +2967,7 @@
 			}
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -2979,7 +2979,7 @@
 		blurb=_("_blurb_lapismFragMineCannonLv1"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=25,
 		cannon={--地雷核心
 			damage=6,
@@ -3004,7 +3004,7 @@
 			}
 		},
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3016,7 +3016,7 @@
 		blurb=_("_blurb_lapismFragMineCannonLv2"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		cannon={--集束雷核心
 			damage=24,
@@ -3065,7 +3065,7 @@
 			}
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3077,7 +3077,7 @@
 		blurb=_("_blurb_lapismFragMineCannonLv3"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=225,
 		cannon={--前集束雷核心
 			damage=54,
@@ -3149,7 +3149,7 @@
 			}
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3161,7 +3161,7 @@
 		blurb=_("_blurb_lapismDmgModMk1"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3176,7 +3176,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3188,7 +3188,7 @@
 		blurb=_("_blurb_lapismDmgModMk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2.5,
 		bindingId=5,
@@ -3204,7 +3204,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3216,7 +3216,7 @@
 		blurb=_("_blurb_lapismDmgModMk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1.25,
 		bindingId=5,
@@ -3232,7 +3232,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3244,7 +3244,7 @@
 		blurb=_("_blurb_lapismRngModMk1"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3259,7 +3259,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3271,7 +3271,7 @@
 		blurb=_("_blurb_lapismRngModMk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2.5,
 		bindingId=5,
@@ -3287,7 +3287,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3299,7 +3299,7 @@
 		blurb=_("_blurb_lapismRngModMk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1.25,
 		bindingId=5,
@@ -3315,7 +3315,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3327,7 +3327,7 @@
 		blurb=_("_blurb_lapismVelModMk1"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3342,7 +3342,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3354,7 +3354,7 @@
 		blurb=_("_blurb_lapismVelModMk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2.5,
 		bindingId=5,
@@ -3370,7 +3370,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3382,7 +3382,7 @@
 		blurb=_("_blurb_lapismVelModMk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1.25,
 		bindingId=5,
@@ -3398,7 +3398,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3410,7 +3410,7 @@
 		blurb=_("_blurb_lapismRofModMk1"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3425,7 +3425,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3437,7 +3437,7 @@
 		blurb=_("_blurb_lapismRofModMk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2.5,
 		bindingId=5,
@@ -3453,7 +3453,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3465,7 +3465,7 @@
 		blurb=_("_blurb_lapismRofModMk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1.25,
 		bindingId=5,
@@ -3481,7 +3481,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3493,7 +3493,7 @@
 		blurb=_("_blurb_lapismErdModMk1")_("_n")_("_blurb_explosiveCannonRequired"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3508,7 +3508,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3520,7 +3520,7 @@
 		blurb=_("_blurb_lapismErdModMk2")_("_n")_("_blurb_modreasspenalty200")_("_n")_("_blurb_explosiveCannonRequired"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2.5,
 		bindingId=5,
@@ -3536,7 +3536,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3548,7 +3548,7 @@
 		blurb=_("_blurb_lapismErdModMk3")_("_n")_("_blurb_modreasspenalty400")_("_n")_("_blurb_explosiveCannonRequired"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1.25,
 		bindingId=5,
@@ -3564,7 +3564,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3576,7 +3576,7 @@
 		blurb=_("_blurb_lapismPwrModMk1"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3591,7 +3591,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3603,7 +3603,7 @@
 		blurb=_("_blurb_lapismPwrModMk2")_("_n")_("_blurb_modreasspenalty250"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=45,
 		growRate=2,
 		bindingId=5,
@@ -3619,7 +3619,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3631,7 +3631,7 @@
 		blurb=_("_blurb_lapismPwrModMk3")_("_n")_("_blurb_modreasspenalty500"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		growRate=1,
 		bindingId=5,
@@ -3647,7 +3647,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3659,7 +3659,7 @@
 		blurb=_("_blurb_lapismPwrModMk4")_("_n")_("_blurb_modreasspenalty800"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=200,
 		growRate=0.625,
 		bindingId=5,
@@ -3675,7 +3675,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3687,7 +3687,7 @@
 		blurb=_("_blurb_lapismPwrModMk5")_("_n")_("_blurb_modreasspenalty2000"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=400,
 		growRate=0.25,
 		bindingId=5,
@@ -3703,7 +3703,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3715,7 +3715,7 @@
 		blurb=_("_blurb_lapismSpecShortMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3732,7 +3732,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3744,7 +3744,7 @@
 		blurb=_("_blurb_lapismSpecLightMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3761,7 +3761,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3773,7 +3773,7 @@
 		blurb=_("_blurb_lapismSpecQuickMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3790,7 +3790,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3802,7 +3802,7 @@
 		blurb=_("_blurb_lapismSpecBlastMod")_("_n")_("_blurb_explosiveCannonRequired"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3818,7 +3818,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3830,7 +3830,7 @@
 		blurb=_("_blurb_lapismSpecRageMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3846,7 +3846,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3858,7 +3858,7 @@
 		blurb=_("_blurb_lapismSpecOneShotMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3875,7 +3875,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3887,7 +3887,7 @@
 		blurb=_("_blurb_lapismSpecWeakMod"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		bindingId=5,
 		cannonBoost={
@@ -3905,7 +3905,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3917,7 +3917,7 @@
 		blurb=_("_blurb_MissileDroneLauncher"),
 		shape=1257007,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		replicateBlock={
 			group=1257,
@@ -3967,19 +3967,19 @@
 				torquerTorque=7500,
 				explodeDamage=50,
 				explodeRadius=50,
-				#include "/blocks/_T_Lapisfakemissile.lua"
+				#include "blocks/_T_Lapisfakemissile.lua"
 			},
 			replicateTime=1,
 			launcherPower=0,
 			launcherOutSpeed=0,
 			launcherAngVel=0,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=5,
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -3991,7 +3991,7 @@
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		replicateBlock={
 			group=1257,
@@ -4017,13 +4017,13 @@
 			torquerTorque=7500,
 			explodeDamage=50,
 			explodeRadius=50,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=0.25,
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4035,7 +4035,7 @@
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		replicateBlock={
 			group=1257,
@@ -4061,13 +4061,13 @@
 			torquerTorque=7500,
 			explodeDamage=50,
 			explodeRadius=50,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=0.25,
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4079,7 +4079,7 @@
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=20,
 		replicateBlock={
 			group=1257,
@@ -4105,13 +4105,13 @@
 			torquerTorque=7500,
 			explodeDamage=50,
 			explodeRadius=50,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=0.25,
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -4123,7 +4123,7 @@
 		blurb=_("_blurb_FragmentDroneLauncher"),
 		shape=1257008,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=90,
 		replicateBlock={
 			group=1257,
@@ -4157,13 +4157,13 @@
 				color=0x007f7f7f,
 				decay=0,
 			},
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=2,
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	-- {	-- Drone capacity disabled
@@ -4218,7 +4218,7 @@
 		blurb=_("_blurb_lapismAntiMissileDroneLauncher"),
 		shape=1257007,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		replicateBlock={
 			group=1257,
@@ -4258,13 +4258,13 @@
 			turretSpeed=125.663,
 			chargeMaxTime=3,
 			chargeMin=0.05,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=3,
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4276,7 +4276,7 @@
 		blurb=_("_blurb_lapismNanobotLauncherSc1"),
 		shape=1257007,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=30,
 		replicateBlock={
 			group=1257,
@@ -4316,13 +4316,13 @@
 			turretSpeed=125.663,
 			chargeMaxTime=1,
 			chargeMin=1,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=1,
 		launcherPower=100,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4334,7 +4334,7 @@
 		blurb=_("_blurb_lapismNanobotLauncherSc2"),
 		shape=1257007,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=120,
 		replicateBlock={
 			group=1257,
@@ -4375,13 +4375,13 @@
 			turretSpeed=125.663,
 			chargeMaxTime=1,
 			chargeMin=1,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=1,
 		launcherPower=400,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4393,7 +4393,7 @@
 		blurb=_("_blurb_lapismNanobotLauncherSc3"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=270,
 		replicateBlock={
 			group=1257,
@@ -4434,13 +4434,13 @@
 			turretSpeed=125.663,
 			chargeMaxTime=1,
 			chargeMin=1,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=1,
 		launcherPower=900,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4452,7 +4452,7 @@
 		blurb=_("_blurb_CruiseMissileBattery"),
 		shape=1257004,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=175,
 		replicateBlock={
 			group=1257,
@@ -4479,13 +4479,13 @@
 			torquerTorque=50000,
 			explodeDamage=150,
 			explodeRadius=150,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=1,
 		launcherPower=400,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4497,7 +4497,7 @@
 		blurb=_("_blurb_lapismAnchorSentryLauncher"),
 		shape=1257007,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		replicateBlock={
 			group=1257,
@@ -4536,13 +4536,13 @@
 				decay=0,
 			},
 			turretSpeed=4.712,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=3,
 		launcherPower=1000,
 		launcherOutSpeed=2000,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4554,14 +4554,14 @@
 		blurb=_("_blurb_lapismPlanter"),
 		shape=1257007,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=100,
 		replicateBlock=1257002,
 		replicateTime=3,
 		launcherPower=100,
 		launcherOutSpeed=100,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4573,7 +4573,7 @@
 		blurb=_("_blurb_lapismGuardDroneLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=300,
 		replicateBlock={
 			group=1257,
@@ -4617,13 +4617,13 @@
 				immobilizeForce=1080000,
 			},
 			turretSpeed=25.132,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=20,
 		launcherPower=100,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4635,7 +4635,7 @@
 		blurb=_("_blurb_lapismOrbcannonLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=340,
 		replicateBlock={
 			group=1257,
@@ -4672,13 +4672,13 @@
 			turretSpeed=125.663,
 			explodeDamage=3000,
 			explodeRadius=35,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=3,
 		launcherPower=4000,
 		launcherOutSpeed=10,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4690,7 +4690,7 @@
 		blurb=_("_blurb_ARC-4675Launcher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1130,
 		replicateBlock={
 			group=1257,
@@ -4727,13 +4727,13 @@
 			turretSpeed=31415926.536,
 			explodeDamage=40000,
 			explodeRadius=35,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=30,
 		launcherPower=10000,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4745,7 +4745,7 @@
 		blurb=_("_blurb_ARC-4675Launcher"),
 		shape=1257007,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=502,
 		replicateBlock={
 			group=1257,
@@ -4782,13 +4782,13 @@
 			turretSpeed=31415926.536,
 			explodeDamage=40000,
 			explodeRadius=35,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=30,
 		launcherPower=10000,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 --			explodeDamage=34028235679733642748073463979561713663,
 --			explodeRadius=1288490123265,
@@ -4801,7 +4801,7 @@
 		blurb=_("_blurb_StrategicShieldDisturberLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=4060,
 		replicateBlock={
 			group=1257,
@@ -4915,43 +4915,43 @@
 								launcherPower=10000,
 								launcherOutSpeed=0,
 								launcherAngVel=0,
-								#include "/blocks/_T_Lapisfakemissile.lua"
+								#include "blocks/_T_Lapisfakemissile.lua"
 							},
 							replicateTime=2,
 							launcherPower=0,
 							launcherOutSpeed=0,
 							launcherAngVel=0,
-							#include "/blocks/_T_Lapisfakemissile.lua"
+							#include "blocks/_T_Lapisfakemissile.lua"
 						},
 						replicateTime=2,
 						launcherPower=0,
 						launcherOutSpeed=0,
 						launcherAngVel=0,
-						#include "/blocks/_T_Lapisfakemissile.lua"
+						#include "blocks/_T_Lapisfakemissile.lua"
 					},
 					replicateTime=2,
 					launcherPower=0,
 					launcherOutSpeed=0,
 					launcherAngVel=0,
-					#include "/blocks/_T_Lapisfakemissile.lua"
+					#include "blocks/_T_Lapisfakemissile.lua"
 				},
 				replicateTime=2,
 				launcherPower=0,
 				launcherOutSpeed=0,
 				launcherAngVel=0,
-				#include "/blocks/_T_Lapisfakemissile.lua"
+				#include "blocks/_T_Lapisfakemissile.lua"
 			},
 			replicateTime=2,
 			launcherPower=0,
 			launcherOutSpeed=0,
 			launcherAngVel=0,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=50,
 		launcherPower=80000,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -4963,14 +4963,14 @@
 		blurb=_("_blurb_StructionLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=1250,
 		replicateBlock=1257001,
 		replicateTime=20,
 		launcherPower=54000,
 		launcherOutSpeed=2000,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -4982,7 +4982,7 @@
 		blurb=_("_blurb_DashingTorpedoLauncher"),
 		shape=1257007,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=350,
 		replicateBlock={
 			group=1257,
@@ -5034,13 +5034,13 @@
 			powerCapacity=10,
 			explodeDamage=200,
 			explodeRadius=200,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=5,
 		launcherPower=5000,
 		launcherOutSpeed=1000,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5052,7 +5052,7 @@
 		blurb=_("_blurb_FlatWebCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=888,
 		cannon={
 			damage=100,
@@ -5193,7 +5193,7 @@
 			}
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5216,7 +5216,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5239,7 +5239,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5262,7 +5262,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5285,7 +5285,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5308,7 +5308,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -5331,7 +5331,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -5343,7 +5343,7 @@
 		blurb=_("_blurb_lapismOrbCannon"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=550,
 		cannon={--弹跳 1
 			damage=100,
@@ -5558,7 +5558,7 @@
 			},
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -5570,7 +5570,7 @@
 		blurb=_("_blurb_lapismSelfSweepCannon"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=250,
 		cannon={--起始
 			damage=100,
@@ -5957,7 +5957,7 @@
 			},
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	-- 红0xff0000
 	-- 橙0xffc000
@@ -5975,7 +5975,7 @@
 		blurb=_("_blurb_meleeFlamethrower"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=750,
 		cannon={--红0xff0000
 			damage=5,
@@ -6060,7 +6060,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -6072,7 +6072,7 @@
 		blurb=_("_text_lapismInnerSweepCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=2250,
 		cannon={--起始
 			damage=100,
@@ -6480,7 +6480,7 @@
 			},
 		},
 		turretSpeed=4.712,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -6492,7 +6492,7 @@
 		blurb=_("_blurb_lapismUberTurretLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "/blocks/_T_Lapisdevice.lua"
+		#include "blocks/_T_Lapisdevice.lua"
 		points=5000,
 		replicateBlock={
 			group=1257,
@@ -6568,19 +6568,19 @@
 				lifetime=1e-16,
 				explodeDamage=0,
 				explodeRadius=0,
-				#include "/blocks/_T_Lapisfakemissile.lua"
+				#include "blocks/_T_Lapisfakemissile.lua"
 			},
 			replicateTime=0.1,
 			launcherPower=0,
 			launcherOutSpeed=0,
 			launcherAngVel=0,
-			#include "/blocks/_T_Lapisfakemissile.lua"
+			#include "blocks/_T_Lapisfakemissile.lua"
 		},
 		replicateTime=50,
 		launcherPower=50000,
 		launcherOutSpeed=10,
 		launcherAngVel=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6591,10 +6591,10 @@
 		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine"),
 		blurb=_("_blurb_ancient_block"),
 		shape=TRI,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=-1,
 		capacity=250,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6605,7 +6605,7 @@
 		name=_("_text_Decoy")_("_bl")_("_text_AncientTech")_("_bl")_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
 		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=30,
 		capacity=0,
 		cannon={
@@ -6622,7 +6622,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=16.755,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6634,7 +6634,7 @@
 		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
 		shape=1257010,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=60,
 		capacity=0,
 		cannon={
@@ -6651,7 +6651,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=12.566,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6663,7 +6663,7 @@
 		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=120,
 		capacity=0,
 		cannon={
@@ -6680,7 +6680,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6692,7 +6692,7 @@
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=33,
 		capacity=0,
 		cannon={
@@ -6709,7 +6709,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6721,7 +6721,7 @@
 		blurb=_("_blurb_flakcannon"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=132,
 		capacity=0,
 		cannon={
@@ -6738,7 +6738,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6750,7 +6750,7 @@
 		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=6,
 		capacity=0,
 		cannon={
@@ -6765,7 +6765,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=15.708,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6777,7 +6777,7 @@
 		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=24,
 		capacity=0,
 		cannon={
@@ -6792,7 +6792,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=15.708,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6804,7 +6804,7 @@
 		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=36,
 		capacity=0,
 		cannon={
@@ -6819,7 +6819,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=9.424,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6831,7 +6831,7 @@
 		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=144,
 		capacity=0,
 		cannon={
@@ -6846,7 +6846,7 @@
 		},
 		barrelCount=4,
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6858,7 +6858,7 @@
 		blurb=_("_blurb_bombingRail")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=492,
 		capacity=0,
 		cannon={
@@ -6875,7 +6875,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=2.513,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6887,7 +6887,7 @@
 		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=34,
 		capacity=0,
 		cannon={
@@ -6904,7 +6904,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6916,7 +6916,7 @@
 		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=136,
 		capacity=0,
 		cannon={
@@ -6933,7 +6933,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6945,7 +6945,7 @@
 		blurb=_("_blurb_Smartbomb")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=144,
 		capacity=0,
 		cannon={
@@ -6973,7 +6973,7 @@
 		},
 		barrelCount=20,
 		turretSpeed=125.663,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -6985,7 +6985,7 @@
 		blurb=_("_blurb_shortShotgun")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=35,
 		capacity=0,
 		cannon={
@@ -7001,7 +7001,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=6.632,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7013,7 +7013,7 @@
 		blurb=_("_blurb_shortShotgun")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=140,
 		capacity=0,
 		cannon={
@@ -7029,7 +7029,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=2.094,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7041,7 +7041,7 @@
 		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=444,
 		capacity=0,
 		cannon={
@@ -7058,7 +7058,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=2.094,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7070,7 +7070,7 @@
 		blurb=_("_blurb_lapismAncientPDCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=132,
 		capacity=0,
 		cannon={
@@ -7088,7 +7088,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=2.094,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7100,7 +7100,7 @@
 		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=6,
 		capacity=0,
 		laser={
@@ -7112,7 +7112,7 @@
 			decay=0,
 		},
 		turretSpeed=50.265,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7124,7 +7124,7 @@
 		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=36,
 		capacity=0,
 		laser={
@@ -7136,7 +7136,7 @@
 			decay=0,
 		},
 		turretSpeed=16.755,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7148,7 +7148,7 @@
 		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=12,
 		capacity=0,
 		laser={
@@ -7160,7 +7160,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7172,7 +7172,7 @@
 		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=72,
 		capacity=0,
 		laser={
@@ -7184,7 +7184,7 @@
 			decay=0,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7196,7 +7196,7 @@
 		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=288,
 		capacity=0,
 		laser={
@@ -7208,7 +7208,7 @@
 			decay=0,
 		},
 		turretSpeed=4.188,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7220,7 +7220,7 @@
 		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=48,
 		capacity=0,
 		laser={
@@ -7233,7 +7233,7 @@
 			decay=0,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7245,7 +7245,7 @@
 		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=415,
 		capacity=0,
 		laser={
@@ -7259,7 +7259,7 @@
 			decay=0,
 		},
 		turretSpeed=2.094,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7271,7 +7271,7 @@
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=24,
 		capacity=0,
 		laser={
@@ -7283,7 +7283,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7295,7 +7295,7 @@
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=36,
 		capacity=0,
 		laser={
@@ -7307,7 +7307,7 @@
 			decay=0,
 		},
 		turretSpeed=6.283,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7319,7 +7319,7 @@
 		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=144,
 		capacity=0,
 		laser={
@@ -7331,7 +7331,7 @@
 			decay=0,
 		},
 		turretSpeed=4.188,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7343,7 +7343,7 @@
 		blurb=_("_blurb_TractorBeam")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=22,
 		capacity=0,
 		laser={
@@ -7356,7 +7356,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7368,7 +7368,7 @@
 		blurb=_("_blurb_ForceBeam")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=22,
 		capacity=0,
 		laser={
@@ -7381,7 +7381,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7393,7 +7393,7 @@
 		blurb=_("_blurb_StaticBeam")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=22,
 		capacity=0,
 		laser={
@@ -7406,7 +7406,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7418,7 +7418,7 @@
 		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=56,
 		capacity=0,
 		laser={
@@ -7431,7 +7431,7 @@
 		},
 		turretSpeed=4.188,
 		chargeMaxTime=3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 
 	{
@@ -7443,7 +7443,7 @@
 		blurb=_("_blurb_lapismAncientDoomsdayBeam")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=224,
 		capacity=0,
 		laser={
@@ -7457,7 +7457,7 @@
 		turretSpeed=2.513,
 		chargeMaxTime=10,
 		chargeMin=0.3,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -7469,7 +7469,7 @@
 		blurb=_("_blurb_lapismSpecMergeMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=10,
 		bindingId=5,
 		cannonBoost={
@@ -7485,7 +7485,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -7497,7 +7497,7 @@
 		blurb=_("_blurb_lapismSpecEnduranceMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=10,
 		bindingId=5,
 		cannonBoost={
@@ -7513,7 +7513,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -7525,7 +7525,7 @@
 		blurb=_("_blurb_lapismSpecTurnMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=10,
 		bindingId=5,
 		cannonBoost={
@@ -7541,7 +7541,7 @@
 		},
 		turretSpeed=0,
 		turretLimit=0,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	
 	{
@@ -7553,13 +7553,13 @@
 		blurb=_("_blurb_AncientMicroThruster")_("_n")_("_blurb_ancient_block"),
 		shape=1257011,
 		scale=1,
-		#include "/blocks/_T_Lapisdevice_Ancient.lua"
+		#include "blocks/_T_Lapisdevice_Ancient.lua"
 		points=2,
 		thrusterForce=5000,
 		thrusterBoost=2,
 		thrusterBoostTime=0.2,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
-		#include "/blocks/_T_Lapisfakeblock.lua"
+		#include "blocks/_T_Lapisfakeblock.lua"
 	},
 	

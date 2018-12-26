@@ -8,7 +8,7 @@
 		blurb=_("_blurb_PhageCore"),
 		shape=PENTAGON,
 		scale=1,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		command={
 		},
 		points=10,
@@ -125,7 +125,7 @@
 		name=_("_text_phageHull"),
 		blurb=_("_blurb_phageHull"),
 		shape=RHOMBUS_72_108,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=-1,
 		capacity=95,
 		cannonBoost={
@@ -140,7 +140,7 @@
 		name=_("_text_phageHull"),
 		blurb=_("_blurb_phageHull"),
 		shape=RHOMBUS_36_144,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=-1,
 		capacity=59,
 		cannonBoost={
@@ -155,7 +155,7 @@
 		name=_("_text_Thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		capacity=55,
 		thrusterForce=25000,
@@ -176,7 +176,7 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=2,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=4,
 		capacity=220,
 		thrusterForce=100000,
@@ -197,7 +197,7 @@
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=3,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		capacity=494,
 		thrusterForce=225000,
@@ -216,7 +216,7 @@
 		features=NOPALETTE|CANNON_BOOST|MELEE|FACTORY|PHOTOSYNTH|TRACTOR,
 		name=_("_text_Factory"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=101,
 		capacity=172,
 		tractorRange=2000,
@@ -234,7 +234,7 @@
 		name=_("_text_CacheGenerator"),
 		blurb=_("_blurb_CacheGenerator"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=30,
 		capacity=172,
 		generatorCapacityPerSec=3100,
@@ -266,7 +266,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -299,7 +299,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -332,7 +332,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -365,7 +365,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -398,7 +398,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -431,7 +431,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -464,7 +464,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -497,7 +497,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -530,7 +530,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -563,7 +563,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -596,7 +596,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -629,7 +629,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -662,7 +662,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -695,7 +695,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -728,7 +728,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -761,7 +761,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -794,7 +794,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -827,7 +827,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -860,7 +860,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -893,7 +893,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -926,7 +926,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -959,7 +959,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -992,7 +992,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -1025,7 +1025,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -1058,7 +1058,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -1090,7 +1090,7 @@
 		features=NOPALETTE|CANNON_BOOST|MELEE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_phageHomingShieldBombLauncher"),
 		shape=1257062,
-		#include "/blocks/_T_Phage_style.lua"
+		#include "blocks/_T_Phage_style.lua"
 		points=234,
 		capacity=172,
 		cannonBoost={
@@ -1101,7 +1101,7 @@
 			name=_("_text_phageHomingShieldBomb"),
 			shape=1257064,
 			lifetime=13,
-			#include "/blocks/_T_Phage_style.lua"
+			#include "blocks/_T_Phage_style.lua"
 			points=234,
 			durability=0.03,
 			density=0.02,
