@@ -170,6 +170,23 @@
 	},
 	
 	{
+		ident=1259010,
+		sort=1259010000,
+		group=1259,
+		features=PALETTE|INVULNERABLE,
+		name=_("_text_AncientTech")_("_bl")_("_text_Structue"),
+		shape=TRI,
+		scale=2,
+		fillColor=0xeeffff,
+		fillColor1=0x7fc0ff,
+		lineColor=0x0000ff,
+		points=-1,
+		durability=inf,
+		density=1,
+		growRate=inf,
+	},
+	
+	{
 		ident=1259400,
 		sort=1259400000,
 		group=1259,
