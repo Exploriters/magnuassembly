@@ -692,7 +692,7 @@
 		shield={
 			strength=4000,
 			regen=400,
-			radius=100,
+			radius=-100,
 			delay=10,
 			color=0x0f7fc0ff,
 			lineColor=0x3f7fc0ff,
@@ -715,7 +715,7 @@
 		shield={
 			strength=16000,
 			regen=1600,
-			radius=400,
+			radius=-400,
 			delay=10,
 			color=0x0f7fc0ff,
 			lineColor=0x3f7fc0ff,
@@ -738,7 +738,7 @@
 		shield={
 			strength=36000,
 			regen=3600,
-			radius=900,
+			radius=-900,
 			delay=10,
 			color=0x0f7fc0ff,
 			lineColor=0x3f7fc0ff,
@@ -761,7 +761,7 @@
 		shield={
 			strength=128000,
 			regen=12800,
-			radius=1800,
+			radius=-1800,
 			delay=10,
 			color=0x0f7fc0ff,
 			lineColor=0x3f7fc0ff,
@@ -4594,7 +4594,7 @@
 			shield={
 				strength=9000,
 				regen=900,
-				radius=900,
+				radius=-900,
 				delay=3,
 				color=0x0f7fc0ff,
 				lineColor=0x3f7fc0ff,
@@ -6542,7 +6542,7 @@
 			shield={
 				strength=300000,
 				regen=300000,
-				radius=60,
+				radius=-60,
 				delay=3,
 				color=0x0f7fc0ff,
 				lineColor=0x3f7fc0ff,
