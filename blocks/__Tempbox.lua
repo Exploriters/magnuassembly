@@ -30,3 +30,26 @@ fillColor=0x0000ff,\r\n\t\tlineColor=0x7fc0ff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\
 fillColor=0x7f7fff00,\r\n\t\tfillColor1=0x7fc0ff7f,\r\n\t\tlineColor=0x4fff00,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=0.05,\r\n\t\tdensity=0.02,\r\n\t\tgrowRate=153.622,\r\n\t\tmeleeDamage=0,\r\n\t\tarmor=100,
 #include "_T_Phage_style.lua"\r\n\t\tpoints=\1,
 
+fillColor=0xea8700,\r\n\t\tfillColor1=0xffb856,\r\n\t\tlineColor=0x7b4700,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=20,\r\n\t\tdensity=0.15,\r\n\t\tgrowRate=10,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=1,
+#include "_T_3883_HullOrange.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x0984ff,\r\n\t\tfillColor1=0x8fb8ff,\r\n\t\tlineColor=0x003e7b,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=20,\r\n\t\tdensity=0.15,\r\n\t\tgrowRate=10,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=1,
+#include "_T_3883_HullOrange.lua"\r\n\t\tpoints=\1,
+
+fillColor=0xffffff,\r\n\t\tfillColor1=0xc0c0c0,\r\n\t\tlineColor=0x3f3f3f,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=50,\r\n\t\tdensity=0.4,\r\n\t\tgrowRate=3.3,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=6,
+#include "_T_3883_HullWhite.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x3f3f3f,\r\n\t\tfillColor1=0x6f6f6f,\r\n\t\tlineColor=0xffffff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=10,\r\n\t\tdensity=0.1,\r\n\t\tgrowRate=20,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=0,
+#include "_T_3883_HullDark.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x3f3f3f,\r\n\t\tfillColor1=0x4f4f4f,\r\n\t\tlineColor=0xffffff,\r\n\t\tpoints=16,\r\n\t\tdurability=12,\r\n\t\tdensity=0.04,\r\n\t\tgrowRate=1,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=0,
+#include "_T_3883_Subsystem.lua"
+
+fillColor=0x3f3f3f,\r\n\t\tfillColor1=0x4f4f4f,\r\n\t\tlineColor=0xffffff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=12,\r\n\t\tdensity=0.04,\r\n\t\tgrowRate=16,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=0,
+#include "_T_3883_Bud.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x003e7b,\r\n\t\tfillColor1=0x7b4700,\r\n\t\tlineColor=0xffffff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=10,\r\n\t\tdensity=0.02,\r\n\t\tgrowRate=32,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=0,
+#include "_T_3883_Script.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x8fb8ff,\r\n\t\tfillColor1=0xffb856,\r\n\t\tlineColor=0x3f3f3f,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=20,\r\n\t\tdensity=0.3,\r\n\t\tgrowRate=10,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=1,
+#include "_T_3883_Device.lua"\r\n\t\tpoints=\1,
