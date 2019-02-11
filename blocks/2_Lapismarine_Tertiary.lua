@@ -2423,7 +2423,7 @@
 		laser={
 			damage=1000,
 			power=5000,
-			range=10000,
+			range=30000,
 			width=4.5,
 			color=0xffff0000,
 			decay=0,

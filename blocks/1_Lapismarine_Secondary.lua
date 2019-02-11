@@ -2311,7 +2311,7 @@
 		laser={
 			damage=1000,
 			power=5000,
-			range=10000,
+			range=30000,
 			width=4.5,
 			color=0xffff0000,
 			decay=0,
@@ -4300,7 +4300,7 @@
 			thrusterColor=0xff007fff,
 			thrusterColor1=0xbf7fc0ff,
 			torquerTorque=50000,
-			explodeDamage=150,
+			explodeDamage=60,
 			explodeRadius=150,
 		},
 		replicateTime=1,
