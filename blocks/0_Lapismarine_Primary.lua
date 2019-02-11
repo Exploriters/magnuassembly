@@ -72,7 +72,7 @@
 		points=20,
 		durability=1.93,
 		density=0.05,
-		growRate=0.161,
+		growRate=0.483,
 		seedLifetime=50,
 		launchSpeed=100,
 		launchCapacity=0,

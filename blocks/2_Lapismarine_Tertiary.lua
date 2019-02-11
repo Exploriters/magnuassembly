@@ -6521,8 +6521,8 @@
 				},
 			},
 			shield={
-				strength=300000,
-				regen=300000,
+				strength=30000,
+				regen=1500,
 				radius=-60,
 				delay=3,
 				color=0x0f7fc0ff,
