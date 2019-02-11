@@ -2234,8 +2234,8 @@
 			burstyness=1,
 			explosive=FINAL,
 			explodeRadius=15,
-			barrelTaper=1,
 		},
+		barrelTaper=1,
 		turretSpeed=12.566,
 	},
 
@@ -2263,8 +2263,8 @@
 			burstyness=1,
 			explosive=FINAL,
 			explodeRadius=15,
-			barrelTaper=1,
 		},
+		barrelTaper=1,
 		turretSpeed=6.283,
 	},
 
@@ -2292,8 +2292,8 @@
 			burstyness=1,
 			explosive=FINAL,
 			explodeRadius=15,
-			barrelTaper=1,
 		},
+		barrelTaper=1,
 		turretSpeed=4.712,
 	},
 
@@ -2319,8 +2319,8 @@
 			pulsesPerBurst=4,
 			pulseAvailability=0.5,
 			burstyness=0.33,
-			barrelTaper=1,
 		},
+		barrelTaper=1,
 		turretSpeed=4.712,
 	},
 
@@ -2704,6 +2704,7 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=1474,
+		barrelTaper=2,
 		cannon={--初始炮弹 2500
 			damage=100,
 			power=34950,
@@ -2712,7 +2713,6 @@
 			range=2500,
 			color=0x7fc0ff,
 			projectileSize=70,
-			barrelTaper=2,
 			fragment={--减速 2500//edit移除减速
 				damage=50,
 				muzzleVel=500,
@@ -2853,6 +2853,7 @@
 		scale=1,
 		#include "_T_Lapisdevice.lua"
 		points=25,
+		barrelTaper=5,
 		cannon={--地雷核心
 			damage=6,
 			power=56,
@@ -2862,7 +2863,6 @@
 			color=0x7fc0ff,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=5,
 			fragment={--减速形成地雷
 				damage=50,
@@ -2889,6 +2889,7 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=100,
+		barrelTaper=5,
 		cannon={--集束雷核心
 			damage=24,
 			power=384,
@@ -2898,7 +2899,6 @@
 			color=0x7fc0ff,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=10,
 			fragment={--减速
 				damage=24,
@@ -2949,6 +2949,7 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=225,
+		barrelTaper=5,
 		cannon={--前集束雷核心
 			damage=54,
 			power=2142,
@@ -2958,7 +2959,6 @@
 			color=0x7fc0ff,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=15,
 			fragment={--减速
 				damage=54,
@@ -4483,8 +4483,8 @@
 				color=0xc000ff,
 				explosive=FINAL,
 				explodeRadius=50,
-				barrelTaper=0,
 			},
+			barrelTaper=0,
 			turretSpeed=125.663,
 			explodeDamage=3000,
 			explodeRadius=35,
@@ -4836,6 +4836,7 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=888,
+		barrelTaper=3,
 		cannon={
 			damage=100,
 			power=3980,
@@ -4846,7 +4847,6 @@
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0x7fc0ff,
-			barrelTaper=3,
 			projectileSize=20,
 			fragment={--减速
 				damage=100,
@@ -5120,6 +5120,7 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=550,
+		barrelTaper=2,
 		cannon={--弹跳 1
 			damage=100,
 			power=2000,
@@ -5130,7 +5131,6 @@
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0x7fc0ff,
-			barrelTaper=2,
 			projectileSize=10,
 			fragment={--减速
 				damage=100,
@@ -5346,6 +5346,7 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=250,
+			barrelTaper=2,
 		cannon={--起始
 			damage=100,
 			power=2900,
@@ -5356,7 +5357,6 @@
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0x7fc0ff,
-			barrelTaper=2,
 			projectileSize=5,
 			fragment={--减速
 				damage=20,
@@ -5750,6 +5750,7 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=750,
+		barrelTaper=0.05,
 		cannon={--红0xff0000
 			damage=5,
 			power=300,
@@ -5759,7 +5760,6 @@
 			spread=0.043,
 			pattern=WAVE,
 			color=0xff0000,
-			barrelTaper=0.05,
 			projectileSize=2,
 			fragment={--橙0xffc000
 				damage=5,
@@ -5846,6 +5846,7 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=2250,
+		barrelTaper=2,
 		cannon={--起始
 			damage=100,
 			power=25000,
@@ -5856,7 +5857,6 @@
 			--roundsPerBurst=2,
 			--burstyness=0.975,
 			color=0x7fc0ff,
-			barrelTaper=2,
 			projectileSize=50,
 			fragment={--减速
 				damage=20,
@@ -6289,6 +6289,7 @@
 			thrusterColor=0xff007fff,
 			thrusterColor1=0xbf7fc0ff,
 			torquerTorque=5000000,
+			barrelTaper=0.5,
 			cannon={
 				damage=1000,
 				power=1,
@@ -6298,7 +6299,6 @@
 				color=0x7fc0ff,
 				roundsPerBurst=2,
 				burstyness=1,
-				barrelTaper=0.5,
 				fragment={
 					damage=100,
 					muzzleVel=1000,
