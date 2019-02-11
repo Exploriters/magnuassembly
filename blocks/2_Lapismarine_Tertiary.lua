@@ -4953,25 +4953,6 @@
 		launcherAngVel=0,
 		#include "_T_Lapisfakeblock.lua"
 	},
-
-	{
-		ident=1258193,
-		sort=1258193000,
-		group=1257,
-		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
-		name=_("_text_Decoy")_("_bl")_("_text_StructionLauncher"),
-		blurb=_("_blurb_StructionLauncher"),
-		shape=1257007,
-		scale=3,
-		#include "_T_Lapisdevice.lua"
-		points=1250,
-		replicateBlock=1257001,
-		replicateTime=20,
-		launcherPower=54000,
-		launcherOutSpeed=2000,
-		launcherAngVel=0,
-		#include "_T_Lapisfakeblock.lua"
-	},
 	
 	{
 		ident=1258195,
