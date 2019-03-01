@@ -1,11 +1,21 @@
+--FAKE--
+
+
+
+
+
+
+\r\n\t},\r\n
+\r\n\t\t--FAKE--#include "_T_Lapisfakeblock.lua"\r\n\t},\r\n
+
 fillColor=0x0000ff,\r\n\t\tlineColor=0x7fc0ff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=3,\r\n\t\tdensity=0.2,\r\n\t\tgrowRate=5,
 #include "_T_Lapisdevice.lua"\r\n\t\tpoints=\1,
 
 \r\n\t\treplicateBlock=\{(.*?)\r\n\t\t\},
-\r\n\t\treplicateBlock=\{\1\r\n\t\t\t#include "_T_Lapisfakemissile.lua"\r\n\t\t\},
+\r\n\t\treplicateBlock=\{\1\r\n\t\t\t--FAKE--#include "_T_Lapisfakemissile.lua"\r\n\t\t\},
 
 \r\n\t\t\t\t\t\t\treplicateBlock=\{(.*?)\r\n\t\t\t\t\t\t\t\t\},
-\r\n\t\t\t\t\t\t\treplicateBlock=\{\1\r\n\t\t\t\t\t\t\t\t#include "_T_Lapisfakemissile.lua"\r\n\t\t\t\t\t\t\t\},
+\r\n\t\t\t\t\t\t\treplicateBlock=\{\1\r\n\t\t\t\t\t\t\t\t--FAKE--#include "_T_Lapisfakemissile.lua"\r\n\t\t\t\t\t\t\t\},
 
 #include "_T_Lapisfakemissile.lua"\r\n\t*#include "_T_Lapisfakemissile.lua"
 #include "_T_Lapisfakemissile.lua"
