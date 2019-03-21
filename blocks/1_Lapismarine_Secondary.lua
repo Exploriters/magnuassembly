@@ -6562,7 +6562,7 @@
 			replicateBlock={
 				group=1257,
 				points=1,
-				features=FREERES|EXPLODE|NOCLIP_ALLY,
+				features=FREERES|EXPLODE|NOCLIP_ALLY|NOCLIP,
 				name=_("_text_lapismUberTurretArmor"),
 				shape=1257006,
 				scale=3,
