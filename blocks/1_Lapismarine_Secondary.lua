@@ -2815,6 +2815,56 @@
 			range=2500,
 			explosive=FINAL,
 			explodeRadius=250,
+		},--REWORK
+		cannon={
+			damage=100,
+			power=4444,
+			roundsPerSec=1,
+			color=0x7fc0ff,
+			muzzleVel=100,
+			range=100,
+			explosive=ENABLED,
+			explodeRadius=900,
+			fragment={
+				damage=200,
+				color=0x7fc0ff,
+				muzzleVel=100,
+				range=100,
+				explosive=ENABLED,
+				explodeRadius=900,
+				fragment={
+					damage=300,
+					color=0x7fc0ff,
+					muzzleVel=100,
+					range=100,
+					explosive=ENABLED,
+					explodeRadius=900,
+					fragment={
+						damage=400,
+						color=0x7fc0ff,
+						muzzleVel=100,
+						range=100,
+						explosive=ENABLED,
+						explodeRadius=900,
+						fragment={
+							damage=500,
+							color=0x7fc0ff,
+							muzzleVel=100,
+							range=100,
+							explosive=ENABLED,
+							explodeRadius=900,
+							fragment={
+								damage=600,
+								color=0x7fc0ff,
+								muzzleVel=100,
+								range=100,
+								explosive=FINAL,
+								explodeRadius=900,
+							}
+						}
+					},
+				},
+			},
 		},
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"

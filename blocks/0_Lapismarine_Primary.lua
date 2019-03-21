@@ -164,7 +164,7 @@
 		ident=1257193,
 		sort=1257193000,
 		group=1257,
-		features=PALETTE|LAUNCHER,
+		features=NOPALETTE|LAUNCHER,
 		name=_("_text_StructionLauncher"),
 		blurb=_("_blurb_StructionLauncher"),
 		shape=1257007,
