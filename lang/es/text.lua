@@ -9,11 +9,11 @@
 	"_text_word_Ancient"="Ancient",
 	"_text_AncientTech"="Magnualand",
 	"_text_material_Lapismarine"="Lapismarine",
-	"_text_DSDtech"="SantasumuStandard",
+	"_text_DSDtech"="Santasumu-Ibellorce-Redsone",
 	"_text_38tech"="38Tech",
 	"_text_Proteintech"="Protein",
 	"_text_WE2tech"="WE2BoLaX",
-	"_text_B10tech"="Bootten",
+	"_text_B10tech"="Bootten-Salamander-Borealis",
 	"_text_Nulltech"="Antimatter",
 	"_text_3883tech"="3tr8g8gi3",
 	
@@ -435,7 +435,7 @@
 	"_text_WE2estone"="Ender Stone",
 	"_blurb_WE2estone"="Ender Stone. ",
 	"_text_WE2assembler"="Reassemble Crystal",
-	"_blurb_WE2assembler"="Reassemble Crystal. ",
+	"_blurb_WE2assembler"="Long ranged reassemble crystal with explosive. ",
 	
 	"_blurb_WE2weapon_A1"="A1",
 	"_blurb_WE2weapon_bslash"="Backslash Crossbow",

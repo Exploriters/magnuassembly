@@ -9,11 +9,11 @@
 	"_text_word_Ancient"="古代",
 	"_text_AncientTech"="马葛兰",
 	"_text_material_Lapismarine"="海青",
-	"_text_DSDtech"="圣塔苏姆标准版",
+	"_text_DSDtech"="圣塔苏姆-艾贝罗斯-莱瑟湾",
 	"_text_38tech"="三八科技",
 	"_text_Proteintech"="蛋白质",
 	"_text_WE2tech"="维图博拉兹",
-	"_text_B10tech"="引导十",
+	"_text_B10tech"="引导十-耐火人-北极光",
 	"_text_Nulltech"="反物质",
 	"_text_3883tech"="三略级",
 	
@@ -435,7 +435,7 @@
 	"_text_WE2estone"="末影石",
 	"_blurb_WE2estone"="沉重的可种植方块",
 	"_text_WE2assembler"="重组水晶",
-	"_blurb_WE2assembler"="远距离再生长增幅激光。",
+	"_blurb_WE2assembler"="远距离再生长增幅激光的爆炸性水晶。",
 	
 	"_blurb_WE2weapon_A1"="A1射弹炮",
 	"_blurb_WE2weapon_bslash"="反斜杠十字弓",
