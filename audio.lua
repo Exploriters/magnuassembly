@@ -8,7 +8,7 @@
    },
    
    Energyblaster = {
-      samples = { "audio/EnergeExplode.ogg" },
+      samples = { "EnergeExplode.ogg" },
       priority = 2,
       volume = 1,
    },
