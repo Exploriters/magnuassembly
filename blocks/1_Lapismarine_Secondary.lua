@@ -4083,7 +4083,7 @@
 		shape=1257005,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
-		points=20,
+		points=80,
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
@@ -4109,7 +4109,7 @@
 			explodeDamage=20,
 			explodeRadius=50,
 		},
-		replicateTime=0.25,
+		replicateTime=0.0625,
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
@@ -4126,7 +4126,7 @@
 		shape=1257005,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
-		points=20,
+		points=180,
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
@@ -4152,7 +4152,7 @@
 			explodeDamage=20,
 			explodeRadius=50,
 		},
-		replicateTime=0.25,
+		replicateTime=0.02777777777777777777777777777778,
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
