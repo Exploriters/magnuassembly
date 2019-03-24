@@ -4855,6 +4855,7 @@
 			powerCapacity=10,
 			explodeDamage=34028235679733642748073463979561713663,
 			explodeRadius=13e11,
+			sound="Energyblaster",
 			replicateBlock={
 				group=1257,
 				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
@@ -4873,6 +4874,7 @@
 				powerCapacity=10,
 				explodeDamage=34028235679733642748073463979561713663,
 				explodeRadius=13e11,
+				sound="Energyblaster",
 				replicateBlock={
 					group=1257,
 					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
@@ -4891,6 +4893,7 @@
 					powerCapacity=10,
 					explodeDamage=34028235679733642748073463979561713663,
 					explodeRadius=13e11,
+					sound="Energyblaster",
 					replicateBlock={
 						group=1257,
 						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
@@ -4909,6 +4912,7 @@
 						powerCapacity=10,
 						explodeDamage=34028235679733642748073463979561713663,
 						explodeRadius=13e11,
+						sound="Energyblaster",
 						replicateBlock={
 							group=1257,
 							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
@@ -4927,6 +4931,7 @@
 							powerCapacity=10,
 							explodeDamage=34028235679733642748073463979561713663,
 							explodeRadius=13e11,
+							sound="Energyblaster",
 							replicateBlock={
 								group=1257,
 								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
