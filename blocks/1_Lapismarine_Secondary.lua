@@ -4700,7 +4700,8 @@
 		replicateBlock={
 			group=1257,
 			points=1,
-			features=ALWAYSFIRE|CANNON|COMMAND|FREERES|GENERATOR|NOCLIP|NOREGEN|TORQUER|TURRET|ONEUSE,
+			features=CANNON|COMMAND|FREERES|GENERATOR|NOCLIP|NOREGEN|TORQUER|TURRET|ONEUSE,
+			deathFeatures=CANNON,
 			name=_("_text_lapismOrbcannonDrone"),
 			shape=1257006,
 			scale=3,
@@ -5386,7 +5387,7 @@
 			damage=100,
 			power=2000,
 			roundsPerSec=0.5,
-			muzzleVel=1000,
+			muzzleVel=10000,
 			range=2000,
 			spread=0,
 			roundsPerBurst=2,
@@ -5395,7 +5396,7 @@
 			projectileSize=10,
 			fragment={--¼õËÙ
 				damage=100,
-				muzzleVel=1000,
+				muzzleVel=10000,
 				range=0,
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
@@ -5405,7 +5406,7 @@
 				projectileSize=10,
 				fragment={--µ¯Ìø 2
 					damage=100,
-					muzzleVel=1000,
+					muzzleVel=10000,
 					range=2000,
 					spread=3.1415926535897932384626433832795,
 					pattern=RANDOM,
@@ -5414,7 +5415,7 @@
 					projectileSize=10,
 					fragment={--¼õËÙ
 						damage=100,
-						muzzleVel=1000,
+						muzzleVel=10000,
 						range=0,
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
@@ -5424,7 +5425,7 @@
 						projectileSize=10,
 						fragment={--µ¯Ìø 3
 							damage=100,
-							muzzleVel=1000,
+							muzzleVel=10000,
 							range=2000,
 							spread=3.1415926535897932384626433832795,
 							pattern=RANDOM,
@@ -5433,7 +5434,7 @@
 							projectileSize=10,
 							fragment={--¼õËÙ
 								damage=100,
-								muzzleVel=1000,
+								muzzleVel=10000,
 								range=0,
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
@@ -5443,7 +5444,7 @@
 								projectileSize=10,
 								fragment={--µ¯Ìø 4
 									damage=100,
-									muzzleVel=1000,
+									muzzleVel=10000,
 									range=2000,
 									spread=3.1415926535897932384626433832795,
 									pattern=RANDOM,
@@ -5452,7 +5453,7 @@
 									projectileSize=10,
 									fragment={--¼õËÙ
 										damage=100,
-										muzzleVel=1000,
+										muzzleVel=10000,
 										range=0,
 										spread=3.1415926535897932384626433832795,
 										pattern=CONSTANT,
@@ -5461,7 +5462,7 @@
 										explodeRadius=50,
 										fragment={--µ¯Ìø 5
 											damage=100,
-											muzzleVel=1000,
+											muzzleVel=10000,
 											range=2000,
 											spread=3.1415926535897932384626433832795,
 											pattern=RANDOM,
@@ -5470,7 +5471,7 @@
 											projectileSize=10,
 											fragment={--¼õËÙ
 												damage=100,
-												muzzleVel=1000,
+												muzzleVel=10000,
 												range=0,
 												spread=3.1415926535897932384626433832795,
 												pattern=CONSTANT,
@@ -5480,7 +5481,7 @@
 												projectileSize=10,
 												fragment={--µ¯Ìø 6
 													damage=100,
-													muzzleVel=1000,
+													muzzleVel=10000,
 													range=2000,
 													spread=3.1415926535897932384626433832795,
 													pattern=RANDOM,
@@ -5489,7 +5490,7 @@
 													projectileSize=10,
 													fragment={--¼õËÙ
 														damage=100,
-														muzzleVel=1000,
+														muzzleVel=10000,
 														range=0,
 														spread=3.1415926535897932384626433832795,
 														pattern=CONSTANT,
@@ -5499,7 +5500,7 @@
 														projectileSize=10,
 														fragment={--µ¯Ìø 7
 															damage=100,
-															muzzleVel=1000,
+															muzzleVel=10000,
 															range=2000,
 															spread=3.1415926535897932384626433832795,
 															pattern=RANDOM,
@@ -5508,7 +5509,7 @@
 															projectileSize=10,
 															fragment={--¼õËÙ
 																damage=100,
-																muzzleVel=1000,
+																muzzleVel=10000,
 																range=0,
 																spread=3.1415926535897932384626433832795,
 																pattern=CONSTANT,
@@ -5518,7 +5519,7 @@
 																projectileSize=10,
 																fragment={--µ¯Ìø 8
 																	damage=100,
-																	muzzleVel=1000,
+																	muzzleVel=10000,
 																	range=2000,
 																	spread=3.1415926535897932384626433832795,
 																	pattern=RANDOM,
@@ -5527,7 +5528,7 @@
 																	projectileSize=10,
 																	fragment={--¼õËÙ
 																		damage=100,
-																		muzzleVel=1000,
+																		muzzleVel=10000,
 																		range=0,
 																		spread=3.1415926535897932384626433832795,
 																		pattern=CONSTANT,
@@ -5537,7 +5538,7 @@
 																		projectileSize=10,
 																		fragment={--µ¯Ìø 9
 																			damage=100,
-																			muzzleVel=1000,
+																			muzzleVel=10000,
 																			range=2000,
 																			spread=3.1415926535897932384626433832795,
 																			pattern=RANDOM,
@@ -5546,7 +5547,7 @@
 																			projectileSize=10,
 																			fragment={--¼õËÙ
 																				damage=100,
-																				muzzleVel=1000,
+																				muzzleVel=10000,
 																				range=0,
 																				spread=3.1415926535897932384626433832795,
 																				pattern=CONSTANT,
@@ -5556,7 +5557,7 @@
 																				projectileSize=10,
 																				fragment={--µ¯Ìø 10
 																					damage=100,
-																					muzzleVel=1000,
+																					muzzleVel=10000,
 																					range=2000,
 																					spread=3.1415926535897932384626433832795,
 																					pattern=RANDOM,
