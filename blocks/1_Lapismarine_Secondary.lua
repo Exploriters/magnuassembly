@@ -4215,7 +4215,7 @@
 				lineColor=0x5862a0,
 				points=0,
 				durability=2,
-				density=0.01,
+				density=0.1,
 				growRate=10,
 				lifetime=1e-16,
 				explodeDamage=250,
@@ -5608,7 +5608,7 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=250,
-			barrelTaper=2,
+		barrelTaper=2,
 		cannon={--ÆðÊ¼
 			damage=100,
 			power=2900,
