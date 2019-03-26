@@ -4700,7 +4700,7 @@
 		replicateBlock={
 			group=1257,
 			points=1,
-			features=CANNON|COMMAND|FREERES|GENERATOR|NOCLIP|NOREGEN|TORQUER|TURRET|ONEUSE,
+			features=CANNON|COMMAND|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN|TORQUER|TURRET|ONEUSE,
 			deathFeatures=CANNON,
 			name=_("_text_lapismOrbcannonDrone"),
 			shape=1257006,
