@@ -134,15 +134,15 @@
 		{
 			{
 				verts={{-2.887, 5},{5.774, 0},{-2.887, -5}},
-				ports={{2, 0.5, MISSILE}}
+				ports={{2, 0.5, MISSILE},{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER}}
 			},
 			{
 				verts={{-5.774, 10},{11.547, 0},{-5.774, -10}},
-				ports={{2, 0.5, MISSILE}}
+				ports={{2, 0.5, MISSILE},{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER}}
 			},
 			{
 				verts={{-8.66, 15},{17.321, 0},{-8.66, -15}},
-				ports={{2, 0.5, MISSILE}}
+				ports={{2, 0.5, MISSILE},{0, 0.5, LAUNCHER},{1, 0.5, LAUNCHER},{2, 0.5, LAUNCHER}}
 			},
 		}
 	},
