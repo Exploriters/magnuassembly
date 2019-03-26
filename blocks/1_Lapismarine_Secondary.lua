@@ -4174,7 +4174,7 @@
 			group=1257,
 			features=ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LAUNCHER|LAUNCHER_BARRAGE|LASER|MELEE|NOREGEN|THRUSTER|TORQUER|NOCLIP_ALLY,
 			name=_("_text_FragmentDrone"),
-			shape=1257003,
+			shape=1257081,
 			scale=1,
 			fillColor=0x0000ff,
 			fillColor1=0x7fc0ff,
