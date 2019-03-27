@@ -4181,6 +4181,58 @@ replicateBlock=0,
 		points=81,
 		capacity=18000,
 	},
+
+	{
+		ident=1443260,
+		sort=1443260000,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=SQUARE,
+		scale=4,
+		#include "_T_3883_HullWhite.lua"
+		points=800,
+	},
+
+	{
+		ident=1443261,
+		sort=1443261000,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=RIGHT_TRI,
+		scale=4,
+		#include "_T_3883_HullWhite.lua"
+		points=400,
+	},
+
+	{
+		ident=1443262,
+		sort=1443262000,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=RIGHT_TRI2L,
+		scale=4,
+		#include "_T_3883_HullWhite.lua"
+		points=800,
+	},
+
+	{
+		ident=1443263,
+		sort=1443263000,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=RIGHT_TRI2R,
+		scale=4,
+		#include "_T_3883_HullWhite.lua"
+		points=800,
+	},
 	
 	-- {
 		-- ident=1443257,
