@@ -1100,7 +1100,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=5.04,
 		launcherPower=100,
@@ -1125,7 +1125,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=2.52,
 		launcherPower=100,
@@ -1150,7 +1150,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=1.68,
 		launcherPower=100,
@@ -1175,7 +1175,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=1.26,
 		launcherPower=100,
@@ -1200,7 +1200,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=1.008,
 		launcherPower=100,
@@ -1225,7 +1225,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=0.84,
 		launcherPower=100,
@@ -1250,7 +1250,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=0.72,
 		launcherPower=100,
@@ -1275,7 +1275,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=0.63,
 		launcherPower=100,
@@ -1300,7 +1300,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=0.56,
 		launcherPower=100,
@@ -1325,7 +1325,7 @@ replicateBlock=0,
 		growRate=1,
 		capacity=0,
 		replicateBlock={
-#include "_T_LGC_GTM"
+#include "_T_LGC_GTM.lua"
 		},
 		replicateTime=0.504,
 		launcherPower=100,
