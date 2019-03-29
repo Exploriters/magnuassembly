@@ -449,7 +449,7 @@
 		ident=1257220,
 		sort=1257220000,
 		group=1257,
-		features=PALETTE|INVULNERABLE|LAUNCHER|ENVIRONMENTAL|MELEE,
+		features=NOPALETTE|INVULNERABLE|LAUNCHER|ENVIRONMENTAL|MELEE,
 		name=_("_text_AncientTech")_("_bl")_("_text_AncientPROTOTYPE"),
 		shape=1257083,
 		scale=3,
