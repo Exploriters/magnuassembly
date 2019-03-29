@@ -60,8 +60,8 @@
 	{
 		ident=1257002,
 		sort=1257002000,
-		group=1257,
-		features=PHOTOSYNTH|SEED|THRUSTER|TORQUER,
+		group=5,
+		features=NOPALETTE|PHOTOSYNTH|SEED|THRUSTER|TORQUER,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Seed"),
 		blurb=_("_blurb_lapismSeed"),
 		shape=1257009,
