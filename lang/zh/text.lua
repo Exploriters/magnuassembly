@@ -322,6 +322,8 @@
 	"_text_lapismUberTurret"="超级炮台",
 	"_text_lapismUberTurretArmor"="超级炮台外壳",
 	"_blurb_lapismUberTurretLauncher"="发射一个近乎不可摧毁的强力移动炮台。",
+	"_text_lapismsuperdot"="热点喷射器",
+	"_blurb_lapismsuperdot"="一个极度致命的贯穿性制热点发射器，对机动性目标具有毁灭性的打击能力。",
 	
 	"_blurb_lapismDecoyGenerator"="发射一架持续三十秒诱骗敌人火力的虚假全息舰船。",
 	"_blurb_lapismDecoyGenerator_Ship_1257_Knight"="(i)全息舰船：Knight。",
