@@ -6619,7 +6619,7 @@
 	},
 	
 	{
-		index=1257208,
+		ident=1257208,
 		sort=1257208000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
