@@ -6668,7 +6668,11 @@
 		turretSpeed=1,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
-
+--1257209
+	
+	
+	
+-- OLD ONE
 	{
 		ident=1257900,
 		sort=1257900000,
