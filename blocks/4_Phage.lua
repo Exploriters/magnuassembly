@@ -40,6 +40,8 @@
 		torquerTorque=25000,
 		teleporterPower=20,
 		teleporterRadius=30000,
+		aihint_range=960,
+		aihint_muzzleVel=960,
 		cannon={--³õÊ¼
 			damage=1,
 			power=20,
@@ -81,8 +83,8 @@
 						color=0x7fff00,
 						fragment={--µØÀ×
 							damage=20,
-							muzzleVel=640,
-							range=6400,
+							muzzleVel=960,
+							range=9600,
 							spread=3.1415926535897932384626433832795,
 							roundsPerBurst=1,
 							pattern=CONSTANT,

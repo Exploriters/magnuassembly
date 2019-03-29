@@ -2497,6 +2497,8 @@
 		scale=1,
 		#include "_T_Lapisdevice.lua"
 		points=25,
+		aihint_range=500,
+		aihint_muzzleVel=1e8,
 		cannon={
 			damage=100,
 			power=100,
@@ -2532,6 +2534,8 @@
 		scale=2,
 		#include "_T_Lapisdevice.lua"
 		points=100,
+		aihint_range=1000,
+		aihint_muzzleVel=1e8,
 		cannon={
 			damage=200,
 			power=400,
@@ -2567,6 +2571,8 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=400,
+		aihint_range=1500,
+		aihint_muzzleVel=1e8,
 		cannon={
 			damage=300,
 			power=900,
@@ -2602,6 +2608,8 @@
 		scale=3,
 		#include "_T_Lapisdevice.lua"
 		points=2000,
+		aihint_range=3000,
+		aihint_muzzleVel=1e8,
 		cannon={
 			damage=3000,
 			power=90000,
@@ -7026,6 +7034,8 @@
 		#include "_T_Lapisdevice_Ancient.lua"
 		points=144,
 		capacity=0,
+		aihint_range=250,
+		aihint_muzzleVel=1e8,
 		cannon={
 			damage=2,
 			power=8,
