@@ -292,7 +292,7 @@
 			features=FREERES|INVULNERABLE|ASSEMBLER|COMMAND|GENERATOR|SEED|ONEUSE|CANNON|ALWAYSFIRE,
 			name=_("_text_AncientTech")_("_bl")_("_text_AncientPROTOTYPE"),
 			shape=1257053,
-			scale=3,
+			scale=2,
 			fillColor=0xeeffff,
 			fillColor1=0x7fc0ff,
 			lineColor=0x0000ff,
