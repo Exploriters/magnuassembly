@@ -1930,7 +1930,7 @@
 
 	{
 		ident=1443142,
-		sort=1443142000,
+		sort=1443842000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankScript"),
@@ -1951,7 +1951,7 @@
 
 	{
 		ident=1443143,
-		sort=1443143000,
+		sort=1443843000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -1968,7 +1968,7 @@
 
 	{
 		ident=1443144,
-		sort=1443144000,
+		sort=1443844000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -1985,7 +1985,7 @@
 
 	{
 		ident=1443145,
-		sort=1443145000,
+		sort=1443845000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2002,7 +2002,7 @@
 
 	{
 		ident=1443146,
-		sort=1443146000,
+		sort=1443846000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2019,7 +2019,7 @@
 
 	{
 		ident=1443147,
-		sort=1443147000,
+		sort=1443847000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2036,7 +2036,7 @@
 
 	{
 		ident=1443148,
-		sort=1443148000,
+		sort=1443848000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2054,7 +2054,7 @@
 
 	{
 		ident=1443149,
-		sort=1443149000,
+		sort=1443849000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2072,7 +2072,7 @@
 
 	{
 		ident=1443150,
-		sort=1443150000,
+		sort=1443850000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2090,7 +2090,7 @@
 
 	{
 		ident=1443151,
-		sort=1443151000,
+		sort=1443851000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2108,7 +2108,7 @@
 
 	{
 		ident=1443152,
-		sort=1443152000,
+		sort=1443852000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2126,7 +2126,7 @@
 
 	{
 		ident=1443153,
-		sort=1443153000,
+		sort=1443853000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2144,7 +2144,7 @@
 
 	{
 		ident=1443154,
-		sort=1443154000,
+		sort=1443854000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2162,7 +2162,7 @@
 
 	{
 		ident=1443155,
-		sort=1443155000,
+		sort=1443855000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2180,7 +2180,7 @@
 
 	{
 		ident=1443156,
-		sort=1443156000,
+		sort=1443856000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2198,7 +2198,7 @@
 
 	{
 		ident=1443157,
-		sort=1443157000,
+		sort=1443857000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2216,7 +2216,7 @@
 
 	{
 		ident=1443158,
-		sort=1443158000,
+		sort=1443858000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2234,7 +2234,7 @@
 
 	{
 		ident=1443159,
-		sort=1443159000,
+		sort=1443859000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2252,7 +2252,7 @@
 
 	{
 		ident=1443160,
-		sort=1443160000,
+		sort=1443860000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2270,7 +2270,7 @@
 
 	{
 		ident=1443161,
-		sort=1443161000,
+		sort=1443861000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2288,7 +2288,7 @@
 
 	{
 		ident=1443162,
-		sort=1443162000,
+		sort=1443862000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_DMG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2306,7 +2306,7 @@
 
 	{
 		ident=1443163,
-		sort=1443163000,
+		sort=1443863000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2324,7 +2324,7 @@
 
 	{
 		ident=1443164,
-		sort=1443164000,
+		sort=1443864000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2342,7 +2342,7 @@
 
 	{
 		ident=1443165,
-		sort=1443165000,
+		sort=1443865000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2360,7 +2360,7 @@
 
 	{
 		ident=1443166,
-		sort=1443166000,
+		sort=1443866000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2378,7 +2378,7 @@
 
 	{
 		ident=1443167,
-		sort=1443167000,
+		sort=1443867000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2396,7 +2396,7 @@
 
 	{
 		ident=1443168,
-		sort=1443168000,
+		sort=1443868000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2413,7 +2413,7 @@
 
 	{
 		ident=1443169,
-		sort=1443169000,
+		sort=1443869000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2430,7 +2430,7 @@
 
 	{
 		ident=1443170,
-		sort=1443170000,
+		sort=1443870000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2447,7 +2447,7 @@
 
 	{
 		ident=1443171,
-		sort=1443171000,
+		sort=1443871000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2464,7 +2464,7 @@
 
 	{
 		ident=1443172,
-		sort=1443172000,
+		sort=1443872000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2481,7 +2481,7 @@
 
 	{
 		ident=1443173,
-		sort=1443173000,
+		sort=1443873000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2499,7 +2499,7 @@
 
 	{
 		ident=1443174,
-		sort=1443174000,
+		sort=1443874000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2517,7 +2517,7 @@
 
 	{
 		ident=1443175,
-		sort=1443175000,
+		sort=1443875000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2535,7 +2535,7 @@
 
 	{
 		ident=1443176,
-		sort=1443176000,
+		sort=1443876000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2553,7 +2553,7 @@
 
 	{
 		ident=1443177,
-		sort=1443177000,
+		sort=1443877000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2571,7 +2571,7 @@
 
 	{
 		ident=1443178,
-		sort=1443178000,
+		sort=1443878000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2589,7 +2589,7 @@
 
 	{
 		ident=1443179,
-		sort=1443179000,
+		sort=1443879000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2607,7 +2607,7 @@
 
 	{
 		ident=1443180,
-		sort=1443180000,
+		sort=1443880000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2625,7 +2625,7 @@
 
 	{
 		ident=1443181,
-		sort=1443181000,
+		sort=1443881000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2643,7 +2643,7 @@
 
 	{
 		ident=1443182,
-		sort=1443182000,
+		sort=1443882000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_VEL")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2661,7 +2661,7 @@
 
 	{
 		ident=1443183,
-		sort=1443183000,
+		sort=1443883000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2679,7 +2679,7 @@
 
 	{
 		ident=1443184,
-		sort=1443184000,
+		sort=1443884000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2697,7 +2697,7 @@
 
 	{
 		ident=1443185,
-		sort=1443185000,
+		sort=1443885000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2715,7 +2715,7 @@
 
 	{
 		ident=1443186,
-		sort=1443186000,
+		sort=1443886000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2733,7 +2733,7 @@
 
 	{
 		ident=1443187,
-		sort=1443187000,
+		sort=1443887000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2751,7 +2751,7 @@
 
 	{
 		ident=1443188,
-		sort=1443188000,
+		sort=1443888000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2769,7 +2769,7 @@
 
 	{
 		ident=1443189,
-		sort=1443189000,
+		sort=1443889000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2787,7 +2787,7 @@
 
 	{
 		ident=1443190,
-		sort=1443190000,
+		sort=1443890000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2805,7 +2805,7 @@
 
 	{
 		ident=1443191,
-		sort=1443191000,
+		sort=1443891000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2823,7 +2823,7 @@
 
 	{
 		ident=1443192,
-		sort=1443192000,
+		sort=1443892000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2841,7 +2841,7 @@
 
 	{
 		ident=1443193,
-		sort=1443193000,
+		sort=1443893000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2858,7 +2858,7 @@
 
 	{
 		ident=1443194,
-		sort=1443194000,
+		sort=1443894000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2875,7 +2875,7 @@
 
 	{
 		ident=1443195,
-		sort=1443195000,
+		sort=1443895000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2892,7 +2892,7 @@
 
 	{
 		ident=1443196,
-		sort=1443196000,
+		sort=1443896000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2909,7 +2909,7 @@
 
 	{
 		ident=1443197,
-		sort=1443197000,
+		sort=1443897000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -2926,7 +2926,7 @@
 
 	{
 		ident=1443198,
-		sort=1443198000,
+		sort=1443898000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -2944,7 +2944,7 @@
 
 	{
 		ident=1443199,
-		sort=1443199000,
+		sort=1443899000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -2962,7 +2962,7 @@
 
 	{
 		ident=1443200,
-		sort=1443200000,
+		sort=1443900000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -2980,7 +2980,7 @@
 
 	{
 		ident=1443201,
-		sort=1443201000,
+		sort=1443901000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -2998,7 +2998,7 @@
 
 	{
 		ident=1443202,
-		sort=1443202000,
+		sort=1443902000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_RNG")_("_bl")_("_3883lt")_("_bl")_("_text_kw_ROF")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -3016,7 +3016,7 @@
 
 	{
 		ident=1443203,
-		sort=1443203000,
+		sort=1443903000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -3034,7 +3034,7 @@
 
 	{
 		ident=1443204,
-		sort=1443204000,
+		sort=1443904000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -3052,7 +3052,7 @@
 
 	{
 		ident=1443205,
-		sort=1443205000,
+		sort=1443905000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -3070,7 +3070,7 @@
 
 	{
 		ident=1443206,
-		sort=1443206000,
+		sort=1443906000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -3088,7 +3088,7 @@
 
 	{
 		ident=1443207,
-		sort=1443207000,
+		sort=1443907000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_DMG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -3106,7 +3106,7 @@
 
 	{
 		ident=1443208,
-		sort=1443208000,
+		sort=1443908000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -3123,7 +3123,7 @@
 
 	{
 		ident=1443209,
-		sort=1443209000,
+		sort=1443909000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -3140,7 +3140,7 @@
 
 	{
 		ident=1443210,
-		sort=1443210000,
+		sort=1443910000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -3157,7 +3157,7 @@
 
 	{
 		ident=1443211,
-		sort=1443211000,
+		sort=1443911000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -3174,7 +3174,7 @@
 
 	{
 		ident=1443212,
-		sort=1443212000,
+		sort=1443912000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -3191,7 +3191,7 @@
 
 	{
 		ident=1443213,
-		sort=1443213000,
+		sort=1443913000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -3209,7 +3209,7 @@
 
 	{
 		ident=1443214,
-		sort=1443214000,
+		sort=1443914000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -3227,7 +3227,7 @@
 
 	{
 		ident=1443215,
-		sort=1443215000,
+		sort=1443915000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -3245,7 +3245,7 @@
 
 	{
 		ident=1443216,
-		sort=1443216000,
+		sort=1443916000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -3263,7 +3263,7 @@
 
 	{
 		ident=1443217,
-		sort=1443217000,
+		sort=1443917000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_VEL")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -3281,7 +3281,7 @@
 
 	{
 		ident=1443218,
-		sort=1443218000,
+		sort=1443918000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -3299,7 +3299,7 @@
 
 	{
 		ident=1443219,
-		sort=1443219000,
+		sort=1443919000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -3317,7 +3317,7 @@
 
 	{
 		ident=1443220,
-		sort=1443220000,
+		sort=1443920000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -3335,7 +3335,7 @@
 
 	{
 		ident=1443221,
-		sort=1443221000,
+		sort=1443921000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -3353,7 +3353,7 @@
 
 	{
 		ident=1443222,
-		sort=1443222000,
+		sort=1443922000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ROF")_("_bl")_("_3883lt")_("_bl")_("_text_kw_RNG")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
@@ -3371,7 +3371,7 @@
 
 	{
 		ident=1443223,
-		sort=1443223000,
+		sort=1443923000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ERD")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkV"),
@@ -3388,7 +3388,7 @@
 
 	{
 		ident=1443224,
-		sort=1443224000,
+		sort=1443924000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ERD")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIV"),
@@ -3405,7 +3405,7 @@
 
 	{
 		ident=1443225,
-		sort=1443225000,
+		sort=1443925000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ERD")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkIII"),
@@ -3422,7 +3422,7 @@
 
 	{
 		ident=1443226,
-		sort=1443226000,
+		sort=1443926000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ERD")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkII"),
@@ -3439,7 +3439,7 @@
 
 	{
 		ident=1443227,
-		sort=1443227000,
+		sort=1443927000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE,
 		name=_("_text_3883tech")_("_bl")_("_text_kw_ERD")_("_bl")_("_3883lt")_("_bl")_("_text_kw_PWR")_("_bl")_("_text_3883Script")_("_bl")_("_text_MkI"),
