@@ -43,6 +43,7 @@
 		aihint_range=960,
 		aihint_muzzleVel=960,
 		cannon={--≥ı º
+			recoil=1e-32,
 			damage=1,
 			power=20,
 			roundsPerSec=4,

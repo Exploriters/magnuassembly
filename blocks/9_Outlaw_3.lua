@@ -99,6 +99,7 @@
 		thrusterColor1=0x7f821d28,
 		torquerTorque=200000
 		cannon={
+			recoil=1e-32,
 			damage=1,
 			power=1e-4,
 			roundsPerSec=50,
@@ -200,6 +201,7 @@
 		thrusterColor1=0x7f821d28,
 		torquerTorque=200000
 		cannon={
+			recoil=1e-32,
 			damage=1,
 			power=1e-4,
 			roundsPerSec=10,
@@ -286,6 +288,7 @@
 		thrusterColor1=0x7f821d28,
 		torquerTorque=1500000
 		cannon={
+			recoil=1e-32,
 			damage=1,
 			power=1e-4,
 			roundsPerSec=50,
