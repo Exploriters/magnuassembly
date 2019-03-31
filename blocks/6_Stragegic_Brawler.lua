@@ -952,7 +952,7 @@
 
 	{
 		ident=1443067,
-		sort=1443067000,
+		sort=1443767000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -966,7 +966,7 @@
 
 	{
 		ident=1443068,
-		sort=1443068000,
+		sort=1443768000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883PowerSaverSubsystem"),
@@ -981,7 +981,7 @@
 
 	{
 		ident=1443069,
-		sort=1443069000,
+		sort=1443769000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883HeatSinkSubsystem"),
@@ -996,7 +996,7 @@
 
 	{
 		ident=1443070,
-		sort=1443070000,
+		sort=1443770000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BootingSubsystem"),
@@ -1011,7 +1011,7 @@
 
 	{
 		ident=1443071,
-		sort=1443071000,
+		sort=1443771000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883LifetimeSubsystem"),
@@ -1026,7 +1026,7 @@
 
 	{
 		ident=1443072,
-		sort=1443072000,
+		sort=1443772000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883EjectorSubsystem"),
@@ -1041,7 +1041,7 @@
 
 	{
 		ident=1443073,
-		sort=1443073000,
+		sort=1443773000,
 		group=1443,
 		features=PALETTE|CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883LonerSubsystem"),
@@ -1057,7 +1057,7 @@
 
 	{
 		ident=1443074,
-		sort=1443074000,
+		sort=1443774000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1071,7 +1071,7 @@
 
 	{
 		ident=1443075,
-		sort=1443075000,
+		sort=1443775000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1085,7 +1085,7 @@
 
 	{
 		ident=1443076,
-		sort=1443076000,
+		sort=1443776000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1099,7 +1099,7 @@
 
 	{
 		ident=1443077,
-		sort=1443077000,
+		sort=1443777000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1113,7 +1113,7 @@
 
 	{
 		ident=1443078,
-		sort=1443078000,
+		sort=1443778000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1127,7 +1127,7 @@
 
 	{
 		ident=1443079,
-		sort=1443079000,
+		sort=1443779000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1141,7 +1141,7 @@
 
 	{
 		ident=1443080,
-		sort=1443080000,
+		sort=1443780000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1155,7 +1155,7 @@
 
 	{
 		ident=1443081,
-		sort=1443081000,
+		sort=1443781000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1169,7 +1169,7 @@
 
 	{
 		ident=1443082,
-		sort=1443082000,
+		sort=1443782000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1183,7 +1183,7 @@
 
 	{
 		ident=1443083,
-		sort=1443083000,
+		sort=1443783000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1197,7 +1197,7 @@
 
 	{
 		ident=1443084,
-		sort=1443084000,
+		sort=1443784000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1211,7 +1211,7 @@
 
 	{
 		ident=1443085,
-		sort=1443085000,
+		sort=1443785000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1225,7 +1225,7 @@
 
 	{
 		ident=1443086,
-		sort=1443086000,
+		sort=1443786000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
@@ -1239,7 +1239,7 @@
 
 	{
 		ident=1443087,
-		sort=1443087000,
+		sort=1443787000,
 		group=1443,
 		features=CANNON_BOOST|MELEE|TELEPORTER,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BlankSubsystem"),
