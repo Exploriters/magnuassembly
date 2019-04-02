@@ -4236,6 +4236,110 @@ replicateBlock=0,
 		points=800,
 	},
 	
+	{
+		ident=1443264,
+		sort=1443012001,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883OrangeStructue"),
+		blurb=_("_blurb_standardStructue"),
+		shape=1257079,
+		scale=1,
+		#include "_T_3883_HullOrange.lua"
+		points=5,
+	},
+	
+	{
+		ident=1443265,
+		sort=1443012002,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883OrangeStructue"),
+		blurb=_("_blurb_standardStructue"),
+		shape=1257080,
+		scale=1,
+		#include "_T_3883_HullOrange.lua"
+		points=5,
+	},
+
+	{
+		ident=1443266,
+		sort=1443028001,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883BlueStructue"),
+		blurb=_("_blurb_standardStructue"),
+		shape=1257079,
+		scale=1,
+		#include "_T_3883_HullBlue.lua"
+		points=5,
+	},
+
+	{
+		ident=1443267,
+		sort=1443028002,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883BlueStructue"),
+		blurb=_("_blurb_standardStructue"),
+		shape=1257080,
+		scale=1,
+		#include "_T_3883_HullBlue.lua"
+		points=5,
+	},
+
+	{
+		ident=1443268,
+		sort=1443044001,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=1257079,
+		scale=1,
+		#include "_T_3883_HullWhite.lua"
+		points=25,
+	},
+
+	{
+		ident=1443269,
+		sort=1443044002,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883WhiteStructue"),
+		blurb=_("_blurb_3883WhiteStructue"),
+		shape=1257080,
+		scale=1,
+		#include "_T_3883_HullWhite.lua"
+		points=25,
+	},
+
+	{
+		ident=1443270,
+		sort=1443060001,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883DarkStructue"),
+		blurb=_("_blurb_3883DarkStructue"),
+		shape=1257079,
+		scale=1,
+		#include "_T_3883_HullDark.lua"
+		points=2,
+	},
+
+	{
+		ident=1443271,
+		sort=1443060002,
+		group=1443,
+		features=PALETTE|MELEE,
+		name=_("_text_3883tech")_("_bl")_("_text_3883DarkStructue"),
+		blurb=_("_blurb_3883DarkStructue"),
+		shape=1257080,
+		scale=1,
+		#include "_T_3883_HullDark.lua"
+		points=2,
+	},
+	
 	-- {
 		-- ident=1443257,
 		-- group=1443,
