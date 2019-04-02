@@ -3701,6 +3701,8 @@
 		scale=1,
 		#include "_T_3883_Device.lua"
 		points=1500,
+		aihint_range=2000,
+		aihint_muzzleVel=4000,
 		cannon={
 			damage=100,
 			power=3000,

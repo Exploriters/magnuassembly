@@ -9,11 +9,11 @@
 	"_text_word_Ancient"="古代",
 	"_text_AncientTech"="马葛兰",
 	"_text_material_Lapismarine"="海青",
-	"_text_DSDtech"="圣塔苏姆-艾贝罗斯-莱瑟湾",
+	"_text_DSDtech"="圣塔苏姆-耐火人",
 	"_text_38tech"="三八科技",
 	"_text_Proteintech"="蛋白质",
 	"_text_WE2tech"="维图博拉兹",
-	"_text_B10tech"="引导十-耐火人-北极光",
+	"_text_B10tech"="引导十-耐火人",
 	"_text_Nulltech"="反物质",
 	"_text_3883tech"="三略级",
 	
