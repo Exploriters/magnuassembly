@@ -498,7 +498,7 @@
 			turretSpeed=inf,
 			barrelSize={-1e-160,1e-16},
 		}
-		replicateTime=1.5,
+		replicateTime=1,
 		launcherPower=20,
 		launcherOutSpeed=50,
 		launcherAngVel=0,

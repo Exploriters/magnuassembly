@@ -545,6 +545,8 @@
 	"_blurb_B10GooLauncher"="Launch homing explosive goo orb explode on time. ",
 	"_text_B10Goo"="Goo Orb",
 	"_blurb_B10Goo"="Sticky. ",
+	"_text_B10NanoMissileBattery"="Nano Missile",
+	"_blurb_B10NanoMissileBattery"="Heal allies or damage enemies. Does not being detonate by hostile shield and armor-without-melee. ",
 -- Magnualand
 	"_text_SovGenerator"="Territorial Claim Unit",
 	"_blurb_SovGenerator"="Provide warping portal and safety. ",
