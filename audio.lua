@@ -2,7 +2,7 @@
 {}
 {
    SOFF = {
-      samples = { "conditions/VICTORY.ogg" },
+      samples = {},
       priority = 2,
       volume = 1,
    },
