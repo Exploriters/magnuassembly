@@ -6573,6 +6573,7 @@
 				color=0x7fc0ff,
 				roundsPerBurst=2,
 				burstyness=1,
+				recoil=-1e-32,
 				fragment={
 					damage=100,
 					muzzleVel=1000,
@@ -6599,7 +6600,7 @@
 			replicateBlock={
 				group=1257,
 				points=1,
-				features=FREERES|EXPLODE|NOCLIP_ALLY|NOCLIP,
+				features=FREERES|EXPLODE|NOCLIP_ALLY,
 				name=_("_text_lapismUberTurretArmor"),
 				shape=1257006,
 				scale=3,
@@ -6607,7 +6608,7 @@
 				fillColor1=0x7fc0ff,
 				lineColor=0x5862a0,
 				points=270,
-				durability=20,
+				durability=0,
 				density=0.01,
 				growRate=10,
 				lifetime=1e-16,
