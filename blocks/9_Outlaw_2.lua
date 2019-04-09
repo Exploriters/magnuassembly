@@ -556,7 +556,7 @@
 			color=0x821d28,
 			explosive=ENABLED,
 			explodeRadius=0,
-			spread=0.78539816339744830961566084581988,
+			spread=0.52359877559829887307710723054658,
 			pattern=SPIRAL,
 			fragment={
 				damage=20,
