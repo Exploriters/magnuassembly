@@ -66,3 +66,23 @@ fillColor=0x8fb8ff,\r\n\t\tfillColor1=0xffb856,\r\n\t\tlineColor=0x3f3f3f,\r\n\t
 
 fillColor=0x64a08f,\r\n\t\tfillColor1=0x63988d,\r\n\t\tlineColor=0x38574b,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=1.98,\r\n\t\tdensity=0.2,\r\n\t\tgrowRate=3.3,
 #include "_T_WE2BoLaX_Device.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x39347a,\r\n\t\tfillColor1=0x252b46,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints=-1,\r\n\t\tdurability=3,\r\n\t\tdensity=0.02,\r\n\t\tgrowRate=10,\r\n\t\tarmor=0,\r\n\t\tcapacity=0,
+#include "_T_B10_HullDark.lua"\r\n\t\tpoints=-1,
+
+fillColor=0x9f0010,\r\n\t\tfillColor1=0xff001a,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=10,\r\n\t\tdensity=0.2,\r\n\t\tgrowRate=1,\r\n\t\tarmor=0,\r\n\t\tmeleeDamage=1,\r\n\t\tcapacity=0,
+#include "_T_B10_HullRed.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x252b46,\r\n\t\tfillColor=0,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=5,\r\n\t\tdensity=0.1,\r\n\t\tgrowRate=2,\r\n\t\tarmor=0,\r\n\t\tcapacity=0,
+#include "_T_B10_Device.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x39347a,\r\n\t\tfillColor=0,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=15,\r\n\t\tdensity=0.5,\r\n\t\tgrowRate=2,\r\n\t\tarmor=0,\r\n\t\tcapacity=0,
+#include "_T_B10_Thruster.lua"\r\n\t\tpoints=\1,
+
+
+
+
+
+
+
+

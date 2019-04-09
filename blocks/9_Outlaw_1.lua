@@ -1,35 +1,5 @@
 
 	{
-		ident=1243000,
-		sort=1243000000,
-		group=1243,
-		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
-		name=_("_text_B10tech")_("_bl")_("_text_Capsule"),
-		blurb=_("_blurb_B10Capsule"),
-		shape=COMMAND,
-		fillColor=0x821d28,
-		fillColor1=0x39347a,
-		lineColor=0x252b46,
-		command={
-		},
-		points=20,
-		durability=21.88,
-		density=0.2,
-		growRate=0.96,
-		armor=0,
-		capacity=1000,
-		tractorRange=800,
-		generatorCapacityPerSec=150,
-		powerCapacity=15000,
-		thrusterForce=5000,
-		thrusterBoost=1,
-		thrusterBoostTime=inf,
-		thrusterColor=0x7f39347a,
-		thrusterColor1=0x7f821d28,
-		torquerTorque=5000,
-	},
-
-	{
 		ident=1243001,
 		sort=1243001000,
 		group=1243,
@@ -37,15 +7,8 @@
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(SQUARE)"),
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -57,15 +20,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -77,15 +33,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -97,15 +46,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -117,15 +59,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -137,15 +72,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -157,15 +85,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=PENTAGON,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -177,15 +98,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=PENTAGON,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -197,15 +111,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=PENTAGON,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -217,15 +124,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -237,15 +137,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -257,15 +150,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -277,15 +163,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEPTAGON,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -297,15 +176,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEPTAGON,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -317,15 +189,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEPTAGON,
 		scale=4,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -337,15 +202,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=OCTAGON,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -357,15 +215,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=OCTAGON,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -377,15 +228,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=OCTAGON,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -397,15 +241,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=OCTAGON,
 		scale=4,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -417,15 +254,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257058,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -437,15 +267,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257058,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -457,15 +280,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257058,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -477,15 +293,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_36_144,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -497,15 +306,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_36_144,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -517,15 +319,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_36_144,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -537,15 +332,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_72_108,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -557,15 +345,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_72_108,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -577,15 +358,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RHOMBUS_72_108,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -597,15 +371,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_36,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -617,15 +384,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_36,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -637,15 +397,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_36,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -657,15 +410,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_72,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -677,15 +423,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_72,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -697,15 +436,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ISOTRI_72,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -717,15 +449,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -737,15 +462,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -757,15 +475,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -777,15 +488,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2L,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -797,15 +501,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2L,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -817,15 +514,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2L,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -837,15 +527,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2R,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -857,15 +540,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2R,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -877,15 +553,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RIGHT_TRI2R,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -897,15 +566,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RECT,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -917,15 +579,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RECT,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -937,15 +592,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RECT,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -957,15 +605,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RECT,
 		scale=4,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -977,15 +618,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=RECT,
 		scale=5,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -997,15 +631,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ADAPTER,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1017,15 +644,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ADAPTER,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1037,15 +657,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=ADAPTER,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1057,15 +670,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1077,15 +683,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1097,15 +696,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1117,15 +709,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1137,15 +722,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1157,15 +735,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1177,15 +748,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257059,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1197,15 +761,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257059,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1217,15 +774,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257059,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1237,15 +787,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257060,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1257,15 +800,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257060,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1277,15 +813,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257060,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1297,15 +826,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257061,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1317,15 +839,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE_HALF,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1337,15 +852,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257068,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1357,15 +865,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257068,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1377,15 +878,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257068,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1397,15 +891,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257069,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1417,15 +904,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257069,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1437,15 +917,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257069,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1457,15 +930,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257070,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1477,15 +943,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257070,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1497,15 +956,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257070,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1517,15 +969,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257071,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1537,15 +982,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257071,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1557,15 +995,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257071,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1577,15 +1008,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257072,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1597,15 +1021,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257072,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1617,15 +1034,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257072,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1637,15 +1047,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257073,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1657,15 +1060,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257073,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1677,15 +1073,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257073,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1697,15 +1086,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257074,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1717,15 +1099,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257074,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1737,15 +1112,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257074,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1757,15 +1125,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257075,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1777,15 +1138,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257075,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1797,15 +1151,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257075,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1817,15 +1164,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257076,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1837,15 +1177,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257076,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1857,15 +1190,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257076,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1877,15 +1203,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257077,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1897,15 +1216,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257077,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1917,15 +1229,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257077,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1937,15 +1242,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257078,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1957,15 +1255,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257078,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -1977,15 +1268,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257078,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 	
 	{
@@ -1996,15 +1280,8 @@
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ITALIC TRI +1)"),
 		blurb=_("_blurb_standardStructue"),
 		shape=1257079,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 	
 	{
@@ -2015,15 +1292,8 @@
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(ITALIC TRI +1)"),
 		blurb=_("_blurb_standardStructue"),
 		shape=1257080,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 	
 	{
@@ -2035,15 +1305,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257081,
 		scale=1,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -2055,15 +1318,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257081,
 		scale=2,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
 
 	{
@@ -2075,16 +1331,11 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257081,
 		scale=3,
-		fillColor=0x39347a,
-		fillColor1=0x252b46,
-		lineColor=0x821d28,
+		#include "_T_B10_HullDark.lua"
 		points=-1,
-		durability=3,
-		density=0.02,
-		growRate=10,
-		armor=0,
-		capacity=0,
 	},
+	
+	--RED
 	
 	{
 		ident=1243201,
@@ -2094,16 +1345,8 @@
 		name=_("_text_B10tech")_("_bl")_("_text_blockArmor")_("_bl")_("(SQUARE)"),
 		blurb=_("_blurb_B10Armor"),
 		shape=SQUARE,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2115,16 +1358,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=SQUARE,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2136,16 +1371,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=SQUARE,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=45,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2157,16 +1384,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2178,16 +1397,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2199,16 +1410,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2220,16 +1423,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=PENTAGON,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2241,16 +1436,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=PENTAGON,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=35,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2262,16 +1449,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=PENTAGON,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=78,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2283,16 +1462,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=13,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2304,16 +1475,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=52,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2325,16 +1488,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=117,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2346,16 +1501,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEPTAGON,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=19,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2367,16 +1514,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEPTAGON,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=73,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2388,16 +1527,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=HEPTAGON,
 		scale=4,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=164,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2409,16 +1540,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=OCTAGON,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2430,16 +1553,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=OCTAGON,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=25,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2451,16 +1566,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=OCTAGON,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=97,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2472,16 +1579,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=OCTAGON,
 		scale=4,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=218,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2493,16 +1592,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257058,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=56,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2514,16 +1605,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257058,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=224,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2535,16 +1618,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257058,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=504,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2556,16 +1631,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_36_144,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2577,16 +1644,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_36_144,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=12,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2598,16 +1657,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_36_144,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=27,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2619,16 +1670,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_72_108,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2640,16 +1683,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_72_108,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2661,16 +1696,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RHOMBUS_72_108,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=43,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2682,16 +1709,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_36,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2703,16 +1722,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_36,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=6,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2724,16 +1735,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_36,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=14,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2745,16 +1748,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_72,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2766,16 +1761,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_72,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2787,16 +1774,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ISOTRI_72,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=22,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2808,16 +1787,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2829,16 +1800,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2850,16 +1813,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=23,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2871,16 +1826,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2L,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2892,16 +1839,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2L,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2913,16 +1852,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2L,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=45,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2934,16 +1865,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2R,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2955,16 +1878,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2R,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2976,16 +1891,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RIGHT_TRI2R,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=45,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -2997,16 +1904,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RECT,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3018,16 +1917,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RECT,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3039,16 +1930,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RECT,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=4,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3060,16 +1943,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RECT,
 		scale=4,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=6,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3081,16 +1956,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=RECT,
 		scale=5,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=15,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3102,16 +1969,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ADAPTER,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=4,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3123,16 +1982,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ADAPTER,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=7,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3144,16 +1995,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=ADAPTER,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3165,16 +2008,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=602,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3186,16 +2021,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=602,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=18,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3207,16 +2034,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=602,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=39,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3228,16 +2047,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257042,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3249,16 +2060,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257042,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3270,16 +2073,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257042,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=23,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3291,16 +2086,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257059,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3312,16 +2099,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257059,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3333,16 +2112,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257059,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=12,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3354,16 +2125,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257060,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3375,16 +2138,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257060,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3396,16 +2151,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257060,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=12,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3417,16 +2164,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257061,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3438,16 +2177,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=SQUARE_HALF,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3459,16 +2190,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257068,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3480,16 +2203,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257068,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3501,16 +2216,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257068,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3522,16 +2229,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257069,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=4,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3543,16 +2242,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257069,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=16,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3564,16 +2255,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257069,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=36,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3585,16 +2268,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257070,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3606,16 +2281,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257070,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3627,16 +2294,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257070,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=44,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3648,16 +2307,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257071,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3669,16 +2320,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257071,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3690,16 +2333,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257071,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3711,16 +2346,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257072,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3732,16 +2359,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257072,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=8,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3753,16 +2372,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257072,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=18,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3774,16 +2385,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257073,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3795,16 +2398,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257073,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3816,16 +2411,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257073,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=22,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3837,16 +2424,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257074,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3858,16 +2437,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257074,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3879,16 +2450,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257074,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=22,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3900,16 +2463,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257075,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3921,16 +2476,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257075,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=8,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3942,16 +2489,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257075,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=18,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3963,16 +2502,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257076,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -3984,16 +2515,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257076,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4005,16 +2528,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257076,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=10,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4026,16 +2541,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257077,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4047,16 +2554,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257077,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=5,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4068,16 +2567,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257077,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=22,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4089,16 +2580,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257078,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=2,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4110,16 +2593,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257078,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=6,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4131,16 +2606,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257078,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=14,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 	
 	{
@@ -4152,16 +2619,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257079,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 	
 	{
@@ -4173,16 +2632,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257080,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4194,16 +2645,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257081,
 		scale=1,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=3,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4215,16 +2658,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257081,
 		scale=2,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 
 	{
@@ -4236,16 +2671,8 @@
 		blurb=_("_blurb_B10Armor"),
 		shape=1257081,
 		scale=3,
-		fillColor=0x9f0010,
-		fillColor1=0xff001a,
-		lineColor=0x821d28,
+		#include "_T_B10_HullRed.lua"
 		points=20,
-		durability=10,
-		density=0.2,
-		growRate=1,
-		armor=0,
-		meleeDamage=1,
-		capacity=0,
 	},
 	
 ----- 1243400-1243999
