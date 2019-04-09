@@ -547,6 +547,8 @@
 	"_blurb_B10Goo"="黏糊糊的。",
 	"_text_B10NanoMissileBattery"="纳米导弹",
 	"_blurb_B10NanoMissileBattery"="治疗友军或伤害敌人。无法被敌对护盾或无近战装甲引爆。会被氦闪摧毁。",
+	"_text_B10BolaMine"="流星索地雷",
+	"_blurb_B10BolaMine"="最佳狩猎武器。",
 -- 马葛兰
 	"_text_SovGenerator"="主权宣布设施",
 	"_blurb_SovGenerator"="提供跃迁出口和安全保护。",

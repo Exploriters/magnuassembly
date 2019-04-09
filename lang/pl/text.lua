@@ -547,6 +547,8 @@
 	"_blurb_B10Goo"="Sticky. ",
 	"_text_B10NanoMissileBattery"="Nano Missile",
 	"_blurb_B10NanoMissileBattery"="Heal allies or damage enemies. Does not being detonate by hostile shield and armor-without-melee. ",
+	"_text_B10BolaMine"="Bola Mine",
+	"_blurb_B10BolaMine"="Best hunting weapon all-time. ",
 -- Magnualand
 	"_text_SovGenerator"="Territorial Claim Unit",
 	"_blurb_SovGenerator"="Provide warping portal and safety. ",
