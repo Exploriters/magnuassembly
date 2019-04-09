@@ -533,5 +533,43 @@
 		},
 		turretSpeed=7.069,
 	},
+
+	{
+		ident=1243417,
+		sort=1243417000,
+		group=1243,
+		features=PALETTE|CANNON|TURRET,
+		name=_("_text_B10tech")_("_bl")_("_text_B10Cannonlasershotgun"),
+		blurb=_("_blurb_B10Cannonlasershotgun"),
+		shape=SQUARE,
+		scale=2,
+		#include "_T_B10_Device.lua"
+		points=100,
+		cannon={
+			damage=50,
+			power=80,
+			roundsPerSec=2.5,
+			roundsPerBurst=20,
+			burstyness=0.5,
+			muzzleVel=2000,
+			range=3000,
+			color=0x821d28,
+			explosive=ENABLED,
+			explodeRadius=0,
+			spread=0.78539816339744830961566084581988,
+			pattern=SPIRAL,
+			fragment={
+				damage=20,
+				muzzleVel=1,
+				spread=0,
+				pattern=CONSTANT,
+				range=0,
+				color=0x01821d28,
+				explosive=ENABLED,
+				explodeRadius=50,
+			},
+		},
+		turretSpeed=3,
+	},
 	
 ----- 1243900-1243999
