@@ -569,7 +569,7 @@
 				explodeRadius=50,
 			},
 		},
-		turretSpeed=3,
+		turretSpeed=1,
 	},
 	
 ----- 1243900-1243999
