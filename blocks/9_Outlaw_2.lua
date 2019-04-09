@@ -544,7 +544,7 @@
 		shape=SQUARE,
 		scale=2,
 		#include "_T_B10_Device.lua"
-		points=100,
+		points=150,
 		cannon={
 			damage=50,
 			power=80,
@@ -559,7 +559,7 @@
 			spread=0.52359877559829887307710723054658,
 			pattern=SPIRAL,
 			fragment={
-				damage=20,
+				damage=180,
 				muzzleVel=1,
 				spread=0,
 				pattern=CONSTANT,
