@@ -63,3 +63,6 @@ fillColor=0x003e7b,\r\n\t\tfillColor1=0x7b4700,\r\n\t\tlineColor=0xffffff,\r\n\t
 
 fillColor=0x8fb8ff,\r\n\t\tfillColor1=0xffb856,\r\n\t\tlineColor=0x3f3f3f,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=20,\r\n\t\tdensity=0.3,\r\n\t\tgrowRate=10,\r\n\t\tarmor=20,\r\n\t\tmeleeDamage=1,
 #include "_T_3883_Device.lua"\r\n\t\tpoints=\1,
+
+fillColor=0x64a08f,\r\n\t\tfillColor1=0x63988d,\r\n\t\tlineColor=0x38574b,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=1.98,\r\n\t\tdensity=0.2,\r\n\t\tgrowRate=3.3,
+#include "_T_WE2BoLaX_Device.lua"\r\n\t\tpoints=\1,
