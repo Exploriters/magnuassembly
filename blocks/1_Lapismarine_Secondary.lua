@@ -6608,7 +6608,7 @@
 				fillColor1=0x7fc0ff,
 				lineColor=0x5862a0,
 				points=270,
-				durability=0,
+				durability=0.000042766686606638945519196205963108,
 				density=0.01,
 				growRate=10,
 				lifetime=1e-16,
