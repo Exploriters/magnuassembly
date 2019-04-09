@@ -548,8 +548,8 @@
 		cannon={
 			damage=50,
 			power=80,
-			roundsPerSec=2.5,
-			roundsPerBurst=20,
+			roundsPerSec=5,
+			roundsPerBurst=40,
 			burstyness=0.5,
 			muzzleVel=2000,
 			range=3000,
