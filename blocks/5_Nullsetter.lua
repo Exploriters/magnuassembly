@@ -37,7 +37,7 @@
 		thrusterColor=0x00000001,
 		thrusterColor1=0xff800080,
 		torquerTorque=200000,
-		teleporterPower=nan,
+		teleporterPower=-nan(ind),
 		teleporterRadius=1,
 	},
 

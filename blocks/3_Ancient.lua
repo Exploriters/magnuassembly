@@ -363,7 +363,7 @@
 		thrusterColor=0x01000001,
 		thrusterColor1=0x01000001,
 		torquerTorque=800000,
-		teleporterPower=nan,
+		teleporterPower=-nan(ind),
 		teleporterRadius=100,
 		shield={
 			strength=7500,
@@ -772,7 +772,7 @@
 		thrusterColor=0x01000001,
 		thrusterColor1=0x01000001,
 		torquerTorque=10000000,
-		teleporterPower=nan,
+		teleporterPower=-nan(ind),
 		teleporterRadius=100,
 		shield={
 			strength=20000,
@@ -1177,7 +1177,7 @@
 		thrusterColor=0x01000001,
 		thrusterColor1=0x01000001,
 		torquerTorque=800000,
-		teleporterPower=nan,
+		teleporterPower=-nan(ind),
 		teleporterRadius=100,
 		shield={
 			strength=20000,
