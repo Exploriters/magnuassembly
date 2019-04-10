@@ -14,7 +14,7 @@
 		command={
 		},
 		points=100,
-		durability=0.99,
+		durability=5.99,
 		density=0.1,
 		growRate=inf,
 		meleeDamage=inf,
