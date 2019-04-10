@@ -5574,7 +5574,7 @@
 																					projectileSize=10,
 																					fragment={--¼õËÙ
 																						damage=100,
-																						muzzleVel=1000,
+																						muzzleVel=10000,
 																						range=0,
 																						spread=3.1415926535897932384626433832795,
 																						pattern=CONSTANT,
@@ -6023,6 +6023,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=750,
 		barrelTaper=0.05,
+		aihint_range=560,
+		aihint_muzzleVel=1200,
 		cannon={--ºì0xff0000
 			damage=5,
 			power=300,
