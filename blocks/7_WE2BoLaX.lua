@@ -364,7 +364,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=FINAL,
 				explodeRadius=20,
-			}
+			},
 		},
 		turretSpeed=7,
 	},
@@ -394,7 +394,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=FINAL,
 				explodeRadius=20,
-			}
+			},
 		},
 		turretSpeed=5,
 	},
@@ -424,7 +424,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=FINAL,
 				explodeRadius=40,
-			}
+			},
 		},
 		turretSpeed=3,
 	},
@@ -456,7 +456,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=FINAL,
 				explodeRadius=120,
-			}
+			},
 		},
 		turretSpeed=1,
 	},
@@ -471,6 +471,7 @@ replicateBlock=0,
 		scale=2,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=40,
+		barrelTaper=0.5,
 		cannon={
 			recoil=1e-16,
 			damage=100,
@@ -483,7 +484,6 @@ replicateBlock=0,
 			explodeRadius=50,
 			roundsPerBurst=4,
 			burstyness=0.5,
-			barrelTaper=0.5,
 			fragment={
 				damage=100,
 				muzzleVel=4000,
@@ -493,7 +493,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=PROXIMITY,
 				explodeRadius=50,
-			}
+			},
 		},
 		turretSpeed=10,
 	},
@@ -508,6 +508,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=160,
+		barrelTaper=0.5,
 		cannon={
 			recoil=1e-16,
 			damage=200,
@@ -520,7 +521,6 @@ replicateBlock=0,
 			explodeRadius=100,
 			roundsPerBurst=4,
 			burstyness=0.5,
-			barrelTaper=0.5,
 			fragment={
 				damage=200,
 				muzzleVel=8000,
@@ -530,7 +530,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=PROXIMITY,
 				explodeRadius=100,
-			}
+			},
 		},
 		turretSpeed=5,
 	},
@@ -545,6 +545,7 @@ replicateBlock=0,
 		scale=2,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=40,
+		barrelTaper=4,
 		cannon={
 			recoil=1e-16,
 			damage=100,
@@ -555,7 +556,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=FINAL,
 			explodeRadius=0,
-			barrelTaper=4,
 			roundsPerBurst=4,
 			burstyness=0.333333333333333,
 			fragment={
@@ -577,8 +577,8 @@ replicateBlock=0,
 					color=0xa879a8,
 					explosive=PROXIMITY,
 					explodeRadius=100,
-				}
-			}
+				},
+			},
 		},
 		turretSpeed=10,
 	},
@@ -593,6 +593,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=200,
+		barrelTaper=4,
 		cannon={
 			recoil=1e-16,
 			damage=1000,
@@ -603,7 +604,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=FINAL,
 			explodeRadius=0,
-			barrelTaper=4,
 			roundsPerBurst=4,
 			burstyness=0.333333333333333,
 			fragment={
@@ -625,8 +625,8 @@ replicateBlock=0,
 					color=0xa879a8,
 					explosive=PROXIMITY,
 					explodeRadius=100,
-				}
-			}
+				},
+			},
 		},
 		turretSpeed=10,
 	},
@@ -641,6 +641,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=854,
+		barrelTaper=2,
 		cannon={
 			recoil=1e-16,--反舰队炸弹
 			damage=100,
@@ -651,7 +652,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=PROXIMITY,
 			explodeRadius=100,
-			barrelTaper=2,
 			fragment={--减速停留
 				damage=20,
 				muzzleVel=3000,
@@ -860,29 +860,29 @@ replicateBlock=0,
 																										color=0xa879a8,
 																										explosive=PROXIMITY,
 																										explodeRadius=50,
-																									}
-																								}
-																							}
-																						}
-																					}
-																				}
-																			}
-																		}
-																	}
-																}
-															}
-														}
-													}
-												}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			}
+																									},
+																								},
+																							},
+																						},
+																					},
+																				},
+																			},
+																		},
+																	},
+																},
+															},
+														},
+													},
+												},
+											},
+										},
+									},
+								},
+							},
+						},
+					},
+				},
+			},
 		},
 		turretSpeed=20,
 	},
@@ -1139,32 +1139,43 @@ replicateBlock=0,
 		scale=2,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=72,
+		aihint_range=1000,
+		aihint_muzzleVel=8000,
+		barrelTaper=3,
 		cannon={
 			recoil=1e-16,
-			damage=10,
+			damage=100,
 			power=500,
 			roundsPerSec=5,
-			muzzleVel=8000,
-			range=1000,
+			muzzleVel=999,
+			range=0,
 			color=0xa879a8,
 			spread=0.78539816339744830961566084581988,
 			pattern=SPIRAL,
 			explosive=FINAL,
 			explodeRadius=0,
-			barrelTaper=3,
 			roundsPerBurst=20,
 			burstyness=1,
 			fragment={
-				damage=100,
-				muzzleVel=8000,
-				spread=3.1415926535897932384626433832795,
+				damage=20,
+				muzzleVel=7000,
+				spread=0,
 				pattern=CONSTANT,
-				roundsPerBurst=20,
-				range=80000,
+				range=875,
 				color=0xa879a8,
-				explosive=PROXIMITY,
-				explodeRadius=100,
-			}
+				explosive=ENABLED,
+				explodeRadius=20,
+				fragment={
+					damage=100,
+					muzzleVel=8000,
+					spread=3.1415926535897932384626433832795,
+					pattern=CONSTANT,
+					range=80000,
+					color=0xa879a8,
+					explosive=PROXIMITY,
+					explodeRadius=50,
+				},
+			},
 		},
 		turretSpeed=10,
 	},
@@ -1179,32 +1190,43 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=284,
+		aihint_range=2000,
+		aihint_muzzleVel=8000,
+		barrelTaper=3,
 		cannon={
 			recoil=1e-16,
-			damage=10,
+			damage=100,
 			power=2000,
 			roundsPerSec=20,
-			muzzleVel=8000,
-			range=2000,
+			muzzleVel=999,
+			range=0,
 			color=0xa879a8,
 			spread=1.5707963267948966192313216916398,
 			pattern=SPIRAL,
 			explosive=FINAL,
 			explodeRadius=0,
-			barrelTaper=3,
 			roundsPerBurst=40,
 			burstyness=1,
 			fragment={
-				damage=100,
-				muzzleVel=8000,
-				spread=3.1415926535897932384626433832795,
+				damage=20,
+				muzzleVel=7000,
+				spread=0,
 				pattern=CONSTANT,
-				roundsPerBurst=20,
-				range=80000,
+				range=1750,
 				color=0xa879a8,
-				explosive=PROXIMITY,
-				explodeRadius=100,
-			}
+				explosive=ENABLED,
+				explodeRadius=20,
+				fragment={
+					damage=100,
+					muzzleVel=8000,
+					spread=3.1415926535897932384626433832795,
+					pattern=CONSTANT,
+					range=80000,
+					color=0xa879a8,
+					explosive=PROXIMITY,
+					explodeRadius=50,
+				},
+			},
 		},
 		turretSpeed=10,
 	},
@@ -1221,6 +1243,7 @@ replicateBlock=0,
 		points=788,
 		aihint_range=3000,
 		aihint_muzzleVel=8000,
+		barrelTaper=3,
 		cannon={
 			recoil=1e-16,
 			damage=10,
@@ -1234,7 +1257,6 @@ replicateBlock=0,
 			pattern=SPIRAL,
 			explosive=FINAL,
 			explodeRadius=0,
-			barrelTaper=3,
 			roundsPerBurst=20,
 			burstyness=1,
 			fragment={
@@ -1253,8 +1275,8 @@ replicateBlock=0,
 					roundsPerBurst=1,
 					range=3000,
 					color=0xa879a8,
-				}
-			}
+				},
+			},
 		},
 		laser={
 			damage=0.001,
@@ -1267,7 +1289,6 @@ replicateBlock=0,
 			pulsesPerBurst=1,
 			pulseAvailability=0.5,
 			burstyness=1,
-			barrelTaper=1,
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
@@ -1287,6 +1308,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=888,
+			barrelTaper=3,
 		cannon={
 			recoil=1e-16,
 			damage=100,
@@ -1298,7 +1320,6 @@ replicateBlock=0,
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0xa879a8,
-			barrelTaper=3,
 			projectileSize=20,
 			fragment={--减速
 				damage=100,
@@ -1412,19 +1433,19 @@ replicateBlock=0,
 																color=0xa879a8,
 																explosive=FINAL,
 																explodeRadius=10,
-															}
-														}
-													}
-												}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			}
+															},
+														},
+													},
+												},
+											},
+										},
+									},
+								},
+							},
+						},
+					},
+				},
+			},
 		},
 		turretSpeed=4.712,
 	},
@@ -1440,6 +1461,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=1474,
+		barrelTaper=2,
 		cannon={
 			recoil=1e-16,--初始炮弹 2500
 			damage=100,
@@ -1449,7 +1471,6 @@ replicateBlock=0,
 			range=2500,
 			color=0xa879a8,
 			projectileSize=70,
-			barrelTaper=2,
 			fragment={--减速 2500//edit移除减速
 				damage=50,
 				muzzleVel=500,
@@ -1563,18 +1584,18 @@ replicateBlock=0,
 															explosive=FINAL,
 															explodeRadius=200,
 															projectileSize=20,
-														}
-													}
-												}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			}
+														},
+													},
+												},
+											},
+										},
+									},
+								},
+							},
+						},
+					},
+				},
+			},
 		},
 		turretSpeed=4.712,
 	},
@@ -1590,6 +1611,7 @@ replicateBlock=0,
 		scale=2,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=25,
+		barrelTaper=5,
 		cannon={
 			recoil=1e-16,--地雷核心
 			damage=6,
@@ -1600,7 +1622,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=5,
 			fragment={--减速形成地雷
 				damage=50,
@@ -1611,7 +1632,7 @@ replicateBlock=0,
 				color=0xa879a8,
 				explosive=PROXIMITY,
 				explodeRadius=100,
-			}
+			},
 		},
 		turretSpeed=12.566,
 	},
@@ -1627,6 +1648,7 @@ replicateBlock=0,
 		scale=3,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=100,
+		barrelTaper=5,
 		cannon={
 			recoil=1e-16,--集束雷核心
 			damage=24,
@@ -1637,7 +1659,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=10,
 			fragment={--减速
 				damage=24,
@@ -1670,9 +1691,9 @@ replicateBlock=0,
 						color=0xa879a8,
 						explosive=PROXIMITY,
 						explodeRadius=100,
-					}
-				}
-			}
+					},
+				},
+			},
 		},
 		turretSpeed=6.283,
 	},
@@ -1688,6 +1709,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=255,
+		barrelTaper=5,
 		cannon={
 			recoil=1e-16,--前集束雷核心
 			damage=54,
@@ -1698,7 +1720,6 @@ replicateBlock=0,
 			color=0xa879a8,
 			explosive=FINAL,
 			explodeRadius=10,
-			barrelTaper=5,
 			projectileSize=15,
 			fragment={--减速
 				damage=54,
@@ -1752,11 +1773,11 @@ replicateBlock=0,
 								color=0xa879a8,
 								explosive=PROXIMITY,
 								explodeRadius=100,
-							}
-						}
-					}
-				}
-			}
+							},
+						},
+					},
+				},
+			},
 		},
 		turretSpeed=4.712,
 	},
@@ -1999,6 +2020,7 @@ replicateBlock=0,
 		scale=3,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=250,
+		barrelTaper=2,
 		cannon={
 			recoil=1e-16,--起始
 			damage=100,
@@ -2010,7 +2032,6 @@ replicateBlock=0,
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0xa879a8,
-			barrelTaper=2,
 			projectileSize=5,
 			fragment={--减速
 				damage=20,
@@ -2404,6 +2425,9 @@ replicateBlock=0,
 		scale=3,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=750,
+		barrelTaper=0.05,
+		aihint_range=560,
+		aihint_muzzleVel=1200,
 		cannon={
 			recoil=1e-16,--红0xff0000
 			damage=5,
@@ -2414,7 +2438,6 @@ replicateBlock=0,
 			spread=0.043,
 			pattern=WAVE,
 			color=0xff0000,
-			barrelTaper=0.05,
 			projectileSize=2,
 			fragment={--橙0xffc000
 				damage=5,
@@ -2501,6 +2524,7 @@ replicateBlock=0,
 		scale=4,
 		#include "_T_WE2BoLaX_Device.lua"
 		points=2250,
+		barrelTaper=2,
 		cannon={
 			recoil=1e-16,--起始
 			damage=100,
@@ -2512,7 +2536,6 @@ replicateBlock=0,
 			--roundsPerBurst=2,
 			--burstyness=0.975,
 			color=0xa879a8,
-			barrelTaper=2,
 			projectileSize=50,
 			fragment={--减速
 				damage=20,
@@ -2908,5 +2931,5 @@ replicateBlock=0,
 			},
 		},
 		turretSpeed=4.712,
-	},
+	}
 	
