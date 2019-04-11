@@ -3612,7 +3612,7 @@
 				range=0,
 				spread=0,
 				roundsPerBurst=1,
-				color=0xc0c0c0,
+				color=0x01c0c0c0,
 				explosive=FINAL,
 				explodeRadius=50,
 			}
@@ -3647,7 +3647,7 @@
 				range=0,
 				spread=0,
 				roundsPerBurst=1,
-				color=0xc0c0c0,
+				color=0x01c0c0c0,
 				explosive=FINAL,
 				explodeRadius=25,
 			}
@@ -3682,7 +3682,7 @@
 				range=0,
 				spread=0,
 				roundsPerBurst=1,
-				color=0xc0c0c0,
+				color=0x01c0c0c0,
 				explosive=FINAL,
 				explodeRadius=400,
 			}
