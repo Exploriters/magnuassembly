@@ -1,5 +1,5 @@
 
-{data={name="Explorer Aset", author="Magnus siiftun1857 Frankline", color0=0x984ff,
+{data={name="Explorer Infinity", author="Magnus siiftun1857 Frankline", color0=0x984ff,
     color1=0xea8700, color2=0x3f3f3f, wgroup={0, 0, 2, 0}}, blocks={
     {0x1604b8, {59.974, -0.002}, command={faction=1443}, features=COMMAND|THRUSTER|GENERATOR|ASSEMBLER|CANNON_BOOST|TRACTOR|FACTORY|MELEE|UNIQUE},
     {0x160547, {-10.016, -40.002}},
