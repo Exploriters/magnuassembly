@@ -6567,6 +6567,7 @@
 			torquerTorque=5000000,
 			barrelTaper=0.5,
 			cannon={
+				recoil=-1,
 				damage=1000,
 				power=1,
 				roundsPerSec=3,
