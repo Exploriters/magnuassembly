@@ -44,13 +44,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
 		scale=1,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -62,13 +57,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
 		scale=2,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -80,13 +70,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
 		scale=3,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -98,13 +83,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -116,13 +96,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -134,13 +109,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -152,13 +122,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=1,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -170,13 +135,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=2,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -188,13 +148,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=602,
 		scale=3,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -206,13 +161,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -224,13 +174,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -242,13 +187,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -260,13 +200,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=1,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -278,13 +213,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=2,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -296,13 +226,8 @@
 		blurb=_("_blurb_standardStructue"),
 		shape=1257042,
 		scale=3,
-		fillColor=0x725538,
-		fillColor1=0x504030,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Darkhull.lua"
 		points=0,
-		durability=3,
-		density=0.05,
-		growRate=10,
 	},
 
 	{
@@ -314,14 +239,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=SQUARE,
 		scale=1,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=2,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -333,14 +252,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=SQUARE,
 		scale=2,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=8,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -352,14 +265,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=SQUARE,
 		scale=3,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=18,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -371,14 +278,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=TRI,
 		scale=1,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=1,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -390,14 +291,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=TRI,
 		scale=2,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=4,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -409,14 +304,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=TRI,
 		scale=3,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=8,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -428,14 +317,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=602,
 		scale=1,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=2,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -447,14 +330,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=602,
 		scale=2,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=7,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -466,14 +343,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=602,
 		scale=3,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=16,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -485,14 +356,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=6,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -504,14 +369,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=21,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -523,14 +382,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=47,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -542,14 +395,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=1257042,
 		scale=1,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=1,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -561,14 +408,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=1257042,
 		scale=2,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=4,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -580,14 +421,8 @@
 		blurb=_("_blurb_38TechArmor"),
 		shape=1257042,
 		scale=3,
-		fillColor=0xffbf00,
-		fillColor1=0xdfaf20,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Yellowhull.lua"
 		points=9,
-		durability=5,
-		density=0.2,
-		growRate=3,
-		meleeDamage=1,
 	},
 
 	{
@@ -992,14 +827,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techDSB_Launcher"),
 		shape=1257007,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=250,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		laser={
 			damage=1,
 			power=0,
@@ -1092,14 +921,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=35,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1117,14 +940,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=2,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=70,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1142,14 +959,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=3,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=105,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1167,14 +978,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=4,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=140,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1192,14 +997,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=5,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=175,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1217,14 +1016,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=6,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=210,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1242,14 +1035,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=7,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=245,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1267,14 +1054,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=8,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=280,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1292,14 +1073,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=9,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=315,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1317,14 +1092,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGTLauncher"),
 		shape=1257047,
 		scale=10,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=350,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 #include "_T_LGC_GTM.lua"
 		},
@@ -1341,14 +1110,8 @@ replicateBlock=0,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Phaser"),
 		blurb=_("_blurb_lapismPhaser"),
 		shape=1257010,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=20,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=100,
 			power=50,
@@ -1379,14 +1142,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techMSPDS"),
 		shape=TRI,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=9,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=20,
 			power=25,
@@ -1428,14 +1185,8 @@ replicateBlock=0,
 		blurb=_("_blurb_SharedABlaster"),
 		shape=SQUARE,
 		scale=2,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=78,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=100,
 			power=25,
@@ -1469,14 +1220,8 @@ replicateBlock=0,
 		blurb=_("_blurb_SharedABlaster"),
 		shape=SQUARE,
 		scale=5,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=656,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=500,
 			power=200,
@@ -1511,14 +1256,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techMRR"),
 		shape=CANNON2,
 		scale=3,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=808,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=1000,
 			power=1000,
@@ -2300,14 +2039,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techAMM"),
 		shape=1257050,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=306,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 			features=AUTOFIRE|COMMAND|EXPLODE|NOREGEN|THRUSTER|TORQUER|FREERES,
@@ -2347,14 +2080,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techBubbleLauncher"),
 		shape=1257007,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=450,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 			features=COMMAND|CANNON|ONEUSE|NOCLIP|GENERATOR|SHIELD|NOREGEN|THRUSTER|TORQUER|FREERES|TURRET,
@@ -2419,14 +2146,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techHeliumFlashLauncher"),
 		shape=1257053,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=250,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 			features=EXPLODE|NOREGEN|FREERES|NOCLIP,
@@ -2460,14 +2181,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techDSB_Railgun"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=2500,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		cannon={
 			damage=300,
 			power=3000,
@@ -2568,14 +2283,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techGBLauncher"),
 		shape=1257053,
 		scale=3,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=350,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 			features=COMMAND|EXPLODE|NOREGEN|THRUSTER|TORQUER|FREERES|GENERATOR|CANNON|ALWAYSFIRE,
@@ -2639,14 +2348,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techAMB_Launcher"),
 		shape=1257007,
 		scale=3,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=6872,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		laser={
 			damage=1,
 			power=0,
@@ -3471,14 +3174,8 @@ replicateBlock=0,
 		blurb=_("_blurb_FragmentDroneLauncher"),
 		shape=1257007,
 		scale=1,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=99,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 			features=ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LASER|MELEE|NOREGEN|THRUSTER|TORQUER|NOCLIP_ALLY,
@@ -3528,14 +3225,8 @@ replicateBlock=0,
 		blurb=_("_blurb_38techAFBLauncher"),
 		shape=1257053,
 		scale=2,
-		fillColor=0xc0c0c0,
-		fillColor1=0x3f3f3f,
-		lineColor=0xbfbfbf,
+		#include "_T_LGC_Device.lua"
 		points=808,
-		durability=4,
-		density=0.125,
-		growRate=1,
-		capacity=0,
 		replicateBlock={
 			group=1238,
 		--	features=COMMAND|CANNON|ONEUSE|NOCLIP|GENERATOR|SHIELD|NOREGEN|THRUSTER|TORQUER|FREERES|TURRET,

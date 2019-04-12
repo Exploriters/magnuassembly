@@ -79,9 +79,14 @@ fillColor=0x252b46,\r\n\t\tfillColor=0,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints
 fillColor=0x39347a,\r\n\t\tfillColor=0,\r\n\t\tlineColor=0x821d28,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=15,\r\n\t\tdensity=0.5,\r\n\t\tgrowRate=2,\r\n\t\tarmor=0,\r\n\t\tcapacity=0,
 #include "_T_B10_Thruster.lua"\r\n\t\tpoints=\1,
 
+fillColor=0xc0c0c0,\r\n\t\tfillColor1=0x3f3f3f,\r\n\t\tlineColor=0xbfbfbf,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=4,\r\n\t\tdensity=0.125,\r\n\t\tgrowRate=1,\r\n\t\tcapacity=0,
+#include "_T_LGC_Device.lua"\r\n\t\tpoints=\1,
 
+fillColor=0x725538,\r\n\t\tfillColor1=0x504030,\r\n\t\tlineColor=0xbfbfbf,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=3,\r\n\t\tdensity=0.05,\r\n\t\tgrowRate=10,
+#include "_T_LGC_Darkhull.lua"\r\n\t\tpoints=\1,
 
-
+fillColor=0xffbf00,\r\n\t\tfillColor1=0xdfaf20,\r\n\t\tlineColor=0xbfbfbf,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\tdurability=5,\r\n\t\tdensity=0.2,\r\n\t\tgrowRate=3,\r\n\t\tmeleeDamage=1,
+#include "_T_LGC_Yellowhull.lua"\r\n\t\tpoints=\1,
 
 
 
