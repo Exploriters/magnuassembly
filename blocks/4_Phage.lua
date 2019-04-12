@@ -243,6 +243,7 @@
 		generatorCapacityPerSec=3100,
 		--generatorCapacityPerSec=1000,
 		powerCapacity=10000,
+		sound="SOFF",
 		cannonBoost={
 		},
 		laser={
