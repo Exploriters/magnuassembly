@@ -1,5 +1,5 @@
 
-		fillColor=0x202020,
+		fillColor=0x505050,
 		fillColor1=0x3f3f3f,
 		lineColor=0xbfbfbf,
 		points=306,
