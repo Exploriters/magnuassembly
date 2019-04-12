@@ -1408,7 +1408,7 @@
 			muzzleVel=1100,
 			range=1100,
 			color=0x30ff00,
-			explosive=PROXIMITY,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=100,
 			spread=0.086,
 		},
@@ -1434,7 +1434,7 @@
 			muzzleVel=2200,
 			range=2200,
 			color=0x30ff00,
-			explosive=PROXIMITY,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=200,
 			spread=0.086,
 		},
@@ -1460,7 +1460,7 @@
 			muzzleVel=3300,
 			range=3300,
 			color=0x30ff00,
-			explosive=PROXIMITY,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=400,
 			spread=0.086,
 		},
@@ -3057,7 +3057,7 @@
 				pattern=CONSTANT,
 				range=10000,
 				color=0x7fc0ff,
-				explosive=PROXIMITY,
+				explosive=PROXIMITY|FINAL,
 				explodeRadius=100,
 			}
 		},
@@ -3116,7 +3116,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=PROXIMITY,
+						explosive=PROXIMITY|FINAL,
 						explodeRadius=100,
 					}
 				}
@@ -3198,7 +3198,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=PROXIMITY,
+								explosive=PROXIMITY|FINAL,
 								explodeRadius=100,
 							}
 						}
