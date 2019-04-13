@@ -6,5 +6,6 @@
 		density=0.4,
 		growRate=3.3,
 		armor=0,
-		meleeDamage=6,
+		meleeDamage=2,
+		elasticity=0,
 		
