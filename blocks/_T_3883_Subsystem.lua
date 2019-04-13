@@ -6,7 +6,7 @@
 		durability=12,
 		density=0.04,
 		growRate=1,
-		armor=20,
+		armor=0,
 		meleeDamage=0,
 		teleporterPower=100,
 		teleporterRadius=30000,

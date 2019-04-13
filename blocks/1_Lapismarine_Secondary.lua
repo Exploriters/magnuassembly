@@ -276,7 +276,7 @@
 		durability=20,
 		density=0.05,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -297,7 +297,7 @@
 		durability=20,
 		density=0.05,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -318,7 +318,7 @@
 		durability=20,
 		density=0.05,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -339,7 +339,7 @@
 		durability=10,
 		density=0.2,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=2,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -360,7 +360,7 @@
 		durability=10,
 		density=0.2,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=3,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -381,7 +381,7 @@
 		durability=10,
 		density=0.2,
 		growRate=2,
-		armor=20,
+		armor=0,
 		meleeDamage=5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -527,7 +527,7 @@
 		durability=2,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -546,7 +546,7 @@
 		durability=2,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -565,7 +565,7 @@
 		durability=2,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -583,7 +583,7 @@
 		-- durability=2,
 		-- density=0.02,
 		-- growRate=100,
-		-- armor=20,
+		-- armor=0,
 	-- },
 
 	{
@@ -601,7 +601,7 @@
 		durability=100,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -620,7 +620,7 @@
 		durability=2,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -639,7 +639,7 @@
 		durability=2,
 		density=0.02,
 		growRate=100,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -659,7 +659,7 @@
 		durability=20,
 		density=100,
 		growRate=2,
-		armor=20,
+		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 

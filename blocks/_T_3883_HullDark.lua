@@ -5,6 +5,6 @@
 		durability=10,
 		density=0.1,
 		growRate=20,
-		armor=20,
+		armor=0,
 		meleeDamage=0,
 		
