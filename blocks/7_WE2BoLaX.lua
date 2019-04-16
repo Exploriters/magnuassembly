@@ -444,8 +444,7 @@ replicateBlock=0,
 			immobilizeForce=100000,
 			linearForce=-100000,
 		},
-		turretSpeed=inf,
-		barrelSize={-1e-160,1e-16},
+		turretSpeed=7,
 	},
 
 	{
@@ -470,8 +469,6 @@ replicateBlock=0,
 		turretSpeed=3,
 		chargeMaxTime=3,
 		chargeMin=0.1,
-		turretSpeed=inf,
-		barrelSize={-1e-160,1e-16},
 	},
 
 	{
@@ -496,8 +493,6 @@ replicateBlock=0,
 		turretSpeed=2.513,
 		chargeMaxTime=10,
 		chargeMin=0.3,
-		turretSpeed=inf,
-		barrelSize={-1e-160,1e-16},
 	},
 	
 	{
