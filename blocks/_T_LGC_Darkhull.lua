@@ -5,4 +5,5 @@
 		durability=3,
 		density=0.05,
 		growRate=10,
+		capacity=0,
 		

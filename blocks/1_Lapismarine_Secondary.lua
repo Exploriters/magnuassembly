@@ -92,13 +92,8 @@
 		blurb=_("_blurb_blockFactory"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x7fc0ff,
-		fillColor1=0x5862a0,
-		lineColor=0x0000ff,
+		#include "_T_Lapism_factory.lua"
 		points=101,
-		durability=6,
-		density=0.3,
-		growRate=2.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -111,13 +106,8 @@
 		blurb=_("_blurb_blockFactory"),
 		shape=TRI,
 		scale=4,
-		fillColor=0x7fc0ff,
-		fillColor1=0x5862a0,
-		lineColor=0x0000ff,
+		#include "_T_Lapism_factory.lua"
 		points=100,
-		durability=6,
-		density=0.3,
-		growRate=2.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -130,13 +120,8 @@
 		blurb=_("_blurb_blockFactory"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x7fc0ff,
-		fillColor1=0x5862a0,
-		lineColor=0x0000ff,
+		#include "_T_Lapism_factory.lua"
 		points=99,
-		durability=6,
-		density=0.3,
-		growRate=2.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -149,13 +134,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=250,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -169,13 +149,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=1000,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -189,13 +164,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=2250,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -209,13 +179,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=1500,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -229,13 +194,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=6000,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -249,13 +209,8 @@
 		blurb=_("_blurb_standardResContainer"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x7fc0ff,
-		fillColor1=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapism_container.lua"
 		points=-1,
-		durability=2.3,
-		density=0.05,
-		growRate=100,
 		capacity=9000,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -269,15 +224,8 @@
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x40ffff00,
-		fillColor1=0x40ffc000,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_goldentri.lua"
 		points=1,
-		durability=20,
-		density=0.05,
-		growRate=2,
-		armor=0,
-		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -290,15 +238,8 @@
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x40ffff00,
-		fillColor1=0x40ffc000,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_goldentri.lua"
 		points=4,
-		durability=20,
-		density=0.05,
-		growRate=2,
-		armor=0,
-		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -311,15 +252,8 @@
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x40ffff00,
-		fillColor1=0x40ffc000,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_goldentri.lua"
 		points=9,
-		durability=20,
-		density=0.05,
-		growRate=2,
-		armor=0,
-		meleeDamage=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -332,14 +266,8 @@
 		blurb=_("_blurb_lapismMeleeArmor2"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x0000ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_meleespike.lua"
 		points=1,
-		durability=10,
-		density=0.2,
-		growRate=2,
-		armor=0,
 		meleeDamage=2,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -353,14 +281,8 @@
 		blurb=_("_blurb_lapismMeleeArmor3"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x0000ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_meleespike.lua"
 		points=4,
-		durability=10,
-		density=0.2,
-		growRate=2,
-		armor=0,
 		meleeDamage=3,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -374,14 +296,8 @@
 		blurb=_("_blurb_lapismMeleeArmor5"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x0000ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_meleespike.lua"
 		points=9,
-		durability=10,
-		density=0.2,
-		growRate=2,
-		armor=0,
 		meleeDamage=5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -395,15 +311,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=TRI,
 		scale=1,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -416,15 +325,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=TRI,
 		scale=2,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -437,15 +339,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=TRI,
 		scale=3,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -458,15 +353,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -479,15 +367,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -500,15 +381,8 @@
 		blurb=_("_blurb_lapismHiddenBlock"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0xc0c0ff,
-		fillColor1=0x7fc0ff,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_clocked.lua"
 		points=-1,
-		durability=15,
-		density=0.012,
-		growRate=1000,
-		explodeDamage=0,
-		explodeRadius=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -521,13 +395,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=TRI,
 		scale=1,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=2,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -540,13 +409,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=TRI,
 		scale=2,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=2,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -559,13 +423,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=TRI,
 		scale=3,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=2,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -595,13 +454,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=HEXAGON,
 		scale=1,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=100,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -614,13 +468,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=2,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -633,13 +482,8 @@
 		blurb=_("_blurb_LightDirt"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x5862a0,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_ldirt.lua"
 		points=-1,
-		durability=2,
-		density=0.02,
-		growRate=100,
-		armor=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -660,6 +504,7 @@
 		density=100,
 		growRate=2,
 		armor=0,
+		capacity=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -667,7 +512,7 @@
 		ident=1257038,
 		sort=1257038000,
 		group=1257,
-		features=PALETTE|INTLINES,
+		features=INTLINES,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_Blank_Device"),
 		blurb=_("_blurb_BlankDevice"),
 		shape=TRI,
@@ -1194,6 +1039,7 @@
 			roundsPerSec=12,
 			muzzleVel=2000,
 			range=1600,
+			rangeStdDev=200,
 			spread=0.043,
 			roundsPerBurst=3,
 			burstyness=1,
@@ -1220,6 +1066,7 @@
 			roundsPerSec=48,
 			muzzleVel=2000,
 			range=2500,
+			rangeStdDev=312.5,
 			spread=0.043,
 			roundsPerBurst=16,
 			burstyness=1,
@@ -1246,6 +1093,7 @@
 			roundsPerSec=108,
 			muzzleVel=2000,
 			range=3000,
+			rangeStdDev=375,
 			spread=0.043,
 			roundsPerBurst=27,
 			burstyness=1,
@@ -1264,12 +1112,8 @@
 		blurb=_("_blurb_lapismPhaser"),
 		shape=HEXAGON,
 		scale=1,
+		#include "_T_Lapisdevice.lua"
 		points=10,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		durability=3,
-		density=0.2,
-		growRate=5,
 		cannon={
 			damage=100,
 			power=50,
@@ -1411,6 +1255,16 @@
 			explosive=PROXIMITY|FINAL,
 			explodeRadius=100,
 			spread=0.086,
+			fragment={
+				damage=11,
+				roundsPerBurst=1,
+				muzzleVel=1100,
+				range=0,
+				color=0x0130ff00,
+				explosive=FINAL,
+				explodeRadius=200,
+				spread=3.1415926535897932384626433832795,
+			}
 		},
 		turretSpeed=9.424,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -1437,6 +1291,16 @@
 			explosive=PROXIMITY|FINAL,
 			explodeRadius=200,
 			spread=0.086,
+			fragment={
+				damage=22,
+				roundsPerBurst=1,
+				muzzleVel=2200,
+				range=0,
+				color=0x0130ff00,
+				explosive=FINAL,
+				explodeRadius=400,
+				spread=3.1415926535897932384626433832795,
+			}
 		},
 		turretSpeed=6.283,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -1463,6 +1327,16 @@
 			explosive=PROXIMITY|FINAL,
 			explodeRadius=400,
 			spread=0.086,
+			fragment={
+				damage=33,
+				roundsPerBurst=1,
+				muzzleVel=3300,
+				range=0,
+				color=0x0130ff00,
+				explosive=FINAL,
+				explodeRadius=800,
+				spread=3.1415926535897932384626433832795,
+			}
 		},
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -1521,13 +1395,9 @@
 		blurb=_("_blurb_standardLaser"),
 		shape=HEXAGON,
 		scale=2,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice.lua"
 		points=72,
-		points=24,
-		durability=3,
-		density=0.2,
-		growRate=5,
+	--	points=24,
 		laser={
 			damage=1200,
 			power=144,
@@ -1548,13 +1418,9 @@
 		blurb=_("_blurb_standardLaser"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice.lua"
 		points=162,
-		points=54,
-		durability=3,
-		density=0.2,
-		growRate=5,
+	--	points=54,
 		laser={
 			damage=2700,
 			power=324,
@@ -2228,11 +2094,22 @@
 			roundsPerSec=40,
 			muzzleVel=2000,
 			range=1000,
+			rangeStdDev=100,
 			spread=0.523,
 			roundsPerBurst=20,
 			burstyness=1,
 			color=0xffc000,
 			pattern=RANDOM,
+			fragment={
+				damage=20,
+				muzzleVel=2000,
+				spread=3.1415926535897932384626433832795,
+				pattern=CONSTANT,
+				range=0,
+				color=0x017fc0ff,
+				explosive=FINAL,
+				explodeRadius=50,
+			},
 		},
 		turretSpeed=6.283,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2255,11 +2132,22 @@
 			roundsPerSec=90,
 			muzzleVel=2000,
 			range=2000,
+			rangeStdDev=200,
 			spread=0.523,
 			roundsPerBurst=30,
 			burstyness=1,
 			color=0xffc000,
 			pattern=RANDOM,
+			fragment={
+				damage=20,
+				muzzleVel=2000,
+				spread=3.1415926535897932384626433832795,
+				pattern=CONSTANT,
+				range=0,
+				color=0x017fc0ff,
+				explosive=FINAL,
+				explodeRadius=50,
+			},
 		},
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2345,7 +2233,7 @@
 			explodeRadius=15,
 		},
 		barrelTaper=1,
-		turretSpeed=12.566,
+		turretSpeed=3,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2375,7 +2263,7 @@
 			explodeRadius=15,
 		},
 		barrelTaper=1,
-		turretSpeed=6.283,
+		turretSpeed=2,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2405,7 +2293,7 @@
 			explodeRadius=15,
 		},
 		barrelTaper=1,
-		turretSpeed=4.712,
+		turretSpeed=1,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2433,7 +2321,7 @@
 			burstyness=0.33,
 		},
 		barrelTaper=1,
-		turretSpeed=4.712,
+		turretSpeed=0.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2458,7 +2346,7 @@
 			immobilizeForce=1000000,
 			decay=3,
 		},
-		turretSpeed=4.712,
+		turretSpeed=1,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2482,7 +2370,7 @@
 			linearForce=3000000,
 			decay=3,
 		},
-		turretSpeed=4.712,
+		turretSpeed=1,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2656,6 +2544,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2681,6 +2570,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2706,6 +2596,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2727,8 +2618,11 @@
 			width=1,
 			color=0xff00ff00,
 			decay=0,
+			explosive=ENABLED,
+			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2750,8 +2644,11 @@
 			width=4,
 			color=0xff00ff00,
 			decay=0,
+			explosive=ENABLED,
+			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2773,8 +2670,11 @@
 			width=9,
 			color=0xff00ff00,
 			decay=0,
+			explosive=ENABLED,
+			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2800,6 +2700,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2890,15 +2791,15 @@
 		#include "_T_Lapisdevice.lua"
 		points=1474,
 		barrelTaper=2,
-		cannon={--≥ı º≈⁄µØ 2500
-			damage=100,
-			power=34950,
+		cannon={--ÂàùÂßãÁÇÆÂºπ 2500
+			damage=1000,
+			power=35850,
 			roundsPerSec=0.1,
 			muzzleVel=1000,
 			range=2500,
 			color=0x7fc0ff,
 			projectileSize=70,
-			fragment={--ºıÀŸ 2500//edit“∆≥˝ºıÀŸ
+			fragment={--ÂáèÈÄü 2500//editÁßªÈô§ÂáèÈÄü
 				damage=50,
 				muzzleVel=500,
 				spread=3.1415926535897932384626433832795,
@@ -2908,7 +2809,7 @@
 				explosive=FINAL,
 				explodeRadius=200,
 				projectileSize=70,
-				fragment={--ƒÊ◊™∑ΩœÚ 2500--œ¬∑Ω◊¢ Õ≤ª±£÷§◊º»∑–‘
+				fragment={--ÈÄÜËΩ¨ÊñπÂêë 2500--‰∏ãÊñπÊ≥®Èáä‰∏ç‰øùËØÅÂáÜÁ°ÆÊÄß
 					damage=50,
 					muzzleVel=500,
 					spread=3.1415926535897932384626433832795,
@@ -2918,7 +2819,7 @@
 					explosive=FINAL,
 					explodeRadius=200,
 					projectileSize=70,
-					fragment={--ŒÂ∏ˆ∑ΩœÚµƒ≈⁄µØ 2000
+					fragment={--‰∫î‰∏™ÊñπÂêëÁöÑÁÇÆÂºπ 2000
 						damage=100,
 						muzzleVel=1000,
 						roundsPerBurst=5,
@@ -2927,7 +2828,7 @@
 						range=500,
 						color=0x7fc0ff,
 						projectileSize=60,
-						fragment={--±¨’® 2000
+						fragment={--ÁàÜÁÇ∏ 2000
 							damage=50,
 							muzzleVel=1000,
 							spread=3.1415926535897932384626433832795,
@@ -2937,7 +2838,7 @@
 							explosive=FINAL,
 							explodeRadius=200,
 							projectileSize=60,
-							fragment={-- £”‡100 1500
+							fragment={--Ââ©‰Ωô100 1500
 								damage=100,
 								muzzleVel=1000,
 								spread=3.1415926535897932384626433832795,
@@ -2945,7 +2846,7 @@
 								range=500,
 								color=0x7fc0ff,
 								projectileSize=50,
-								fragment={--ºıÀŸ 1500
+								fragment={--ÂáèÈÄü 1500
 									damage=50,
 									muzzleVel=1000,
 									spread=3.1415926535897932384626433832795,
@@ -2955,7 +2856,7 @@
 									explosive=FINAL,
 									explodeRadius=200,
 									projectileSize=50,
-									fragment={--ƒÊ◊™∑ΩœÚ 1500
+									fragment={--ÈÄÜËΩ¨ÊñπÂêë 1500
 										damage=50,
 										muzzleVel=1000,
 										spread=3.1415926535897932384626433832795,
@@ -2965,7 +2866,7 @@
 										explosive=FINAL,
 										explodeRadius=200,
 										projectileSize=50,
-										fragment={--¡˘∏ˆ∑ΩœÚµƒ≈⁄µØ 1000
+										fragment={--ÂÖ≠‰∏™ÊñπÂêëÁöÑÁÇÆÂºπ 1000
 											damage=100,
 											muzzleVel=500,
 											roundsPerBurst=6,
@@ -2974,7 +2875,7 @@
 											range=500,
 											color=0x7fc0ff,
 											projectileSize=40,
-											fragment={--ºıÀŸ 1000
+											fragment={--ÂáèÈÄü 1000
 												damage=50,
 												muzzleVel=500,
 												spread=3.1415926535897932384626433832795,
@@ -2984,7 +2885,7 @@
 												explosive=FINAL,
 												explodeRadius=200,
 												projectileSize=40,
-												fragment={--ƒÊ◊™∑ΩœÚ 1000
+												fragment={--ÈÄÜËΩ¨ÊñπÂêë 1000
 													damage=50,
 													muzzleVel=500,
 													spread=3.1415926535897932384626433832795,
@@ -2994,7 +2895,7 @@
 													explosive=FINAL,
 													explodeRadius=200,
 													projectileSize=40,
-													fragment={--¡˘∏ˆ∑ΩœÚµƒ≈⁄µØ 500
+													fragment={--ÂÖ≠‰∏™ÊñπÂêëÁöÑÁÇÆÂºπ 500
 														damage=100,
 														muzzleVel=500,
 														roundsPerBurst=6,
@@ -3003,7 +2904,7 @@
 														range=500,
 														color=0x7fc0ff,
 														projectileSize=30,
-														fragment={--±¨’® 500
+														fragment={--ÁàÜÁÇ∏ 500
 															damage=50,
 															muzzleVel=1000,
 															range=0,
@@ -3040,17 +2941,17 @@
 		#include "_T_Lapisdevice.lua"
 		points=25,
 		barrelTaper=5,
-		cannon={--µÿ¿◊∫À–ƒ
+		cannon={--Âú∞Èõ∑Ê†∏ÂøÉ
 			damage=6,
 			power=56,
-			roundsPerSec=2.125,
+			roundsPerSec=2,
 			muzzleVel=200,
 			range=500,
 			color=0x7fc0ff,
-			explosive=FINAL,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=5,
-			fragment={--ºıÀŸ–Œ≥…µÿ¿◊
+			fragment={--ÂáèÈÄüÂΩ¢ÊàêÂú∞Èõ∑
 				damage=50,
 				muzzleVel=200,
 				spread=3.1415926535897932384626433832795,
@@ -3077,17 +2978,17 @@
 		#include "_T_Lapisdevice.lua"
 		points=100,
 		barrelTaper=5,
-		cannon={--ºØ ¯¿◊∫À–ƒ
+		cannon={--ÈõÜÊùüÈõ∑Ê†∏ÂøÉ
 			damage=24,
 			power=384,
-			roundsPerSec=2.5,
+			roundsPerSec=1.3333333333333333333333333333333,
 			muzzleVel=500,
 			range=1000,
 			color=0x7fc0ff,
-			explosive=FINAL,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=10,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=24,
 				power=400,
 				muzzleVel=500,
@@ -3095,10 +2996,10 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=PROXIMITY|FINAL,
 				explodeRadius=10,
 				projectileSize=10,
-				fragment={--µÿ¿◊∫À–ƒ
+				fragment={--Âú∞Èõ∑Ê†∏ÂøÉ
 					damage=6,
 					roundsPerBurst=6,
 					spread=2.617,
@@ -3106,10 +3007,10 @@
 					muzzleVel=200,
 					range=500,
 					color=0x7fc0ff,
-					explosive=FINAL,
+					explosive=PROXIMITY|FINAL,
 					explodeRadius=10,
 					projectileSize=5,
-					fragment={--ºıÀŸ–Œ≥…µÿ¿◊
+					fragment={--ÂáèÈÄüÂΩ¢ÊàêÂú∞Èõ∑
 						damage=50,
 						muzzleVel=200,
 						range=10000,
@@ -3138,27 +3039,27 @@
 		#include "_T_Lapisdevice.lua"
 		points=225,
 		barrelTaper=5,
-		cannon={--«∞ºØ ¯¿◊∫À–ƒ
+		cannon={--ÂâçÈõÜÊùüÈõ∑Ê†∏ÂøÉ
 			damage=54,
 			power=2142,
 			roundsPerSec=0.5,
 			muzzleVel=1000,
 			range=2000,
 			color=0x7fc0ff,
-			explosive=FINAL,
+			explosive=PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=15,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=54,
 				muzzleVel=1000,
 				range=0,
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=PROXIMITY|FINAL,
 				explodeRadius=10,
 				projectileSize=15,
-				fragment={--ºØ ¯¿◊∫À–ƒ
+				fragment={--ÈõÜÊùüÈõ∑Ê†∏ÂøÉ
 					damage=24,
 					roundsPerBurst=6,
 					spread=2.617,
@@ -3166,10 +3067,10 @@
 					muzzleVel=500,
 					range=1000,
 					color=0x7fc0ff,
-					explosive=FINAL,
+					explosive=PROXIMITY|FINAL,
 					explodeRadius=10,
 					projectileSize=10,
-					fragment={--ºıÀŸ
+					fragment={--ÂáèÈÄü
 						damage=24,
 						power=400,
 						muzzleVel=500,
@@ -3177,10 +3078,10 @@
 						pattern=CONSTANT,
 						range=0,
 						color=0x7fc0ff,
-						explosive=FINAL,
+						explosive=PROXIMITY|FINAL,
 						explodeRadius=0,
 						projectileSize=10,
-						fragment={--µÿ¿◊∫À–ƒ
+						fragment={--Âú∞Èõ∑Ê†∏ÂøÉ
 							damage=6,
 							roundsPerBurst=6,
 							spread=2.617,
@@ -3188,10 +3089,10 @@
 							muzzleVel=200,
 							range=500,
 							color=0x7fc0ff,
-							explosive=FINAL,
+							explosive=PROXIMITY|FINAL,
 							explodeRadius=10,
 							projectileSize=5,
-							fragment={--ºıÀŸ–Œ≥…µÿ¿◊
+							fragment={--ÂáèÈÄüÂΩ¢ÊàêÂú∞Èõ∑
 								damage=50,
 								muzzleVel=200,
 								range=10000,
@@ -3225,15 +3126,7 @@
 		cannonBoost={
 			damage={1.05, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3253,15 +3146,7 @@
 		cannonBoost={
 			damage={1.1, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3281,15 +3166,7 @@
 		cannonBoost={
 			damage={1.15, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3308,15 +3185,7 @@
 		cannonBoost={
 			range={1.05, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3336,15 +3205,7 @@
 		cannonBoost={
 			range={1.1, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3364,15 +3225,7 @@
 		cannonBoost={
 			range={1.15, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3391,15 +3244,7 @@
 		cannonBoost={
 			muzzleVel={1.05, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3419,15 +3264,7 @@
 		cannonBoost={
 			muzzleVel={1.1, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3447,15 +3284,7 @@
 		cannonBoost={
 			muzzleVel={1.15, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3474,15 +3303,7 @@
 		cannonBoost={
 			roundsPerSec={1.05, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3502,15 +3323,7 @@
 		cannonBoost={
 			roundsPerSec={1.1, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3530,15 +3343,7 @@
 		cannonBoost={
 			roundsPerSec={1.15, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3557,15 +3362,7 @@
 		cannonBoost={
 			explodeRadius={1.0246950766, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3585,15 +3382,7 @@
 		cannonBoost={
 			explodeRadius={1.04880884817, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3613,15 +3402,7 @@
 		cannonBoost={
 			explodeRadius={1.07238052948, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3640,15 +3421,7 @@
 		cannonBoost={
 			power={0.99, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3668,15 +3441,7 @@
 		cannonBoost={
 			power={0.95, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3696,15 +3461,7 @@
 		cannonBoost={
 			power={0.9, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3724,15 +3481,7 @@
 		cannonBoost={
 			power={0.87, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3752,15 +3501,7 @@
 		cannonBoost={
 			power={0.8, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3781,15 +3522,7 @@
 			power={0.5625, 0},
 			range={0.75, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3810,15 +3543,7 @@
 			muzzleVel={1.25, 0},
 			range={1.25, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3839,15 +3564,7 @@
 			power={1.5, 0},
 			range={0.5, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3867,15 +3584,7 @@
 			damage={0.7143, 0},
 			explodeRadius={1.18321595662, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3895,15 +3604,7 @@
 			power={2, 0},
 			roundsPerSec={1.5, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3924,15 +3625,7 @@
 			power={2.0, 0},
 			roundsPerSec={0.5, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3954,15 +3647,7 @@
 			power={0.1, 0},
 			range={0.5, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4246,7 +3931,7 @@
 		-- group=1257,
 		-- features=PALETTE|LAUNCHER,
 		-- name="Tractor Drone Launcher",
-		-- blurb="◊ ‘¥≤…ºØŒﬁ»Àª˙∑¢…‰∆˜°£",
+		-- blurb="ËµÑÊ∫êÈááÈõÜÊó†‰∫∫Êú∫ÂèëÂ∞ÑÂô®„ÄÇ",
 		-- shape=1257008,
 		-- scale=1,
 		-- fillColor=0x0000ff,
@@ -4628,7 +4313,7 @@
 		replicateBlock=1257002,
 		replicateTime=3,
 		launcherPower=100,
-		launcherOutSpeed=100,
+		launcherOutSpeed=1000,
 		launcherAngVel=0,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -4762,13 +4447,13 @@
 		points=1130,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE,
+			features=NORECOLOR|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
 			name=_("_text_ARC-4675Orb"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=3,
-			fillColor=0xffff00,
-			fillColor1=0xffc000,
+			fillColor=0x40ffff00,
+			fillColor1=0x40ffc000,
 			lineColor=0x5862a0,
 			command={
 				flags=ATTACK|BAD_AIM|NO_PARENT|RECKLESS|SPREAD_FIRE,
@@ -4776,7 +4461,8 @@
 			points=18000,
 			durability=4.276,
 			density=0.01,
-			growRate=0,
+			growRate=1,
+			meleeDamage=0,
 			lifetime=10,
 			generatorCapacityPerSec=20,
 			powerCapacity=200,
@@ -4791,6 +4477,9 @@
 				width=7.5,
 				range=4000,
 				color=0xff7fc0ff,
+				explosive=ENABLED,
+				explodeRadius=225,
+				decay=100000000,
 			},
 			turretSpeed=31415926.536,
 			explodeDamage=40000,
@@ -4816,13 +4505,13 @@
 		points=502,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE,
+			features=NORECOLOR|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
 			name=_("_text_ARC-4675Orb"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=2,
-			fillColor=0xffff00,
-			fillColor1=0xffc000,
+			fillColor=0x40ffff00,
+			fillColor1=0x40ffc000,
 			lineColor=0x5862a0,
 			command={
 				flags=ATTACK|BAD_AIM|NO_PARENT|RECKLESS|SPREAD_FIRE,
@@ -4830,7 +4519,8 @@
 			points=8000,
 			durability=4.276,
 			density=0.01,
-			growRate=0,
+			growRate=1,
+			meleeDamage=0,
 			lifetime=10,
 			generatorCapacityPerSec=20,
 			powerCapacity=200,
@@ -4845,6 +4535,8 @@
 				width=7.5,
 				range=1778,
 				color=0xff7fc0ff,
+				explodeRadius=100,
+				decay=100000000,
 			},
 			turretSpeed=31415926.536,
 			explodeDamage=40000,
@@ -4875,8 +4567,8 @@
 			name=_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
-			fillColor=0xffff00,
-			fillColor1=0xffc000,
+			fillColor=0x40ffff00,
+			fillColor1=0x40ffc000,
 			lineColor=0x5862a0,
 			points=6400,
 			durability=4.276,
@@ -4894,8 +4586,8 @@
 				name=_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
-				fillColor=0xffff00,
-				fillColor1=0xffc000,
+				fillColor=0x40ffff00,
+				fillColor1=0x40ffc000,
 				lineColor=0x5862a0,
 				points=6400,
 				durability=4.276,
@@ -4913,8 +4605,8 @@
 					name=_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
-					fillColor=0xffff00,
-					fillColor1=0xffc000,
+					fillColor=0x40ffff00,
+					fillColor1=0x40ffc000,
 					lineColor=0x5862a0,
 					points=6400,
 					durability=4.276,
@@ -4932,8 +4624,8 @@
 						name=_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
-						fillColor=0xffff00,
-						fillColor1=0xffc000,
+						fillColor=0x40ffff00,
+						fillColor1=0x40ffc000,
 						lineColor=0x5862a0,
 						points=6400,
 						durability=4.276,
@@ -4951,8 +4643,8 @@
 							name=_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
-							fillColor=0xffff00,
-							fillColor1=0xffc000,
+							fillColor=0x40ffff00,
+							fillColor1=0x40ffc000,
 							lineColor=0x5862a0,
 							points=6400,
 							durability=4.276,
@@ -4970,8 +4662,8 @@
 								name=_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
-								fillColor=0xffff00,
-								fillColor1=0xffc000,
+								fillColor=0x40ffff00,
+								fillColor1=0x40ffc000,
 								lineColor=0x5862a0,
 								points=6400,
 								durability=4.276,
@@ -5054,6 +4746,7 @@
 			thrusterColor1=0x007fc0ff,
 			torquerTorque=1000000,
 			cannon={
+				recoil=2,
 				damage=0,
 				power=1,
 				roundsPerSec=0.333333333333333,
@@ -5111,7 +4804,7 @@
 			burstyness=0.75,
 			color=0x7fc0ff,
 			projectileSize=20,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=100,
 				muzzleVel=-1000,
 				range=0,
@@ -5121,7 +4814,7 @@
 				explosive=FINAL,
 				explodeRadius=10,
 				projectileSize=20,
-				fragment={--»˝∑ΩœÚ¿©…¢ 3
+				fragment={--‰∏âÊñπÂêëÊâ©Êï£ 3
 					damage=100,
 					muzzleVel=1000,
 					range=100,
@@ -5129,7 +4822,7 @@
 					pattern=SPIRAL,
 					roundsPerBurst=3,
 					color=0x7fc0ff,
-					fragment={--ºıÀŸ
+					fragment={--ÂáèÈÄü
 						damage=100,
 						muzzleVel=1000,
 						range=0,
@@ -5138,7 +4831,7 @@
 						color=0x7fc0ff,
 						explosive=FINAL,
 						explodeRadius=10,
-							fragment={--À´∑ΩœÚ¿©…¢ 6
+							fragment={--ÂèåÊñπÂêëÊâ©Êï£ 6
 							damage=100,
 							muzzleVel=1000,
 							range=100,
@@ -5146,7 +4839,7 @@
 							pattern=SPIRAL,
 							roundsPerBurst=2,
 							color=0x7fc0ff
-							fragment={--ºıÀŸ
+							fragment={--ÂáèÈÄü
 								damage=100,
 								muzzleVel=1000,
 								range=0,
@@ -5155,7 +4848,7 @@
 								color=0x7fc0ff,
 								explosive=FINAL,
 								explodeRadius=10,
-								fragment={--À´∑ΩœÚ¿©…¢ 12
+								fragment={--ÂèåÊñπÂêëÊâ©Êï£ 12
 									damage=100,
 									muzzleVel=1000,
 									range=100,
@@ -5163,7 +4856,7 @@
 									pattern=SPIRAL,
 									roundsPerBurst=2,
 									color=0x7fc0ff
-									fragment={--ºıÀŸ
+									fragment={--ÂáèÈÄü
 										damage=100,
 										muzzleVel=1000,
 										range=0,
@@ -5172,7 +4865,7 @@
 										color=0x7fc0ff,
 										explosive=FINAL,
 										explodeRadius=10,
-										fragment={--À´∑ΩœÚ¿©…¢ 24
+										fragment={--ÂèåÊñπÂêëÊâ©Êï£ 24
 											damage=100,
 											muzzleVel=1000,
 											range=100,
@@ -5180,7 +4873,7 @@
 											pattern=SPIRAL,
 											roundsPerBurst=2,
 											color=0x7fc0ff
-											fragment={--ºıÀŸ
+											fragment={--ÂáèÈÄü
 												damage=100,
 												muzzleVel=1000,
 												range=0,
@@ -5189,7 +4882,7 @@
 												color=0x7fc0ff,
 												explosive=FINAL,
 												explodeRadius=10,
-													fragment={--À´∑ΩœÚ¿©…¢ 48
+													fragment={--ÂèåÊñπÂêëÊâ©Êï£ 48
 													damage=100,
 													muzzleVel=1000,
 													range=100,
@@ -5197,7 +4890,7 @@
 													pattern=SPIRAL,
 													roundsPerBurst=2,
 													color=0x7fc0ff
-													fragment={--ºıÀŸ
+													fragment={--ÂáèÈÄü
 														damage=100,
 														muzzleVel=1000,
 														range=0,
@@ -5206,7 +4899,7 @@
 														color=0x7fc0ff,
 														explosive=FINAL,
 														explodeRadius=10,
-														fragment={--À´∑ΩœÚ¿©…¢ 96
+														fragment={--ÂèåÊñπÂêëÊâ©Êï£ 96
 															damage=100,
 															muzzleVel=1000,
 															range=100,
@@ -5214,7 +4907,7 @@
 															pattern=SPIRAL,
 															roundsPerBurst=2,
 															color=0x7fc0ff
-															fragment={--ºıÀŸ
+															fragment={--ÂáèÈÄü
 																damage=100,
 																muzzleVel=1000,
 																range=0,
@@ -5250,10 +4943,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257012,
 		scale=1,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=5,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=10,
 		density=0.5,
 		growRate=1,
 		thrusterForce=160000,
@@ -5273,10 +4964,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257013,
 		scale=1,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=5,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=10,
 		density=0.5,
 		growRate=1,
 		thrusterForce=160000,
@@ -5296,10 +4985,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257012,
 		scale=2,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=20,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=40,
 		density=0.5,
 		growRate=1,
 		thrusterForce=640000,
@@ -5319,10 +5006,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257013,
 		scale=2,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=20,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=40,
 		density=0.5,
 		growRate=1,
 		thrusterForce=640000,
@@ -5342,10 +5027,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257012,
 		scale=3,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=45,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=90,
 		density=0.5,
 		growRate=1,
 		thrusterForce=1440000,
@@ -5365,10 +5048,8 @@
 		blurb=_("_blurb_HeavyThruster"),
 		shape=1257013,
 		scale=3,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
-		points=45,
-		durability=6,
+		#include "_T_Lapisdevice.lua"
+		points=90,
 		density=0.5,
 		growRate=1,
 		thrusterForce=1440000,
@@ -5391,20 +5072,20 @@
 		#include "_T_Lapisdevice.lua"
 		points=550,
 		barrelTaper=2,
-		cannon={--µØÃ¯ 1
+		cannon={--ÂºπË∑≥ 1
 			damage=100,
 			power=2000,
 			roundsPerSec=0.5,
-			muzzleVel=10000,
+			muzzleVel=2000,
 			range=2000,
 			spread=0,
 			roundsPerBurst=2,
 			burstyness=0.75,
 			color=0x7fc0ff,
 			projectileSize=10,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=100,
-				muzzleVel=10000,
+				muzzleVel=2000,
 				range=0,
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
@@ -5412,7 +5093,7 @@
 				explosive=FINAL,
 				explodeRadius=50,
 				projectileSize=10,
-				fragment={--µØÃ¯ 2
+				fragment={--ÂºπË∑≥ 2
 					damage=100,
 					muzzleVel=10000,
 					range=2000,
@@ -5421,7 +5102,7 @@
 					burstyness=0.75,
 					color=0x7fc0ff,
 					projectileSize=10,
-					fragment={--ºıÀŸ
+					fragment={--ÂáèÈÄü
 						damage=100,
 						muzzleVel=10000,
 						range=0,
@@ -5431,7 +5112,7 @@
 						explosive=FINAL,
 						explodeRadius=50,
 						projectileSize=10,
-						fragment={--µØÃ¯ 3
+						fragment={--ÂºπË∑≥ 3
 							damage=100,
 							muzzleVel=10000,
 							range=2000,
@@ -5440,7 +5121,7 @@
 							burstyness=0.75,
 							color=0x7fc0ff,
 							projectileSize=10,
-							fragment={--ºıÀŸ
+							fragment={--ÂáèÈÄü
 								damage=100,
 								muzzleVel=10000,
 								range=0,
@@ -5450,7 +5131,7 @@
 								explosive=FINAL,
 								explodeRadius=50,
 								projectileSize=10,
-								fragment={--µØÃ¯ 4
+								fragment={--ÂºπË∑≥ 4
 									damage=100,
 									muzzleVel=10000,
 									range=2000,
@@ -5459,7 +5140,7 @@
 									burstyness=0.75,
 									color=0x7fc0ff,
 									projectileSize=10,
-									fragment={--ºıÀŸ
+									fragment={--ÂáèÈÄü
 										damage=100,
 										muzzleVel=10000,
 										range=0,
@@ -5468,7 +5149,7 @@
 										color=0x7fc0ff,
 										explosive=FINAL,
 										explodeRadius=50,
-										fragment={--µØÃ¯ 5
+										fragment={--ÂºπË∑≥ 5
 											damage=100,
 											muzzleVel=10000,
 											range=2000,
@@ -5477,7 +5158,7 @@
 											burstyness=0.75,
 											color=0x7fc0ff,
 											projectileSize=10,
-											fragment={--ºıÀŸ
+											fragment={--ÂáèÈÄü
 												damage=100,
 												muzzleVel=10000,
 												range=0,
@@ -5487,7 +5168,7 @@
 												explosive=FINAL,
 												explodeRadius=50,
 												projectileSize=10,
-												fragment={--µØÃ¯ 6
+												fragment={--ÂºπË∑≥ 6
 													damage=100,
 													muzzleVel=10000,
 													range=2000,
@@ -5496,7 +5177,7 @@
 													burstyness=0.75,
 													color=0x7fc0ff,
 													projectileSize=10,
-													fragment={--ºıÀŸ
+													fragment={--ÂáèÈÄü
 														damage=100,
 														muzzleVel=10000,
 														range=0,
@@ -5506,7 +5187,7 @@
 														explosive=FINAL,
 														explodeRadius=50,
 														projectileSize=10,
-														fragment={--µØÃ¯ 7
+														fragment={--ÂºπË∑≥ 7
 															damage=100,
 															muzzleVel=10000,
 															range=2000,
@@ -5515,7 +5196,7 @@
 															burstyness=0.75,
 															color=0x7fc0ff,
 															projectileSize=10,
-															fragment={--ºıÀŸ
+															fragment={--ÂáèÈÄü
 																damage=100,
 																muzzleVel=10000,
 																range=0,
@@ -5525,7 +5206,7 @@
 																explosive=FINAL,
 																explodeRadius=50,
 																projectileSize=10,
-																fragment={--µØÃ¯ 8
+																fragment={--ÂºπË∑≥ 8
 																	damage=100,
 																	muzzleVel=10000,
 																	range=2000,
@@ -5534,7 +5215,7 @@
 																	burstyness=0.75,
 																	color=0x7fc0ff,
 																	projectileSize=10,
-																	fragment={--ºıÀŸ
+																	fragment={--ÂáèÈÄü
 																		damage=100,
 																		muzzleVel=10000,
 																		range=0,
@@ -5544,7 +5225,7 @@
 																		explosive=FINAL,
 																		explodeRadius=50,
 																		projectileSize=10,
-																		fragment={--µØÃ¯ 9
+																		fragment={--ÂºπË∑≥ 9
 																			damage=100,
 																			muzzleVel=10000,
 																			range=2000,
@@ -5553,7 +5234,7 @@
 																			burstyness=0.75,
 																			color=0x7fc0ff,
 																			projectileSize=10,
-																			fragment={--ºıÀŸ
+																			fragment={--ÂáèÈÄü
 																				damage=100,
 																				muzzleVel=10000,
 																				range=0,
@@ -5563,7 +5244,7 @@
 																				explosive=FINAL,
 																				explodeRadius=50,
 																				projectileSize=10,
-																				fragment={--µØÃ¯ 10
+																				fragment={--ÂºπË∑≥ 10
 																					damage=100,
 																					muzzleVel=10000,
 																					range=2000,
@@ -5572,7 +5253,7 @@
 																					burstyness=0.75,
 																					color=0x7fc0ff,
 																					projectileSize=10,
-																					fragment={--ºıÀŸ
+																					fragment={--ÂáèÈÄü
 																						damage=100,
 																						muzzleVel=10000,
 																						range=0,
@@ -5618,7 +5299,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=250,
 		barrelTaper=2,
-		cannon={--∆ º
+		cannon={--Ëµ∑Âßã
 			damage=100,
 			power=2900,
 			roundsPerSec=0.5,
@@ -5629,7 +5310,7 @@
 			burstyness=0.75,
 			color=0x7fc0ff,
 			projectileSize=5,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=20,
 				muzzleVel=4000,
 				range=0,
@@ -5639,7 +5320,7 @@
 				explosive=FINAL,
 				explodeRadius=200,
 				projectileSize=5,
-				fragment={--ª∑»∆ 1
+				fragment={--ÁéØÁªï 1
 					damage=20,
 					muzzleVel=4000,
 					range=1000,
@@ -5647,7 +5328,7 @@
 					pattern=CONSTANT,
 					color=0x7fc0ff,
 					projectileSize=5,
-					fragment={--ºıÀŸ
+					fragment={--ÂáèÈÄü
 						damage=20,
 						muzzleVel=4000,
 						range=0,
@@ -5657,7 +5338,7 @@
 						explosive=FINAL,
 						explodeRadius=200,
 						projectileSize=5,
-						fragment={--ª∑»∆ 2
+						fragment={--ÁéØÁªï 2
 							damage=20,
 							muzzleVel=4000,
 							range=1000,
@@ -5665,7 +5346,7 @@
 							pattern=CONSTANT,
 							color=0x7fc0ff,
 							projectileSize=5,
-							fragment={--ºıÀŸ
+							fragment={--ÂáèÈÄü
 								damage=20,
 								muzzleVel=4000,
 								range=0,
@@ -5675,7 +5356,7 @@
 								explosive=FINAL,
 								explodeRadius=200,
 								projectileSize=5,
-								fragment={--ª∑»∆ 3
+								fragment={--ÁéØÁªï 3
 									damage=20,
 									muzzleVel=4000,
 									range=1000,
@@ -5683,7 +5364,7 @@
 									pattern=CONSTANT,
 									color=0x7fc0ff,
 									projectileSize=5,
-									fragment={--ºıÀŸ
+									fragment={--ÂáèÈÄü
 										damage=20,
 										muzzleVel=4000,
 										range=0,
@@ -5693,7 +5374,7 @@
 										explosive=FINAL,
 										explodeRadius=200,
 										projectileSize=5,
-										fragment={--ª∑»∆ 4
+										fragment={--ÁéØÁªï 4
 											damage=20,
 											muzzleVel=4000,
 											range=1000,
@@ -5701,7 +5382,7 @@
 											pattern=CONSTANT,
 											color=0x7fc0ff,
 											projectileSize=5,
-											fragment={--ºıÀŸ
+											fragment={--ÂáèÈÄü
 												damage=20,
 												muzzleVel=4000,
 												range=0,
@@ -5711,7 +5392,7 @@
 												explosive=FINAL,
 												explodeRadius=200,
 												projectileSize=5,
-												fragment={--ª∑»∆ 5
+												fragment={--ÁéØÁªï 5
 													damage=20,
 													muzzleVel=4000,
 													range=1000,
@@ -5719,7 +5400,7 @@
 													pattern=CONSTANT,
 													color=0x7fc0ff,
 													projectileSize=5,
-													fragment={--ºıÀŸ
+													fragment={--ÂáèÈÄü
 														damage=20,
 														muzzleVel=4000,
 														range=0,
@@ -5729,7 +5410,7 @@
 														explosive=FINAL,
 														explodeRadius=200,
 														projectileSize=5,
-														fragment={--ª∑»∆ 6
+														fragment={--ÁéØÁªï 6
 															damage=20,
 															muzzleVel=4000,
 															range=1000,
@@ -5737,7 +5418,7 @@
 															pattern=CONSTANT,
 															color=0x7fc0ff,
 															projectileSize=5,
-															fragment={--ºıÀŸ
+															fragment={--ÂáèÈÄü
 																damage=20,
 																muzzleVel=4000,
 																range=0,
@@ -5747,7 +5428,7 @@
 																explosive=FINAL,
 																explodeRadius=200,
 																projectileSize=5,
-																fragment={--ª∑»∆ 1
+																fragment={--ÁéØÁªï 1
 																	damage=20,
 																	muzzleVel=4000,
 																	range=1000,
@@ -5755,7 +5436,7 @@
 																	pattern=CONSTANT,
 																	color=0x7fc0ff,
 																	projectileSize=5,
-																	fragment={--ºıÀŸ
+																	fragment={--ÂáèÈÄü
 																		damage=20,
 																		muzzleVel=4000,
 																		range=0,
@@ -5765,7 +5446,7 @@
 																		explosive=FINAL,
 																		explodeRadius=200,
 																		projectileSize=5,
-																		fragment={--ª∑»∆ 2
+																		fragment={--ÁéØÁªï 2
 																			damage=20,
 																			muzzleVel=4000,
 																			range=1000,
@@ -5773,7 +5454,7 @@
 																			pattern=CONSTANT,
 																			color=0x7fc0ff,
 																			projectileSize=5,
-																			fragment={--ºıÀŸ
+																			fragment={--ÂáèÈÄü
 																				damage=20,
 																				muzzleVel=4000,
 																				range=0,
@@ -5783,7 +5464,7 @@
 																				explosive=FINAL,
 																				explodeRadius=200,
 																				projectileSize=5,
-																				fragment={--ª∑»∆ 3
+																				fragment={--ÁéØÁªï 3
 																					damage=20,
 																					muzzleVel=4000,
 																					range=1000,
@@ -5791,7 +5472,7 @@
 																					pattern=CONSTANT,
 																					color=0x7fc0ff,
 																					projectileSize=5,
-																					fragment={--ºıÀŸ
+																					fragment={--ÂáèÈÄü
 																						damage=20,
 																						muzzleVel=4000,
 																						range=0,
@@ -5801,7 +5482,7 @@
 																						explosive=FINAL,
 																						explodeRadius=200,
 																						projectileSize=5,
-																						fragment={--ª∑»∆ 4
+																						fragment={--ÁéØÁªï 4
 																							damage=20,
 																							muzzleVel=4000,
 																							range=1000,
@@ -5809,7 +5490,7 @@
 																							pattern=CONSTANT,
 																							color=0x7fc0ff,
 																							projectileSize=5,
-																							fragment={--ºıÀŸ
+																							fragment={--ÂáèÈÄü
 																								damage=20,
 																								muzzleVel=4000,
 																								range=0,
@@ -5819,7 +5500,7 @@
 																								explosive=FINAL,
 																								explodeRadius=200,
 																								projectileSize=5,
-																								fragment={--ª∑»∆ 5
+																								fragment={--ÁéØÁªï 5
 																									damage=20,
 																									muzzleVel=4000,
 																									range=1000,
@@ -5827,7 +5508,7 @@
 																									pattern=CONSTANT,
 																									color=0x7fc0ff,
 																									projectileSize=5,
-																									fragment={--ºıÀŸ
+																									fragment={--ÂáèÈÄü
 																										damage=20,
 																										muzzleVel=4000,
 																										range=0,
@@ -5837,7 +5518,7 @@
 																										explosive=FINAL,
 																										explodeRadius=200,
 																										projectileSize=5,
-																										fragment={--ª∑»∆ 6
+																										fragment={--ÁéØÁªï 6
 																											damage=20,
 																											muzzleVel=4000,
 																											range=1000,
@@ -5845,7 +5526,7 @@
 																											pattern=CONSTANT,
 																											color=0x7fc0ff,
 																											projectileSize=5,
-																											fragment={--ºıÀŸ
+																											fragment={--ÂáèÈÄü
 																												damage=20,
 																												muzzleVel=4000,
 																												range=0,
@@ -5855,7 +5536,7 @@
 																												explosive=FINAL,
 																												explodeRadius=200,
 																												projectileSize=5,
-																												fragment={--ª∑»∆ 1
+																												fragment={--ÁéØÁªï 1
 																													damage=20,
 																													muzzleVel=4000,
 																													range=1000,
@@ -5863,7 +5544,7 @@
 																													pattern=CONSTANT,
 																													color=0x7fc0ff,
 																													projectileSize=5,
-																													fragment={--ºıÀŸ
+																													fragment={--ÂáèÈÄü
 																														damage=20,
 																														muzzleVel=4000,
 																														range=0,
@@ -5873,7 +5554,7 @@
 																														explosive=FINAL,
 																														explodeRadius=200,
 																														projectileSize=5,
-																														fragment={--ª∑»∆ 2
+																														fragment={--ÁéØÁªï 2
 																															damage=20,
 																															muzzleVel=4000,
 																															range=1000,
@@ -5881,7 +5562,7 @@
 																															pattern=CONSTANT,
 																															color=0x7fc0ff,
 																															projectileSize=5,
-																															fragment={--ºıÀŸ
+																															fragment={--ÂáèÈÄü
 																																damage=20,
 																																muzzleVel=4000,
 																																range=0,
@@ -5891,7 +5572,7 @@
 																																explosive=FINAL,
 																																explodeRadius=200,
 																																projectileSize=5,
-																																fragment={--ª∑»∆ 3
+																																fragment={--ÁéØÁªï 3
 																																	damage=20,
 																																	muzzleVel=4000,
 																																	range=1000,
@@ -5899,7 +5580,7 @@
 																																	pattern=CONSTANT,
 																																	color=0x7fc0ff,
 																																	projectileSize=5,
-																																	fragment={--ºıÀŸ
+																																	fragment={--ÂáèÈÄü
 																																		damage=20,
 																																		muzzleVel=4000,
 																																		range=0,
@@ -5909,7 +5590,7 @@
 																																		explosive=FINAL,
 																																		explodeRadius=200,
 																																		projectileSize=5,
-																																		fragment={--ª∑»∆ 4
+																																		fragment={--ÁéØÁªï 4
 																																			damage=20,
 																																			muzzleVel=4000,
 																																			range=1000,
@@ -5917,7 +5598,7 @@
 																																			pattern=CONSTANT,
 																																			color=0x7fc0ff,
 																																			projectileSize=5,
-																																			fragment={--ºıÀŸ
+																																			fragment={--ÂáèÈÄü
 																																				damage=20,
 																																				muzzleVel=4000,
 																																				range=0,
@@ -5927,7 +5608,7 @@
 																																				explosive=FINAL,
 																																				explodeRadius=200,
 																																				projectileSize=5,
-																																				fragment={--ª∑»∆ 5
+																																				fragment={--ÁéØÁªï 5
 																																					damage=20,
 																																					muzzleVel=4000,
 																																					range=1000,
@@ -5935,7 +5616,7 @@
 																																					pattern=CONSTANT,
 																																					color=0x7fc0ff,
 																																					projectileSize=5,
-																																					fragment={--ºıÀŸ
+																																					fragment={--ÂáèÈÄü
 																																						damage=20,
 																																						muzzleVel=4000,
 																																						range=0,
@@ -5945,7 +5626,7 @@
 																																						explosive=FINAL,
 																																						explodeRadius=200,
 																																						projectileSize=5,
-																																						fragment={--ª∑»∆ 6
+																																						fragment={--ÁéØÁªï 6
 																																							damage=20,
 																																							muzzleVel=4000,
 																																							range=1000,
@@ -5953,7 +5634,7 @@
 																																							pattern=CONSTANT,
 																																							color=0x7fc0ff,
 																																							projectileSize=5,
-																																							fragment={--ºıÀŸ
+																																							fragment={--ÂáèÈÄü
 																																								damage=20,
 																																								muzzleVel=4000,
 																																								range=0,
@@ -6004,13 +5685,13 @@
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
-	-- ∫Ï0xff0000
-	-- ≥»0xffc000
-	-- ª∆0xffff00
-	-- ¬Ã0x00b050
-	-- ¿∂0x0070c0
-	-- µÂ0x00b0f0
-	-- ◊œ0x7030a0
+	-- Á∫¢0xff0000
+	-- Ê©ô0xffc000
+	-- ÈªÑ0xffff00
+	-- Áªø0x00b050
+	-- Ëìù0x0070c0
+	-- Èùõ0x00b0f0
+	-- Á¥´0x7030a0
 	{
 		ident=1257205,
 		sort=1257205000,
@@ -6025,8 +5706,10 @@
 		barrelTaper=0.05,
 		aihint_range=560,
 		aihint_muzzleVel=1200,
-		cannon={--∫Ï0xff0000
-			damage=5,
+		-- 1093
+		-- 127
+		cannon={--Á∫¢0xff0000
+			damage=43,
 			power=300,
 			roundsPerSec=10,
 			muzzleVel=300,
@@ -6035,58 +5718,58 @@
 			pattern=WAVE,
 			color=0xff0000,
 			projectileSize=2,
-			fragment={--≥»0xffc000
-				damage=5,
+			fragment={--Ê©ô0xffc000
+				damage=43,
 				muzzleVel=300,
 				range=20,
 				spread=0.043,
 				pattern=WAVE,
-				roundsPerBurst=3,
+				roundsPerBurst=2,
 				color=0xffc000,
 				projectileSize=2,
-				fragment={--ª∆0xffff00
-					damage=5
+				fragment={--ÈªÑ0xffff00
+					damage=43,
 					muzzleVel=300,
 					range=20,
 					spread=0.043,
 					pattern=WAVE,
-					roundsPerBurst=3,
+					roundsPerBurst=2,
 					color=0xffff00,
 					projectileSize=2,
-					fragment={--¬Ã0x00b050
-						damage=5
+					fragment={--Áªø0x00b050
+						damage=43,
 						muzzleVel=300,
 						range=20,
 						spread=0.043,
 						pattern=WAVE,
-						roundsPerBurst=3,
+						roundsPerBurst=2,
 						color=0x00b050,
 						projectileSize=2,
-						fragment={--¿∂0x0070c0
-							damage=5
+						fragment={--Ëìù0x0070c0
+							damage=43,
 							muzzleVel=300,
 							range=20,
 							spread=0.043,
 							pattern=WAVE,
-							roundsPerBurst=3,
+							roundsPerBurst=2,
 							color=0x0070c0,
 							projectileSize=2,
-							fragment={--µÂ0x00b0f0
-								damage=5
+							fragment={--Èùõ0x00b0f0
+								damage=43,
 								muzzleVel=300,
 								range=20,
 								spread=0.043,
 								pattern=WAVE,
-								roundsPerBurst=3,
+								roundsPerBurst=2,
 								color=0x00b0f0,
 								projectileSize=2,
-								fragment={--◊œ0x7030a0
-									damage=5
+								fragment={--Á¥´0x7030a0
+									damage=43,
 									muzzleVel=300,
 									range=20,
 									spread=0.043,
 									pattern=WAVE,
-									roundsPerBurst=3,
+									roundsPerBurst=2,
 									color=0x7030a0,
 									projectileSize=2,
 								},
@@ -6122,7 +5805,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=2250,
 		barrelTaper=2,
-		cannon={--∆ º
+		cannon={--Ëµ∑Âßã
 			damage=100,
 			power=25000,
 			roundsPerSec=0.1,
@@ -6133,7 +5816,7 @@
 			--burstyness=0.975,
 			color=0x7fc0ff,
 			projectileSize=50,
-			fragment={--ºıÀŸ
+			fragment={--ÂáèÈÄü
 				damage=20,
 				muzzleVel=1000,
 				range=0,
@@ -6143,7 +5826,7 @@
 				explosive=FINAL,
 				explodeRadius=200,
 				projectileSize=20,
-				fragment={--ª∑»∆ 1
+				fragment={--ÁéØÁªï 1
 					damage=100,
 					muzzleVel=1000,
 					range=1000,
@@ -6152,7 +5835,7 @@
 					roundsPerBurst=20,
 					color=0x7fc0ff,
 					projectileSize=20,
-					fragment={--ºıÀŸ
+					fragment={--ÂáèÈÄü
 						damage=100,
 						muzzleVel=1000,
 						range=0,
@@ -6162,7 +5845,7 @@
 						explosive=FINAL,
 						explodeRadius=200,
 						projectileSize=20,
-						fragment={--ª∑»∆ 1
+						fragment={--ÁéØÁªï 1
 							damage=20,
 							muzzleVel=1000,
 							range=1000,
@@ -6170,7 +5853,7 @@
 							pattern=CONSTANT,
 							color=0x7fc0ff,
 							projectileSize=20,
-							fragment={--ºıÀŸ
+							fragment={--ÂáèÈÄü
 								damage=100,
 								muzzleVel=1000,
 								range=0,
@@ -6180,7 +5863,7 @@
 								explosive=FINAL,
 								explodeRadius=200,
 								projectileSize=20,
-								fragment={--ª∑»∆ 2
+								fragment={--ÁéØÁªï 2
 									damage=100,
 									muzzleVel=1000,
 									range=1000,
@@ -6188,7 +5871,7 @@
 									pattern=CONSTANT,
 									color=0x7fc0ff,
 									projectileSize=20,
-									fragment={--ºıÀŸ
+									fragment={--ÂáèÈÄü
 										damage=100,
 										muzzleVel=1000,
 										range=0,
@@ -6198,7 +5881,7 @@
 										explosive=FINAL,
 										explodeRadius=200,
 										projectileSize=20,
-										fragment={--ª∑»∆ 3
+										fragment={--ÁéØÁªï 3
 											damage=100,
 											muzzleVel=1000,
 											range=1000,
@@ -6206,7 +5889,7 @@
 											pattern=CONSTANT,
 											color=0x7fc0ff,
 											projectileSize=20,
-											fragment={--ºıÀŸ
+											fragment={--ÂáèÈÄü
 												damage=100,
 												muzzleVel=1000,
 												range=0,
@@ -6216,7 +5899,7 @@
 												explosive=FINAL,
 												explodeRadius=200,
 												projectileSize=20,
-												fragment={--ª∑»∆ 4
+												fragment={--ÁéØÁªï 4
 													damage=100,
 													muzzleVel=1000,
 													range=1000,
@@ -6224,7 +5907,7 @@
 													pattern=CONSTANT,
 													color=0x7fc0ff,
 													projectileSize=20,
-													fragment={--ºıÀŸ
+													fragment={--ÂáèÈÄü
 														damage=100,
 														muzzleVel=1000,
 														range=0,
@@ -6234,7 +5917,7 @@
 														explosive=FINAL,
 														explodeRadius=200,
 														projectileSize=20,
-														fragment={--ª∑»∆ 5
+														fragment={--ÁéØÁªï 5
 															damage=100,
 															muzzleVel=1000,
 															range=1000,
@@ -6242,7 +5925,7 @@
 															pattern=CONSTANT,
 															color=0x7fc0ff,
 															projectileSize=20,
-															fragment={--ºıÀŸ
+															fragment={--ÂáèÈÄü
 																damage=100,
 																muzzleVel=1000,
 																range=0,
@@ -6252,7 +5935,7 @@
 																explosive=FINAL,
 																explodeRadius=200,
 																projectileSize=20,
-																fragment={--ª∑»∆ 6
+																fragment={--ÁéØÁªï 6
 																	damage=100,
 																	muzzleVel=1000,
 																	range=1000,
@@ -6260,7 +5943,7 @@
 																	pattern=CONSTANT,
 																	color=0x7fc0ff,
 																	projectileSize=20,
-																	fragment={--ºıÀŸ
+																	fragment={--ÂáèÈÄü
 																		damage=100,
 																		muzzleVel=1000,
 																		range=0,
@@ -6270,7 +5953,7 @@
 																		explosive=FINAL,
 																		explodeRadius=200,
 																		projectileSize=20,
-																		fragment={--ª∑»∆ 1
+																		fragment={--ÁéØÁªï 1
 																			damage=100,
 																			muzzleVel=1000,
 																			range=1000,
@@ -6278,7 +5961,7 @@
 																			pattern=CONSTANT,
 																			color=0x7fc0ff,
 																			projectileSize=20,
-																			fragment={--ºıÀŸ
+																			fragment={--ÂáèÈÄü
 																				damage=100,
 																				muzzleVel=1000,
 																				range=0,
@@ -6288,7 +5971,7 @@
 																				explosive=FINAL,
 																				explodeRadius=200,
 																				projectileSize=20,
-																				fragment={--ª∑»∆ 2
+																				fragment={--ÁéØÁªï 2
 																					damage=100,
 																					muzzleVel=1000,
 																					range=1000,
@@ -6296,7 +5979,7 @@
 																					pattern=CONSTANT,
 																					color=0x7fc0ff,
 																					projectileSize=20,
-																					fragment={--ºıÀŸ
+																					fragment={--ÂáèÈÄü
 																						damage=100,
 																						muzzleVel=1000,
 																						range=0,
@@ -6306,7 +5989,7 @@
 																						explosive=FINAL,
 																						explodeRadius=200,
 																						projectileSize=20,
-																						fragment={--ª∑»∆ 3
+																						fragment={--ÁéØÁªï 3
 																							damage=100,
 																							muzzleVel=1000,
 																							range=1000,
@@ -6314,7 +5997,7 @@
 																							pattern=CONSTANT,
 																							color=0x7fc0ff,
 																							projectileSize=20,
-																							fragment={--ºıÀŸ
+																							fragment={--ÂáèÈÄü
 																								damage=100,
 																								muzzleVel=1000,
 																								range=0,
@@ -6324,7 +6007,7 @@
 																								explosive=FINAL,
 																								explodeRadius=200,
 																								projectileSize=20,
-																								fragment={--ª∑»∆ 4
+																								fragment={--ÁéØÁªï 4
 																									damage=100,
 																									muzzleVel=1000,
 																									range=1000,
@@ -6332,7 +6015,7 @@
 																									pattern=CONSTANT,
 																									color=0x7fc0ff,
 																									projectileSize=20,
-																									fragment={--ºıÀŸ
+																									fragment={--ÂáèÈÄü
 																										damage=100,
 																										muzzleVel=1000,
 																										range=0,
@@ -6342,7 +6025,7 @@
 																										explosive=FINAL,
 																										explodeRadius=200,
 																										projectileSize=20,
-																										fragment={--ª∑»∆ 5
+																										fragment={--ÁéØÁªï 5
 																											damage=100,
 																											muzzleVel=1000,
 																											range=1000,
@@ -6350,7 +6033,7 @@
 																											pattern=CONSTANT,
 																											color=0x7fc0ff,
 																											projectileSize=20,
-																											fragment={--ºıÀŸ
+																											fragment={--ÂáèÈÄü
 																												damage=100,
 																												muzzleVel=1000,
 																												range=0,
@@ -6360,7 +6043,7 @@
 																												explosive=FINAL,
 																												explodeRadius=200,
 																												projectileSize=20,
-																												fragment={--ª∑»∆ 6
+																												fragment={--ÁéØÁªï 6
 																													damage=100,
 																													muzzleVel=1000,
 																													range=1000,
@@ -6368,7 +6051,7 @@
 																													pattern=CONSTANT,
 																													color=0x7fc0ff,
 																													projectileSize=20,
-																													fragment={--ºıÀŸ
+																													fragment={--ÂáèÈÄü
 																														damage=100,
 																														muzzleVel=1000,
 																														range=0,
@@ -6378,7 +6061,7 @@
 																														explosive=FINAL,
 																														explodeRadius=200,
 																														projectileSize=20,
-																														fragment={--ª∑»∆ 1
+																														fragment={--ÁéØÁªï 1
 																															damage=100,
 																															muzzleVel=1000,
 																															range=1000,
@@ -6386,7 +6069,7 @@
 																															pattern=CONSTANT,
 																															color=0x7fc0ff,
 																															projectileSize=20,
-																															fragment={--ºıÀŸ
+																															fragment={--ÂáèÈÄü
 																																damage=100,
 																																muzzleVel=1000,
 																																range=0,
@@ -6396,7 +6079,7 @@
 																																explosive=FINAL,
 																																explodeRadius=200,
 																																projectileSize=20,
-																																fragment={--ª∑»∆ 2
+																																fragment={--ÁéØÁªï 2
 																																	damage=100,
 																																	muzzleVel=1000,
 																																	range=1000,
@@ -6404,7 +6087,7 @@
 																																	pattern=CONSTANT,
 																																	color=0x7fc0ff,
 																																	projectileSize=20,
-																																	fragment={--ºıÀŸ
+																																	fragment={--ÂáèÈÄü
 																																		damage=100,
 																																		muzzleVel=1000,
 																																		range=0,
@@ -6414,7 +6097,7 @@
 																																		explosive=FINAL,
 																																		explodeRadius=200,
 																																		projectileSize=20,
-																																		fragment={--ª∑»∆ 3
+																																		fragment={--ÁéØÁªï 3
 																																			damage=100,
 																																			muzzleVel=1000,
 																																			range=1000,
@@ -6422,7 +6105,7 @@
 																																			pattern=CONSTANT,
 																																			color=0x7fc0ff,
 																																			projectileSize=20,
-																																			fragment={--ºıÀŸ
+																																			fragment={--ÂáèÈÄü
 																																				damage=100,
 																																				muzzleVel=1000,
 																																				range=0,
@@ -6432,7 +6115,7 @@
 																																				explosive=FINAL,
 																																				explodeRadius=200,
 																																				projectileSize=20,
-																																				fragment={--ª∑»∆ 4
+																																				fragment={--ÁéØÁªï 4
 																																					damage=100,
 																																					muzzleVel=1000,
 																																					range=1000,
@@ -6440,7 +6123,7 @@
 																																					pattern=CONSTANT,
 																																					color=0x7fc0ff,
 																																					projectileSize=20,
-																																					fragment={--ºıÀŸ
+																																					fragment={--ÂáèÈÄü
 																																						damage=100,
 																																						muzzleVel=1000,
 																																						range=0,
@@ -6450,7 +6133,7 @@
 																																						explosive=FINAL,
 																																						explodeRadius=200,
 																																						projectileSize=20,
-																																						fragment={--ª∑»∆ 5
+																																						fragment={--ÁéØÁªï 5
 																																							damage=100,
 																																							muzzleVel=1000,
 																																							range=1000,
@@ -6458,7 +6141,7 @@
 																																							pattern=CONSTANT,
 																																							color=0x7fc0ff,
 																																							projectileSize=20,
-																																							fragment={--ºıÀŸ
+																																							fragment={--ÂáèÈÄü
 																																								damage=100,
 																																								muzzleVel=1000,
 																																								range=0,
@@ -6468,7 +6151,7 @@
 																																								explosive=FINAL,
 																																								explodeRadius=200,
 																																								projectileSize=20,
-																																								fragment={--ª∑»∆ 6
+																																								fragment={--ÁéØÁªï 6
 																																									damage=100,
 																																									muzzleVel=1000,
 																																									range=1000,
@@ -6476,7 +6159,7 @@
 																																									pattern=CONSTANT,
 																																									color=0x7fc0ff,
 																																									projectileSize=20,
-																																									fragment={--ºıÀŸ
+																																									fragment={--ÂáèÈÄü
 																																										damage=100,
 																																										muzzleVel=1000,
 																																										range=0,
@@ -6589,8 +6272,8 @@
 				},
 			},
 			shield={
-				strength=30000,
-				regen=1500,
+				strength=90000,
+				regen=45000,
 				radius=60,
 				delay=3,
 				color=0x0f7fc0ff,
@@ -6639,13 +6322,9 @@
 		blurb=_("_blurb_lapismsuperdot"),
 		shape=HEXAGON,
 		scale=3,
-		fillColor=0x0000ff,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice.lua"
 		points=4250,
-		durability=3,
-		density=0.2,
-		growRate=5,
-		cannon={--∆ º
+		cannon={--Ëµ∑Âßã
 			damage=1000,
 			power=25000,
 			roundsPerSec=0.1,
@@ -6658,7 +6337,7 @@
 			barrelTaper=10,
 			explosive=ENABLED,
 			explodeRadius=0,
-			fragment={--ª∑»∆
+			fragment={--ÁéØÁªï
 				damage=5000,
 				muzzleVel=1,
 				range=20,
@@ -7565,8 +7244,7 @@
 		blurb=_("_blurb_lapismSpecMergeMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		fillColor=0x5862a0,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice_Ancient.lua"
 		points=10,
 		durability=3,
 		density=0.2,
@@ -7576,15 +7254,7 @@
 			damage={1.33333333334, 0},
 			roundsPerSec={0.66666666667, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7597,8 +7267,7 @@
 		blurb=_("_blurb_lapismSpecEnduranceMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		fillColor=0x5862a0,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice_Ancient.lua"
 		points=10,
 		durability=3,
 		density=0.2,
@@ -7608,15 +7277,7 @@
 			range={1.08, 0},
 			roundsPerSec={0.66666666667, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7629,8 +7290,7 @@
 		blurb=_("_blurb_lapismSpecTurnMod")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
-		fillColor=0x5862a0,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice_Ancient.lua"
 		points=10,
 		durability=3,
 		density=0.2,
@@ -7640,15 +7300,7 @@
 			muzzleVel={1.16, 0},
 			roundsPerSec={0.66666666667, 0},
 		},
-		laser={
-			damage=0,
-			power=0,
-			range=3000,
-			width=0,
-			color=0x007f7f7f,
-		},
-		turretSpeed=0,
-		turretLimit=0,
+		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7661,14 +7313,11 @@
 		blurb=_("_blurb_AncientMicroThruster")_("_n")_("_blurb_ancient_block"),
 		shape=1257011,
 		scale=1,
-		fillColor=0x5862a0,
-		lineColor=0x7fc0ff,
+		#include "_T_Lapisdevice_Ancient.lua"
 		points=2,
 		durability=3,
 		density=0.2,
 		growRate=5,
-		armor=25,
-		durability=4.65,
 		thrusterForce=5000,
 		thrusterBoost=2,
 		thrusterBoostTime=0.2,

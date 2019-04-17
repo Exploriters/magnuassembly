@@ -6,4 +6,5 @@
 		density=0.2,
 		growRate=3,
 		meleeDamage=1,
+		capacity=0,
 		

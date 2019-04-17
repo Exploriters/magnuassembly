@@ -3394,7 +3394,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--³õÊ¼ÅÚµ¯ 2500
+			explodeRadius=0,--åˆå§‹ç‚®å¼¹ 2500
 			damage=100,
 			power=0.001,--34950
 			roundsPerSec=0.1,
@@ -3405,7 +3405,7 @@
 			barrelTaper=2,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ 2500//editÒÆ³ı¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ 2500//editç§»é™¤å‡é€Ÿ
 				damage=50,
 				muzzleVel=500,
 				spread=3.1415926535897932384626433832795,
@@ -3417,7 +3417,7 @@
 				projectileSize=70,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Äæ×ª·½Ïò 2500--ÏÂ·½×¢ÊÍ²»±£Ö¤×¼È·ĞÔ
+			explodeRadius=0,--é€†è½¬æ–¹å‘ 2500--ä¸‹æ–¹æ³¨é‡Šä¸ä¿è¯å‡†ç¡®æ€§
 					damage=50,
 					muzzleVel=500,
 					spread=3.1415926535897932384626433832795,
@@ -3429,7 +3429,7 @@
 					projectileSize=70,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Îå¸ö·½ÏòµÄÅÚµ¯ 2000
+			explodeRadius=0,--äº”ä¸ªæ–¹å‘çš„ç‚®å¼¹ 2000
 						damage=100,
 						muzzleVel=1000,
 						roundsPerBurst=5,
@@ -3440,7 +3440,7 @@
 						projectileSize=60,
 						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--±¬Õ¨ 2000
+			explodeRadius=0,--çˆ†ç‚¸ 2000
 							damage=50,
 							muzzleVel=1000,
 							spread=3.1415926535897932384626433832795,
@@ -3452,7 +3452,7 @@
 							projectileSize=60,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ê£Óà100 1500
+			explodeRadius=0,--å‰©ä½™100 1500
 								damage=100,
 								muzzleVel=1000,
 								spread=3.1415926535897932384626433832795,
@@ -3462,7 +3462,7 @@
 								projectileSize=50,
 								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ 1500
+			explodeRadius=0,--å‡é€Ÿ 1500
 									damage=50,
 									muzzleVel=1000,
 									spread=3.1415926535897932384626433832795,
@@ -3474,7 +3474,7 @@
 									projectileSize=50,
 									fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Äæ×ª·½Ïò 1500
+			explodeRadius=0,--é€†è½¬æ–¹å‘ 1500
 										damage=50,
 										muzzleVel=1000,
 										spread=3.1415926535897932384626433832795,
@@ -3486,7 +3486,7 @@
 										projectileSize=50,
 										fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Áù¸ö·½ÏòµÄÅÚµ¯ 1000
+			explodeRadius=0,--å…­ä¸ªæ–¹å‘çš„ç‚®å¼¹ 1000
 											damage=100,
 											muzzleVel=500,
 											roundsPerBurst=6,
@@ -3497,7 +3497,7 @@
 											projectileSize=40,
 											fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ 1000
+			explodeRadius=0,--å‡é€Ÿ 1000
 												damage=50,
 												muzzleVel=500,
 												spread=3.1415926535897932384626433832795,
@@ -3509,7 +3509,7 @@
 												projectileSize=40,
 												fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Äæ×ª·½Ïò 1000
+			explodeRadius=0,--é€†è½¬æ–¹å‘ 1000
 													damage=50,
 													muzzleVel=500,
 													spread=3.1415926535897932384626433832795,
@@ -3521,7 +3521,7 @@
 													projectileSize=40,
 													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Áù¸ö·½ÏòµÄÅÚµ¯ 500
+			explodeRadius=0,--å…­ä¸ªæ–¹å‘çš„ç‚®å¼¹ 500
 														damage=100,
 														muzzleVel=500,
 														roundsPerBurst=6,
@@ -3532,7 +3532,7 @@
 														projectileSize=30,
 														fragment={
 			explosive=FINAL,
-			explodeRadius=0,--±¬Õ¨ 500
+			explodeRadius=0,--çˆ†ç‚¸ 500
 															damage=50,
 															muzzleVel=1000,
 															range=0,
@@ -3574,7 +3574,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--µØÀ×ºËĞÄ
+			explodeRadius=0,--åœ°é›·æ ¸å¿ƒ
 			damage=6,
 			power=0.001,
 			roundsPerSec=2.125,
@@ -3587,7 +3587,7 @@
 			projectileSize=5,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙĞÎ³ÉµØÀ×
+			explodeRadius=0,--å‡é€Ÿå½¢æˆåœ°é›·
 				damage=50,
 				muzzleVel=200,
 				spread=3.1415926535897932384626433832795,
@@ -3619,7 +3619,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--¼¯ÊøÀ×ºËĞÄ
+			explodeRadius=0,--é›†æŸé›·æ ¸å¿ƒ
 			damage=24,
 			power=0.001,
 			roundsPerSec=2.5,
@@ -3632,7 +3632,7 @@
 			projectileSize=10,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 				damage=24,
 				power=0.001,
 				muzzleVel=500,
@@ -3645,7 +3645,7 @@
 				projectileSize=10,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µØÀ×ºËĞÄ
+			explodeRadius=0,--åœ°é›·æ ¸å¿ƒ
 					damage=6,
 					roundsPerBurst=6,
 					spread=2.617,
@@ -3658,7 +3658,7 @@
 					projectileSize=5,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙĞÎ³ÉµØÀ×
+			explodeRadius=0,--å‡é€Ÿå½¢æˆåœ°é›·
 						damage=50,
 						muzzleVel=200,
 						range=10000,
@@ -3692,7 +3692,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--Ç°¼¯ÊøÀ×ºËĞÄ
+			explodeRadius=0,--å‰é›†æŸé›·æ ¸å¿ƒ
 			damage=54,
 			power=0.001,
 			roundsPerSec=0.5,
@@ -3705,7 +3705,7 @@
 			projectileSize=15,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 				damage=54,
 				muzzleVel=1000,
 				range=0,
@@ -3717,7 +3717,7 @@
 				projectileSize=15,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼¯ÊøÀ×ºËĞÄ
+			explodeRadius=0,--é›†æŸé›·æ ¸å¿ƒ
 					damage=24,
 					roundsPerBurst=6,
 					spread=2.617,
@@ -3730,7 +3730,7 @@
 					projectileSize=10,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 						damage=24,
 						power=0.001,
 						muzzleVel=500,
@@ -3743,7 +3743,7 @@
 						projectileSize=10,
 						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µØÀ×ºËĞÄ
+			explodeRadius=0,--åœ°é›·æ ¸å¿ƒ
 							damage=6,
 							roundsPerBurst=6,
 							spread=2.617,
@@ -3756,7 +3756,7 @@
 							projectileSize=5,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙĞÎ³ÉµØÀ×
+			explodeRadius=0,--å‡é€Ÿå½¢æˆåœ°é›·
 								damage=50,
 								muzzleVel=200,
 								range=10000,
@@ -4955,7 +4955,7 @@
 		-- group=1257,
 		-- features=FREERES|NOCLIP|NOPALETTE|LAUNCHER,
 		-- name=_("_text_Decoy")_("_bl")"Tractor Drone Launcher",
-		-- blurb="×ÊÔ´²É¼¯ÎŞÈË»ú·¢ÉäÆ÷¡£"_("_n")_("_blurb_decoy_block"),
+		-- blurb="èµ„æºé‡‡é›†æ— äººæœºå‘å°„å™¨ã€‚"_("_n")_("_blurb_decoy_block"),
 		-- shape=1257008,
 		-- scale=1,
 		-- fillColor=0x0000ff,
@@ -5954,7 +5954,7 @@
 			projectileSize=20,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 				damage=100,
 				muzzleVel=-1000,
 				range=0,
@@ -5966,7 +5966,7 @@
 				projectileSize=20,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Èı·½ÏòÀ©É¢ 3
+			explodeRadius=0,--ä¸‰æ–¹å‘æ‰©æ•£ 3
 					damage=100,
 					muzzleVel=1000,
 					range=100,
@@ -5976,7 +5976,7 @@
 					color=0x7fc0ff,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 						damage=100,
 						muzzleVel=1000,
 						range=0,
@@ -5987,7 +5987,7 @@
 						explodeRadius=0,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ë«·½ÏòÀ©É¢ 6
+			explodeRadius=0,--åŒæ–¹å‘æ‰©æ•£ 6
 							damage=100,
 							muzzleVel=1000,
 							range=100,
@@ -5997,7 +5997,7 @@
 							color=0x7fc0ff
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 								damage=100,
 								muzzleVel=1000,
 								range=0,
@@ -6008,7 +6008,7 @@
 								explodeRadius=0,
 								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ë«·½ÏòÀ©É¢ 12
+			explodeRadius=0,--åŒæ–¹å‘æ‰©æ•£ 12
 									damage=100,
 									muzzleVel=1000,
 									range=100,
@@ -6018,7 +6018,7 @@
 									color=0x7fc0ff
 									fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 										damage=100,
 										muzzleVel=1000,
 										range=0,
@@ -6029,7 +6029,7 @@
 										explodeRadius=0,
 										fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ë«·½ÏòÀ©É¢ 24
+			explodeRadius=0,--åŒæ–¹å‘æ‰©æ•£ 24
 											damage=100,
 											muzzleVel=1000,
 											range=100,
@@ -6039,7 +6039,7 @@
 											color=0x7fc0ff
 											fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 												damage=100,
 												muzzleVel=1000,
 												range=0,
@@ -6050,7 +6050,7 @@
 												explodeRadius=0,
 													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ë«·½ÏòÀ©É¢ 48
+			explodeRadius=0,--åŒæ–¹å‘æ‰©æ•£ 48
 													damage=100,
 													muzzleVel=1000,
 													range=100,
@@ -6060,7 +6060,7 @@
 													color=0x7fc0ff
 													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 														damage=100,
 														muzzleVel=1000,
 														range=0,
@@ -6071,7 +6071,7 @@
 														explodeRadius=0,
 														fragment={
 			explosive=FINAL,
-			explodeRadius=0,--Ë«·½ÏòÀ©É¢ 96
+			explodeRadius=0,--åŒæ–¹å‘æ‰©æ•£ 96
 															damage=100,
 															muzzleVel=1000,
 															range=100,
@@ -6081,7 +6081,7 @@
 															color=0x7fc0ff
 															fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																damage=100,
 																muzzleVel=1000,
 																range=0,
@@ -6263,7 +6263,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 1
+			explodeRadius=0,--å¼¹è·³ 1
 			damage=100,
 			power=0.001,
 			roundsPerSec=0.5,
@@ -6277,7 +6277,7 @@
 			projectileSize=10,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 				damage=100,
 				muzzleVel=1000,
 				range=0,
@@ -6289,7 +6289,7 @@
 				projectileSize=10,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 2
+			explodeRadius=0,--å¼¹è·³ 2
 					damage=100,
 					muzzleVel=1000,
 					range=2000,
@@ -6300,7 +6300,7 @@
 					projectileSize=10,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 						damage=100,
 						muzzleVel=1000,
 						range=0,
@@ -6312,7 +6312,7 @@
 						projectileSize=10,
 						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 3
+			explodeRadius=0,--å¼¹è·³ 3
 							damage=100,
 							muzzleVel=1000,
 							range=2000,
@@ -6323,7 +6323,7 @@
 							projectileSize=10,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 								damage=100,
 								muzzleVel=1000,
 								range=0,
@@ -6335,7 +6335,7 @@
 								projectileSize=10,
 								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 4
+			explodeRadius=0,--å¼¹è·³ 4
 									damage=100,
 									muzzleVel=1000,
 									range=2000,
@@ -6346,7 +6346,7 @@
 									projectileSize=10,
 									fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 										damage=100,
 										muzzleVel=1000,
 										range=0,
@@ -6357,7 +6357,7 @@
 										explodeRadius=0,
 										fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 5
+			explodeRadius=0,--å¼¹è·³ 5
 											damage=100,
 											muzzleVel=1000,
 											range=2000,
@@ -6368,7 +6368,7 @@
 											projectileSize=10,
 											fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 												damage=100,
 												muzzleVel=1000,
 												range=0,
@@ -6380,7 +6380,7 @@
 												projectileSize=10,
 												fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 6
+			explodeRadius=0,--å¼¹è·³ 6
 													damage=100,
 													muzzleVel=1000,
 													range=2000,
@@ -6391,7 +6391,7 @@
 													projectileSize=10,
 													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 														damage=100,
 														muzzleVel=1000,
 														range=0,
@@ -6403,7 +6403,7 @@
 														projectileSize=10,
 														fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 7
+			explodeRadius=0,--å¼¹è·³ 7
 															damage=100,
 															muzzleVel=1000,
 															range=2000,
@@ -6414,7 +6414,7 @@
 															projectileSize=10,
 															fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																damage=100,
 																muzzleVel=1000,
 																range=0,
@@ -6426,7 +6426,7 @@
 																projectileSize=10,
 																fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 8
+			explodeRadius=0,--å¼¹è·³ 8
 																	damage=100,
 																	muzzleVel=1000,
 																	range=2000,
@@ -6437,7 +6437,7 @@
 																	projectileSize=10,
 																	fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																		damage=100,
 																		muzzleVel=1000,
 																		range=0,
@@ -6449,7 +6449,7 @@
 																		projectileSize=10,
 																		fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 9
+			explodeRadius=0,--å¼¹è·³ 9
 																			damage=100,
 																			muzzleVel=1000,
 																			range=2000,
@@ -6460,7 +6460,7 @@
 																			projectileSize=10,
 																			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																				damage=100,
 																				muzzleVel=1000,
 																				range=0,
@@ -6472,7 +6472,7 @@
 																				projectileSize=10,
 																				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µ¯Ìø 10
+			explodeRadius=0,--å¼¹è·³ 10
 																					damage=100,
 																					muzzleVel=1000,
 																					range=2000,
@@ -6483,7 +6483,7 @@
 																					projectileSize=10,
 																					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																						damage=100,
 																						muzzleVel=1000,
 																						range=0,
@@ -6534,7 +6534,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--ÆğÊ¼
+			explodeRadius=0,--èµ·å§‹
 			damage=100,
 			power=0.001,
 			roundsPerSec=0.5,
@@ -6548,7 +6548,7 @@
 			projectileSize=5,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 				damage=20,
 				muzzleVel=4000,
 				range=0,
@@ -6560,7 +6560,7 @@
 				projectileSize=5,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 1
+			explodeRadius=0,--ç¯ç»• 1
 					damage=20,
 					muzzleVel=4000,
 					range=1000,
@@ -6570,7 +6570,7 @@
 					projectileSize=5,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 						damage=20,
 						muzzleVel=4000,
 						range=0,
@@ -6582,7 +6582,7 @@
 						projectileSize=5,
 						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 2
+			explodeRadius=0,--ç¯ç»• 2
 							damage=20,
 							muzzleVel=4000,
 							range=1000,
@@ -6592,7 +6592,7 @@
 							projectileSize=5,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 								damage=20,
 								muzzleVel=4000,
 								range=0,
@@ -6604,7 +6604,7 @@
 								projectileSize=5,
 								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 3
+			explodeRadius=0,--ç¯ç»• 3
 									damage=20,
 									muzzleVel=4000,
 									range=1000,
@@ -6614,7 +6614,7 @@
 									projectileSize=5,
 									fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 										damage=20,
 										muzzleVel=4000,
 										range=0,
@@ -6626,7 +6626,7 @@
 										projectileSize=5,
 										fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 4
+			explodeRadius=0,--ç¯ç»• 4
 											damage=20,
 											muzzleVel=4000,
 											range=1000,
@@ -6636,7 +6636,7 @@
 											projectileSize=5,
 											fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 												damage=20,
 												muzzleVel=4000,
 												range=0,
@@ -6648,7 +6648,7 @@
 												projectileSize=5,
 												fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 5
+			explodeRadius=0,--ç¯ç»• 5
 													damage=20,
 													muzzleVel=4000,
 													range=1000,
@@ -6658,7 +6658,7 @@
 													projectileSize=5,
 													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 														damage=20,
 														muzzleVel=4000,
 														range=0,
@@ -6670,7 +6670,7 @@
 														projectileSize=5,
 														fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 6
+			explodeRadius=0,--ç¯ç»• 6
 															damage=20,
 															muzzleVel=4000,
 															range=1000,
@@ -6680,7 +6680,7 @@
 															projectileSize=5,
 															fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																damage=20,
 																muzzleVel=4000,
 																range=0,
@@ -6692,7 +6692,7 @@
 																projectileSize=5,
 																fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 1
+			explodeRadius=0,--ç¯ç»• 1
 																	damage=20,
 																	muzzleVel=4000,
 																	range=1000,
@@ -6702,7 +6702,7 @@
 																	projectileSize=5,
 																	fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																		damage=20,
 																		muzzleVel=4000,
 																		range=0,
@@ -6714,7 +6714,7 @@
 																		projectileSize=5,
 																		fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 2
+			explodeRadius=0,--ç¯ç»• 2
 																			damage=20,
 																			muzzleVel=4000,
 																			range=1000,
@@ -6724,7 +6724,7 @@
 																			projectileSize=5,
 																			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																				damage=20,
 																				muzzleVel=4000,
 																				range=0,
@@ -6736,7 +6736,7 @@
 																				projectileSize=5,
 																				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 3
+			explodeRadius=0,--ç¯ç»• 3
 																					damage=20,
 																					muzzleVel=4000,
 																					range=1000,
@@ -6746,7 +6746,7 @@
 																					projectileSize=5,
 																					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																						damage=20,
 																						muzzleVel=4000,
 																						range=0,
@@ -6758,7 +6758,7 @@
 																						projectileSize=5,
 																						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 4
+			explodeRadius=0,--ç¯ç»• 4
 																							damage=20,
 																							muzzleVel=4000,
 																							range=1000,
@@ -6768,7 +6768,7 @@
 																							projectileSize=5,
 																							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																								damage=20,
 																								muzzleVel=4000,
 																								range=0,
@@ -6780,7 +6780,7 @@
 																								projectileSize=5,
 																								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 5
+			explodeRadius=0,--ç¯ç»• 5
 																									damage=20,
 																									muzzleVel=4000,
 																									range=1000,
@@ -6790,7 +6790,7 @@
 																									projectileSize=5,
 																									fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																										damage=20,
 																										muzzleVel=4000,
 																										range=0,
@@ -6802,7 +6802,7 @@
 																										projectileSize=5,
 																										fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 6
+			explodeRadius=0,--ç¯ç»• 6
 																											damage=20,
 																											muzzleVel=4000,
 																											range=1000,
@@ -6812,7 +6812,7 @@
 																											projectileSize=5,
 																											fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																												damage=20,
 																												muzzleVel=4000,
 																												range=0,
@@ -6824,7 +6824,7 @@
 																												projectileSize=5,
 																												fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 1
+			explodeRadius=0,--ç¯ç»• 1
 																													damage=20,
 																													muzzleVel=4000,
 																													range=1000,
@@ -6834,7 +6834,7 @@
 																													projectileSize=5,
 																													fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																														damage=20,
 																														muzzleVel=4000,
 																														range=0,
@@ -6846,7 +6846,7 @@
 																														projectileSize=5,
 																														fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 2
+			explodeRadius=0,--ç¯ç»• 2
 																															damage=20,
 																															muzzleVel=4000,
 																															range=1000,
@@ -6856,7 +6856,7 @@
 																															projectileSize=5,
 																															fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																																damage=20,
 																																muzzleVel=4000,
 																																range=0,
@@ -6868,7 +6868,7 @@
 																																projectileSize=5,
 																																fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 3
+			explodeRadius=0,--ç¯ç»• 3
 																																	damage=20,
 																																	muzzleVel=4000,
 																																	range=1000,
@@ -6878,7 +6878,7 @@
 																																	projectileSize=5,
 																																	fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																																		damage=20,
 																																		muzzleVel=4000,
 																																		range=0,
@@ -6890,7 +6890,7 @@
 																																		projectileSize=5,
 																																		fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 4
+			explodeRadius=0,--ç¯ç»• 4
 																																			damage=20,
 																																			muzzleVel=4000,
 																																			range=1000,
@@ -6900,7 +6900,7 @@
 																																			projectileSize=5,
 																																			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																																				damage=20,
 																																				muzzleVel=4000,
 																																				range=0,
@@ -6912,7 +6912,7 @@
 																																				projectileSize=5,
 																																				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 5
+			explodeRadius=0,--ç¯ç»• 5
 																																					damage=20,
 																																					muzzleVel=4000,
 																																					range=1000,
@@ -6922,7 +6922,7 @@
 																																					projectileSize=5,
 																																					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																																						damage=20,
 																																						muzzleVel=4000,
 																																						range=0,
@@ -6934,7 +6934,7 @@
 																																						projectileSize=5,
 																																						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»·ÈÆ 6
+			explodeRadius=0,--ç¯ç»• 6
 																																							damage=20,
 																																							muzzleVel=4000,
 																																							range=1000,
@@ -6944,7 +6944,7 @@
 																																							projectileSize=5,
 																																							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--¼õËÙ
+			explodeRadius=0,--å‡é€Ÿ
 																																								damage=20,
 																																								muzzleVel=4000,
 																																								range=0,
@@ -6994,13 +6994,13 @@
 		},
 		turretSpeed=4.712,
 	},
-	-- ºì0xff0000
-	-- ³È0xffc000
-	-- »Æ0xffff00
-	-- ÂÌ0x00b050
-	-- À¶0x0070c0
-	-- µå0x00b0f0
-	-- ×Ï0x7030a0
+	-- çº¢0xff0000
+	-- æ©™0xffc000
+	-- é»„0xffff00
+	-- ç»¿0x00b050
+	-- è“0x0070c0
+	-- é›0x00b0f0
+	-- ç´«0x7030a0
 	{
 		ident=1258205,
 		sort=1258205000,
@@ -7019,7 +7019,7 @@
 		growRate=inf,
 		cannon={
 			explosive=FINAL,
-			explodeRadius=0,--ºì0xff0000
+			explodeRadius=0,--çº¢0xff0000
 			damage=5,
 			power=0.001,
 			roundsPerSec=10,
@@ -7032,7 +7032,7 @@
 			projectileSize=2,
 			fragment={
 			explosive=FINAL,
-			explodeRadius=0,--³È0xffc000
+			explodeRadius=0,--æ©™0xffc000
 				damage=5,
 				muzzleVel=300,
 				range=20,
@@ -7043,7 +7043,7 @@
 				projectileSize=2,
 				fragment={
 			explosive=FINAL,
-			explodeRadius=0,--»Æ0xffff00
+			explodeRadius=0,--é»„0xffff00
 					damage=5
 					muzzleVel=300,
 					range=20,
@@ -7054,7 +7054,7 @@
 					projectileSize=2,
 					fragment={
 			explosive=FINAL,
-			explodeRadius=0,--ÂÌ0x00b050
+			explodeRadius=0,--ç»¿0x00b050
 						damage=5
 						muzzleVel=300,
 						range=20,
@@ -7065,7 +7065,7 @@
 						projectileSize=2,
 						fragment={
 			explosive=FINAL,
-			explodeRadius=0,--À¶0x0070c0
+			explodeRadius=0,--è“0x0070c0
 							damage=5
 							muzzleVel=300,
 							range=20,
@@ -7076,7 +7076,7 @@
 							projectileSize=2,
 							fragment={
 			explosive=FINAL,
-			explodeRadius=0,--µå0x00b0f0
+			explodeRadius=0,--é›0x00b0f0
 								damage=5
 								muzzleVel=300,
 								range=20,
@@ -7087,7 +7087,7 @@
 								projectileSize=2,
 								fragment={
 			explosive=FINAL,
-			explodeRadius=0,--×Ï0x7030a0
+			explodeRadius=0,--ç´«0x7030a0
 									damage=5
 									muzzleVel=300,
 									range=20,
@@ -7132,7 +7132,7 @@
 		durability=1e30,--3,
 		density=0.2,
 		growRate=5,
-		cannon={--ÆğÊ¼
+		cannon={--èµ·å§‹
 			damage=100,
 			power=0.001,
 			roundsPerSec=0.1,
@@ -7146,7 +7146,7 @@
 			projectileSize=50,
 			explosive=FINAL,
 			explodeRadius=0,
-			fragment={--¼õËÙ
+			fragment={--å‡é€Ÿ
 				damage=20,
 				muzzleVel=1000,
 				range=0,
@@ -7158,7 +7158,7 @@
 				projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-				fragment={--»·ÈÆ 1
+				fragment={--ç¯ç»• 1
 					damage=100,
 					muzzleVel=1000,
 					range=1000,
@@ -7169,7 +7169,7 @@
 					projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-					fragment={--¼õËÙ
+					fragment={--å‡é€Ÿ
 						damage=100,
 						muzzleVel=1000,
 						range=0,
@@ -7181,7 +7181,7 @@
 						projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-						fragment={--»·ÈÆ 1
+						fragment={--ç¯ç»• 1
 							damage=20,
 							muzzleVel=1000,
 							range=1000,
@@ -7191,7 +7191,7 @@
 							projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-							fragment={--¼õËÙ
+							fragment={--å‡é€Ÿ
 								damage=100,
 								muzzleVel=1000,
 								range=0,
@@ -7203,7 +7203,7 @@
 								projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-								fragment={--»·ÈÆ 2
+								fragment={--ç¯ç»• 2
 									damage=100,
 									muzzleVel=1000,
 									range=1000,
@@ -7213,7 +7213,7 @@
 									projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-									fragment={--¼õËÙ
+									fragment={--å‡é€Ÿ
 										damage=100,
 										muzzleVel=1000,
 										range=0,
@@ -7225,7 +7225,7 @@
 										projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-										fragment={--»·ÈÆ 3
+										fragment={--ç¯ç»• 3
 											damage=100,
 											muzzleVel=1000,
 											range=1000,
@@ -7235,7 +7235,7 @@
 											projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-											fragment={--¼õËÙ
+											fragment={--å‡é€Ÿ
 												damage=100,
 												muzzleVel=1000,
 												range=0,
@@ -7247,7 +7247,7 @@
 												projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-												fragment={--»·ÈÆ 4
+												fragment={--ç¯ç»• 4
 													damage=100,
 													muzzleVel=1000,
 													range=1000,
@@ -7257,7 +7257,7 @@
 													projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-													fragment={--¼õËÙ
+													fragment={--å‡é€Ÿ
 														damage=100,
 														muzzleVel=1000,
 														range=0,
@@ -7269,7 +7269,7 @@
 														projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-														fragment={--»·ÈÆ 5
+														fragment={--ç¯ç»• 5
 															damage=100,
 															muzzleVel=1000,
 															range=1000,
@@ -7279,7 +7279,7 @@
 															projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-															fragment={--¼õËÙ
+															fragment={--å‡é€Ÿ
 																damage=100,
 																muzzleVel=1000,
 																range=0,
@@ -7291,7 +7291,7 @@
 																projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																fragment={--»·ÈÆ 6
+																fragment={--ç¯ç»• 6
 																	damage=100,
 																	muzzleVel=1000,
 																	range=1000,
@@ -7301,7 +7301,7 @@
 																	projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																	fragment={--¼õËÙ
+																	fragment={--å‡é€Ÿ
 																		damage=100,
 																		muzzleVel=1000,
 																		range=0,
@@ -7313,7 +7313,7 @@
 																		projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																		fragment={--»·ÈÆ 1
+																		fragment={--ç¯ç»• 1
 																			damage=100,
 																			muzzleVel=1000,
 																			range=1000,
@@ -7323,7 +7323,7 @@
 																			projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																			fragment={--¼õËÙ
+																			fragment={--å‡é€Ÿ
 																				damage=100,
 																				muzzleVel=1000,
 																				range=0,
@@ -7335,7 +7335,7 @@
 																				projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																				fragment={--»·ÈÆ 2
+																				fragment={--ç¯ç»• 2
 																					damage=100,
 																					muzzleVel=1000,
 																					range=1000,
@@ -7345,7 +7345,7 @@
 																					projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																					fragment={--¼õËÙ
+																					fragment={--å‡é€Ÿ
 																						damage=100,
 																						muzzleVel=1000,
 																						range=0,
@@ -7357,7 +7357,7 @@
 																						projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																						fragment={--»·ÈÆ 3
+																						fragment={--ç¯ç»• 3
 																							damage=100,
 																							muzzleVel=1000,
 																							range=1000,
@@ -7367,7 +7367,7 @@
 																							projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																							fragment={--¼õËÙ
+																							fragment={--å‡é€Ÿ
 																								damage=100,
 																								muzzleVel=1000,
 																								range=0,
@@ -7379,7 +7379,7 @@
 																								projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																								fragment={--»·ÈÆ 4
+																								fragment={--ç¯ç»• 4
 																									damage=100,
 																									muzzleVel=1000,
 																									range=1000,
@@ -7389,7 +7389,7 @@
 																									projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																									fragment={--¼õËÙ
+																									fragment={--å‡é€Ÿ
 																										damage=100,
 																										muzzleVel=1000,
 																										range=0,
@@ -7401,7 +7401,7 @@
 																										projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																										fragment={--»·ÈÆ 5
+																										fragment={--ç¯ç»• 5
 																											damage=100,
 																											muzzleVel=1000,
 																											range=1000,
@@ -7411,7 +7411,7 @@
 																											projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																											fragment={--¼õËÙ
+																											fragment={--å‡é€Ÿ
 																												damage=100,
 																												muzzleVel=1000,
 																												range=0,
@@ -7423,7 +7423,7 @@
 																												projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																												fragment={--»·ÈÆ 6
+																												fragment={--ç¯ç»• 6
 																													damage=100,
 																													muzzleVel=1000,
 																													range=1000,
@@ -7433,7 +7433,7 @@
 																													projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																													fragment={--¼õËÙ
+																													fragment={--å‡é€Ÿ
 																														damage=100,
 																														muzzleVel=1000,
 																														range=0,
@@ -7445,7 +7445,7 @@
 																														projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																														fragment={--»·ÈÆ 1
+																														fragment={--ç¯ç»• 1
 																															damage=100,
 																															muzzleVel=1000,
 																															range=1000,
@@ -7455,7 +7455,7 @@
 																															projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																															fragment={--¼õËÙ
+																															fragment={--å‡é€Ÿ
 																																damage=100,
 																																muzzleVel=1000,
 																																range=0,
@@ -7467,7 +7467,7 @@
 																																projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																fragment={--»·ÈÆ 2
+																																fragment={--ç¯ç»• 2
 																																	damage=100,
 																																	muzzleVel=1000,
 																																	range=1000,
@@ -7477,7 +7477,7 @@
 																																	projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																	fragment={--¼õËÙ
+																																	fragment={--å‡é€Ÿ
 																																		damage=100,
 																																		muzzleVel=1000,
 																																		range=0,
@@ -7489,7 +7489,7 @@
 																																		projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																		fragment={--»·ÈÆ 3
+																																		fragment={--ç¯ç»• 3
 																																			damage=100,
 																																			muzzleVel=1000,
 																																			range=1000,
@@ -7499,7 +7499,7 @@
 																																			projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																			fragment={--¼õËÙ
+																																			fragment={--å‡é€Ÿ
 																																				damage=100,
 																																				muzzleVel=1000,
 																																				range=0,
@@ -7511,7 +7511,7 @@
 																																				projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																				fragment={--»·ÈÆ 4
+																																				fragment={--ç¯ç»• 4
 																																					damage=100,
 																																					muzzleVel=1000,
 																																					range=1000,
@@ -7521,7 +7521,7 @@
 																																					projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																					fragment={--¼õËÙ
+																																					fragment={--å‡é€Ÿ
 																																						damage=100,
 																																						muzzleVel=1000,
 																																						range=0,
@@ -7533,7 +7533,7 @@
 																																						projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																						fragment={--»·ÈÆ 5
+																																						fragment={--ç¯ç»• 5
 																																							damage=100,
 																																							muzzleVel=1000,
 																																							range=1000,
@@ -7543,7 +7543,7 @@
 																																							projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																							fragment={--¼õËÙ
+																																							fragment={--å‡é€Ÿ
 																																								damage=100,
 																																								muzzleVel=1000,
 																																								range=0,
@@ -7555,7 +7555,7 @@
 																																								projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																								fragment={--»·ÈÆ 6
+																																								fragment={--ç¯ç»• 6
 																																									damage=100,
 																																									muzzleVel=1000,
 																																									range=1000,
@@ -7565,7 +7565,7 @@
 																																									projectileSize=20,
 			explosive=FINAL,
 			explodeRadius=0,
-																																									fragment={--¼õËÙ
+																																									fragment={--å‡é€Ÿ
 																																										damage=100,
 																																										muzzleVel=1000,
 																																										range=0,
@@ -8964,7 +8964,7 @@
 		-- group=1257,
 		-- features=PALETTE|LAUNCHER,
 		-- name=_("_text_Decoy")_("_bl")_("_text_Generator"),
-		-- blurb="·¢ÉäÒ»¼Ü³ÖĞøÈıÊ®ÃëÓÕÆ­µĞÈË»ğÁ¦µÄĞé¼ÙÈ«Ï¢½¢´¬¡£\n(i)È«Ï¢½¢´¬£ºKnight¡£"_("_n")_("_blurb_decoy_block"),
+		-- blurb="å‘å°„ä¸€æ¶æŒç»­ä¸‰åç§’è¯±éª—æ•Œäººç«åŠ›çš„è™šå‡å…¨æ¯èˆ°èˆ¹ã€‚\n(i)å…¨æ¯èˆ°èˆ¹ï¼šKnightã€‚"_("_n")_("_blurb_decoy_block"),
 		-- shape=1257007,
 		-- scale=1,
 		-- fillColor=0x0000ff,

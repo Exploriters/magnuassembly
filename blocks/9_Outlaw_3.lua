@@ -257,7 +257,7 @@
 			projectileSize=0,
 			explosive=ENABLED,
 			explodeRadius=0,
-			fragment={-- Ïû³ıËÙ¶È
+			fragment={-- æ¶ˆé™¤é€Ÿåº¦
 				damage=1,
 				muzzleVel=1,
 				spread=3.1415926535897932384626433832795,
@@ -267,7 +267,7 @@
 				color=0x01821d28,
 				explosive=ENABLED,
 				explodeRadius=0,
-				fragment={-- Èı·½Ïò·ÖÉ¢
+				fragment={-- ä¸‰æ–¹å‘åˆ†æ•£
 					damage=1,
 					muzzleVel=1,
 					spread=2.094,
@@ -277,7 +277,7 @@
 					color=0x01821d28,
 					explosive=ENABLED,
 					explodeRadius=0,
-					fragment={-- Ïû³ıËÙ¶È
+					fragment={-- æ¶ˆé™¤é€Ÿåº¦
 						damage=1,
 						muzzleVel=1,
 						spread=3.1415926535897932384626433832795,
@@ -287,7 +287,7 @@
 						color=0x01821d28,
 						explosive=ENABLED,
 						explodeRadius=0,
-						fragment={-- 30¶È·ÖÉ¢
+						fragment={-- 30åº¦åˆ†æ•£
 							damage=1,
 							muzzleVel=100,
 							spread=0.52359877559829887307710723054658,
@@ -297,7 +297,7 @@
 							color=0x01821d28,
 							explosive=ENABLED,
 							explodeRadius=0,
-							fragment={-- Í£Áô
+							fragment={-- åœç•™
 								damage=1,
 								muzzleVel=100,
 								spread=3.1415926535897932384626433832795,

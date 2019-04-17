@@ -43,7 +43,7 @@
 		teleporterRadius=30000,
 		aihint_range=960,
 		aihint_muzzleVel=960,
-		cannon={--³õÊ¼
+		cannon={--åˆå§‹
 			recoil=1e-32,
 			damage=1,
 			power=20,
@@ -55,7 +55,7 @@
 			pattern=CONSTANT,
 			burstyness=0.333333333333333,
 			color=0x7fff00,
-			fragment={--µôÍ·
+			fragment={--æ‰å¤´
 				damage=20,
 				muzzleVel=1280,
 				range=0,
@@ -65,7 +65,7 @@
 				color=0x7fff00,
 				explosive=FINAL,
 				explodeRadius=0,
-				fragment={--±¬Õ¨
+				fragment={--çˆ†ç‚¸
 					damage=20,
 					muzzleVel=320,
 					range=0,
@@ -75,7 +75,7 @@
 					color=0x7fff00,
 					explosive=FINAL,
 					explodeRadius=20,
-					fragment={--É¢Éä
+					fragment={--æ•£å°„
 						damage=20,
 						muzzleVel=960,
 						range=960,
@@ -83,7 +83,7 @@
 						roundsPerBurst=3,
 						pattern=SPIRAL,
 						color=0x7fff00,
-						fragment={--µØÀ×
+						fragment={--åœ°é›·
 							damage=20,
 							muzzleVel=960,
 							range=9600,

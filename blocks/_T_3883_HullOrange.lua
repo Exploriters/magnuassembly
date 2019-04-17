@@ -7,4 +7,5 @@
 		growRate=10,
 		armor=0,
 		meleeDamage=1,
+		capacity=0,
 		

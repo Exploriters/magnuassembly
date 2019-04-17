@@ -10,4 +10,5 @@
 		meleeDamage=0,
 		teleporterPower=100,
 		teleporterRadius=30000,
+		capacity=0,
 		

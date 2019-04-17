@@ -8,4 +8,5 @@
 		armor=0,
 		meleeDamage=2,
 		elasticity=0,
+		capacity=0,
 		

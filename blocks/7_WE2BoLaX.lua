@@ -216,6 +216,7 @@
 		durability=2.31,
 		density=0.1,
 		growRate=10,
+		capacity=0,
 		cannonBoost={
 			damage={1.001, 0},
 			explodeRadius={1.001, 0},
@@ -242,6 +243,7 @@
 		durability=2.31,
 		density=0.1,
 		growRate=10,
+		capacity=0,
 		cannonBoost={
 			damage={1.002001, 0},
 			explodeRadius={1.002001, 0},
@@ -269,6 +271,7 @@
 		density=0.125,
 		growRate=5,
 		meleeDamage=0,
+		capacity=0,
 		shield={
 			strength=444,
 			regen=148,
@@ -297,6 +300,7 @@
 		durability=5.05,
 		density=1,
 		growRate=2.5,
+		capacity=0,
 		cannonBoost={
 			damage={1.016120561824374, 0},
 			explodeRadius={1.016120561824374, 0},
