@@ -7,7 +7,7 @@
 		growRate=153.622,
 		meleeDamage=0,
 		armor=100,
-		elasticity=0,
+		elasticity=1,
 		
 		laser={
 			damage=20,
