@@ -1,7 +1,5 @@
 
-		fillColor=0x80ffff00,
-		fillColor1=0x80ffc000,
-		lineColor=0x5862a0,
+		#include "_T_Lapism_goldentheme.lua"
 		durability=20,
 		density=0.05,
 		growRate=2,

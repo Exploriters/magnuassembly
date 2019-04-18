@@ -4042,9 +4042,7 @@
 			features=NORECOLOR|COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			points=30,
 			command={
 			},
@@ -4100,9 +4098,7 @@
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
 			scale=2,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			points=120,
 			command={
 			},
@@ -4158,9 +4154,7 @@
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
 			scale=3,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			points=270,
 			command={
 			},
@@ -4452,9 +4446,7 @@
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=3,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			command={
 				flags=ATTACK|BAD_AIM|NO_PARENT|RECKLESS|SPREAD_FIRE,
 			},
@@ -4510,9 +4502,7 @@
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=2,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			command={
 				flags=ATTACK|BAD_AIM|NO_PARENT|RECKLESS|SPREAD_FIRE,
 			},
@@ -4567,9 +4557,7 @@
 			name=_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
-			fillColor=0x80ffff00,
-			fillColor1=0x80ffc000,
-			lineColor=0x5862a0,
+			#include "_T_Lapism_goldentheme.lua"
 			points=6400,
 			durability=4.276,
 			density=0.01,
@@ -4579,16 +4567,13 @@
 			powerCapacity=10,
 			explodeDamage=34028235679733642748073463979561713663,
 			explodeRadius=13e11,
-			sound="Energyblaster",
 			replicateBlock={
 				group=1257,
 				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 				name=_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
-				fillColor=0x80ffff00,
-				fillColor1=0x80ffc000,
-				lineColor=0x5862a0,
+				#include "_T_Lapism_goldentheme.lua"
 				points=6400,
 				durability=4.276,
 				density=0.01,
@@ -4605,9 +4590,7 @@
 					name=_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
-					fillColor=0x80ffff00,
-					fillColor1=0x80ffc000,
-					lineColor=0x5862a0,
+					#include "_T_Lapism_goldentheme.lua"
 					points=6400,
 					durability=4.276,
 					density=0.01,
@@ -4624,9 +4607,7 @@
 						name=_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
-						fillColor=0x80ffff00,
-						fillColor1=0x80ffc000,
-						lineColor=0x5862a0,
+						#include "_T_Lapism_goldentheme.lua"
 						points=6400,
 						durability=4.276,
 						density=0.01,
@@ -4643,9 +4624,7 @@
 							name=_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
-							fillColor=0x80ffff00,
-							fillColor1=0x80ffc000,
-							lineColor=0x5862a0,
+							#include "_T_Lapism_goldentheme.lua"
 							points=6400,
 							durability=4.276,
 							density=0.01,
@@ -4662,9 +4641,7 @@
 								name=_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
-								fillColor=0x80ffff00,
-								fillColor1=0x80ffc000,
-								lineColor=0x5862a0,
+								#include "_T_Lapism_goldentheme.lua"
 								points=6400,
 								durability=4.276,
 								density=0.01,
@@ -4678,6 +4655,7 @@
 								launcherPower=10000,
 								launcherOutSpeed=0,
 								launcherAngVel=0,
+								sound="Energyblaster",
 							},
 							replicateTime=2,
 							launcherPower=0,
