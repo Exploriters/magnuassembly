@@ -4321,7 +4321,7 @@
 		blurb=_("_blurb_lapismGuardDroneLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "_T_Lapisdevice_golden.lua"
+		#include "_T_Lapisdevice.lua"
 		points=300,
 		replicateBlock={
 			group=1257,
@@ -4382,7 +4382,7 @@
 		blurb=_("_blurb_lapismOrbcannonLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "_T_Lapisdevice_golden.lua"
+		#include "_T_Lapisdevice.lua"
 		points=340,
 		replicateBlock={
 			group=1257,
