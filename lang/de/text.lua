@@ -551,6 +551,10 @@
 	"_blurb_B10BolaMine"="Best hunting weapon all-time. ",
 	"_text_B10Cannonlasershotgun"="Laser Shotgun",
 	"_blurb_B10Cannonlasershotgun"="A quick harmful scanning. ",
+-- DSSETRNDD
+	"_text_DSDCapsule"="Deepspace Ultraminer Capsule",
+	"_blurb_DSDCapsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nCore shield is installed, keeping you from being killed by long time damage. ",
+	"_blurb_DSDDarkhull"="The most ultra pure dark technology all-time. ",
 -- Magnualand
 	"_text_SovGenerator"="Territorial Claim Unit",
 	"_blurb_SovGenerator"="Provide warping portal and safety. ",

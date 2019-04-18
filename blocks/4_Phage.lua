@@ -11,7 +11,7 @@
 		#include "_T_Phage_style.lua"
 		command={
 		},
-		points=10,
+		points=20,
 		durability=4.37,
 		density=0.09,
 		growRate=1.2585,

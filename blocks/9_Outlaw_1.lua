@@ -7,6 +7,7 @@
 		name=_("_text_B10tech")_("_bl")_("_text_Hull")_("_bl")_("(SQUARE)"),
 		blurb=_("_blurb_standardStructue"),
 		shape=SQUARE,
+		scale=1,
 		#include "_T_B10_HullDark.lua"
 		points=-1,
 	},

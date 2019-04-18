@@ -551,6 +551,10 @@
 	"_blurb_B10BolaMine"="最佳狩猎武器。",
 	"_text_B10Cannonlasershotgun"="激光霰弹枪",
 	"_blurb_B10Cannonlasershotgun"="快速的有害扫描。",
+-- 深空战略勘探技术研发部
+	"_text_DSDCapsule"="深空勘探航天仓",
+	"_blurb_DSDCapsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n配备核心护盾，消耗持续性伤害。",
+	"_blurb_DSDDarkhull"="这是有史以来最纯粹的终极致黑科技。",
 -- 马葛兰
 	"_text_SovGenerator"="主权宣布设施",
 	"_blurb_SovGenerator"="提供跃迁出口和安全保护。",
