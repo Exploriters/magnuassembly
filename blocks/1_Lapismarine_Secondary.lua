@@ -601,7 +601,7 @@
 		blurb=_("_blurb_lapismMegaShield"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=4880,
 		shield={
 			strength=128000,
@@ -2306,7 +2306,7 @@
 		blurb=_("_blurb_eliteRifle"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=1257,
 		laser={
 			damage=1000,
@@ -2334,7 +2334,7 @@
 		blurb=_("_blurb_lapismGravitationBeam"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=250,
 		laser={
 			damage=100,
@@ -2359,7 +2359,7 @@
 		blurb=_("_blurb_lapismKineticBomb"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=250,
 		laser={
 			damage=100,
@@ -2494,7 +2494,7 @@
 		blurb=_("_blurb_lapismStrategicSmartbomb"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=2000,
 		aihint_range=3000,
 		aihint_muzzleVel=1e8,
@@ -2687,7 +2687,7 @@
 		blurb=_("_blurb_superLaserSenser"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=-1,
 		laser={
 			damage=0.01,
@@ -2713,7 +2713,7 @@
 		blurb=_("_blurb_shortPlasmaCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=489,
 		cannon={
 			damage=1000,
@@ -2788,7 +2788,7 @@
 		blurb=_("_blurb_BlizzardLauncher"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=1474,
 		barrelTaper=2,
 		cannon={--初始炮弹 2500
@@ -4549,7 +4549,7 @@
 		blurb=_("_blurb_StrategicShieldDisturberLauncher"),
 		shape=1257007,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=4060,
 		replicateBlock={
 			group=1257,
@@ -4768,7 +4768,7 @@
 		blurb=_("_blurb_FlatWebCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=888,
 		barrelTaper=3,
 		cannon={
@@ -5780,7 +5780,7 @@
 		blurb=_("_text_lapismInnerSweepCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=2250,
 		barrelTaper=2,
 		cannon={--起始
@@ -6300,7 +6300,7 @@
 		blurb=_("_blurb_lapismsuperdot"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=4250,
 		cannon={--起始
 			damage=1000,
