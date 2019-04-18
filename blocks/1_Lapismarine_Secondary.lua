@@ -219,7 +219,7 @@
 		ident=1257018,
 		sort=1257018000,
 		group=1257,
-		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
+		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
@@ -233,7 +233,7 @@
 		ident=1257019,
 		sort=1257019000,
 		group=1257,
-		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
+		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
@@ -247,7 +247,7 @@
 		ident=1257020,
 		sort=1257020000,
 		group=1257,
-		features=PALETTE|NORECOLOR|MELEE|NOCLIP_ALLY,
+		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_Lapismarine")_("_bl")_("_text_blockArmor"),
 		blurb=_("_blurb_lapismArmor"),
 		shape=TRI,
@@ -4039,7 +4039,7 @@
 		points=30,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
+			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
 			#include "_T_Lapism_goldentheme.lua"
@@ -4094,7 +4094,7 @@
 		points=120,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
+			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
 			scale=2,
@@ -4150,7 +4150,7 @@
 		points=270,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
+			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
 			name=_("_text_lapismNanobotDrone"),
 			shape=1257003,
 			scale=3,
@@ -4441,7 +4441,7 @@
 		points=1130,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
+			features=COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
 			name=_("_text_ARC-4675Orb"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
@@ -4497,7 +4497,7 @@
 		points=502,
 		replicateBlock={
 			group=1257,
-			features=NORECOLOR|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
+			features=COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE,
 			name=_("_text_ARC-4675Orb"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
@@ -4553,7 +4553,7 @@
 		points=4060,
 		replicateBlock={
 			group=1257,
-			features=COMMAND|ONEUSE|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+			features=COMMAND|ONEUSE|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 			name=_("_text_StrategicShieldDisturberBombStage5"),
 			shape=1257006,
 			scale=3,
@@ -4569,7 +4569,7 @@
 			explodeRadius=13e11,
 			replicateBlock={
 				group=1257,
-				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 				name=_("_text_StrategicShieldDisturberBombStage4"),
 				shape=1257006,
 				scale=3,
@@ -4586,7 +4586,7 @@
 				sound="Energyblaster",
 				replicateBlock={
 					group=1257,
-					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 					name=_("_text_StrategicShieldDisturberBombStage3"),
 					shape=1257006,
 					scale=3,
@@ -4603,7 +4603,7 @@
 					sound="Energyblaster",
 					replicateBlock={
 						group=1257,
-						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 						name=_("_text_StrategicShieldDisturberBombStage2"),
 						shape=1257006,
 						scale=3,
@@ -4620,7 +4620,7 @@
 						sound="Energyblaster",
 						replicateBlock={
 							group=1257,
-							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 							name=_("_text_StrategicShieldDisturberBombStage1"),
 							shape=1257006,
 							scale=3,
@@ -4637,7 +4637,7 @@
 							sound="Energyblaster",
 							replicateBlock={
 								group=1257,
-								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|NORECOLOR|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
+								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
 								name=_("_text_StrategicShieldDisturberBombStage0"),
 								shape=1257006,
 								scale=3,
