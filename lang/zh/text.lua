@@ -551,6 +551,8 @@
 	"_blurb_B10BolaMine"="最佳狩猎武器。",
 	"_text_B10Cannonlasershotgun"="激光霰弹枪",
 	"_blurb_B10Cannonlasershotgun"="快速的有害扫描。",
+	"_text_B10Crossbow"="十字弓",
+	"_blurb_B10Crossbow"="最佳狩猎武器——这个也是。",
 	"_text_B10Flak"="自动引信炮",
 	"_blurb_B10Flak"="大范围杀伤性自动引信炮。",
 	"_text_B10Coil"="线圈炮",

@@ -551,6 +551,8 @@
 	"_blurb_B10BolaMine"="Best hunting weapon all-time. ",
 	"_text_B10Cannonlasershotgun"="Laser Shotgun",
 	"_blurb_B10Cannonlasershotgun"="A quick harmful scanning. ",
+	"_text_B10Crossbow"="Crossbow",
+	"_blurb_B10Crossbow"="Best hunting weapon all-time-too. ",
 	"_text_B10Flak"="Flak Cannon",
 	"_blurb_B10Flak"="Proximity area blast flak cannon. ",
 	"_text_B10Coil"="Coil Gun",
