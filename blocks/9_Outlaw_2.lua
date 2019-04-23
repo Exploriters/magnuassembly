@@ -677,7 +677,6 @@
 										color=0x821d28,
 										explosive=PROXIMITY|FINAL,
 										explodeRadius=100,
-										},
 									},
 								},
 							},
@@ -685,8 +684,7 @@
 					},
 				},
 			},
-		},
 		turretSpeed=7.069,
-	},
+	}
 	
 ----- 1243900-1243999
