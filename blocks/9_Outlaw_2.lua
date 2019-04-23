@@ -713,7 +713,7 @@
 			range=1600,
 			color=0x821d28,
 			explosive=PROXIMITY|FINAL,
-			explodeRadius=100,
+			explodeRadius=300,
 			spread=0.05,
 			pattern=RANDOM,
 			fragment={
