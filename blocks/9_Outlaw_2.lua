@@ -677,6 +677,7 @@
 										color=0x821d28,
 										explosive=PROXIMITY|FINAL,
 										explodeRadius=100,
+										},
 									},
 								},
 							},
