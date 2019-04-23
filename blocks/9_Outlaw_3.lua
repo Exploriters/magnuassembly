@@ -27,7 +27,7 @@
 		shape=1243000,
 		scale=1,
 		#include "_T_B10_Thruster.lua"
-		points=3,
+		points=6,
 		thrusterForce=0,
 		thrusterBoost=0.5,
 		thrusterBoostTime=inf,
@@ -45,7 +45,7 @@
 		shape=1243000,
 		scale=1,
 		#include "_T_B10_Thruster.lua"
-		points=9,
+		points=12,
 		thrusterForce=0,
 		thrusterBoost=1,
 		thrusterBoostTime=inf,
