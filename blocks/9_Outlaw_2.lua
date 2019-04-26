@@ -431,7 +431,6 @@
 			},
 		},
 		turretSpeed=9.424,
-		turretLimit=4.712,
 	},
 
 	{
