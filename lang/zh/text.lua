@@ -544,8 +544,8 @@
 	"_blurb_B10Thruster_BLINK"="适用于巡洋舰的中型微跃迁推进器。\n主要喷射力度：800K\nRCS喷射力度；200K"
 	
 	"_text_B10GooLauncher"="粘液球喷枪",
-	"_blurb_B10Goo"="发射延迟爆炸的追踪性粘液球。",
-	"_text_B10GooLauncher"="粘液球",
+	"_blurb_B10GooLauncher"="发射延迟爆炸的追踪性粘液球。",
+	"_text_B10Goo"="粘液球",
 	"_blurb_B10Goo"="黏糊糊的。",
 	"_text_B10NanoMissileBattery"="纳米导弹",
 	"_blurb_B10NanoMissileBattery"="治疗友军或伤害敌人。无法被敌对护盾或无近战装甲引爆。会被氦闪摧毁。",
