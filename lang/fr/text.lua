@@ -438,6 +438,8 @@
 	"_blurb_WE2estone"="Ender Stone. ",
 	"_text_WE2assembler"="Reassemble Crystal",
 	"_blurb_WE2assembler"="Long ranged reassemble crystal with explosive. ",
+	"_text_WE2Bedrock"="Bedrock",
+	"_blurb_WE2Bedrock"="Invulnerable. ",
 	
 	"_blurb_WE2weapon_A1"="A1",
 	"_blurb_WE2weapon_bslash"="Backslash Crossbow",

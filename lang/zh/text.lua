@@ -438,6 +438,8 @@
 	"_blurb_WE2estone"="沉重的可种植方块",
 	"_text_WE2assembler"="重组水晶",
 	"_blurb_WE2assembler"="远距离再生长增幅激光的爆炸性水晶。",
+	"_text_WE2Bedrock"="基岩",
+	"_blurb_WE2Bedrock"="坚不可摧。",
 	
 	"_blurb_WE2weapon_A1"="A1射弹炮",
 	"_blurb_WE2weapon_bslash"="反斜杠十字弓",
