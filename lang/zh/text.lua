@@ -558,7 +558,7 @@
 	"_text_B10Flak"="自动引信炮",
 	"_blurb_B10Flak"="大范围杀伤性自动引信炮。",
 	"_text_B10Coil"="线圈炮",
-	"_blurb_B10Coil"="高单速的远程武器。",
+	"_blurb_B10Coil"="高弹速的远程武器。",
 	"_text_B10Fusion"="聚能爆破器",
 	"_blurb_B10Fusion"="近距离爆炸性轰炸武器。",
 	"_text_B10Gatling"="加特林机关枪",
