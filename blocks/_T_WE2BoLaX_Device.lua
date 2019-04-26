@@ -6,4 +6,5 @@
 		density=0.2,
 		growRate=3.3,
 		capacity=0,
+		elasticity=0,
 		
