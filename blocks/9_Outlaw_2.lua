@@ -905,8 +905,6 @@
 		scale=2,
 		#include "_T_B10_Device.lua"
 		points=150,
-		aihint_muzzleVel=3000,
-		aihint_range=3000,
 		cannon={
 			recoil=0.1,
 			damage=40,
