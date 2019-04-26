@@ -3,15 +3,15 @@
 		ident=1880000,
 		sort=1880000000,
 		group=1880,
-		features=ASSEMBLER|CANNON|COMMAND|MELEE|GENERATOR|SELFFACTORY|SHIELD|TELEPORTER|THRUSTER|TORQUER|TRACTOR|TURRET,
+		features=ASSEMBLER|CANNON|COMMAND|MELEE|GENERATOR|SELFFACTORY|SHIELD|TELEPORTER|THRUSTER|TORQUER|TRACTOR|TURRET|0000000000,
 		name=_("_text_PhageCore"),
 		blurb=_("_blurb_PhageCore"),
 		shape=PENTAGON,
 		scale=1,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		command={
 		},
-		points=10,
+		points=20,
 		durability=4.37,
 		density=0.09,
 		growRate=1.2585,
@@ -29,7 +29,7 @@
 			damagedColor=0xbf7fc04f,
 		},
 		capacity=2172,
-		tractorRange=1000,
+		tractorRange=3100,
 		generatorCapacityPerSec=1000,
 		powerCapacity=10000,
 		thrusterForce=25000,
@@ -38,9 +38,13 @@
 		thrusterColor=0xff7fff00,
 		thrusterColor1=0xbfc0ff7f,
 		torquerTorque=25000,
+		finForce=12500,
 		teleporterPower=20,
 		teleporterRadius=30000,
-		cannon={--≥ı º
+		aihint_range=960,
+		aihint_muzzleVel=960,
+		cannon={--ÂàùÂßã
+			recoil=1e-32,
 			damage=1,
 			power=20,
 			roundsPerSec=4,
@@ -51,7 +55,7 @@
 			pattern=CONSTANT,
 			burstyness=0.333333333333333,
 			color=0x7fff00,
-			fragment={--µÙÕ∑
+			fragment={--ÊéâÂ§¥
 				damage=20,
 				muzzleVel=1280,
 				range=0,
@@ -61,7 +65,7 @@
 				color=0x7fff00,
 				explosive=FINAL,
 				explodeRadius=0,
-				fragment={--±¨’®
+				fragment={--ÁàÜÁÇ∏
 					damage=20,
 					muzzleVel=320,
 					range=0,
@@ -71,7 +75,7 @@
 					color=0x7fff00,
 					explosive=FINAL,
 					explodeRadius=20,
-					fragment={--…¢…‰
+					fragment={--Êï£Â∞Ñ
 						damage=20,
 						muzzleVel=960,
 						range=960,
@@ -79,10 +83,10 @@
 						roundsPerBurst=3,
 						pattern=SPIRAL,
 						color=0x7fff00,
-						fragment={--µÿ¿◊
+						fragment={--Âú∞Èõ∑
 							damage=20,
-							muzzleVel=640,
-							range=6400,
+							muzzleVel=960,
+							range=9600,
 							spread=3.1415926535897932384626433832795,
 							roundsPerBurst=1,
 							pattern=CONSTANT,
@@ -125,7 +129,7 @@
 		name=_("_text_phageHull"),
 		blurb=_("_blurb_phageHull"),
 		shape=RHOMBUS_72_108,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=-1,
 		capacity=95,
 		cannonBoost={
@@ -140,7 +144,7 @@
 		name=_("_text_phageHull"),
 		blurb=_("_blurb_phageHull"),
 		shape=RHOMBUS_36_144,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=-1,
 		capacity=59,
 		cannonBoost={
@@ -151,11 +155,11 @@
 		ident=1880003,
 		sort=1880003000,
 		group=1880,
-		features=PALETTE|CANNON_BOOST|THRUSTER,
+		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
 		name=_("_text_Thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		capacity=55,
 		thrusterForce=25000,
@@ -163,6 +167,7 @@
 		thrusterBoostTime=0.05,
 		thrusterColor=0xff7fff00,
 		thrusterColor1=0xbfc0ff7f,
+		finForce=12500,
 		cannonBoost={
 		},
 	},
@@ -171,12 +176,12 @@
 		ident=1880004,
 		sort=1880004000,
 		group=1880,
-		features=PALETTE|CANNON_BOOST|THRUSTER,
+		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
 		name=_("_text_Thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=2,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=4,
 		capacity=220,
 		thrusterForce=100000,
@@ -184,6 +189,7 @@
 		thrusterBoostTime=0.05,
 		thrusterColor=0xff7fff00,
 		thrusterColor1=0xbfc0ff7f,
+		finForce=50000,
 		cannonBoost={
 		},
 	},
@@ -192,12 +198,12 @@
 		ident=1880005,
 		sort=1880005000,
 		group=1880,
-		features=PALETTE|CANNON_BOOST|THRUSTER,
+		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
 		name=_("_text_Thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=3,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		capacity=494,
 		thrusterForce=225000,
@@ -205,6 +211,7 @@
 		thrusterBoostTime=0.05,
 		thrusterColor=0xff7fff00,
 		thrusterColor1=0xbfc0ff7f,
+		finForce=112500,
 		cannonBoost={
 		},
 	},
@@ -213,10 +220,10 @@
 		ident=1880006,
 		sort=1880006000,
 		group=1880,
-		features=NOPALETTE|CANNON_BOOST|MELEE|FACTORY|PHOTOSYNTH|TRACTOR,
+		features=CANNON_BOOST|MELEE|FACTORY|PHOTOSYNTH|TRACTOR,
 		name=_("_text_Factory"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=101,
 		capacity=172,
 		tractorRange=2000,
@@ -229,17 +236,20 @@
 		ident=1880007,
 		sort=1880007000,
 		group=1880,
-		features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
-		deathFeatures=GROW,
+	--	features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
+		features=PALETTE|CANNON_BOOST|MELEE|GENERATOR,
+		deathFeatures=GROW|PHOTOSYNTH,
 		name=_("_text_CacheGenerator"),
 		blurb=_("_blurb_CacheGenerator"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=30,
 		capacity=172,
-		generatorCapacityPerSec=3100,
-		--generatorCapacityPerSec=1000,
+	--	generatorCapacityPerSec=3100,
+		generatorCapacityPerSec=1000,
 		powerCapacity=10000,
+		sound="SOFF",
+		photosynthPerSec=1,
 		cannonBoost={
 		},
 		laser={
@@ -266,7 +276,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -274,21 +284,6 @@
 			damage={1.05, 0},
 			power={1.05, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -299,7 +294,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -307,21 +302,6 @@
 			damage={1.1, 0},
 			power={1.1, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -332,7 +312,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -340,21 +320,6 @@
 			damage={1.15, 0},
 			power={1.15, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -365,7 +330,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -373,21 +338,6 @@
 			damage={1.2, 0},
 			power={1.2, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -398,7 +348,7 @@
 		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -406,21 +356,6 @@
 			damage={1.25, 0},
 			power={1.25, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -431,7 +366,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -439,21 +374,6 @@
 			muzzleVel={1.05, 0},
 			power={1.05, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -464,7 +384,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -472,21 +392,6 @@
 			muzzleVel={1.1, 0},
 			power={1.1, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -497,7 +402,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -505,21 +410,6 @@
 			muzzleVel={1.15, 0},
 			power={1.15, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -530,7 +420,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -538,21 +428,6 @@
 			muzzleVel={1.2, 0},
 			power={1.2, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -563,7 +438,7 @@
 		name=_("_text_phageVelBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -571,21 +446,6 @@
 			muzzleVel={1.25, 0},
 			power={1.25, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -596,7 +456,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -604,21 +464,6 @@
 			power={1.05, 0},
 			range={1.05, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -629,7 +474,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -637,21 +482,6 @@
 			power={1.1, 0},
 			range={1.1, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -662,7 +492,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -670,21 +500,6 @@
 			power={1.15, 0},
 			range={1.15, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -695,7 +510,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -703,21 +518,6 @@
 			power={1.2, 0},
 			range={1.2, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -728,7 +528,7 @@
 		name=_("_text_phageRngBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -736,21 +536,6 @@
 			power={1.25, 0},
 			range={1.25, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -761,7 +546,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -769,21 +554,6 @@
 			power={1.05, 0},
 			roundsPerSec={1.05, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -794,7 +564,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -802,21 +572,6 @@
 			power={1.1, 0},
 			roundsPerSec={1.1, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -827,7 +582,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -835,21 +590,6 @@
 			power={1.15, 0},
 			roundsPerSec={1.15, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -860,7 +600,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -868,21 +608,6 @@
 			power={1.2, 0},
 			roundsPerSec={1.2, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -893,7 +618,7 @@
 		name=_("_text_phageRofBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -901,21 +626,6 @@
 			power={1.25, 0},
 			roundsPerSec={1.25, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -926,7 +636,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkI"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=1,
 		bindingId=5,
 		capacity=172,
@@ -934,21 +644,6 @@
 			power={1.05, 0},
 			explodeRadius={1.0246950765959598383221038680521, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -959,7 +654,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=3,
 		bindingId=5,
 		capacity=172,
@@ -967,21 +662,6 @@
 			power={1.1, 0},
 			explodeRadius={1.0488088481701515469914535136799, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -992,7 +672,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIII"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=6,
 		bindingId=5,
 		capacity=172,
@@ -1000,21 +680,6 @@
 			power={1.15, 0},
 			explodeRadius={1.0723805294763608304814159672154, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -1025,7 +690,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=9,
 		bindingId=5,
 		capacity=172,
@@ -1033,21 +698,6 @@
 			power={1.2, 0},
 			explodeRadius={1.0954451150103322269139395656016, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
@@ -1058,7 +708,7 @@
 		name=_("_text_phageErdBooster")_("_bl")_("_text_MkV"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=12,
 		bindingId=5,
 		capacity=172,
@@ -1066,31 +716,16 @@
 			power={1.25, 0},
 			explodeRadius={1.1180339887498948482045868343656, 0},
 		},
-		laser={
-			damage=20,
-			power=1,
-			range=1880,
-			width=1,
-			color=0xff7fff00,
-			linearForce=100000,
-			immobilizeForce=100000,
-			decay=1,
-			explosive=FINAL,
-			explodeRadius=20,
-		},
-		turretSpeed=20,
-		chargeMaxTime=1,
-		chargeMin=0.1,
 	},
 
 	{
 		ident=1880033,
 		sort=1880007100,
 		group=1880,
-		features=NOPALETTE|CANNON_BOOST|MELEE|LAUNCHER|LAUNCHER_BARRAGE,
+		features=CANNON_BOOST|MELEE|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_phageHomingShieldBombLauncher"),
 		shape=1257062,
-		#include "blocks/_T_Phage_style.lua"
+		#include "_T_Phage_style.lua"
 		points=234,
 		capacity=172,
 		cannonBoost={
@@ -1101,7 +736,7 @@
 			name=_("_text_phageHomingShieldBomb"),
 			shape=1257064,
 			lifetime=13,
-			#include "blocks/_T_Phage_style.lua"
+			#include "_T_Phage_style.lua"
 			points=234,
 			durability=0.03,
 			density=0.02,
