@@ -7,7 +7,7 @@
 		primaries=3,
 		color0=0x5862a0,
 		color1=0x7fc0ff,
-		color2=0x0000ff,
+		color2=0xffc000,
 		aiflags=BAD_AIM|CAUTIOUS|DODGES|FLOCKING|METAMORPHOSIS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},

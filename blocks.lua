@@ -1,8 +1,9 @@
 
 {
 
-#include "blocks/1_Lapismarine_Primary.lua"
-#include "blocks/2_Lapismarine_Secondary.lua"
+#include "blocks/0_Lapismarine_Primary.lua"
+#include "blocks/1_Lapismarine_Secondary.lua"
+#include "blocks/2_Lapismarine_Tertiary.lua"
 #include "blocks/3_Ancient.lua"
 #include "blocks/4_Phage.lua"
 #include "blocks/5_Nullsetter.lua"
