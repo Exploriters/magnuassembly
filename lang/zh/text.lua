@@ -567,6 +567,8 @@
 	"_blurb_B10Pluse"="造成巨额爆发伤害",
 	"_text_B10Shotgun"="散射霰弹枪",
 	"_blurb_B10Shotgun"="真-近-战-勇-士，开个玩笑。",
+	"_text_b10_icysnipe"="冰雪狙击者",
+	"_blurb_b10_icysnipe"="一台致命的狙击来复枪，发射的子弹飞的越远伤害越高。",
 -- 深空战略勘探技术研发部
 	"_text_DSDCapsule"="深空勘探航天仓",
 	"_blurb_DSDCapsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n配备核心护盾，消耗持续性伤害。",

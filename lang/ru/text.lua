@@ -567,6 +567,8 @@
 	"_blurb_B10Pluse"="Deals massive brust of damage. ",
 	"_text_B10Shotgun"="Scatter Shotgun",
 	"_blurb_B10Shotgun"="THE-MELEE-WORRIER, just kidding. ",
+	"_text_b10_icysnipe"="Icy Snipe",
+	"_blurb_b10_icysnipe"="A deadly snipe rifle firing shot deals more damage the futher it travel. ",
 -- DSSETRNDD
 	"_text_DSDCapsule"="Deepspace Ultraminer Capsule",
 	"_blurb_DSDCapsule"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nCore shield is installed, keeping you from being killed by long time damage. ",
