@@ -936,7 +936,7 @@
 		aihint_range=4600,
 		cannon={--1 range100 plus100 0.1 vel1000
 			recoil=0.1,
-			damage=500,
+			damage=100,
 			power=100,
 			roundsPerSec=0.5,
 			roundsPerBurst=2,
@@ -949,7 +949,7 @@
 			explosive=ENABLED|FRAG_FINAL,
 			explodeRadius=400,
 			fragment={--2 range250 plus150 0.1 vel1500
-				damage=650,
+				damage=250,
 				muzzleVel=500,
 				spread=0,
 				pattern=CONSTANT,
@@ -958,7 +958,7 @@
 				explosive=ENABLED|FRAG_FINAL,
 				explodeRadius=370,
 				fragment={--3 range450 plus200 0.1 vel2000
-					damage=800,
+					damage=400,
 					muzzleVel=500,
 					spread=0,
 					pattern=CONSTANT,
@@ -967,7 +967,7 @@
 					explosive=ENABLED|FRAG_FINAL,
 					explodeRadius=340,
 					fragment={--4 range700 plus250 0.1 vel2500
-						damage=950,
+						damage=550,
 						muzzleVel=500,
 						spread=0,
 						pattern=CONSTANT,
@@ -976,7 +976,7 @@
 						explosive=ENABLED|FRAG_FINAL,
 						explodeRadius=310,
 						fragment={--5 range1000 plus300 0.1 vel3000
-							damage=1100,
+							damage=700,
 							muzzleVel=500,
 							spread=0,
 							pattern=CONSTANT,
@@ -985,7 +985,7 @@
 							explosive=ENABLED|FRAG_FINAL,
 							explodeRadius=280,
 							fragment={--6 range1350 plus350 0.1 vel3500
-								damage=1250,
+								damage=850,
 								muzzleVel=500,
 								spread=0,
 								pattern=CONSTANT,
@@ -994,7 +994,7 @@
 								explosive=ENABLED|FRAG_FINAL,
 								explodeRadius=250,
 								fragment={--7 range1750 plus400 0.1 vel4000
-									damage=1400,
+									damage=1000,
 									muzzleVel=500,
 									spread=0,
 									pattern=CONSTANT,
@@ -1003,7 +1003,7 @@
 									explosive=ENABLED|FRAG_FINAL,
 									explodeRadius=220,
 									fragment={--8 range2200 plus450 0.1 vel4500
-										damage=1550,
+										damage=1150,
 										muzzleVel=500,
 										spread=0,
 										pattern=CONSTANT,
@@ -1012,7 +1012,7 @@
 										explosive=ENABLED|FRAG_FINAL,
 										explodeRadius=190,
 										fragment={--9 range2800 plus500 0.1 vel5000
-											damage=1700,
+											damage=1300,
 											muzzleVel=500,
 											spread=0,
 											pattern=CONSTANT,
@@ -1021,7 +1021,7 @@
 											explosive=ENABLED|FRAG_FINAL,
 											explodeRadius=160,
 											fragment={--10 range3350 plus550 0.1 vel5500
-												damage=1850,
+												damage=1450,
 												muzzleVel=500,
 												spread=0,
 												pattern=CONSTANT,
@@ -1030,7 +1030,7 @@
 												explosive=ENABLED|FRAG_FINAL,
 												explodeRadius=130,
 												fragment={--11 range3950 plus600 0.1 vel6000
-													damage=2000,
+													damage=1600,
 													muzzleVel=500,
 													spread=0,
 													pattern=CONSTANT,
@@ -1039,7 +1039,7 @@
 													explosive=ENABLED|FRAG_FINAL,
 													explodeRadius=100,
 													fragment={--12 range4600 plus650 0.1 vel6500
-														damage=215,
+														damage=875,
 														muzzleVel=500,
 														roundsPerBurst=10,
 														spread=3.1415926535897932384626433832795,
