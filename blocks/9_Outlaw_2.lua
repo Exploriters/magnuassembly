@@ -937,7 +937,7 @@
 		cannon={--1 range100 plus100 0.1 vel1000
 			recoil=0.1,
 			damage=100,
-			power=100,
+			power=1000,
 			roundsPerSec=0.5,
 			roundsPerBurst=2,
 			burstyness=0.5,
