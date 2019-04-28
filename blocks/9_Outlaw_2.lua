@@ -1065,8 +1065,8 @@
 	},
 
 	{
-		ident=1243426,
-		sort=1243426000,
+		ident=1243427,
+		sort=1243427000,
 		group=1243,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_b10_tech")_("_bl")_("_text_smartbomb"),
@@ -1100,7 +1100,6 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
-		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
 ----- 1243900-1243999
