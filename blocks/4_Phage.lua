@@ -156,7 +156,7 @@
 		sort=1880003000,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
-		name=_("_text_Thruster"),
+		name=_("_text_thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		#include "_T_Phage_style.lua"
@@ -177,7 +177,7 @@
 		sort=1880004000,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
-		name=_("_text_Thruster"),
+		name=_("_text_thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=2,
@@ -199,7 +199,7 @@
 		sort=1880005000,
 		group=1880,
 		features=PALETTE|CANNON_BOOST|THRUSTER|0000000000,
-		name=_("_text_Thruster"),
+		name=_("_text_thruster"),
 		blurb=_("_blurb_standardThruster"),
 		shape=THRUSTER_PENT,
 		scale=3,
@@ -221,7 +221,7 @@
 		sort=1880006000,
 		group=1880,
 		features=CANNON_BOOST|MELEE|FACTORY|PHOTOSYNTH|TRACTOR,
-		name=_("_text_Factory"),
+		name=_("_text_factory"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
 		points=101,
@@ -273,7 +273,7 @@
 		sort=1880008000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkI"),
+		name=_("_text_phageDmgBooster")_("_bl")_("_text_romannum1"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -291,7 +291,7 @@
 		sort=1880009000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkII"),
+		name=_("_text_phageDmgBooster")_("_bl")_("_text_romannum2"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -309,7 +309,7 @@
 		sort=1880010000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIII"),
+		name=_("_text_phageDmgBooster")_("_bl")_("_text_romannum3"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -327,7 +327,7 @@
 		sort=1880011000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkIV"),
+		name=_("_text_phageDmgBooster")_("_bl")_("_text_romannum4"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -345,7 +345,7 @@
 		sort=1880012000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageDmgBooster")_("_bl")_("_text_MkV"),
+		name=_("_text_phageDmgBooster")_("_bl")_("_text_romannum5"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -363,7 +363,7 @@
 		sort=1880013000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageVelBooster")_("_bl")_("_text_MkI"),
+		name=_("_text_phageVelBooster")_("_bl")_("_text_romannum1"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -381,7 +381,7 @@
 		sort=1880014000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageVelBooster")_("_bl")_("_text_MkII"),
+		name=_("_text_phageVelBooster")_("_bl")_("_text_romannum2"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -399,7 +399,7 @@
 		sort=1880015000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIII"),
+		name=_("_text_phageVelBooster")_("_bl")_("_text_romannum3"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -417,7 +417,7 @@
 		sort=1880016000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageVelBooster")_("_bl")_("_text_MkIV"),
+		name=_("_text_phageVelBooster")_("_bl")_("_text_romannum4"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -435,7 +435,7 @@
 		sort=1880017000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageVelBooster")_("_bl")_("_text_MkV"),
+		name=_("_text_phageVelBooster")_("_bl")_("_text_romannum5"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -453,7 +453,7 @@
 		sort=1880018000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRngBooster")_("_bl")_("_text_MkI"),
+		name=_("_text_phageRngBooster")_("_bl")_("_text_romannum1"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -471,7 +471,7 @@
 		sort=1880019000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRngBooster")_("_bl")_("_text_MkII"),
+		name=_("_text_phageRngBooster")_("_bl")_("_text_romannum2"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -489,7 +489,7 @@
 		sort=1880020000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIII"),
+		name=_("_text_phageRngBooster")_("_bl")_("_text_romannum3"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -507,7 +507,7 @@
 		sort=1880021000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRngBooster")_("_bl")_("_text_MkIV"),
+		name=_("_text_phageRngBooster")_("_bl")_("_text_romannum4"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -525,7 +525,7 @@
 		sort=1880022000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRngBooster")_("_bl")_("_text_MkV"),
+		name=_("_text_phageRngBooster")_("_bl")_("_text_romannum5"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -543,7 +543,7 @@
 		sort=1880023000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRofBooster")_("_bl")_("_text_MkI"),
+		name=_("_text_phageRofBooster")_("_bl")_("_text_romannum1"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -561,7 +561,7 @@
 		sort=1880024000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRofBooster")_("_bl")_("_text_MkII"),
+		name=_("_text_phageRofBooster")_("_bl")_("_text_romannum2"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -579,7 +579,7 @@
 		sort=1880025000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIII"),
+		name=_("_text_phageRofBooster")_("_bl")_("_text_romannum3"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -597,7 +597,7 @@
 		sort=1880026000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRofBooster")_("_bl")_("_text_MkIV"),
+		name=_("_text_phageRofBooster")_("_bl")_("_text_romannum4"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -615,7 +615,7 @@
 		sort=1880027000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageRofBooster")_("_bl")_("_text_MkV"),
+		name=_("_text_phageRofBooster")_("_bl")_("_text_romannum5"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -633,7 +633,7 @@
 		sort=1880028000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageErdBooster")_("_bl")_("_text_MkI"),
+		name=_("_text_phageErdBooster")_("_bl")_("_text_romannum1"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -651,7 +651,7 @@
 		sort=1880029000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageErdBooster")_("_bl")_("_text_MkII"),
+		name=_("_text_phageErdBooster")_("_bl")_("_text_romannum2"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -669,7 +669,7 @@
 		sort=1880030000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIII"),
+		name=_("_text_phageErdBooster")_("_bl")_("_text_romannum3"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -687,7 +687,7 @@
 		sort=1880031000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageErdBooster")_("_bl")_("_text_MkIV"),
+		name=_("_text_phageErdBooster")_("_bl")_("_text_romannum4"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
@@ -705,7 +705,7 @@
 		sort=1880032000,
 		group=1880,
 		features=PALETTE|AUTOFIRE|CANNON_BOOST|MELEE|LASER|TURRET,
-		name=_("_text_phageErdBooster")_("_bl")_("_text_MkV"),
+		name=_("_text_phageErdBooster")_("_bl")_("_text_romannum5"),
 		blurb=_("_blurb_phageBooster"),
 		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
