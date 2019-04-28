@@ -1063,5 +1063,44 @@
 		turretSpeed=7.069,
 		turretLimit=4.712,
 	},
+
+	{
+		ident=1243426,
+		sort=1243426000,
+		group=1243,
+		features=PALETTE|CANNON|LASER|TURRET,
+		name=_("_text_b10_tech")_("_bl")_("_text_smartbomb"),
+		blurb=_("_blurb_Smartbomb"),
+		shape=SQUARE,
+		scale=2,
+		#include "_T_B10_Device.lua"
+		points=150,
+		aihint_range=707.1067811865475,
+		aihint_muzzleVel=1e8,
+		cannon={
+			recoil=-1e-16,
+			damage=200,
+			power=100,
+			roundsPerSec=1.6,
+			muzzleVel=1,
+			range=0,
+			spread=3.1415926535897932384626433832795,
+			color=0x01821d28,
+			explosive=FINAL,
+			explodeRadius=707.1067811865475,
+		},
+		laser={
+			damage=0.01,
+			power=0,
+			range=707.1067811865475,
+			width=1,
+			color=0xff821d28,
+			decay=0,
+			explosive=ENABLED,
+			explodeRadius=0,
+		},
+		turretSpeed=125.663,
+		--FAKE--#include "_T_Lapisfakeblock.lua"
+	},
 	
 ----- 1243900-1243999
