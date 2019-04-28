@@ -12,5 +12,6 @@
 #include "blocks/8_LGCorp.lua"
 #include "blocks/9_Outlaw.lua"
 #include "blocks/10_DSSETRNDD.lua"
+#include "blocks/11_Salamander.lua"
 
 }
