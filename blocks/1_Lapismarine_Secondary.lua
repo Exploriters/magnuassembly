@@ -5,7 +5,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapishull.lua"
@@ -19,7 +19,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapishull.lua"
@@ -33,7 +33,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapishull.lua"
@@ -47,7 +47,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapishull.lua"
@@ -61,7 +61,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapishull.lua"
@@ -75,7 +75,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_structue"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapishull.lua"
@@ -89,7 +89,7 @@
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_factory"),
-		blurb=_("_blurb_blockFactory"),
+		blurb=_("_blurb_factory"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_factory.lua"
@@ -103,7 +103,7 @@
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_factory"),
-		blurb=_("_blurb_blockFactory"),
+		blurb=_("_blurb_factory"),
 		shape=TRI,
 		scale=4,
 		#include "_T_Lapism_factory.lua"
@@ -117,7 +117,7 @@
 		group=1257,
 		features=PALETTE|FACTORY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_factory"),
-		blurb=_("_blurb_blockFactory"),
+		blurb=_("_blurb_factory"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapism_factory.lua"
@@ -131,7 +131,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapism_container.lua"
@@ -146,7 +146,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapism_container.lua"
@@ -161,7 +161,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_container.lua"
@@ -176,7 +176,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapism_container.lua"
@@ -191,7 +191,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapism_container.lua"
@@ -206,7 +206,7 @@
 		group=1257,
 		features=PALETTE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_res_container"),
-		blurb=_("_blurb_standardResContainer"),
+		blurb=_("_blurb_res_container"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapism_container.lua"
@@ -221,7 +221,7 @@
 		group=1257,
 		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_block_armor"),
-		blurb=_("_blurb_lapismArmor"),
+		blurb=_("_blurb_lapism_armor"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapism_goldentri.lua"
@@ -235,7 +235,7 @@
 		group=1257,
 		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_block_armor"),
-		blurb=_("_blurb_lapismArmor"),
+		blurb=_("_blurb_lapism_armor"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapism_goldentri.lua"
@@ -249,7 +249,7 @@
 		group=1257,
 		features=PALETTE|MELEE|NOCLIP_ALLY,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_block_armor"),
-		blurb=_("_blurb_lapismArmor"),
+		blurb=_("_blurb_lapism_armor"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_goldentri.lua"
@@ -263,7 +263,7 @@
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_ramspike"),
-		blurb=_("_blurb_lapismMeleeArmor2"),
+		blurb=_("_blurb_lapism_melee_armor_2"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapism_meleespike.lua"
@@ -278,7 +278,7 @@
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_ramspike"),
-		blurb=_("_blurb_lapismMeleeArmor3"),
+		blurb=_("_blurb_lapism_melee_armor_3"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapism_meleespike.lua"
@@ -293,7 +293,7 @@
 		group=1257,
 		features=PALETTE|MELEE,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_ramspike"),
-		blurb=_("_blurb_lapismMeleeArmor5"),
+		blurb=_("_blurb_lapism_melee_armor_5"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_meleespike.lua"
@@ -308,7 +308,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapism_clocked.lua"
@@ -322,7 +322,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapism_clocked.lua"
@@ -336,7 +336,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_clocked.lua"
@@ -350,7 +350,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapism_clocked.lua"
@@ -364,7 +364,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapism_clocked.lua"
@@ -378,7 +378,7 @@
 		group=1257,
 		features=PALETTE|INVISIBLE|NOCLIP,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hiddenblock"),
-		blurb=_("_blurb_lapismHiddenBlock"),
+		blurb=_("_blurb_hidden_block"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapism_clocked.lua"
@@ -391,8 +391,8 @@
 		sort=1257030000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapism_ldirt.lua"
@@ -405,8 +405,8 @@
 		sort=1257031000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapism_ldirt.lua"
@@ -419,8 +419,8 @@
 		sort=1257032000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapism_ldirt.lua"
@@ -432,8 +432,8 @@
 		-- 1257033,
 		-- group=1257,
 		-- features=PALETTE|ENVIRONMENTAL,
-		-- name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		-- blurb=_("_blurb_LightDirt"),
+		-- name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		-- blurb=_("_blurb_plantable_dirt_light"),
 		-- shape=TRI,
 		-- scale=3,
 		-- fillColor=0x5862a0,
@@ -450,8 +450,8 @@
 		sort=1257034000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapism_ldirt.lua"
@@ -464,8 +464,8 @@
 		sort=1257035000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapism_ldirt.lua"
@@ -478,8 +478,8 @@
 		sort=1257036000,
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_platable_dirt"),
-		blurb=_("_blurb_LightDirt"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_plantable_dirt"),
+		blurb=_("_blurb_plantable_dirt_light"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapism_ldirt.lua"
@@ -493,7 +493,7 @@
 		group=1257,
 		features=PALETTE|ENVIRONMENTAL,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_hard_stone"),
-		blurb=_("_blurb_GigaStone"),
+		blurb=_("_blurb_lapism_gigastone"),
 		shape=HEXAGON,
 		scale=10,
 		fillColor=0x5862a0,
@@ -514,7 +514,7 @@
 		group=1257,
 		features=INTLINES,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_palette_blankdevice"),
-		blurb=_("_blurb_BlankDevice"),
+		blurb=_("_blurb_palette_blankdevice"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -529,7 +529,7 @@
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -552,7 +552,7 @@
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -575,7 +575,7 @@
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -598,7 +598,7 @@
 		group=1257,
 		features=PALETTE|SHIELD,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_mega_shield"),
-		blurb=_("_blurb_lapismMegaShield"),
+		blurb=_("_blurb_mega_shield"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -622,7 +622,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -639,7 +639,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -656,7 +656,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=TRI,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -673,7 +673,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -690,7 +690,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -707,7 +707,7 @@
 		features=PALETTE|GENERATOR,
 		deathFeatures=GROW,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator10s"),
+		blurb=_("_blurb_generator_10s"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -723,7 +723,7 @@
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_lapism_resboot"),
-		blurb=_("_blurb_lapismResBoot"),
+		blurb=_("_blurb_lapism_resboot"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -738,7 +738,7 @@
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_lapism_resboot"),
-		blurb=_("_blurb_lapismResBoot"),
+		blurb=_("_blurb_lapism_resboot"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -753,7 +753,7 @@
 		group=1257,
 		features=PALETTE|PHOTOSYNTH,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_lapism_resboot"),
-		blurb=_("_blurb_lapismResBoot"),
+		blurb=_("_blurb_lapism_resboot"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -768,7 +768,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257001,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -787,7 +787,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257002,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -806,7 +806,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257001,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -825,7 +825,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257002,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -844,7 +844,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257001,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -863,7 +863,7 @@
 		group=1257,
 		features=PALETTE|THRUSTER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_standardThruster"),
+		blurb=_("_blurb_thruster"),
 		shape=1257002,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -882,7 +882,7 @@
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_momentumwhell"),
-		blurb=_("_blurb_standardMomentumWhell"),
+		blurb=_("_blurb_momentumwhell"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -897,7 +897,7 @@
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_momentumwhell"),
-		blurb=_("_blurb_standardMomentumWhell"),
+		blurb=_("_blurb_momentumwhell"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -912,7 +912,7 @@
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_momentumwhell"),
-		blurb=_("_blurb_standardMomentumWhell"),
+		blurb=_("_blurb_momentumwhell"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -927,7 +927,7 @@
 		group=1257,
 		features=PALETTE|TORQUER,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_momentumwhell"),
-		blurb=_("_blurb_standardMomentumWhell"),
+		blurb=_("_blurb_momentumwhell"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1002,7 +1002,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon"),
+		blurb=_("_blurb_autocannon"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1028,7 +1028,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon"),
+		blurb=_("_blurb_autocannon"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1055,7 +1055,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon"),
+		blurb=_("_blurb_autocannon"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1082,7 +1082,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon"),
+		blurb=_("_blurb_autocannon"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1109,7 +1109,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser"),
+		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1142,7 +1142,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser"),
+		blurb=_("_blurb_lapism_phaser"),
 		shape=1257010,
 		#include "_T_Lapisdevice.lua"
 		points=20,
@@ -1174,7 +1174,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser"),
+		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1207,7 +1207,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser"),
+		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1240,7 +1240,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_proximity_flak"),
-		blurb=_("_blurb_flakcannon"),
+		blurb=_("_blurb_proximity_flak"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1276,7 +1276,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_proximity_flak"),
-		blurb=_("_blurb_flakcannon"),
+		blurb=_("_blurb_proximity_flak"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1312,7 +1312,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_proximity_flak"),
-		blurb=_("_blurb_flakcannon"),
+		blurb=_("_blurb_proximity_flak"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1348,7 +1348,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_basic")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_standardLaser"),
+		blurb=_("_blurb_standard_laser"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1370,7 +1370,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_basic")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_standardLaser"),
+		blurb=_("_blurb_standard_laser"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1392,7 +1392,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_basic")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_standardLaser"),
+		blurb=_("_blurb_standard_laser"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1415,7 +1415,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_basic")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_standardLaser"),
+		blurb=_("_blurb_standard_laser"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1438,7 +1438,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_blurb_FriendlyTractorBeam"),
+		blurb=_("_text_beam_pull_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1461,7 +1461,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_blurb_FriendlyTractorBeam"),
+		blurb=_("_text_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1484,7 +1484,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_blurb_FriendlyTractorBeam"),
+		blurb=_("_text_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1507,7 +1507,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_blurb_FriendlyTractorBeam"),
+		blurb=_("_text_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1530,7 +1530,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_blurb_FriendlyForceBeam"),
+		blurb=_("_text_beam_push_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1553,7 +1553,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_blurb_FriendlyForceBeam"),
+		blurb=_("_text_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1576,7 +1576,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_blurb_FriendlyForceBeam"),
+		blurb=_("_text_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1599,7 +1599,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_blurb_FriendlyForceBeam"),
+		blurb=_("_text_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1622,7 +1622,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_blurb_FriendlyStaticBeam"),
+		blurb=_("_text_beam_immobilize_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1645,7 +1645,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_blurb_FriendlyStaticBeam"),
+		blurb=_("_text_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1668,7 +1668,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_blurb_FriendlyStaticBeam"),
+		blurb=_("_text_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1691,7 +1691,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_blurb_FriendlyStaticBeam"),
+		blurb=_("_text_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1714,7 +1714,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_blurb_TractorBeam"),
+		blurb=_("_text_beam_pull"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1737,7 +1737,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_blurb_TractorBeam"),
+		blurb=_("_text_beam_pull"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1760,7 +1760,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_blurb_TractorBeam"),
+		blurb=_("_text_beam_pull"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1783,7 +1783,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_blurb_TractorBeam"),
+		blurb=_("_text_beam_pull"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1806,7 +1806,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_blurb_ForceBeam"),
+		blurb=_("_text_beam_push"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1829,7 +1829,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_blurb_ForceBeam"),
+		blurb=_("_text_beam_push"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1852,7 +1852,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_blurb_ForceBeam"),
+		blurb=_("_text_beam_push"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1875,7 +1875,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_blurb_ForceBeam"),
+		blurb=_("_text_beam_push"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1898,7 +1898,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_blurb_StaticBeam"),
+		blurb=_("_text_beam_immobilize"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1921,7 +1921,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_blurb_StaticBeam"),
+		blurb=_("_text_beam_immobilize"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1944,7 +1944,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_blurb_StaticBeam"),
+		blurb=_("_text_beam_immobilize"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1967,7 +1967,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_blurb_StaticBeam"),
+		blurb=_("_text_beam_immobilize"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1990,7 +1990,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_standardNanoassembler"),
+		blurb=_("_blurb_nanoassembler"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2012,7 +2012,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_standardNanoassembler"),
+		blurb=_("_blurb_nanoassembler"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2034,7 +2034,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_standardNanoassembler"),
+		blurb=_("_blurb_nanoassembler"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2056,7 +2056,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_shotgun"),
-		blurb=_("_blurb_shortShotgun"),
+		blurb=_("_blurb_short_shotgun"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2083,7 +2083,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_shotgun"),
-		blurb=_("_blurb_shortShotgun"),
+		blurb=_("_blurb_short_shotgun"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2121,7 +2121,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_shotgun"),
-		blurb=_("_blurb_shortShotgun"),
+		blurb=_("_blurb_short_shotgun"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2159,7 +2159,7 @@
 		group=1257,
 		features=PALETTE|CANNON|CHARGING|TURRET,
 		name=_("_text_rail_cannon"),
-		blurb=_("_blurb_bombingRail"),
+		blurb=_("_blurb_bombing_rail"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2186,7 +2186,7 @@
 		group=1257,
 		features=PALETTE|CANNON|CHARGING|TURRET,
 		name=_("_text_rail_cannon"),
-		blurb=_("_blurb_bombingRail"),
+		blurb=_("_blurb_bombing_rail"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2213,7 +2213,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_rifle"),
-		blurb=_("_blurb_snipeRifle"),
+		blurb=_("_blurb_snipe_rifle"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2243,7 +2243,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_rifle"),
-		blurb=_("_blurb_snipeRifle"),
+		blurb=_("_blurb_snipe_rifle"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2273,7 +2273,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_rifle"),
-		blurb=_("_blurb_snipeRifle"),
+		blurb=_("_blurb_snipe_rifle"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2303,7 +2303,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapism_royal_rifle"),
-		blurb=_("_blurb_eliteRifle"),
+		blurb=_("_blurb_elite_rifle"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -2331,7 +2331,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapism_beam_superpull"),
-		blurb=_("_blurb_lapismGravitationBeam"),
+		blurb=_("_blurb_lapism_beam_superpull"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -2356,7 +2356,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_lapism_beam_superpush"),
-		blurb=_("_blurb_lapismKineticBomb"),
+		blurb=_("_blurb_lapism_beam_superpush"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -2380,7 +2380,7 @@
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_smartbomb"),
-		blurb=_("_blurb_Smartbomb"),
+		blurb=_("_blurb_smartbomb"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2417,7 +2417,7 @@
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_smartbomb"),
-		blurb=_("_blurb_Smartbomb"),
+		blurb=_("_blurb_smartbomb"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2454,7 +2454,7 @@
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_smartbomb"),
-		blurb=_("_blurb_Smartbomb"),
+		blurb=_("_blurb_smartbomb"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2491,7 +2491,7 @@
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_lapism_strategic_smartbomb"),
-		blurb=_("_blurb_lapismStrategicSmartbomb"),
+		blurb=_("_blurb_lapism_strategic_smartbomb"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -3656,7 +3656,7 @@
 		sort=1257162000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_prefix_basic")_("_bl")_("_text_MissileDroneLauncher"),
+		name=_("_text_prefix_basic")_("_bl")_("_text_missile_drone_launcher"),
 		blurb=_("_blurb_MissileDroneLauncher"),
 		shape=1257007,
 		scale=1,
@@ -3665,7 +3665,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|LAUNCHER|THRUSTER|TORQUER,
-			name=_("_text_prefix_basic")_("_bl")_("_text_MissileDrone"),
+			name=_("_text_prefix_basic")_("_bl")_("_text_missile_drone"),
 			shape=1257006,
 			scale=1,
 			fillColor=0x7fc0ff,
@@ -3689,7 +3689,7 @@
 			replicateBlock={
 				group=1257,
 				features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
-				name=_("_text_prefix_basic")_("_bl")_("_text_blockMissile"),
+				name=_("_text_prefix_basic")_("_bl")_("_text_block_missile"),
 				shape=1257003,
 				fillColor=0x0000ff,
 				fillColor1=0x7fc0ff,
@@ -3728,7 +3728,7 @@
 		sort=1257164000,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
-		name=_("_text_prefix_basic")_("_bl")_("_text_MissileBattery"),
+		name=_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=1,
@@ -3737,7 +3737,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
-			name=_("_text_prefix_basic")_("_bl")_("_text_blockMissile"),
+			name=_("_text_prefix_basic")_("_bl")_("_text_block_missile"),
 			shape=1257003,
 			fillColor=0x0000ff,
 			fillColor1=0x7fc0ff,
@@ -3771,7 +3771,7 @@
 		sort=1257166000,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
-		name=_("_text_prefix_basic")_("_bl")_("_text_MissileBattery"),
+		name=_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=2,
@@ -3780,7 +3780,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
-			name=_("_text_prefix_basic")_("_bl")_("_text_blockMissile"),
+			name=_("_text_prefix_basic")_("_bl")_("_text_block_missile"),
 			shape=1257003,
 			fillColor=0x0000ff,
 			fillColor1=0x7fc0ff,
@@ -3814,7 +3814,7 @@
 		sort=1257168000,
 		group=1257,
 		features=PALETTE|LAUNCHER|LAUNCHER_BARRAGE,
-		name=_("_text_prefix_basic")_("_bl")_("_text_MissileBattery"),
+		name=_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
 		blurb=_("_blurb_QuickMissileBattery"),
 		shape=1257005,
 		scale=3,
@@ -3823,7 +3823,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
-			name=_("_text_prefix_basic")_("_bl")_("_text_blockMissile"),
+			name=_("_text_prefix_basic")_("_bl")_("_text_block_missile"),
 			shape=1257003,
 			fillColor=0x0000ff,
 			fillColor1=0x7fc0ff,
@@ -3857,7 +3857,7 @@
 		sort=1257170000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_FragmentDroneLauncher"),
+		name=_("_text_lapism_melee_drone_launcher"),
 		blurb=_("_blurb_FragmentDroneLauncher"),
 		shape=1257008,
 		scale=1,
@@ -3866,7 +3866,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|LAUNCHER|LAUNCHER_BARRAGE|LASER|MELEE|NOREGEN|THRUSTER|TORQUER|NOCLIP_ALLY,
-			name=_("_text_FragmentDrone"),
+			name=_("_text_lapism_melee_drone"),
 			shape=1257003,
 			scale=1,
 			fillColor=0x0000ff,
@@ -3974,7 +3974,7 @@
 		sort=1257172000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_AntiMissileDroneLauncher"),
+		name=_("_text_antimissile_drone_launcher"),
 		blurb=_("_blurb_lapismAntiMissileDroneLauncher"),
 		shape=1257007,
 		scale=1,
@@ -3983,7 +3983,7 @@
 		replicateBlock={
 			group=1257,
 			features=AUTOFIRE|CHARGING|COMMAND|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET,
-			name=_("_text_AntiMissileDrone"),
+			name=_("_text_antimissile_drone"),
 			shape=1257006,
 			scale=1,
 			fillColor=0x7fc0ff,
@@ -4031,7 +4031,7 @@
 		sort=1257174000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismNanobotLauncher"),
+		name=_("_text_lapism_nanobot_launcher"),
 		blurb=_("_blurb_lapismNanobotLauncherSc1"),
 		shape=1257007,
 		scale=1,
@@ -4040,7 +4040,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
-			name=_("_text_lapismNanobotDrone"),
+			name=_("_text_lapism_nanobot"),
 			shape=1257003,
 			#include "_T_Lapism_goldentheme.lua"
 			points=30,
@@ -4086,7 +4086,7 @@
 		sort=1257176000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismNanobotLauncher"),
+		name=_("_text_lapism_nanobot_launcher"),
 		blurb=_("_blurb_lapismNanobotLauncherSc2"),
 		shape=1257007,
 		scale=2,
@@ -4095,7 +4095,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
-			name=_("_text_lapismNanobotDrone"),
+			name=_("_text_lapism_nanobot"),
 			shape=1257003,
 			scale=2,
 			#include "_T_Lapism_goldentheme.lua"
@@ -4142,7 +4142,7 @@
 		sort=1257178000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismNanobotLauncher"),
+		name=_("_text_lapism_nanobot_launcher"),
 		blurb=_("_blurb_lapismNanobotLauncherSc3"),
 		shape=1257007,
 		scale=3,
@@ -4151,7 +4151,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|CHARGING|FREERES|GENERATOR|LASER|THRUSTER|TORQUER|TURRET|ONEUSE,
-			name=_("_text_lapismNanobotDrone"),
+			name=_("_text_lapism_nanobot"),
 			shape=1257003,
 			scale=3,
 			#include "_T_Lapism_goldentheme.lua"
@@ -4198,7 +4198,7 @@
 		sort=1257180000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_CruiseMissileBattery"),
+		name=_("_text_cruise_missile_battery"),
 		blurb=_("_blurb_CruiseMissileBattery"),
 		shape=1257004,
 		scale=3,
@@ -4207,7 +4207,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|EXPLODE|FREERES|NOREGEN|THRUSTER|TORQUER,
-			name=_("_text_CruiseMissile"),
+			name=_("_text_cruise_missile"),
 			shape=1257003,
 			scale=3,
 			fillColor=0x0000ff,
@@ -4242,7 +4242,7 @@
 		sort=1257182000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismAnchorSentryLauncher"),
+		name=_("_text_lapism_anchorsentry_launcher"),
 		blurb=_("_blurb_lapismAnchorSentryLauncher"),
 		shape=1257007,
 		scale=2,
@@ -4251,7 +4251,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|LASER|TURRET|SEED|THRUSTER|TORQUER,
-			name=_("_text_lapismAnchorSentry"),
+			name=_("_text_lapism_anchorsentry"),
 			shape=1257006,
 			scale=2,
 			fillColor=0x7fc0ff,
@@ -4298,7 +4298,7 @@
 		sort=1257184000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_launcherPlanter"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_launcher_planter"),
 		blurb=_("_blurb_lapismPlanter"),
 		shape=1257007,
 		scale=1,
@@ -4317,7 +4317,7 @@
 		sort=1257185000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismGuardDroneLauncher"),
+		name=_("_text_lapism_guarddrone_launcher"),
 		blurb=_("_blurb_lapismGuardDroneLauncher"),
 		shape=1257007,
 		scale=3,
@@ -4326,7 +4326,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|LASER|SHIELD|THRUSTER|TORQUER|TURRET,
-			name=_("_text_lapismGuardDrone"),
+			name=_("_text_lapism_guarddrone"),
 			shape=1257006,
 			scale=3,
 			fillColor=0x0000ff,
@@ -4378,7 +4378,7 @@
 		sort=1257187000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_lapismOrbcannonLauncher"),
+		name=_("_text_lapism_deploy_cannon_launcher"),
 		blurb=_("_blurb_lapismOrbcannonLauncher"),
 		shape=1257007,
 		scale=3,
@@ -4389,7 +4389,7 @@
 			points=1,
 			features=CANNON|COMMAND|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN|TORQUER|TURRET|ONEUSE,
 			deathFeatures=CANNON,
-			name=_("_text_lapismOrbcannonDrone"),
+			name=_("_text_lapism_deploy_cannon_drone"),
 			shape=1257006,
 			scale=3,
 			fillColor=0x0000ff,
@@ -4433,7 +4433,7 @@
 		sort=1257190000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_ARC-4675Launcher"),
+		name=_("_text_arc4675_launcher"),
 		blurb=_("_blurb_ARC-4675Launcher"),
 		shape=1257007,
 		scale=3,
@@ -4442,7 +4442,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|CANNON|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE|PHOTOSYNTH,
-			name=_("_text_ARC-4675Orb"),
+			name=_("_text_arc4675_missile"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=3,
@@ -4506,7 +4506,7 @@
 		sort=1257189000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_ARC-4675Launcher"),
+		name=_("_text_arc4675_launcher"),
 		blurb=_("_blurb_ARC-4675Launcher"),
 		shape=1257007,
 		scale=2,
@@ -4515,7 +4515,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|FREERES|GENERATOR|CANNON|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE|MELEE|PHOTOSYNTH,
-			name=_("_text_ARC-4675Orb"),
+			name=_("_text_arc4675_missile"),
 			blurb=_("_blurb_ARC-4675Orb"),
 			shape=1257006,
 			scale=2,
@@ -4580,7 +4580,7 @@
 		sort=1257191000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_StrategicShieldDisturberLauncher"),
+		name=_("_text_strategic_shield_disturber_launcher"),
 		blurb=_("_blurb_StrategicShieldDisturberLauncher"),
 		shape=1257007,
 		scale=3,
@@ -4589,7 +4589,7 @@
 		replicateBlock={
 			group=1257,
 			features=COMMAND|ONEUSE|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-			name=_("_text_StrategicShieldDisturberBombStage5"),
+			name=_("_text_strategic_shield_disturber_bomb_staged5"),
 			shape=1257006,
 			scale=3,
 			#include "_T_Lapism_goldentheme.lua"
@@ -4605,7 +4605,7 @@
 			replicateBlock={
 				group=1257,
 				features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-				name=_("_text_StrategicShieldDisturberBombStage4"),
+				name=_("_text_strategic_shield_disturber_bomb_staged4"),
 				shape=1257006,
 				scale=3,
 				#include "_T_Lapism_goldentheme.lua"
@@ -4622,7 +4622,7 @@
 				replicateBlock={
 					group=1257,
 					features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-					name=_("_text_StrategicShieldDisturberBombStage3"),
+					name=_("_text_strategic_shield_disturber_bomb_staged3"),
 					shape=1257006,
 					scale=3,
 					#include "_T_Lapism_goldentheme.lua"
@@ -4639,7 +4639,7 @@
 					replicateBlock={
 						group=1257,
 						features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-						name=_("_text_StrategicShieldDisturberBombStage2"),
+						name=_("_text_strategic_shield_disturber_bomb_staged2"),
 						shape=1257006,
 						scale=3,
 						#include "_T_Lapism_goldentheme.lua"
@@ -4656,7 +4656,7 @@
 						replicateBlock={
 							group=1257,
 							features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-							name=_("_text_StrategicShieldDisturberBombStage1"),
+							name=_("_text_strategic_shield_disturber_bomb_staged1"),
 							shape=1257006,
 							scale=3,
 							#include "_T_Lapism_goldentheme.lua"
@@ -4673,7 +4673,7 @@
 							replicateBlock={
 								group=1257,
 								features=COMMAND|ONEUSE|AUTOLAUNCH|LAUNCHER|EXPLODE|FREERES|GENERATOR|NOCLIP|NOREGEN,
-								name=_("_text_StrategicShieldDisturberBombStage0"),
+								name=_("_text_strategic_shield_disturber_bomb_staged0"),
 								shape=1257006,
 								scale=3,
 								#include "_T_Lapism_goldentheme.lua"
@@ -4729,7 +4729,7 @@
 		sort=1257195000,
 		group=1257,
 		features=PALETTE|LAUNCHER,
-		name=_("_text_DashingTorpedoLauncher"),
+		name=_("_text_dashing_torpedo_launcher"),
 		blurb=_("_blurb_DashingTorpedoLauncher"),
 		shape=1257007,
 		scale=2,
@@ -4738,7 +4738,7 @@
 		replicateBlock={
 			group=1257,
 			features=AUTOFIRE|CANNON|COMMAND|EXPLODE|FREERES|GENERATOR|LASER|NOREGEN|THRUSTER|TORQUER|ALWAYSFIRE,
-			name=_("_text_DashingTorpedo"),
+			name=_("_text_dashing_torpedo"),
 			shape=1257006,
 			scale=2,
 			fillColor=0x0000ff,
@@ -4799,7 +4799,7 @@
 		sort=1257196000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_FlatWebCannon"),
+		name=_("_text_flatweb_fragcannon"),
 		blurb=_("_blurb_FlatWebCannon"),
 		shape=HEXAGON,
 		scale=3,
@@ -5078,7 +5078,7 @@
 		sort=1257203000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_lapismOrbCannon"),
+		name=_("_text_lapism_bouncy_orb_fragcannon"),
 		blurb=_("_blurb_lapismOrbCannon"),
 		shape=HEXAGON,
 		scale=2,
@@ -5305,7 +5305,7 @@
 		sort=1257204000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_lapismSelfSweepCannon"),
+		name=_("_text_lapism_selfsweep_cannon"),
 		blurb=_("_blurb_lapismSelfSweepCannon"),
 		shape=HEXAGON,
 		scale=2,
@@ -5710,7 +5710,7 @@
 		sort=1257205000,
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
-		name=_("_text_lapismRainbowThrower"),
+		name=_("_text_lapism_rainbow_thrower"),
 		blurb=_("_blurb_meleeFlamethrower"),
 		shape=HEXAGON,
 		scale=2,
@@ -5811,7 +5811,7 @@
 		sort=1257206000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_lapismBorealisOuroborosCannon"),
+		name=_("_text_lapism_bocyclesweep_cannon"),
 		blurb=_("_text_lapismInnerSweepCannon"),
 		shape=HEXAGON,
 		scale=3,
@@ -6389,7 +6389,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_phaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		#include "_T_Lapisdevice_Ancient.lua"
 		points=30,
@@ -6417,7 +6417,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_phaser")_("_n")_("_blurb_ancient_block"),
 		shape=1257010,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6446,7 +6446,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_phaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6475,7 +6475,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_proximity_flak"),
-		blurb=_("_blurb_flakcannon"),
+		blurb=_("_blurb_proximity_flak"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6504,7 +6504,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_proximity_flak"),
-		blurb=_("_blurb_flakcannon"),
+		blurb=_("_blurb_proximity_flak"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6533,7 +6533,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_autocannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6560,7 +6560,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_autocannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6587,7 +6587,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_autocannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6614,7 +6614,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_autocannon"),
-		blurb=_("_blurb_standardAutocannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_autocannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6641,7 +6641,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_rail_cannon"),
-		blurb=_("_blurb_bombingRail")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_bombing_rail")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6669,7 +6669,7 @@
 		sort=1257911000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_cannonwordPlasma"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_word_plasma"),
 		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
@@ -6698,7 +6698,7 @@
 		sort=1257912000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_cannonwordPlasma"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_word_plasma"),
 		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
@@ -6728,7 +6728,7 @@
 		group=1257,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_smartbomb"),
-		blurb=_("_blurb_Smartbomb")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_smartbomb")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6770,7 +6770,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_shotgun"),
-		blurb=_("_blurb_shortShotgun")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_short_shotgun")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6798,7 +6798,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_shotgun"),
-		blurb=_("_blurb_shortShotgun")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_short_shotgun")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6825,7 +6825,7 @@
 		sort=1257916000,
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapismcannonwordBomber"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_brust_bomber_cannon"),
 		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
@@ -6854,7 +6854,7 @@
 		sort=1257917000,
 		group=1257,
 		features=PALETTE|AUTOFIRE|CANNON|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_PDCannon"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_cannon"),
 		blurb=_("_blurb_lapismAncientPDCannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
@@ -6884,7 +6884,7 @@
 		sort=1257918000,
 		group=1257,
 		features=PALETTE|AUTOFIRE|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_PDLaser"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_laser"),
 		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
@@ -6908,7 +6908,7 @@
 		sort=1257919000,
 		group=1257,
 		features=PALETTE|AUTOFIRE|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_PDLaser"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_laser"),
 		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
@@ -7004,7 +7004,7 @@
 		sort=1257923000,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapismKiteLaser"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_kite_laser"),
 		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
@@ -7029,7 +7029,7 @@
 		sort=1257924000,
 		group=1257,
 		features=PALETTE|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapismKiteLaser"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_kite_laser"),
 		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
@@ -7128,7 +7128,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_pull"),
-		blurb=_("_blurb_TractorBeam")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_text_beam_pull")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7153,7 +7153,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_push"),
-		blurb=_("_blurb_ForceBeam")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_text_beam_push")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7178,7 +7178,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_blurb_StaticBeam")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_text_beam_immobilize")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7202,7 +7202,7 @@
 		sort=1257931000,
 		group=1257,
 		features=PALETTE|CHARGING|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapismBomberLaser"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_bomber_laser"),
 		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
@@ -7227,7 +7227,7 @@
 		sort=1257932000,
 		group=1257,
 		features=PALETTE|CHARGING|LASER|TURRET,
-		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapismDoomsdayBeam"),
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_doomsday_beam"),
 		blurb=_("_blurb_lapismAncientDoomsdayBeam")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,

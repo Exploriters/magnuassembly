@@ -5,7 +5,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(SQUARE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=SQUARE,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -18,7 +18,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(SQUARE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=SQUARE,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -31,7 +31,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(SQUARE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=SQUARE,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -44,7 +44,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -57,7 +57,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -70,7 +70,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=TRI,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -83,7 +83,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=PENTAGON,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -96,7 +96,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=PENTAGON,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -109,7 +109,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=PENTAGON,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -122,7 +122,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEXAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -135,7 +135,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEXAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -148,7 +148,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEXAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -161,7 +161,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEPTAGON,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -174,7 +174,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEPTAGON,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -187,7 +187,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=HEPTAGON,
 		scale=4,
 		#include "_T_B10_HullDark.lua"
@@ -200,7 +200,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(OCTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=OCTAGON,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -213,7 +213,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(OCTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=OCTAGON,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -226,7 +226,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(OCTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=OCTAGON,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -239,7 +239,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(OCTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=OCTAGON,
 		scale=4,
 		#include "_T_B10_HullDark.lua"
@@ -252,7 +252,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(DODECAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257058,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -265,7 +265,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(DODECAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257058,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -278,7 +278,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(DODECAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257058,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -291,7 +291,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:4 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_36_144,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -304,7 +304,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:4 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_36_144,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -317,7 +317,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:4 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_36_144,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -330,7 +330,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:2 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_72_108,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -343,7 +343,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:2 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_72_108,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -356,7 +356,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:2 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RHOMBUS_72_108,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -369,7 +369,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_36,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -382,7 +382,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_36,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -395,7 +395,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_36,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -408,7 +408,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_72,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -421,7 +421,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_72,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -434,7 +434,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ISOTRI_72,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -447,7 +447,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:1)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -460,7 +460,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:1)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -473,7 +473,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:1)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -486,7 +486,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2L,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -499,7 +499,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2L,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -512,7 +512,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2L,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -525,7 +525,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2R,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -538,7 +538,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2R,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -551,7 +551,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RIGHT TRIANGLE 1:2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RIGHT_TRI2R,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -564,7 +564,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RECT SQRT2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RECT,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -577,7 +577,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RECT SQRT2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RECT,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -590,7 +590,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RECT SQRT2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RECT,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -603,7 +603,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RECT SQRT2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RECT,
 		scale=4,
 		#include "_T_B10_HullDark.lua"
@@ -616,7 +616,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RECT SQRT2)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=RECT,
 		scale=5,
 		#include "_T_B10_HullDark.lua"
@@ -629,7 +629,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ADAPTER)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ADAPTER,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -642,7 +642,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ADAPTER)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ADAPTER,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -655,7 +655,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ADAPTER)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=ADAPTER,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -668,7 +668,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:4 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=602,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -681,7 +681,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:4 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=602,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -694,7 +694,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:4 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=602,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -707,7 +707,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:5 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257042,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -720,7 +720,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:5 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257042,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -733,7 +733,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:5 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257042,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -746,7 +746,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257059,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -759,7 +759,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257059,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -772,7 +772,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257059,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -785,7 +785,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257060,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -798,7 +798,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257060,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -811,7 +811,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257060,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -824,7 +824,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ADAPTER HALF)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257061,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -837,7 +837,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(SQUARE HALF)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=SQUARE_HALF,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -850,7 +850,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:6 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257068,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -863,7 +863,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:6 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257068,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -876,7 +876,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 1:6 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257068,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -889,7 +889,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:5 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257069,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -902,7 +902,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:5 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257069,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -915,7 +915,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 2:5 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257069,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -928,7 +928,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:4 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257070,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -941,7 +941,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:4 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257070,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -954,7 +954,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(RHOMBUS 3:4 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257070,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -967,7 +967,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257071,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -980,7 +980,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257071,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -993,7 +993,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 1/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257071,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1006,7 +1006,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257072,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1019,7 +1019,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257072,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1032,7 +1032,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 2/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257072,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1045,7 +1045,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257073,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1058,7 +1058,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257073,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1071,7 +1071,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257073,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1084,7 +1084,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257074,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1097,7 +1097,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257074,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1110,7 +1110,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257074,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1123,7 +1123,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257075,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1136,7 +1136,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257075,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1149,7 +1149,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 5/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257075,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1162,7 +1162,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 6/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257076,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1175,7 +1175,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 6/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257076,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1188,7 +1188,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 6/7 HEPTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257076,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1201,7 +1201,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257077,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1214,7 +1214,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257077,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1227,7 +1227,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 3/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257077,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1240,7 +1240,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257078,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1253,7 +1253,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257078,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1266,7 +1266,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/5 PENTAGON)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257078,
 		scale=3,
 		#include "_T_B10_HullDark.lua"
@@ -1279,7 +1279,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ITALIC TRI +1)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257079,
 		#include "_T_B10_HullDark.lua"
 		points=-1,
@@ -1291,7 +1291,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ITALIC TRI +1)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257080,
 		#include "_T_B10_HullDark.lua"
 		points=-1,
@@ -1303,7 +1303,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257081,
 		scale=1,
 		#include "_T_B10_HullDark.lua"
@@ -1316,7 +1316,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257081,
 		scale=2,
 		#include "_T_B10_HullDark.lua"
@@ -1329,7 +1329,7 @@
 		group=1243,
 		features=PALETTE,
 		name=_("_text_b10_tech")_("_bl")_("_text_hull")_("_bl")_("(ISOTRI 4/6 TRIANGLE)"),
-		blurb=_("_blurb_standardStructue"),
+		blurb=_("_blurb_structue"),
 		shape=1257081,
 		scale=3,
 		#include "_T_B10_HullDark.lua"

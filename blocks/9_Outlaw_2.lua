@@ -6,7 +6,7 @@
 		group=1243,
 		features=NOPALETTE|INTLINES,
 		name=_("_text_b10_tech")_("_bl")_("_text_palette_blankdevice"),
-		blurb=_("_blurb_BlankDevice"),
+		blurb=_("_blurb_palette_blankdevice"),
 		shape=SQUARE,
 		scale=1,
 		#include "_T_B10_Device.lua"
@@ -90,7 +90,7 @@
 		group=1243,
 		features=PALETTE|GENERATOR,
 		name=_("_text_b10_tech")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator0s"),
+		blurb=_("_blurb_generator_0s"),
 		shape=SQUARE,
 		scale=1,
 		#include "_T_B10_Device.lua"
@@ -120,7 +120,7 @@
 		group=1243,
 		features=PALETTE|GENERATOR,
 		name=_("_text_b10_tech")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator0s"),
+		blurb=_("_blurb_generator_0s"),
 		shape=SQUARE,
 		scale=2,
 		#include "_T_B10_Device.lua"
@@ -150,7 +150,7 @@
 		group=1243,
 		features=PALETTE|GENERATOR,
 		name=_("_text_b10_tech")_("_bl")_("_text_generator"),
-		blurb=_("_blurb_standardGenerator0s"),
+		blurb=_("_blurb_generator_0s"),
 		shape=SQUARE,
 		scale=3,
 		#include "_T_B10_Device.lua"
@@ -180,7 +180,7 @@
 		group=1243,
 		features=PALETTE|SHIELD,
 		name=_("_text_b10_tech")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=SQUARE,
 		scale=1,
 		#include "_T_B10_Device.lua"
@@ -203,7 +203,7 @@
 		group=1243,
 		features=PALETTE|SHIELD,
 		name=_("_text_b10_tech")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=SQUARE,
 		scale=2,
 		#include "_T_B10_Device.lua"
@@ -226,7 +226,7 @@
 		group=1243,
 		features=PALETTE|SHIELD,
 		name=_("_text_b10_tech")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_BasicShield"),
+		blurb=_("_blurb_shield"),
 		shape=SQUARE,
 		scale=3,
 		#include "_T_B10_Device.lua"
@@ -314,7 +314,7 @@
 		group=1243,
 		features=PALETTE|FACTORY,
 		name=_("_text_b10_tech")_("_bl")_("_text_factory"),
-		blurb=_("_blurb_blockFactory"),
+		blurb=_("_blurb_factory"),
 		shape=COMMAND,
 		scale=3,
 		#include "_T_B10_Device.lua"
@@ -405,7 +405,7 @@
 		group=1243,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_b10_tech")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
-		blurb=_("_blurb_lapismPhaser"),
+		blurb=_("_blurb_lapism_phaser"),
 		shape=1257010,
 		scale=1,
 		#include "_T_B10_Device.lua"
@@ -1070,7 +1070,7 @@
 		group=1243,
 		features=PALETTE|CANNON|LASER|TURRET,
 		name=_("_text_b10_tech")_("_bl")_("_text_smartbomb"),
-		blurb=_("_blurb_Smartbomb"),
+		blurb=_("_blurb_smartbomb"),
 		shape=SQUARE,
 		scale=2,
 		#include "_T_B10_Device.lua"
