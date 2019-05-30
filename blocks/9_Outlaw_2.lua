@@ -1080,7 +1080,7 @@
 		cannon={
 			recoil=-1e-16,
 			damage=200,
-			power=100,
+			power=300,
 			roundsPerSec=1.6,
 			muzzleVel=1,
 			range=0,
