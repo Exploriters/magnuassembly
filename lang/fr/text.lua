@@ -324,7 +324,7 @@
 	"_text_lapismUberTurret"="Uber Turret",
 	"_text_lapismUberTurretArmor"="Uber Turret Shull",
 	"_blurb_lapismUberTurretLauncher"="Launch a powerful mobile turret that almost unable to be destroyed. ",
-	"_text_lapismsuperdot"="Heat Dot Plasma",
+	"_text_lapismsuperdot"="Anti Ship Battery",
 	"_blurb_lapismsuperdot"="A super deadly striking heat dot, effective when againsting low movability target. ",
 	
 	"_blurb_lapismDecoyGenerator"="Launch a fake holo ship fool who hostile for thirty seconds. ",
