@@ -1128,7 +1128,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=25,
 			},
 		},
@@ -1160,7 +1160,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=25,
 			},
 		},
@@ -1193,7 +1193,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=25,
 			},
 		},
@@ -1226,7 +1226,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=25,
 			},
 		},
@@ -1252,7 +1252,7 @@
 			muzzleVel=1100,
 			range=1100,
 			color=0x30ff00,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=100,
 			spread=0.086,
 			fragment={
@@ -1261,7 +1261,7 @@
 				muzzleVel=1100,
 				range=0,
 				color=0x0130ff00,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=200,
 				spread=3.1415926535897932384626433832795,
 			}
@@ -1288,7 +1288,7 @@
 			muzzleVel=2200,
 			range=2200,
 			color=0x30ff00,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=200,
 			spread=0.086,
 			fragment={
@@ -1297,7 +1297,7 @@
 				muzzleVel=2200,
 				range=0,
 				color=0x0130ff00,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=400,
 				spread=3.1415926535897932384626433832795,
 			}
@@ -1324,7 +1324,7 @@
 			muzzleVel=3300,
 			range=3300,
 			color=0x30ff00,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=400,
 			spread=0.086,
 			fragment={
@@ -1333,7 +1333,7 @@
 				muzzleVel=3300,
 				range=0,
 				color=0x0130ff00,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=800,
 				spread=3.1415926535897932384626433832795,
 			}
@@ -2107,7 +2107,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x017fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=50,
 			},
 		},
@@ -2145,7 +2145,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x017fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=50,
 			},
 		},
@@ -2543,6 +2543,9 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
+		shroud={
+			{size={10, 5}, offset={-2.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2568,6 +2571,9 @@
 			decay=0,
 			explosive=ENABLED,
 			explodeRadius=0,
+		},
+		shroud={
+			{size={20, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
@@ -2595,6 +2601,9 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
+		shroud={
+			{size={30, 15}, offset={-7.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2620,6 +2629,9 @@
 			decay=0,
 			explosive=ENABLED,
 			explodeRadius=0,
+		},
+		shroud={
+			{size={10, 5}, offset={-2.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
@@ -2647,6 +2659,9 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
+		shroud={
+			{size={20, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2672,6 +2687,9 @@
 			decay=0,
 			explosive=ENABLED,
 			explodeRadius=0,
+		},
+		shroud={
+			{size={30, 15}, offset={-7.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
@@ -2699,6 +2717,11 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
+		shroud={
+			{size={30, 15}, offset={-22.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={30, 15}, offset={-7.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={30, 15}, offset={7.5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -2722,9 +2745,11 @@
 			color=0x7fc0ff,
 			muzzleVel=1000,
 			range=2500,
-			explosive=FINAL,
+			explosive=FRAG_NOFLASH|FINAL,
 			explodeRadius=250,
 		},--REWORK
+		aihint_muzzleVel=350,
+		aihint_range=2100,
 		cannon={
 			damage=100,
 			power=4444,
@@ -2732,42 +2757,42 @@
 			color=0x7fc0ff,
 			muzzleVel=100,
 			range=100,
-			explosive=ENABLED,
+			explosive=FRAG_NOFLASH|ENABLED,
 			explodeRadius=900,
 			fragment={
 				damage=200,
 				color=0x7fc0ff,
 				muzzleVel=100,
 				range=100,
-				explosive=ENABLED,
+				explosive=FRAG_NOFLASH|ENABLED,
 				explodeRadius=900,
 				fragment={
 					damage=300,
 					color=0x7fc0ff,
 					muzzleVel=100,
 					range=100,
-					explosive=ENABLED,
+					explosive=FRAG_NOFLASH|ENABLED,
 					explodeRadius=900,
 					fragment={
 						damage=400,
 						color=0x7fc0ff,
 						muzzleVel=100,
 						range=100,
-						explosive=ENABLED,
+						explosive=FRAG_NOFLASH|ENABLED,
 						explodeRadius=900,
 						fragment={
 							damage=500,
 							color=0x7fc0ff,
 							muzzleVel=100,
 							range=100,
-							explosive=ENABLED,
+							explosive=FRAG_NOFLASH|ENABLED,
 							explodeRadius=900,
 							fragment={
 								damage=600,
 								color=0x7fc0ff,
 								muzzleVel=100,
 								range=100,
-								explosive=FINAL,
+								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=900,
 							}
 						}
@@ -2775,6 +2800,22 @@
 				},
 			},
 		},
+		shroud={
+			{size={20, 10}, offset={-15, 0}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={63, 1.5}, offset={3, 17.5}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={63, 1.5}, offset={3, -17.5}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={5, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={5, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={16, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={16, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={27, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={27, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={38, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={38, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={49, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={49, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		},
+	--	barrelSize={-1e-160,1e-16},
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -2791,6 +2832,8 @@
 		#include "_T_Lapisdevice_golden.lua"
 		points=1474,
 		barrelTaper=2,
+		aihint_muzzleVel=2636.36,
+		aihint_range=14500,-- 2500 + 1750 + 1750 + 4000 + 4500
 		cannon={--初始炮弹 2500
 			damage=1000,
 			power=35850,
@@ -2806,7 +2849,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=200,
 				projectileSize=70,
 				fragment={--逆转方向 2500--下方注释不保证准确性
@@ -2816,7 +2859,7 @@
 					pattern=CONSTANT,
 					range=0,
 					color=0x7fc0ff,
-					explosive=FINAL,
+					explosive=FRAG_NOFLASH|FINAL,
 					explodeRadius=200,
 					projectileSize=70,
 					fragment={--五个方向的炮弹 2000
@@ -2835,7 +2878,7 @@
 							pattern=CONSTANT,
 							range=0,
 							color=0x7fc0ff,
-							explosive=FINAL,
+							explosive=FRAG_NOFLASH|FINAL,
 							explodeRadius=200,
 							projectileSize=60,
 							fragment={--剩余100 1500
@@ -2853,7 +2896,7 @@
 									pattern=CONSTANT,
 									range=0,
 									color=0x7fc0ff,
-									explosive=FINAL,
+									explosive=FRAG_NOFLASH|FINAL,
 									explodeRadius=200,
 									projectileSize=50,
 									fragment={--逆转方向 1500
@@ -2863,7 +2906,7 @@
 										pattern=CONSTANT,
 										range=0,
 										color=0x7fc0ff,
-										explosive=FINAL,
+										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=200,
 										projectileSize=50,
 										fragment={--六个方向的炮弹 1000
@@ -2882,7 +2925,7 @@
 												pattern=CONSTANT,
 												range=0,
 												color=0x7fc0ff,
-												explosive=FINAL,
+												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=200,
 												projectileSize=40,
 												fragment={--逆转方向 1000
@@ -2892,7 +2935,7 @@
 													pattern=CONSTANT,
 													range=0,
 													color=0x7fc0ff,
-													explosive=FINAL,
+													explosive=FRAG_NOFLASH|FINAL,
 													explodeRadius=200,
 													projectileSize=40,
 													fragment={--六个方向的炮弹 500
@@ -2909,7 +2952,7 @@
 															muzzleVel=1000,
 															range=0,
 															color=0x7fc0ff,
-															explosive=FINAL,
+															explosive=FRAG_NOFLASH|FINAL,
 															explodeRadius=200,
 															projectileSize=20,
 														}
@@ -2941,6 +2984,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=25,
 		barrelTaper=5,
+		aihint_muzzleVel=200,
+		aihint_range=500,
 		cannon={--地雷核心
 			damage=6,
 			power=56,
@@ -2948,7 +2993,7 @@
 			muzzleVel=200.5,
 			range=500,
 			color=0x7fc0ff,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=5,
 			fragment={--减速形成地雷
@@ -2958,7 +3003,7 @@
 				pattern=CONSTANT,
 				range=10000,
 				color=0x7fc0ff,
-				explosive=PROXIMITY|FINAL,
+				explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 				explodeRadius=100,
 			}
 		},
@@ -2978,6 +3023,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=100,
 		barrelTaper=5,
+		aihint_muzzleVel=500,
+		aihint_range=1500,
 		cannon={--集束雷核心
 			damage=24,
 			power=384,
@@ -2985,7 +3032,7 @@
 			muzzleVel=500.5,
 			range=1000,
 			color=0x7fc0ff,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=10,
 			fragment={--减速
@@ -2996,7 +3043,7 @@
 				pattern=CONSTANT,
 				range=0,
 				color=0x7fc0ff,
-				explosive=PROXIMITY|FINAL,
+				explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 				explodeRadius=10,
 				projectileSize=10,
 				fragment={--地雷核心
@@ -3007,7 +3054,7 @@
 					muzzleVel=200,
 					range=500,
 					color=0x7fc0ff,
-					explosive=PROXIMITY|FINAL,
+					explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 					explodeRadius=10,
 					projectileSize=5,
 					fragment={--减速形成地雷
@@ -3017,7 +3064,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=PROXIMITY|FINAL,
+						explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 						explodeRadius=100,
 					}
 				}
@@ -3039,6 +3086,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=225,
 		barrelTaper=5,
+		aihint_muzzleVel=1000,
+		aihint_range=4000,
 		cannon={--前集束雷核心
 			damage=54,
 			power=2142,
@@ -3046,7 +3095,7 @@
 			muzzleVel=1000.5,
 			range=2000,
 			color=0x7fc0ff,
-			explosive=PROXIMITY|FINAL,
+			explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 			explodeRadius=10,
 			projectileSize=15,
 			fragment={--减速
@@ -3056,7 +3105,7 @@
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=PROXIMITY|FINAL,
+				explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 				explodeRadius=10,
 				projectileSize=15,
 				fragment={--集束雷核心
@@ -3067,7 +3116,7 @@
 					muzzleVel=500,
 					range=1000,
 					color=0x7fc0ff,
-					explosive=PROXIMITY|FINAL,
+					explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 					explodeRadius=10,
 					projectileSize=10,
 					fragment={--减速
@@ -3078,7 +3127,7 @@
 						pattern=CONSTANT,
 						range=0,
 						color=0x7fc0ff,
-						explosive=PROXIMITY|FINAL,
+						explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 						explodeRadius=0,
 						projectileSize=10,
 						fragment={--地雷核心
@@ -3089,7 +3138,7 @@
 							muzzleVel=200,
 							range=500,
 							color=0x7fc0ff,
-							explosive=PROXIMITY|FINAL,
+							explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 							explodeRadius=10,
 							projectileSize=5,
 							fragment={--减速形成地雷
@@ -3099,7 +3148,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=PROXIMITY|FINAL,
+								explosive=FRAG_NOFLASH|PROXIMITY|FINAL,
 								explodeRadius=100,
 							}
 						}
@@ -4012,7 +4061,7 @@
 				width=1,
 				color=0xffff0000,
 				decay=0,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=20,
 			},
 			turretSpeed=125.663,
@@ -4475,7 +4524,7 @@
 				spread=0,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=ENABLED,
+				explosive=FRAG_NOFLASH|ENABLED,
 				explodeRadius=0,
 			},
 			laser={
@@ -4484,7 +4533,7 @@
 				width=7.5,
 				range=4000,
 				color=0xff7fc0ff,
-			--	explosive=ENABLED,
+			--	explosive=FRAG_NOFLASH|ENABLED,
 			--	explodeRadius=225,
 				decay=100000000,
 			},
@@ -4548,7 +4597,7 @@
 				spread=0,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=ENABLED,
+				explosive=FRAG_NOFLASH|ENABLED,
 				explodeRadius=0,
 			},
 			laser={
@@ -4558,7 +4607,7 @@
 				range=1778,
 				color=0xff7fc0ff,
 			--	explodeRadius=100,
-			--	explosive=ENABLED,
+			--	explosive=FRAG_NOFLASH|ENABLED,
 				decay=100000000,
 			},
 			turretSpeed=31415926.536,
@@ -4769,7 +4818,7 @@
 				pattern=CONSTANT,
 				projectileSize=10,
 				color=0x7fc0ff,
-				explosive=ENABLED,
+				explosive=FRAG_NOFLASH|ENABLED,
 				explodeRadius=0,
 			},
 			laser={
@@ -4779,7 +4828,7 @@
 				width=5,
 				color=0xff0000ff,
 				decay=0,
-				explosive=ENABLED,
+				explosive=FRAG_NOFLASH|ENABLED,
 				explodeRadius=0,
 			},
 			generatorCapacityPerSec=1,
@@ -4806,6 +4855,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=888,
 		barrelTaper=3,
+		aihint_muzzleVel=1000,
+		aihint_range=3200,
 		cannon={
 			damage=100,
 			power=3980,
@@ -4824,7 +4875,7 @@
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=10,
 				projectileSize=20,
 				fragment={--三方向扩散 3
@@ -4842,7 +4893,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=FINAL,
+						explosive=FRAG_NOFLASH|FINAL,
 						explodeRadius=10,
 							fragment={--双方向扩散 6
 							damage=100,
@@ -4859,7 +4910,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=FINAL,
+								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=10,
 								fragment={--双方向扩散 12
 									damage=100,
@@ -4876,7 +4927,7 @@
 										spread=3.1415926535897932384626433832795,
 										pattern=CONSTANT,
 										color=0x7fc0ff,
-										explosive=FINAL,
+										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=10,
 										fragment={--双方向扩散 24
 											damage=100,
@@ -4893,7 +4944,7 @@
 												spread=3.1415926535897932384626433832795,
 												pattern=CONSTANT,
 												color=0x7fc0ff,
-												explosive=FINAL,
+												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=10,
 													fragment={--双方向扩散 48
 													damage=100,
@@ -4910,7 +4961,7 @@
 														spread=3.1415926535897932384626433832795,
 														pattern=CONSTANT,
 														color=0x7fc0ff,
-														explosive=FINAL,
+														explosive=FRAG_NOFLASH|FINAL,
 														explodeRadius=10,
 														fragment={--双方向扩散 96
 															damage=100,
@@ -4927,7 +4978,7 @@
 																spread=3.1415926535897932384626433832795,
 																pattern=CONSTANT,
 																color=0x7fc0ff,
-																explosive=FINAL,
+																explosive=FRAG_NOFLASH|FINAL,
 																explodeRadius=10,
 															}
 														}
@@ -5085,6 +5136,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=550,
 		barrelTaper=2,
+		aihint_muzzleVel=10000,
+		aihint_range=10000,
 		cannon={--弹跳 1
 			damage=100,
 			power=2000,
@@ -5103,7 +5156,7 @@
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=50,
 				projectileSize=10,
 				fragment={--弹跳 2
@@ -5122,7 +5175,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=FINAL,
+						explosive=FRAG_NOFLASH|FINAL,
 						explodeRadius=50,
 						projectileSize=10,
 						fragment={--弹跳 3
@@ -5141,7 +5194,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=FINAL,
+								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=50,
 								projectileSize=10,
 								fragment={--弹跳 4
@@ -5160,7 +5213,7 @@
 										spread=3.1415926535897932384626433832795,
 										pattern=CONSTANT,
 										color=0x7fc0ff,
-										explosive=FINAL,
+										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=50,
 										fragment={--弹跳 5
 											damage=100,
@@ -5178,7 +5231,7 @@
 												spread=3.1415926535897932384626433832795,
 												pattern=CONSTANT,
 												color=0x7fc0ff,
-												explosive=FINAL,
+												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=50,
 												projectileSize=10,
 												fragment={--弹跳 6
@@ -5197,7 +5250,7 @@
 														spread=3.1415926535897932384626433832795,
 														pattern=CONSTANT,
 														color=0x7fc0ff,
-														explosive=FINAL,
+														explosive=FRAG_NOFLASH|FINAL,
 														explodeRadius=50,
 														projectileSize=10,
 														fragment={--弹跳 7
@@ -5216,7 +5269,7 @@
 																spread=3.1415926535897932384626433832795,
 																pattern=CONSTANT,
 																color=0x7fc0ff,
-																explosive=FINAL,
+																explosive=FRAG_NOFLASH|FINAL,
 																explodeRadius=50,
 																projectileSize=10,
 																fragment={--弹跳 8
@@ -5235,7 +5288,7 @@
 																		spread=3.1415926535897932384626433832795,
 																		pattern=CONSTANT,
 																		color=0x7fc0ff,
-																		explosive=FINAL,
+																		explosive=FRAG_NOFLASH|FINAL,
 																		explodeRadius=50,
 																		projectileSize=10,
 																		fragment={--弹跳 9
@@ -5254,7 +5307,7 @@
 																				spread=3.1415926535897932384626433832795,
 																				pattern=CONSTANT,
 																				color=0x7fc0ff,
-																				explosive=FINAL,
+																				explosive=FRAG_NOFLASH|FINAL,
 																				explodeRadius=50,
 																				projectileSize=10,
 																				fragment={--弹跳 10
@@ -5273,7 +5326,7 @@
 																						spread=3.1415926535897932384626433832795,
 																						pattern=CONSTANT,
 																						color=0x7fc0ff,
-																						explosive=FINAL,
+																						explosive=FRAG_NOFLASH|FINAL,
 																						explodeRadius=50,
 																						projectileSize=10,
 																					},
@@ -5312,6 +5365,8 @@
 		#include "_T_Lapisdevice.lua"
 		points=250,
 		barrelTaper=2,
+		aihint_muzzleVel=4000,
+		aihint_range=1200,
 		cannon={--起始
 			damage=100,
 			power=2900,
@@ -5330,7 +5385,7 @@
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=200,
 				projectileSize=5,
 				fragment={--环绕 1
@@ -5348,7 +5403,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=FINAL,
+						explosive=FRAG_NOFLASH|FINAL,
 						explodeRadius=200,
 						projectileSize=5,
 						fragment={--环绕 2
@@ -5366,7 +5421,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=FINAL,
+								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=200,
 								projectileSize=5,
 								fragment={--环绕 3
@@ -5384,7 +5439,7 @@
 										spread=3.1415926535897932384626433832795,
 										pattern=CONSTANT,
 										color=0x7fc0ff,
-										explosive=FINAL,
+										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=200,
 										projectileSize=5,
 										fragment={--环绕 4
@@ -5402,7 +5457,7 @@
 												spread=3.1415926535897932384626433832795,
 												pattern=CONSTANT,
 												color=0x7fc0ff,
-												explosive=FINAL,
+												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=200,
 												projectileSize=5,
 												fragment={--环绕 5
@@ -5420,7 +5475,7 @@
 														spread=3.1415926535897932384626433832795,
 														pattern=CONSTANT,
 														color=0x7fc0ff,
-														explosive=FINAL,
+														explosive=FRAG_NOFLASH|FINAL,
 														explodeRadius=200,
 														projectileSize=5,
 														fragment={--环绕 6
@@ -5438,7 +5493,7 @@
 																spread=3.1415926535897932384626433832795,
 																pattern=CONSTANT,
 																color=0x7fc0ff,
-																explosive=FINAL,
+																explosive=FRAG_NOFLASH|FINAL,
 																explodeRadius=200,
 																projectileSize=5,
 																fragment={--环绕 1
@@ -5456,7 +5511,7 @@
 																		spread=3.1415926535897932384626433832795,
 																		pattern=CONSTANT,
 																		color=0x7fc0ff,
-																		explosive=FINAL,
+																		explosive=FRAG_NOFLASH|FINAL,
 																		explodeRadius=200,
 																		projectileSize=5,
 																		fragment={--环绕 2
@@ -5474,7 +5529,7 @@
 																				spread=3.1415926535897932384626433832795,
 																				pattern=CONSTANT,
 																				color=0x7fc0ff,
-																				explosive=FINAL,
+																				explosive=FRAG_NOFLASH|FINAL,
 																				explodeRadius=200,
 																				projectileSize=5,
 																				fragment={--环绕 3
@@ -5492,7 +5547,7 @@
 																						spread=3.1415926535897932384626433832795,
 																						pattern=CONSTANT,
 																						color=0x7fc0ff,
-																						explosive=FINAL,
+																						explosive=FRAG_NOFLASH|FINAL,
 																						explodeRadius=200,
 																						projectileSize=5,
 																						fragment={--环绕 4
@@ -5510,7 +5565,7 @@
 																								spread=3.1415926535897932384626433832795,
 																								pattern=CONSTANT,
 																								color=0x7fc0ff,
-																								explosive=FINAL,
+																								explosive=FRAG_NOFLASH|FINAL,
 																								explodeRadius=200,
 																								projectileSize=5,
 																								fragment={--环绕 5
@@ -5528,7 +5583,7 @@
 																										spread=3.1415926535897932384626433832795,
 																										pattern=CONSTANT,
 																										color=0x7fc0ff,
-																										explosive=FINAL,
+																										explosive=FRAG_NOFLASH|FINAL,
 																										explodeRadius=200,
 																										projectileSize=5,
 																										fragment={--环绕 6
@@ -5546,7 +5601,7 @@
 																												spread=3.1415926535897932384626433832795,
 																												pattern=CONSTANT,
 																												color=0x7fc0ff,
-																												explosive=FINAL,
+																												explosive=FRAG_NOFLASH|FINAL,
 																												explodeRadius=200,
 																												projectileSize=5,
 																												fragment={--环绕 1
@@ -5564,7 +5619,7 @@
 																														spread=3.1415926535897932384626433832795,
 																														pattern=CONSTANT,
 																														color=0x7fc0ff,
-																														explosive=FINAL,
+																														explosive=FRAG_NOFLASH|FINAL,
 																														explodeRadius=200,
 																														projectileSize=5,
 																														fragment={--环绕 2
@@ -5582,7 +5637,7 @@
 																																spread=3.1415926535897932384626433832795,
 																																pattern=CONSTANT,
 																																color=0x7fc0ff,
-																																explosive=FINAL,
+																																explosive=FRAG_NOFLASH|FINAL,
 																																explodeRadius=200,
 																																projectileSize=5,
 																																fragment={--环绕 3
@@ -5600,7 +5655,7 @@
 																																		spread=3.1415926535897932384626433832795,
 																																		pattern=CONSTANT,
 																																		color=0x7fc0ff,
-																																		explosive=FINAL,
+																																		explosive=FRAG_NOFLASH|FINAL,
 																																		explodeRadius=200,
 																																		projectileSize=5,
 																																		fragment={--环绕 4
@@ -5618,7 +5673,7 @@
 																																				spread=3.1415926535897932384626433832795,
 																																				pattern=CONSTANT,
 																																				color=0x7fc0ff,
-																																				explosive=FINAL,
+																																				explosive=FRAG_NOFLASH|FINAL,
 																																				explodeRadius=200,
 																																				projectileSize=5,
 																																				fragment={--环绕 5
@@ -5636,7 +5691,7 @@
 																																						spread=3.1415926535897932384626433832795,
 																																						pattern=CONSTANT,
 																																						color=0x7fc0ff,
-																																						explosive=FINAL,
+																																						explosive=FRAG_NOFLASH|FINAL,
 																																						explodeRadius=200,
 																																						projectileSize=5,
 																																						fragment={--环绕 6
@@ -5654,7 +5709,7 @@
 																																								spread=3.1415926535897932384626433832795,
 																																								pattern=CONSTANT,
 																																								color=0x7fc0ff,
-																																								explosive=FINAL,
+																																								explosive=FRAG_NOFLASH|FINAL,
 																																								explodeRadius=200,
 																																								projectileSize=5,
 																																							},
@@ -5818,6 +5873,8 @@
 		#include "_T_Lapisdevice_golden.lua"
 		points=2250,
 		barrelTaper=2,
+		aihint_muzzleVel=1000,
+		aihint_range=2000,
 		cannon={--起始
 			damage=100,
 			power=25000,
@@ -5836,7 +5893,7 @@
 				spread=3.1415926535897932384626433832795,
 				pattern=CONSTANT,
 				color=0x7fc0ff,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=200,
 				projectileSize=20,
 				fragment={--环绕 1
@@ -5855,7 +5912,7 @@
 						spread=3.1415926535897932384626433832795,
 						pattern=CONSTANT,
 						color=0x7fc0ff,
-						explosive=FINAL,
+						explosive=FRAG_NOFLASH|FINAL,
 						explodeRadius=200,
 						projectileSize=20,
 						fragment={--环绕 1
@@ -5873,7 +5930,7 @@
 								spread=3.1415926535897932384626433832795,
 								pattern=CONSTANT,
 								color=0x7fc0ff,
-								explosive=FINAL,
+								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=200,
 								projectileSize=20,
 								fragment={--环绕 2
@@ -5891,7 +5948,7 @@
 										spread=3.1415926535897932384626433832795,
 										pattern=CONSTANT,
 										color=0x7fc0ff,
-										explosive=FINAL,
+										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=200,
 										projectileSize=20,
 										fragment={--环绕 3
@@ -5909,7 +5966,7 @@
 												spread=3.1415926535897932384626433832795,
 												pattern=CONSTANT,
 												color=0x7fc0ff,
-												explosive=FINAL,
+												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=200,
 												projectileSize=20,
 												fragment={--环绕 4
@@ -5927,7 +5984,7 @@
 														spread=3.1415926535897932384626433832795,
 														pattern=CONSTANT,
 														color=0x7fc0ff,
-														explosive=FINAL,
+														explosive=FRAG_NOFLASH|FINAL,
 														explodeRadius=200,
 														projectileSize=20,
 														fragment={--环绕 5
@@ -5945,7 +6002,7 @@
 																spread=3.1415926535897932384626433832795,
 																pattern=CONSTANT,
 																color=0x7fc0ff,
-																explosive=FINAL,
+																explosive=FRAG_NOFLASH|FINAL,
 																explodeRadius=200,
 																projectileSize=20,
 																fragment={--环绕 6
@@ -5963,7 +6020,7 @@
 																		spread=3.1415926535897932384626433832795,
 																		pattern=CONSTANT,
 																		color=0x7fc0ff,
-																		explosive=FINAL,
+																		explosive=FRAG_NOFLASH|FINAL,
 																		explodeRadius=200,
 																		projectileSize=20,
 																		fragment={--环绕 1
@@ -5981,7 +6038,7 @@
 																				spread=3.1415926535897932384626433832795,
 																				pattern=CONSTANT,
 																				color=0x7fc0ff,
-																				explosive=FINAL,
+																				explosive=FRAG_NOFLASH|FINAL,
 																				explodeRadius=200,
 																				projectileSize=20,
 																				fragment={--环绕 2
@@ -5999,7 +6056,7 @@
 																						spread=3.1415926535897932384626433832795,
 																						pattern=CONSTANT,
 																						color=0x7fc0ff,
-																						explosive=FINAL,
+																						explosive=FRAG_NOFLASH|FINAL,
 																						explodeRadius=200,
 																						projectileSize=20,
 																						fragment={--环绕 3
@@ -6017,7 +6074,7 @@
 																								spread=3.1415926535897932384626433832795,
 																								pattern=CONSTANT,
 																								color=0x7fc0ff,
-																								explosive=FINAL,
+																								explosive=FRAG_NOFLASH|FINAL,
 																								explodeRadius=200,
 																								projectileSize=20,
 																								fragment={--环绕 4
@@ -6035,7 +6092,7 @@
 																										spread=3.1415926535897932384626433832795,
 																										pattern=CONSTANT,
 																										color=0x7fc0ff,
-																										explosive=FINAL,
+																										explosive=FRAG_NOFLASH|FINAL,
 																										explodeRadius=200,
 																										projectileSize=20,
 																										fragment={--环绕 5
@@ -6053,7 +6110,7 @@
 																												spread=3.1415926535897932384626433832795,
 																												pattern=CONSTANT,
 																												color=0x7fc0ff,
-																												explosive=FINAL,
+																												explosive=FRAG_NOFLASH|FINAL,
 																												explodeRadius=200,
 																												projectileSize=20,
 																												fragment={--环绕 6
@@ -6071,7 +6128,7 @@
 																														spread=3.1415926535897932384626433832795,
 																														pattern=CONSTANT,
 																														color=0x7fc0ff,
-																														explosive=FINAL,
+																														explosive=FRAG_NOFLASH|FINAL,
 																														explodeRadius=200,
 																														projectileSize=20,
 																														fragment={--环绕 1
@@ -6089,7 +6146,7 @@
 																																spread=3.1415926535897932384626433832795,
 																																pattern=CONSTANT,
 																																color=0x7fc0ff,
-																																explosive=FINAL,
+																																explosive=FRAG_NOFLASH|FINAL,
 																																explodeRadius=200,
 																																projectileSize=20,
 																																fragment={--环绕 2
@@ -6107,7 +6164,7 @@
 																																		spread=3.1415926535897932384626433832795,
 																																		pattern=CONSTANT,
 																																		color=0x7fc0ff,
-																																		explosive=FINAL,
+																																		explosive=FRAG_NOFLASH|FINAL,
 																																		explodeRadius=200,
 																																		projectileSize=20,
 																																		fragment={--环绕 3
@@ -6125,7 +6182,7 @@
 																																				spread=3.1415926535897932384626433832795,
 																																				pattern=CONSTANT,
 																																				color=0x7fc0ff,
-																																				explosive=FINAL,
+																																				explosive=FRAG_NOFLASH|FINAL,
 																																				explodeRadius=200,
 																																				projectileSize=20,
 																																				fragment={--环绕 4
@@ -6143,7 +6200,7 @@
 																																						spread=3.1415926535897932384626433832795,
 																																						pattern=CONSTANT,
 																																						color=0x7fc0ff,
-																																						explosive=FINAL,
+																																						explosive=FRAG_NOFLASH|FINAL,
 																																						explodeRadius=200,
 																																						projectileSize=20,
 																																						fragment={--环绕 5
@@ -6161,7 +6218,7 @@
 																																								spread=3.1415926535897932384626433832795,
 																																								pattern=CONSTANT,
 																																								color=0x7fc0ff,
-																																								explosive=FINAL,
+																																								explosive=FRAG_NOFLASH|FINAL,
 																																								explodeRadius=200,
 																																								projectileSize=20,
 																																								fragment={--环绕 6
@@ -6179,7 +6236,7 @@
 																																										spread=3.1415926535897932384626433832795,
 																																										pattern=CONSTANT,
 																																										color=0x7fc0ff,
-																																										explosive=FINAL,
+																																										explosive=FRAG_NOFLASH|FINAL,
 																																										explodeRadius=200,
 																																										projectileSize=20,
 																																									},
@@ -6280,7 +6337,7 @@
 					pattern=CONSTANT,
 					range=0,
 					color=0x7fc0ff,
-					explosive=FINAL,
+					explosive=FRAG_NOFLASH|FINAL,
 					explodeRadius=100,
 				},
 			},
@@ -6336,24 +6393,26 @@
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
-		points=4250,
+		points=7250,
+		aihint_muzzleVel=1000,
+		aihint_range=6000,
 		cannon={--起始
 			damage=1000,
 			power=25000,
-			roundsPerSec=0.1,
-			muzzleVel=1000,
+			roundsPerSec=0.25,
+			muzzleVel=1500,
 			range=0,
-			spread=0,
-			--roundsPerBurst=2,
-			--burstyness=0.975,
+			spread=3,
+			roundsPerBurst=8,
+			burstyness=0.75,
 			color=0x7fc0ff,
 			barrelTaper=10,
-			explosive=ENABLED,
+			explosive=FRAG_NOFLASH|ENABLED,
 			explodeRadius=0,
 			fragment={--环绕
-				damage=5000,
+				damage=2000,
 				muzzleVel=1,
-				range=20,
+				range=4,
 				spread=3.141,
 				pattern=SPIRAL,
 				roundsPerBurst=20,
@@ -6361,7 +6420,7 @@
 				projectileSize=20,
 			},
 		},
-		turretSpeed=1,
+		turretSpeed=0.51,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 --1257209

@@ -43,6 +43,18 @@
 		teleporterRadius=30000,
 		aihint_range=960,
 		aihint_muzzleVel=960,
+		
+		barrelTaper=0.95,
+	--	barrelOffset={-3, 6},
+		barrelOffset={5, 0},
+		shroud={
+			{size={7, 4}, offset={-2, 0}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={9, 12}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={9, 9}, offset={13.5, 6}, taper=0.75, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={2, 7}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={2, 7}, offset={12, 0}, taper=1, count=1, tri_color1_id=1, line_color_id=2}
+		},
+		
 		cannon={--初始
 			recoil=1e-32,
 			damage=1,
@@ -63,7 +75,7 @@
 				roundsPerBurst=1,
 				pattern=CONSTANT,
 				color=0x7fff00,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=0,
 				fragment={--爆炸
 					damage=20,
@@ -73,7 +85,7 @@
 					roundsPerBurst=1,
 					pattern=CONSTANT,
 					color=0x7fff00,
-					explosive=FINAL,
+					explosive=FRAG_NOFLASH|FINAL,
 					explodeRadius=20,
 					fragment={--散射
 						damage=20,
@@ -83,6 +95,7 @@
 						roundsPerBurst=3,
 						pattern=SPIRAL,
 						color=0x7fff00,
+						explosive=FRAG_NOFLASH,
 						fragment={--地雷
 							damage=20,
 							muzzleVel=960,
@@ -114,7 +127,7 @@
 				-- range=0,
 				-- spread=0,
 				-- color=0x7fff00,
-				-- explosive=FINAL,
+				-- explosive=FRAG_NOFLASH|FINAL,
 				-- explodeRadius=20,
 			-- }
 		-- },
@@ -263,7 +276,7 @@
 			pulsesPerBurst=1,
 			pulseAvailability=0.5,
 			burstyness=0.3,
-			explosive=0,
+			explosive=FRAG_NOFLASH|0,
 			explodeRadius=0,
 		},
 	},
@@ -284,6 +297,9 @@
 			damage={1.05, 0},
 			power={1.05, 0},
 		},
+		shroud={
+			{size={4, 1}, offset={-1, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		},
 	},
 
 	{
@@ -301,6 +317,9 @@
 		cannonBoost={
 			damage={1.1, 0},
 			power={1.1, 0},
+		},
+		shroud={
+			{size={4, 1}, offset={-1, 0}, taper=0, count=2, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -320,6 +339,9 @@
 			damage={1.15, 0},
 			power={1.15, 0},
 		},
+		shroud={
+			{size={4, 1}, offset={-1, 0}, taper=0, count=3, tri_color1_id=1, line_color_id=2},
+		},
 	},
 
 	{
@@ -338,6 +360,9 @@
 			damage={1.2, 0},
 			power={1.2, 0},
 		},
+		shroud={
+			{size={4, 1}, offset={-1, 0}, taper=0, count=4, tri_color1_id=1, line_color_id=2},
+		},
 	},
 
 	{
@@ -355,6 +380,9 @@
 		cannonBoost={
 			damage={1.25, 0},
 			power={1.25, 0},
+		},
+		shroud={
+			{size={4, 1}, offset={-1, 0}, taper=0, count=5, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -767,7 +795,7 @@
 				width=1,
 				color=0x007fff00,
 				decay=1,
-				explosive=FINAL,
+				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=100,
 			},
 			chargeMaxTime=3,

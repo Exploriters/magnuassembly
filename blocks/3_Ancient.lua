@@ -409,6 +409,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=120,
 			power=inf,
@@ -449,6 +450,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=120,
 			power=inf,
@@ -489,6 +491,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=120,
 			power=inf,
@@ -529,6 +532,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=20,
 			power=inf,
@@ -569,6 +573,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=20,
 			power=inf,
@@ -609,6 +614,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=20,
 			power=inf,
@@ -649,6 +655,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=40,
 			power=inf,
@@ -689,6 +696,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=40,
 			power=inf,
@@ -729,6 +737,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=40,
 			power=inf,
@@ -814,6 +823,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=1080,
 			power=inf,
@@ -854,6 +864,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=1080,
 			power=inf,
@@ -894,6 +905,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=1080,
 			power=inf,
@@ -934,6 +946,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=180,
 			power=inf,
@@ -974,6 +987,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=180,
 			power=inf,
@@ -1014,6 +1028,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=180,
 			power=inf,
@@ -1054,6 +1069,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=360,
 			power=inf,
@@ -1094,6 +1110,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=360,
 			power=inf,
@@ -1134,6 +1151,7 @@
 			damagedColor=0xfe7fc0ff,
 		},
 		barrelSize={0,0},
+		barrelSize={-1e-160,1e-16},
 		laser={
 			damage=360,
 			power=inf,
