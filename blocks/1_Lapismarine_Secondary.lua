@@ -1438,7 +1438,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_text_beam_pull_friendly"),
+		blurb=_("_blurb_beam_pull_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1461,7 +1461,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_text_beam_pull_friendly"),
+		blurb=_("_blurb_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1484,7 +1484,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_text_beam_pull_friendly"),
+		blurb=_("_blurb_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1507,7 +1507,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_pull"),
-		blurb=_("_text_beam_pull_friendly"),
+		blurb=_("_blurb_beam_pull_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1530,7 +1530,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_text_beam_push_friendly"),
+		blurb=_("_blurb_beam_push_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1553,7 +1553,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_text_beam_push_friendly"),
+		blurb=_("_blurb_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1576,7 +1576,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_text_beam_push_friendly"),
+		blurb=_("_blurb_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1599,7 +1599,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_push"),
-		blurb=_("_text_beam_push_friendly"),
+		blurb=_("_blurb_beam_push_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1622,7 +1622,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize_friendly"),
+		blurb=_("_blurb_beam_immobilize_friendly"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1645,7 +1645,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize_friendly"),
+		blurb=_("_blurb_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1668,7 +1668,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize_friendly"),
+		blurb=_("_blurb_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1691,7 +1691,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_prefix_friendly")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize_friendly"),
+		blurb=_("_blurb_beam_immobilize_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1714,7 +1714,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_text_beam_pull"),
+		blurb=_("_blurb_beam_pull"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1737,7 +1737,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_text_beam_pull"),
+		blurb=_("_blurb_beam_pull"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1760,7 +1760,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_text_beam_pull"),
+		blurb=_("_blurb_beam_pull"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1783,7 +1783,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_pull"),
-		blurb=_("_text_beam_pull"),
+		blurb=_("_blurb_beam_pull"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1806,7 +1806,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_text_beam_push"),
+		blurb=_("_blurb_beam_push"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1829,7 +1829,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_text_beam_push"),
+		blurb=_("_blurb_beam_push"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1852,7 +1852,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_text_beam_push"),
+		blurb=_("_blurb_beam_push"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1875,7 +1875,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_push"),
-		blurb=_("_text_beam_push"),
+		blurb=_("_blurb_beam_push"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -1898,7 +1898,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize"),
+		blurb=_("_blurb_beam_immobilize"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1921,7 +1921,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize"),
+		blurb=_("_blurb_beam_immobilize"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -1944,7 +1944,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize"),
+		blurb=_("_blurb_beam_immobilize"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -1967,7 +1967,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize"),
+		blurb=_("_blurb_beam_immobilize"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2800,20 +2800,25 @@
 				},
 			},
 		},
+		
+		barrelTaper=1.05,
 		shroud={
-			{size={20, 10}, offset={-15, 0}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={63, 1.5}, offset={3, 17.5}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={63, 1.5}, offset={3, -17.5}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={5, 2.5}, offset={5, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={5, 2.5}, offset={5, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={6, 2.5}, offset={16, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={6, 2.5}, offset={16, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={7, 2.5}, offset={27, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={7, 2.5}, offset={27, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 2.5}, offset={38, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 2.5}, offset={38, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={9, 2.5}, offset={49, 17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={9, 2.5}, offset={49, -17}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={20, 10}, offset={-15, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={32, 12}, offset={5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={83, 1.5}, offset={-23, 17.5, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={83, 1.5}, offset={-23, -17.5, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={-5, 17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={-5, -17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={6, 17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={6, -17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={17, 17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={17, -17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={28, 17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={28, -17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={39, 17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={39, -17, 0.001}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	--	barrelSize={-1e-160,1e-16},
 		turretSpeed=4.712,
@@ -2831,7 +2836,6 @@
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
 		points=1474,
-		barrelTaper=2,
 		aihint_muzzleVel=2636.36,
 		aihint_range=14500,-- 2500 + 1750 + 1750 + 4000 + 4500
 		cannon={--初始炮弹 2500
@@ -2969,6 +2973,29 @@
 			}
 		},
 		turretSpeed=4.712,
+		
+		barrelTaper=1.05,
+		shroud={
+			{size={20, 10}, offset={-15, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={32, 12}, offset={5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={83, 1.5}, offset={-23, 17.5, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={83, 1.5}, offset={-23, -17.5, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={-5, 17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.5}, offset={-5, -17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={6, 17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6, 2.5}, offset={6, -17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={17, 17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7, 2.5}, offset={17, -17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={28, 17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 2.5}, offset={28, -17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={39, 17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9, 2.5}, offset={39, -17, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		},
+	--	barrelOffset={0, 0},
+	--	barrelSize={-1e-160,1e-16},
+		
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2983,7 +3010,6 @@
 		scale=1,
 		#include "_T_Lapisdevice.lua"
 		points=25,
-		barrelTaper=5,
 		aihint_muzzleVel=200,
 		aihint_range=500,
 		cannon={--地雷核心
@@ -3007,6 +3033,16 @@
 				explodeRadius=100,
 			}
 		},
+		
+		barrelTaper=1.05,
+		shroud={
+			{size={6.667, 3.333}, offset={-5, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10.667, 4}, offset={1.667, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.667, 1}, offset={-0.833, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.5, 1.2}, offset={0.833, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+		},
+	--	barrelSize={-1e-160,1e-16},
+	
 		turretSpeed=12.566,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -3070,6 +3106,16 @@
 				}
 			}
 		},
+		
+		barrelTaper=1.05,
+		shroud={
+			{size={13.333, 6.667}, offset={-10, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={21.333, 8}, offset={3.333, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 2}, offset={-1.667, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.4}, offset={1.667, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+		},
+	--	barrelSize={-1e-160,1e-16},
+	
 		turretSpeed=6.283,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -3156,6 +3202,16 @@
 				}
 			}
 		},
+		
+		barrelTaper=1.05,
+		shroud={
+			{size={20, 10}, offset={-15, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={32, 12}, offset={5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+		},
+	--	barrelSize={-1e-160,1e-16},
+	
 		turretSpeed=4.712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -4852,7 +4908,7 @@
 		blurb=_("_blurb_FlatWebCannon"),
 		shape=HEXAGON,
 		scale=3,
-		#include "_T_Lapisdevice.lua"
+		#include "_T_Lapisdevice_golden.lua"
 		points=888,
 		barrelTaper=3,
 		aihint_muzzleVel=1000,
@@ -4869,7 +4925,7 @@
 			color=0x7fc0ff,
 			projectileSize=20,
 			fragment={--减速
-				damage=100,
+				damage=20,
 				muzzleVel=-1000,
 				range=0,
 				spread=3.1415926535897932384626433832795,
@@ -4879,7 +4935,7 @@
 				explodeRadius=10,
 				projectileSize=20,
 				fragment={--三方向扩散 3
-					damage=100,
+					damage=20,
 					muzzleVel=1000,
 					range=100,
 					spread=2.094,
@@ -4887,7 +4943,7 @@
 					roundsPerBurst=3,
 					color=0x7fc0ff,
 					fragment={--减速
-						damage=100,
+						damage=20,
 						muzzleVel=1000,
 						range=0,
 						spread=3.1415926535897932384626433832795,
@@ -4896,7 +4952,7 @@
 						explosive=FRAG_NOFLASH|FINAL,
 						explodeRadius=10,
 							fragment={--双方向扩散 6
-							damage=100,
+							damage=20,
 							muzzleVel=1000,
 							range=100,
 							spread=2.094,
@@ -4904,7 +4960,7 @@
 							roundsPerBurst=2,
 							color=0x7fc0ff
 							fragment={--减速
-								damage=100,
+								damage=20,
 								muzzleVel=1000,
 								range=0,
 								spread=3.1415926535897932384626433832795,
@@ -4913,7 +4969,7 @@
 								explosive=FRAG_NOFLASH|FINAL,
 								explodeRadius=10,
 								fragment={--双方向扩散 12
-									damage=100,
+									damage=20,
 									muzzleVel=1000,
 									range=100,
 									spread=2.094,
@@ -4921,7 +4977,7 @@
 									roundsPerBurst=2,
 									color=0x7fc0ff
 									fragment={--减速
-										damage=100,
+										damage=20,
 										muzzleVel=1000,
 										range=0,
 										spread=3.1415926535897932384626433832795,
@@ -4930,7 +4986,7 @@
 										explosive=FRAG_NOFLASH|FINAL,
 										explodeRadius=10,
 										fragment={--双方向扩散 24
-											damage=100,
+											damage=20,
 											muzzleVel=1000,
 											range=100,
 											spread=2.094,
@@ -4938,7 +4994,7 @@
 											roundsPerBurst=2,
 											color=0x7fc0ff
 											fragment={--减速
-												damage=100,
+												damage=20,
 												muzzleVel=1000,
 												range=0,
 												spread=3.1415926535897932384626433832795,
@@ -4947,7 +5003,7 @@
 												explosive=FRAG_NOFLASH|FINAL,
 												explodeRadius=10,
 													fragment={--双方向扩散 48
-													damage=100,
+													damage=20,
 													muzzleVel=1000,
 													range=100,
 													spread=2.094,
@@ -4955,7 +5011,7 @@
 													roundsPerBurst=2,
 													color=0x7fc0ff
 													fragment={--减速
-														damage=100,
+														damage=20,
 														muzzleVel=1000,
 														range=0,
 														spread=3.1415926535897932384626433832795,
@@ -4964,7 +5020,7 @@
 														explosive=FRAG_NOFLASH|FINAL,
 														explodeRadius=10,
 														fragment={--双方向扩散 96
-															damage=100,
+															damage=20,
 															muzzleVel=1000,
 															range=100,
 															spread=2.094,
@@ -4972,7 +5028,7 @@
 															roundsPerBurst=2,
 															color=0x7fc0ff
 															fragment={--减速
-																damage=100,
+																damage=20,
 																muzzleVel=1000,
 																range=0,
 																spread=3.1415926535897932384626433832795,
@@ -5867,7 +5923,7 @@
 		group=1257,
 		features=PALETTE|CANNON|TURRET,
 		name=_("_text_lapism_bocyclesweep_cannon"),
-		blurb=_("_text_lapismInnerSweepCannon"),
+		blurb=_("_blurb_lapismInnerSweepCannon"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
@@ -6393,17 +6449,17 @@
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice_golden.lua"
-		points=7250,
+		points=5250,
 		aihint_muzzleVel=1000,
 		aihint_range=6000,
 		cannon={--起始
 			damage=1000,
 			power=25000,
-			roundsPerSec=0.25,
+			roundsPerSec=0.5,
 			muzzleVel=1500,
 			range=0,
-			spread=3,
-			roundsPerBurst=8,
+			spread=0.21,
+			roundsPerBurst=4,
 			burstyness=0.75,
 			color=0x7fc0ff,
 			barrelTaper=10,
@@ -7187,7 +7243,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_pull"),
-		blurb=_("_text_beam_pull")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_beam_pull")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7212,7 +7268,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_push"),
-		blurb=_("_text_beam_push")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_beam_push")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7237,7 +7293,7 @@
 		group=1257,
 		features=PALETTE|LASER|TURRET,
 		name=_("_text_ancient_magnualand_tech")_("_bl")_("_text_beam_immobilize"),
-		blurb=_("_text_beam_immobilize")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_beam_immobilize")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"

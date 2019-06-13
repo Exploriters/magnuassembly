@@ -3546,6 +3546,17 @@
 			color=0xffc0c0c0,
 			decay=0,
 		},
+		
+	--	barrelTaper=0.95,
+	--	barrelOffset={0, 0},
+		barrelSize={-1e-160,1e-16},
+		shroud={
+			{size={30, 15}, offset={-15, 0, 1e-16}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={42.426, 0}, offset={-21.213, 0, 1e-16}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={21.213, 21.213}, offset={0, 0, 1e-16}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={21.213, 0.0001}, offset={-21.213, 0, 1e-16}, taper=212130, count=1, tri_color1_id=1, line_color_id=2},
+		},
+		
 		turretSpeed=2,
 	},
 
@@ -3582,7 +3593,7 @@
 				explodeRadius=10,
 			}
 		},
-		turretSpeed=6,
+		turretSpeed=4,
 	},
 
 	{
@@ -3617,7 +3628,7 @@
 				explodeRadius=50,
 			}
 		},
-		turretSpeed=6,
+		turretSpeed=18,
 	},
 
 	{
@@ -3687,7 +3698,7 @@
 				explodeRadius=400,
 			}
 		},
-		turretSpeed=6,
+		turretSpeed=1.5,
 	},
 
 	{
@@ -3722,7 +3733,7 @@
 				color=0xc0c0c0,
 			}
 		},
-		turretSpeed=6,
+		turretSpeed=2,
 		turretLimit=4.7123889803846898576939650749193,
 	},
 
@@ -3746,6 +3757,7 @@ replicateBlock=0,
 		torquerTorque=2500000,
 		shroud={
 			{size={3.333, 3.333}, offset={-1.667, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 3.333}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3769,6 +3781,7 @@ replicateBlock=0,
 		torquerTorque=15000000,
 		shroud={
 			{size={6.667, 6.667}, offset={-3.333, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6.667, 6.667}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3792,6 +3805,7 @@ replicateBlock=0,
 		torquerTorque=60000000,
 		shroud={
 			{size={10, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 10}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3815,6 +3829,7 @@ replicateBlock=0,
 		torquerTorque=2500000,
 		shroud={
 			{size={3.333, 3.333}, offset={-1.667, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 3.333}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3838,6 +3853,7 @@ replicateBlock=0,
 		torquerTorque=15000000,
 		shroud={
 			{size={6.667, 6.667}, offset={-3.333, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6.667, 6.667}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3861,6 +3877,7 @@ replicateBlock=0,
 		torquerTorque=60000000,
 		shroud={
 			{size={10, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 10}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3884,6 +3901,7 @@ replicateBlock=0,
 		torquerTorque=2500000,
 		shroud={
 			{size={3.333, 3.333}, offset={-1.667, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 3.333}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3907,6 +3925,7 @@ replicateBlock=0,
 		torquerTorque=15000000,
 		shroud={
 			{size={6.667, 6.667}, offset={-3.333, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6.667, 6.667}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3930,6 +3949,7 @@ replicateBlock=0,
 		torquerTorque=60000000,
 		shroud={
 			{size={10, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 10}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3953,6 +3973,7 @@ replicateBlock=0,
 		torquerTorque=2500000,
 		shroud={
 			{size={3.333, 3.333}, offset={-1.667, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 3.333}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3976,6 +3997,7 @@ replicateBlock=0,
 		torquerTorque=15000000,
 		shroud={
 			{size={6.667, 6.667}, offset={-3.333, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6.667, 6.667}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -3999,6 +4021,7 @@ replicateBlock=0,
 		torquerTorque=60000000,
 		shroud={
 			{size={10, 10}, offset={-5, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 10}, offset={0, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
