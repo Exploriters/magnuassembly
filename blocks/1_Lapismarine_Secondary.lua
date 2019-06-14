@@ -2232,7 +2232,44 @@
 			explosive=FINAL,
 			explodeRadius=15,
 		},
+		barrelSize={-1e-160,5},
+		barrelOffset={1.111, 0},
 		barrelTaper=1,
+		barrelCount=1,
+		shroud={
+			{size={6.667, 3.333}, offset={-5, 0, 0.32}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 1.667}, offset={-3.333, 0, 0.33}, taper=1.1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 4}, offset={1.667, 0, 0.33}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.667, 1}, offset={-0.833, 0, 0.34}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.5, 1.2}, offset={0.833, 0, 0.34}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={13.833, 0.4}, offset={0, -4, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={13.833, 0.4}, offset={0, 4, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={18.333, 1}, offset={-4.667, -5.667, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={18.333, 1}, offset={-4.667, 5.667, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={1.333, 2.07867}, offset={2, 4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 2.07867}, offset={2, -4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 2.07867}, offset={4.667, 4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 2.07867}, offset={4.667, -4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 2.07867}, offset={7.333, 4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 2.07867}, offset={7.333, -4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2}
+			{size={3.333, 2.07867}, offset={10, 4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 2.07867}, offset={10, -4.8, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			
+			{size={0.667, 3.5453}, offset={3.167, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={4, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={4.833, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={5.667, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={6.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={7.333, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={4.667, 0.5453}, offset={-5, 6.333, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4.667, 0.5453}, offset={-5, -6.333, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		},
+		
 		turretSpeed=4.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -2262,7 +2299,44 @@
 			explosive=FINAL,
 			explodeRadius=15,
 		},
+		barrelSize={-1e-160,10},
+		barrelOffset={2.222, 0},
 		barrelTaper=1,
+		barrelCount=1,
+		shroud={
+			{size={13.333, 6.667}, offset={-10, 0, 0.32}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 3.333}, offset={-6.667, 0, 0.33}, taper=1.1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 8}, offset={3.333, 0, 0.33}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={3.333, 2}, offset={-1.667, 0, 0.34}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 2.4}, offset={1.667, 0, 0.34}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={27.667, 0.8}, offset={0, -8, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={27.667, 0.8}, offset={0, 8, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={36.667, 2}, offset={-9.333, -11.333, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={36.667, 2}, offset={-9.333, 11.333, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={2.667, 4.1573}, offset={4, 9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.667, 4.1573}, offset={4, -9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.667, 4.1573}, offset={9.333, 9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.667, 4.1573}, offset={9.333, -9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.667, 4.1573}, offset={14.667, 9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.667, 4.1573}, offset={14.667, -9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2}
+			{size={6.667, 4.1573}, offset={20, 9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={6.667, 4.1573}, offset={20, -9.6, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			
+			{size={1.333, 7.09067}, offset={6.333, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 7.09067}, offset={8, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 7.09067}, offset={9.667, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 7.09067}, offset={11.333, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 7.09067}, offset={13, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={1.333, 7.09067}, offset={14.667, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={9.333, 1.09067}, offset={-10, 12.667, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={9.333, 1.09067}, offset={-10, -12.667, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		},
+		
 		turretSpeed=1.125,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -2292,7 +2366,44 @@
 			explosive=FINAL,
 			explodeRadius=15,
 		},
+		barrelSize={-1e-160,15},
+		barrelOffset={3.333, 0},
 		barrelTaper=1,
+		barrelCount=1,
+		shroud={
+			{size={20, 10}, offset={-15, 0, 0.32}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={15, 5}, offset={-10, 0, 0.33}, taper=1.225, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 12}, offset={5, 0, 0.33}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0, 0.34}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0, 0.34}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={41.5, 1.2}, offset={0, -12, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={41.5, 1.2}, offset={0, 12, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={55, 3}, offset={-14, -17, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={55, 3}, offset={-14, 17, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={4, 6.236}, offset={6, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={6, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={14, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={14, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={22, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={22, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2}
+			{size={10, 6.236}, offset={30, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 6.236}, offset={30, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			
+			{size={2, 10.636}, offset={9.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={12, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={14.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={17, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={19.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={22, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={14, 1.636}, offset={-15, 19, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={14, 1.636}, offset={-15, -19, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		},
+		
 		turretSpeed=0.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
