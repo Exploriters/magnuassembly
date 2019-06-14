@@ -310,7 +310,7 @@
 	"_blurb_lapismOrbCannon"="Launch a bounce orb. ",
 	"_blurb_lapismSelfSweepCannon"="Launch a bullet fly around you. ",
 	"_blurb_meleeFlamethrower"="Melee burning weapon, extremely deadly with short range. Everything is ashed. ",
-	"_text_lapismInnerSweepCannon"="Launch a bullet fly around hostile. ",
+	"_blurb_lapismInnerSweepCannon"="Launch a bullet fly around hostile. ",
 	
 	"_blurb_lapismAncientBomberCannon"="Ancient bomber standard weapon. ",
 	"_blurb_lapismAncientPDCannon"="Ancient point defense cannon. ",

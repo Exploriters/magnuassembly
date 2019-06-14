@@ -310,7 +310,7 @@
 	"_blurb_lapismOrbCannon"="发射一颗能够能够反复弹跳的球体。",
 	"_blurb_lapismSelfSweepCannon"="发射一颗能够在自身附近原地环绕的炮弹。",
 	"_blurb_meleeFlamethrower"="近距离灼烧武器，拥有无与伦比般的恐怖杀伤力。万物只余灰烬。",
-	"_text_lapismInnerSweepCannon"="发射一颗能够在敌人附近原地环绕的炮弹。",
+	"_blurb_lapismInnerSweepCannon"="发射一颗能够在敌人附近原地环绕的炮弹。",
 	
 	"_blurb_lapismAncientBomberCannon"="远古轰炸机标配设备。",
 	"_blurb_lapismAncientPDCannon"="远古点防御火炮。",

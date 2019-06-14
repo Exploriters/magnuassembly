@@ -2320,7 +2320,52 @@
 			pulseAvailability=0.5,
 			burstyness=0.33,
 		},
+		barrelSize={-1e-160,15},
+		barrelOffset={3.333, 0},
 		barrelTaper=1,
+		barrelCount=1,
+		shroud={
+			{size={20, 10}, offset={-15, 0, 0.33}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 7.5}, offset={-10, 0, 0.33}, taper=1.1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 5}, offset={-5, 0, 0.33}, taper=1.15, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 12}, offset={5, 0, 0.33}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0, 0.34}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0, 0.34}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={51.5, 1.2}, offset={0, -12, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={51.5, 1.2}, offset={0, 12, 0.31}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={120, 3}, offset={-30, -17, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={120, 3}, offset={-30, 17, 0.33}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={4, 6.236}, offset={6, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={6, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={14, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={14, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={22, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={22, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2}
+			{size={4, 6.236}, offset={30, 14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 6.236}, offset={30, -14.4, 0.35}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			
+			{size={2, 10.636}, offset={9.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={12, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={14.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={17, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={19.5, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 10.636}, offset={22, 0, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={2, 15.636}, offset={81, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={83.5, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={86, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={10, 3.636}, offset={79, 17, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 3.636}, offset={79, -17, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={16, 1.636}, offset={-31, 19, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={16, 1.636}, offset={-31, -19, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		},
+		
 		turretSpeed=0.5,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -2388,6 +2433,7 @@
 		aihint_range=500,
 		aihint_muzzleVel=1e8,
 		cannon={
+			recoil=1e-16,
 			damage=100,
 			power=100,
 			roundsPerSec=1,
@@ -2425,6 +2471,7 @@
 		aihint_range=1000,
 		aihint_muzzleVel=1e8,
 		cannon={
+			recoil=1e-16,
 			damage=200,
 			power=400,
 			roundsPerSec=1,
@@ -2462,6 +2509,7 @@
 		aihint_range=1500,
 		aihint_muzzleVel=1e8,
 		cannon={
+			recoil=1e-16,
 			damage=300,
 			power=900,
 			roundsPerSec=1,
@@ -2499,6 +2547,7 @@
 		aihint_range=3000,
 		aihint_muzzleVel=1e8,
 		cannon={
+			recoil=1e-16,
 			damage=3000,
 			power=90000,
 			roundsPerSec=0.05,
@@ -2751,6 +2800,7 @@
 		aihint_muzzleVel=350,
 		aihint_range=2100,
 		cannon={
+			recoil=3,
 			damage=100,
 			power=4444,
 			roundsPerSec=1,
@@ -2835,6 +2885,7 @@
 		aihint_muzzleVel=2636.36,
 		aihint_range=14500,-- 2500 + 1750 + 1750 + 4000 + 4500
 		cannon={--初始炮弹 2500
+			recoil=10,
 			damage=1000,
 			power=35850,
 			roundsPerSec=0.1,
@@ -4911,6 +4962,7 @@
 		aihint_muzzleVel=1000,
 		aihint_range=3200,
 		cannon={
+			recoil=10,
 			damage=100,
 			power=3980,
 			roundsPerSec=0.5,
@@ -5402,6 +5454,43 @@
 				},
 			},
 		},
+		barrelSize={-1e-160,10},
+		barrelOffset={8, 0},
+		barrelTaper=0,
+		barrelCount=1,
+		shroud={
+			{size={20, 10}, offset={-15, 0, 0.31}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 12}, offset={5, 0, 0.31}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0, 0.33}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0, 0.33}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={24, 1.8}, offset={0, -13.5, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={24, 1.8}, offset={0, 13.5, 0.3}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={24, 0.9}, offset={0, -14, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={24, 0.9}, offset={0, 14, 0.34}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={2, 15.636}, offset={6, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={8.5, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={11, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={13.5, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={16, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={18.5, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 15.636}, offset={21, 0, 0.32}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		--	{size={4, 3.236}, offset={6, 11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 3.236}, offset={6, -11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		--	{size={4, 3.236}, offset={14, 11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 3.236}, offset={14, -11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		--	{size={4, 3.236}, offset={22, 11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 3.236}, offset={22, -11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+		--	{size={4, 3.236}, offset={30, 11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 3.236}, offset={30, -11.4, 0.4}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		},
+		
 		turretSpeed=6.283,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -5421,6 +5510,7 @@
 		aihint_muzzleVel=4000,
 		aihint_range=1200,
 		cannon={--起始
+			recoil=1e-16,
 			damage=100,
 			power=2900,
 			roundsPerSec=0.5,
@@ -5945,38 +6035,59 @@
 			explosive=ENABLED,
 			explodeRadius=0,
 		},
-		barrelSize={41.5, 1},
+		barrelSize={4.5, 1},
 		barrelOffset={0, 0},
 		barrelTaper=1,
 		barrelCount=3,
 		shroud={
-			{size={20, 10}, offset={-15, 0, 0.52}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 12}, offset={5, 0, 0.52}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
-			{size={5, 3}, offset={-2.5, 0, 0.55}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
-			{size={7.5, 3.6}, offset={2.5, 0, 0.55}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
+			{size={20, 10}, offset={-15, 0, 0.56}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={10, 7.5}, offset={-10, 0, 0.56}, taper=1.1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 12}, offset={5, 0, 0.56}, taper=0.95, count=1, tri_color1_id=1, line_color_id=2},
+			{size={5, 3}, offset={-2.5, 0, 0.57}, taper=1.2, count=1, tri_color1_id=1, line_color_id=2},
+			{size={7.5, 3.6}, offset={2.5, 0, 0.57}, taper=0.8, count=1, tri_color1_id=1, line_color_id=2},
 			
 			{size={41.5, 1}, offset={0, 0, 0.44}, taper=1, count=3, tri_color1_id=1, line_color_id=2},
 			{size={44, 1}, offset={0, 0, 0.45}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
 			
-			{size={4, 3.236}, offset={9, 3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={4, 3.236}, offset={9, -3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={10, 4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={10, -4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={9, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={9, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={9.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={9.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
 			
-			{size={4, 3.236}, offset={17, 3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={4, 3.236}, offset={17, -3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={18, 4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={18, -4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={14, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={14, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={14.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={14.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
 			
-			{size={4, 3.236}, offset={25, 3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={4, 3.236}, offset={25, -3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={26, 4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={26, -4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={19, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={19, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={19.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={19.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
 			
-			{size={4, 3.236}, offset={33, 3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={4, 3.236}, offset={33, -3.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={34, 4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={2, 2.75}, offset={34, -4.5, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={24, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={24, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={24.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={24.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={4, 2.536}, offset={29, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={29, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={29.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={29.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={4, 2.536}, offset={34, 5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 2.536}, offset={34, -5.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={34.75, 4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2, 2.75}, offset={34.75, -4.25, 0.54}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={42.75, 1.5}, offset={0, 9, 0.53}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={42.75, 1.5}, offset={0, -9, 0.53}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			
+			{size={7.07105, 0.5}, offset={0, -9, 0.53}, angle=-2.356, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={75, 0.5}, offset={-5, -14, 0.53}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.598, 1.5}, offset={-5.5, -14, 0.54}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={2.598, 1.5}, offset={71, -14, 0.56}, angle=3.14159, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={8, 3}, offset={68, -14, 0.55}, angle=1.571, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+			{size={4, 1.5}, offset={68, -11, 0.55}, angle=1.571, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 		
 		turretSpeed=4.712,
@@ -5998,6 +6109,7 @@
 		aihint_muzzleVel=1000,
 		aihint_range=2000,
 		cannon={--起始
+			recoil=10,
 			damage=100,
 			power=25000,
 			roundsPerSec=0.1,
@@ -6565,6 +6677,7 @@
 		aihint_muzzleVel=1000,
 		aihint_range=6000,
 		cannon={--起始
+			recoil=10,
 			damage=1000,
 			power=25000,
 			roundsPerSec=0.5,
@@ -7013,6 +7126,7 @@
 		aihint_range=250,
 		aihint_muzzleVel=1e8,
 		cannon={
+			recoil=1e-16,
 			damage=2,
 			power=8,
 			roundsPerSec=120,
