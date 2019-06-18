@@ -1,8 +1,5 @@
 
 		bindingId=5,
-		cannonBoost={
-			range={1.1, 0},
-		},
 		laser={
 			damage=0,
 			power=0,

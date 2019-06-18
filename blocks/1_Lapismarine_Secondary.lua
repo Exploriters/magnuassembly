@@ -3909,7 +3909,7 @@
 			damage={0.5, 0},
 			muzzleVel={0.5, 0},
 			power={0.1, 0},
-			range={0.5000, 0},
+			range={0.5, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
