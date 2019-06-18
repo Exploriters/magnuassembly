@@ -7555,7 +7555,7 @@
 			range=7500,
 			width=3,
 			color=0xff0000ff,
-			linearForce=20000,
+			linearForce=200000,
 			immobilizeForce=200000,
 			decay=0,
 		},
