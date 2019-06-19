@@ -2265,12 +2265,12 @@
 			{size={3.333, 2.07867}, offset={10, -4.8, 0.35}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			
 			--发射端网
-			{size={0.667, 3.5453}, offset={3.167, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={0.667, 3.5453}, offset={4, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={0.667, 3.5453}, offset={4.833, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={0.667, 3.5453}, offset={5.667, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={0.667, 3.5453}, offset={6.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={0.667, 3.5453}, offset={7.333, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={0.667, 3.5453}, offset={3.167, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.667, 3.5453}, offset={4, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.667, 3.5453}, offset={4.833, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.667, 3.5453}, offset={5.667, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.667, 3.5453}, offset={6.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.667, 3.5453}, offset={7.333, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			--后部贴片
 			{size={4.667, 0.5453}, offset={-5, 6.333, 0.34}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={4.667, 0.5453}, offset={-5, -6.333, 0.34}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
