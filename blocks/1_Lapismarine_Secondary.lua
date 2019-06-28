@@ -1248,8 +1248,8 @@
 			--外壳主体
 			{size={11.111, 5.5555}, offset={-14.9503387, 0, 0.33}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳顶层凸起
-		--	{size={2.7778, 1.6667}, offset={-8.0058942726814041790718644989278, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-		--	{size={5, 2}, offset={-5.2281164949036264012940867211502, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={2.7778, 1.6667}, offset={-8.0058942726814041790718644989278, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={5, 2}, offset={-5.2281164949036264012940867211502, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			--外壳
 			{size={34.64134, 40}, offset={7.8, 0, 0.30},shape=HEXAGON, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={34.64134, 40}, offset={7.8, 0, 0.30},shape=1235015, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
