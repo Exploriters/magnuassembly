@@ -1107,7 +1107,7 @@
 		ident=1257070,
 		sort=1257070000,
 		group=1257,
-		features=PALETTE|CANNON|TURRET,
+		features=PALETTE|CANNON|TURRET|NOICON,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
 		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
@@ -1132,6 +1132,27 @@
 				explodeRadius=25,
 			},
 		},
+		
+	--	barrelSize={-1e-160,1e-16},
+		barrelOffset={6.6, 0},
+	--	barrelTaper=1,
+	--	barrelCount=1,
+		shroud={
+			--外壳主体
+		--	{size={6.667, 3.333}, offset={-5, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		--	{size={10.667, 4}, offset={1.667, 0, 0.40}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳顶层凸起
+		--	{size={1.667, 1}, offset={-0.833, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2.5, 1.2}, offset={0.833, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			--外壳
+			{size={17.32067, 20}, offset={3.1, 0, 0.32},shape=HEXAGON, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={3.1, 0, 0.32},shape=1235014, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={8.66, 10}, offset={3.1, 0, 0.33},shape=TRI, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--套管
+			{size={11.547, 3}, offset={12.933835, 1.2, 0.34},shape=1235012, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={12.933835, -1.2, 0.34},shape=1235013, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		},
+		
 		turretSpeed=25.132,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -1140,7 +1161,7 @@
 		ident=1257071,
 		sort=1257071000,
 		group=1257,
-		features=PALETTE|CANNON|TURRET,
+		features=PALETTE|CANNON|TURRET|NOICON,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
 		blurb=_("_blurb_lapism_phaser"),
 		shape=1257010,
@@ -1169,19 +1190,20 @@
 		barrelOffset={5.2, 0},
 	--	barrelTaper=1,
 	--	barrelCount=1,
-		shroud={-- 5.2 + 17.32067/2 = 13.860335
-		-- ? - 5.7735= 13.860335 
-			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1257010, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1235011, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={17.32067, 20}, offset={5.2, 0, 0.33},shape=TRI, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={11.547, 3}, offset={17.933835, 1.2, 0.34},shape=1235012, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={11.547, 3}, offset={17.933835, -1.2, 0.34},shape=1235013, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		shroud={
 			--外壳主体
 		--	{size={6.667, 3.333}, offset={-5, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		--	{size={10.667, 4}, offset={1.667, 0, 0.40}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳顶层凸起
 		--	{size={1.667, 1}, offset={-0.833, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 		--	{size={2.5, 1.2}, offset={0.833, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			--外壳
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1257010, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1235011, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={5.2, 0, 0.33},shape=TRI, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--套管
+			{size={11.547, 3}, offset={17.933835, 1.2, 0.34},shape=1235012, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={17.933835, -1.2, 0.34},shape=1235013, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 		
 		turretSpeed=18.848,
@@ -1192,7 +1214,7 @@
 		ident=1257072,
 		sort=1257072000,
 		group=1257,
-		features=PALETTE|CANNON|TURRET,
+		features=PALETTE|CANNON|TURRET|NOICON,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
 		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
@@ -1217,6 +1239,30 @@
 				explodeRadius=25,
 			},
 		},
+		
+	--	barrelSize={-1e-160,1e-16},
+		barrelOffset={7.8, 0},
+	--	barrelTaper=1,
+	--	barrelCount=1,
+		shroud={
+			--外壳主体
+			{size={11.111, 5.5555}, offset={-14.9503387, 0, 0.33}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳顶层凸起
+		--	{size={2.7778, 1.6667}, offset={-8.0058942726814041790718644989278, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={5, 2}, offset={-5.2281164949036264012940867211502, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			--外壳
+			{size={34.64134, 40}, offset={7.8, 0, 0.30},shape=HEXAGON, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={34.64134, 40}, offset={7.8, 0, 0.30},shape=1235015, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={23.09422667, 26.6667}, offset={7.8, 0, 0.33},shape=HEXAGON, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--套管
+			{size={11.547, 3}, offset={26.333835, 1.2, 0.34},shape=1235012, taper=1, count=3, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={26.333835, -1.2, 0.34},shape=1235013, taper=1, count=3, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={3.9, 0.49}, offset={19.69, 7.625, 0.35},shape=1235017, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={3.9, 0.49}, offset={19.69, -7.625, 0.35},shape=1235016, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={7.08, 2.6}, offset={21, 8.65, 0.35},shape=1235018, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={7.08, 2.6}, offset={21, -8.65, 0.35},shape=1235019, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		},
+		
 		turretSpeed=9.424,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -1225,7 +1271,7 @@
 		ident=1257073,
 		sort=1257073000,
 		group=1257,
-		features=PALETTE|CANNON|TURRET,
+		features=PALETTE|CANNON|TURRET|NOICON,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_phaser"),
 		blurb=_("_blurb_lapism_phaser"),
 		shape=HEXAGON,
@@ -1249,6 +1295,56 @@
 				explosive=FRAG_NOFLASH|FINAL,
 				explodeRadius=25,
 			},
+		},
+		
+		barrelSize={-1e-160,2.74},
+		barrelOffset={19.433835, 0},
+	--	barrelTaper=1,
+	--	barrelCount=1,
+		shroud={
+			--外壳主体 1.4435200249765620674796199132462 0.833 13.3
+		--	{size={6.667, 3.333}, offset={-18.3, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={9.6239, 4.81125}, offset={-21.256948, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={9.6239, 4.81125}, offset={-7.856948, 11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={9.6239, 4.81125}, offset={-7.856948, -11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳顶层凸起
+			{size={2.4063, 1.44352}, offset={-14.502452, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={3.6088, 1.73222}, offset={-12.097548, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={2.4063, 1.44352}, offset={-1.102452, 11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={3.6088, 1.73222}, offset={1.302452, 11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={2.4063, 1.44352}, offset={-1.102452, -11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={3.6088, 1.73222}, offset={1.302452, -11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			--外壳
+			{size={25.981, 30}, offset={11.7, 11.547005383792515290182975610039, 0.32},shape=1257010, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={11.7, 11.547005383792515290182975610039, 0.32},shape=1235011, angle=-1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={11.7, 11.547005383792515290182975610039, 0.35},shape=TRI, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={11.7, -11.547005383792515290182975610039, 0.32},shape=1257010, angle=-1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={11.7, -11.547005383792515290182975610039, 0.32},shape=1235011, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={11.7, -11.547005383792515290182975610039, 0.35},shape=TRI, angle=-1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
+			{size={20, 5.7735}, offset={11.7, 2.886751, 0.35},shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={20, 5.7735}, offset={11.7, -2.886751, 0.35},shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
+			{size={17.32067, 20}, offset={-8.3, 0, 0.30},shape=HEXAGON, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={-8.3, 0, 0.30},shape=1235015, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547113335, 13.3333}, offset={-8.3, 0, 0.33},shape=HEXAGON, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--套管
+		--	{size={10, 2.74}, offset={24.433835, 0, 0.33}, taper=1, count=5, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		--	{size={11.547, 3}, offset={24.433835, 1.2, 0.34},shape=1235012, taper=1, count=5, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		--	{size={11.547, 3}, offset={24.433835, -1.2, 0.34},shape=1235013, taper=1, count=5, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		
+			{size={10, 2.74}, offset={24.433835, 15.6, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={10, 2.74}, offset={24.433835, 7.8, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={10, 2.74}, offset={24.433835, -15.6, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={10, 2.74}, offset={24.433835, -7.8, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
+			{size={11.547, 3}, offset={22.233835, 16.8, 0.34},shape=1235012, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={22.233835, 6.6, 0.34},shape=1235013, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3.88}, offset={15.313835, 11.7, 0.34}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={22.233835, -16.8, 0.34},shape=1235013, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={22.233835, -6.6, 0.34},shape=1235012, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3.88}, offset={15.313835, -11.7, 0.34}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		
 		},
 		turretSpeed=2.356,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
@@ -4588,7 +4684,7 @@
 			points=100,
 			command={
 			},
-			durability=4,
+			durability=7.777,
 			density=0.2,
 			growRate=10,
 			generatorCapacityPerSec=2,
@@ -7366,6 +7462,32 @@
 		turretSpeed=0.4712,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
+	
+	-- {
+		-- ident=1257300,
+		-- sort=1257300000,
+		-- group=1257,
+		-- features=NOPALETTE|THRUSTER|ROTATOR|NOICON,
+		-- name=_("Flex Thruster"),
+		-- blurb=_("Medium size"),
+		-- shape=HEXAGON,
+		-- scale=2,
+		-- #include "_T_Lapisdevice.lua"
+		-- points=100,
+		-- thrusterForce=160000,
+		-- thrusterBoost=1,
+		-- thrusterBoostTime=0,
+		-- thrusterColor=0xff007fff,
+		-- thrusterColor1=0xbf7fc0ff,
+	-- --	barrelOffset={-10, 0},
+	-- --	barrelSize={-1e-160,1e-16},
+	-- --	barrelTaper=4,
+	-- --	barrelCount=1,
+		-- shroud={
+		-- },
+		
+		-- --FAKE--#include "_T_Lapisfakeblock.lua"
+	-- },
 --1257209
 	
 	
