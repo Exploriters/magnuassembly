@@ -1164,6 +1164,26 @@
 				explodeRadius=25,
 			},
 		},
+		
+	--	barrelSize={-1e-160,1e-16},
+		barrelOffset={5.2, 0},
+	--	barrelTaper=1,
+	--	barrelCount=1,
+		shroud={-- 5.2 + 17.32067/2 = 13.860335
+		-- ? - 5.7735= 13.860335 
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1257010, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1235011, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={5.2, 0, 0.33},shape=TRI, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={17.933835, 1.2, 0.34},shape=1235012, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={17.933835, -1.2, 0.34},shape=1235013, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳主体
+		--	{size={6.667, 3.333}, offset={-5, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		--	{size={10.667, 4}, offset={1.667, 0, 0.40}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳顶层凸起
+		--	{size={1.667, 1}, offset={-0.833, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2.5, 1.2}, offset={0.833, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		},
+		
 		turretSpeed=18.848,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
@@ -2165,6 +2185,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=334,
 		cannon={
+			recoil=0.5,
 			damage=2000,
 			power=1500,
 			roundsPerSec=1,
@@ -2192,6 +2213,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=1339,
 		cannon={
+			recoil=0.5,
 			damage=4500,
 			power=6000,
 			roundsPerSec=1,
@@ -2212,6 +2234,7 @@
 			{size={32, 12}, offset={5, 0, 0.38}, taper=0.95, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳后部贴花
 			{size={10, 7.5}, offset={-10, 0, 0.38}, taper=1.1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
+			{size={1, 7.5}, offset={-10, 0, 0.38}, taper=1.01, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={10, 5}, offset={-5, 0, 0.39}, taper=1.15, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳前部贴花 8.55
 			{size={21, 8.94375}, offset={8, 0, 0.38}, taper=0.9559748427672956, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
@@ -2252,10 +2275,13 @@
 			{size={35, 15.555555555555555555555555555556}, offset={12.5, -30, 0.28}, shape=1235004, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={35, 15.555555555555555555555555555556}, offset={5, 30, 0.28}, shape=1235003, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={35, 15.555555555555555555555555555556}, offset={5, -30, 0.28}, shape=1235004, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
-			{size={25, 11.111111111111111111111111111111}, offset={15, 30, 0.29}, shape=1235003, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={25, 11.111111111111111111111111111111}, offset={15, -30, 0.29}, shape=1235004, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={25, 11.111111111111111111111111111111}, offset={0, 30, 0.29}, shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={25, 11.111111111111111111111111111111}, offset={0, -30, 0.29}, shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25, 11.111111111111111111111111111111}, offset={15, 30, 0.29}, shape=1235003, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={25, 11.111111111111111111111111111111}, offset={15, -30, 0.29}, shape=1235004, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={15, 5.555555555555555}, offset={-12.5, 30, 0.29}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={15, 5.555555555555555}, offset={-12.5, -30, 0.29}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={0.2, 5.555555555555555}, offset={2.4, 30, 0.299}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=0},
+			{size={0.2, 5.555555555555555}, offset={2.4, -30, 0.299}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=0},
+		--	{size={25, 11.111111111111111111111111111111}, offset={0, -30, 0.29}, shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
 			--外侧固定块
 			{size={4, 6.236}, offset={6, 7.4, 0.35}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
@@ -2266,25 +2292,25 @@
 			{size={4, 6.236}, offset={22, -7.4, 0.35}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2}
 			{size={4, 6.236}, offset={30, 7.4, 0.35}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={4, 6.236}, offset={30, -7.4, 0.35}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
-			
-			{size={8, 12}, offset={44, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={44, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--前端加速轨道
+			{size={8, 12}, offset={44, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={8, 12}, offset={44, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={6, 3}, offset={41, 10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={6, 3}, offset={41, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={56, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={56, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={8, 12}, offset={56, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={8, 12}, offset={56, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={6, 3}, offset={53, 10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={6, 3}, offset={53, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={68, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={68, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={8, 12}, offset={68, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={8, 12}, offset={68, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={6, 3}, offset={65, 10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={6, 3}, offset={65, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={80, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={80, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={8, 12}, offset={80, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={8, 12}, offset={80, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={6, 3}, offset={77, 10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={6, 3}, offset={77, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={92, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={8, 12}, offset={92, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={8, 12}, offset={92, 14, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={8, 12}, offset={92, -14, 0.35}, shape=1235006, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={6, 3}, offset={89, 10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={6, 3}, offset={89, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			{size={12, 18}, offset={106, 15, 0.35}, shape=1235005, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
@@ -2293,12 +2319,12 @@
 			{size={6, 3}, offset={101, -10, 0.31}, taper=1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
 			
 			--发射端网
-			{size={2, 3.636}, offset={9.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2, 3.636}, offset={12, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2, 3.636}, offset={14.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2, 3.636}, offset={17, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2, 3.636}, offset={19.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2, 3.636}, offset={22, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={9.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={12, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={14.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={17, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={19.5, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2, 3.636}, offset={22, 0, 0.3}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			--出口端网
 		--	{size={2, 8.636}, offset={81, 0, 0.32}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 		--	{size={2, 8.636}, offset={83.5, 0, 0.32}, taper=1, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
@@ -2600,6 +2626,7 @@
 			{size={2, 12}, offset={5, 0, 0.33}, taper=0.95, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳后部贴花
 			{size={10, 7.5}, offset={-10, 0, 0.32}, taper=1.1, count=1, tri_color_id=1, tri_color1_id=1, line_color_id=2},
+			{size={1, 7.5}, offset={-10, 0, 0.32}, taper=1.01, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={10, 5}, offset={-5, 0, 0.33}, taper=1.15, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳顶层凸起
 			{size={5, 3}, offset={-2.5, 0, 0.34}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
@@ -3434,7 +3461,6 @@
 			{size={1, 2.5}, offset={12, 6.5, 0.41}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={1, 2.5}, offset={12, -6.5, 0.41}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
-	--	barrelSize={-1e-160,1e-16},
 	
 		turretSpeed=18.848,
 		--FAKE--#include "_T_Lapisfakeblock.lua"
