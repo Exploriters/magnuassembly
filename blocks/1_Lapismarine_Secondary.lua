@@ -1305,15 +1305,15 @@
 			--外壳主体 1.4435200249765620674796199132462 0.833 13.3
 		--	{size={6.667, 3.333}, offset={-18.3, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={9.6239, 4.81125}, offset={-21.256948, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={9.6239, 4.81125}, offset={-7.856948, 11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={9.6239, 4.81125}, offset={-7.856948, -11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={9.6239, 4.81125}, offset={-7.956948, 11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={9.6239, 4.81125}, offset={-7.956948, -11.547, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			--外壳顶层凸起
 			{size={2.4063, 1.44352}, offset={-14.502452, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			{size={3.6088, 1.73222}, offset={-12.097548, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2.4063, 1.44352}, offset={-1.102452, 11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={3.6088, 1.73222}, offset={1.302452, 11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={2.4063, 1.44352}, offset={-1.102452, -11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
-			{size={3.6088, 1.73222}, offset={1.302452, -11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={2.4063, 1.44352}, offset={-1.202452, 11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={3.6088, 1.73222}, offset={1.202452, 11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={2.4063, 1.44352}, offset={-1.202452, -11.547, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			{size={3.6088, 1.73222}, offset={1.202452, -11.547, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
 			--外壳
 			{size={25.981, 30}, offset={11.7, 11.547005383792515290182975610039, 0.32},shape=1257010, angle=1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={25.981, 30}, offset={11.7, 11.547005383792515290182975610039, 0.32},shape=1235011, angle=-1.5707963267948966192313216916398, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
