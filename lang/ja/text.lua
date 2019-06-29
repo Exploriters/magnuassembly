@@ -181,10 +181,10 @@
 	
 	"_text_phage_core"="Phage Core - Repeat Mine Shotgun",
 	"_text_phage_hull"="Blank Protein",
-	"_text_phage_generator"="Generator Cache",
+	"_text_phage_generator"="Engine Cache",
 	"_blurb_phage_core"="Hard capsule container. \nJump device is installed, Jumping and cost power capacity. \nRepeat Mine Shotgun is installed, intake all protein booster on hull. ",
 	"_blurb_phage_hull"="Light hull reassemble in haste. ",
-	"_blurb_phage_generator"="Cache generator. Can not keep capacity being full. ",
+	"_blurb_phage_generator"="A omnidirectional engine with thruster and cache generator. ",
 	"_blurb_phage_booster"="Protein booster. Anti missile PD laser is installed. ",
 	
 	"_text_phage_booster_dmg"="Damage Booster",

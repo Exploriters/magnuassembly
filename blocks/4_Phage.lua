@@ -250,7 +250,7 @@
 		sort=1880007000,
 		group=1880,
 	--	features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
-		features=PALETTE|CANNON_BOOST|MELEE|GENERATOR,
+		features=PALETTE|CANNON_BOOST|MELEE|GENERATOR|THRUSTER|ROTATOR,
 		deathFeatures=GROW|PHOTOSYNTH,
 		name=_("_text_phage_generator"),
 		blurb=_("_blurb_phage_generator"),
@@ -279,6 +279,12 @@
 			explosive=FRAG_NOFLASH|0,
 			explodeRadius=0,
 		},
+		thrusterForce=1250,
+		thrusterBoost=8,
+		thrusterBoostTime=0.05,
+		thrusterColor=0xff7fff00,
+		thrusterColor1=0xbfc0ff7f,
+		finForce=12500,
 	},
 
 	{
@@ -298,7 +304,7 @@
 			power={1.05, 0},
 		},
 		shroud={
-			{size={4, 1}, offset={-1, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 1}, offset={-1, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -319,7 +325,7 @@
 			power={1.1, 0},
 		},
 		shroud={
-			{size={4, 1}, offset={-1, 0}, taper=0, count=2, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 1}, offset={-1, 0}, taper=0, count=2, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -340,7 +346,7 @@
 			power={1.15, 0},
 		},
 		shroud={
-			{size={4, 1}, offset={-1, 0}, taper=0, count=3, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 1}, offset={-1, 0}, taper=0, count=3, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -361,7 +367,7 @@
 			power={1.2, 0},
 		},
 		shroud={
-			{size={4, 1}, offset={-1, 0}, taper=0, count=4, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 1}, offset={-1, 0}, taper=0, count=4, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
@@ -382,7 +388,7 @@
 			power={1.25, 0},
 		},
 		shroud={
-			{size={4, 1}, offset={-1, 0}, taper=0, count=5, tri_color1_id=1, line_color_id=2},
+		--	{size={4, 1}, offset={-1, 0}, taper=0, count=5, tri_color1_id=1, line_color_id=2},
 		},
 	},
 
