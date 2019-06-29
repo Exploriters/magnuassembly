@@ -250,7 +250,7 @@
 		sort=1880007000,
 		group=1880,
 	--	features=PALETTE|ALWAYSFIRE|CANNON_BOOST|MELEE|LASER|GENERATOR,
-		features=PALETTE|CANNON_BOOST|MELEE|GENERATOR|THRUSTER|ROTATOR,
+		features=PALETTE|CANNON_BOOST|GENERATOR|THRUSTER|ROTATOR,
 		deathFeatures=GROW|PHOTOSYNTH,
 		name=_("_text_phage_generator"),
 		blurb=_("_blurb_phage_generator"),
