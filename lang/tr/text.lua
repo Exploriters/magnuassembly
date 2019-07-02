@@ -427,6 +427,9 @@
 	"_blurb_generator_0s"="Standard generator device. ",
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 	
+	"_text_3883shield"="Empowered Shield",
+	"_blurb_3883shield"="Shield module which directly drain power capacity to resist damage. Out of power when taking damage will result overclock and cause the destruction of the module. ",
+	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nJump device is installed. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
 	"_text_blockRoot"="Root",

@@ -427,6 +427,9 @@
 	"_blurb_generator_0s"="标准化电力模块。",
 	"_blurb_standardPowerStorger"="提供电容但不产生电量。",
 	
+	"_text_3883shield"="过充护盾",
+	"_blurb_3883shield"="直接抽取电容器来阻挡伤害的强力护盾。能量供应不足以消耗伤害时会过载并摧毁护盾模块。",
+	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n配备跃迁设备。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
 	"_text_blockRoot"="根基",

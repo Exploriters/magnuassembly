@@ -1,0 +1,29 @@
+
+fragment={
+	damage=20,
+	muzzleVel=1000,
+	spread=0,
+	pattern=CONSTANT,
+	range=10,
+	color=0xffffff,
+	explosive=FRAG_NOFLASH|ENABLE|FRAG_FINAL|PROXIMITY,
+	explodeRadius=25,
+	
+fragment={
+	damage=1e-20,
+	muzzleVel=2000,
+	spread=3.1415926535897932384626433832795,
+	pattern=CONSTANT,
+	range=0,
+	color=0x01010101,
+	explosive=FRAG_NOFLASH|ENABLE,
+	explodeRadius=0,
+fragment={
+	damage=1e-20,
+	muzzleVel=1000,
+	spread=3.1415926535897932384626433832795,
+	pattern=CONSTANT,
+	range=0,
+	color=0x01010101,
+	explosive=FRAG_NOFLASH|ENABLE,
+	explodeRadius=0,

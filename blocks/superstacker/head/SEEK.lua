@@ -1,0 +1,8 @@
+
+fragment={
+	damage=1e-10,
+	spread=3.1415926535897932384626433832795,
+	pattern=CONSTANT,
+	range=1e-4,
+	color=0xff0000ff,
+	explosive=FRAG_NOFLASH|FRAG_IMPACT|FRAG_FINAL|FRAG_PROXIMITY,

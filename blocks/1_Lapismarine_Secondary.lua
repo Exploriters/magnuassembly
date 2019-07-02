@@ -528,8 +528,8 @@
 		sort=1257039000,
 		group=1257,
 		features=PALETTE|SHIELD,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_shield"),
-		blurb=_("_blurb_shield"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_3883shield"),
+		blurb=_("_blurb_3883shield"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
