@@ -3552,9 +3552,10 @@
 		barrelSize={-1e-160,1e-16},
 		shroud={
 			{size={30, 15}, offset={-15, 0, 1e-16}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={42.426, 0}, offset={-21.213, 0, 1e-16}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
-			{size={21.213, 21.213}, offset={0, 0, 1e-16}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
-			{size={21.213, 0.0001}, offset={-21.213, 0, 1e-16}, taper=212130, count=1, tri_color1_id=1, line_color_id=2},
+			{size={30, 15}, offset={-15, 0, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={42.426, 0}, offset={-21.213, 0, 1e-16}, taper=1, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={21.213, 21.213}, offset={0, 0, 1e-16}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
+		--	{size={21.213, 0.0001}, offset={-21.213, 0, 1e-16}, taper=212130, count=1, tri_color1_id=1, line_color_id=2},
 		},
 		
 		turretSpeed=2,
@@ -4387,20 +4388,20 @@ replicateBlock=0,
 		points=2,
 	},
 
-	{
-		ident=1443272,
-		sort=1443238001,
-		group=1443,
-		features=CANNON|MELEE|TURRET,
-		name=_("_text_3883tech")_("_bl")_("_text_3883CannonS3_S2"),
-		blurb=_("_blurb_3883CannonS3_S2"),
-		shape=SQUARE,
-		scale=3,
-		#include "_T_3883_Device.lua"
-		points=500,
-		#include "superstacker/3883seeker.lua"
-		turretSpeed=6,
-	},
+	-- {
+		-- ident=1443272,
+		-- sort=1443238001,
+		-- group=1443,
+		-- features=CANNON|MELEE|TURRET,
+		-- name=_("_text_3883tech")_("_bl")_("_text_3883CannonS3_S2"),
+		-- blurb=_("_blurb_3883CannonS3_S2"),
+		-- shape=SQUARE,
+		-- scale=3,
+		-- #include "_T_3883_Device.lua"
+		-- points=500,
+		-- #include "superstacker/3883seeker.lua"
+		-- turretSpeed=6,
+	-- },
 
 	-- {
 		-- ident=1443272,
