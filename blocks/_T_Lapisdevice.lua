@@ -1,6 +1,6 @@
 
-		fillColor=0x0000ff,
-		fillColor1=0x00007f,
+		fillColor=0x3f60ff,
+		fillColor1=0x3f60c0,
 		lineColor=0x7fc0ff,
 		durability=3,
 		density=0.2,
