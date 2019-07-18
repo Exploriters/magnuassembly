@@ -91,35 +91,33 @@
 	count=0,
 	subregions={
 	
-	
 		{
 			ident=1257001,
 			faction=1257,
-			count=1,
-			position={0.25, 0.25},
-			radius={0.2, 0.2},
-			type=2,
+			count=0,
+			position={0.75, 0.75},
+			radius={0.3, 0.3},
+			type=1,
 			color=0x5862a0,
 			fleets={
-				{1257,{{0,715555},{0.8, 71555},{0.33,12500},{1,8000}}},
-				{1257,{{0,71555},{0.8, 7155},{0.33,1250},{1,800}}},
-				{1257,{{0,7155},{0.8, 715},{0.33,125},{1,80}}},
+				{1257,{{0,71555},{1,8000}}},
+				{1257,{{0,7155},{1,800}}},
+				{1257,{{0,715},{1,80}}},
 			},
-			fleetCount={10, 15},
-			fleetFraction=1,
+			fleetCount={1, 8},
+			fleetFraction=0.5,
 			unique={
 				{
-					"1257_SFWarship",
-					"1257_Cargoship",
+					"1257_Lapismarine_Outer_Ring_Checkpoint",
 				},
 			},
-			uniqueFraction=0.2,
+			uniqueFraction=0.5,
 			ambient={ 0,1,2 },
-			asteroidDensity={0.25, 0.5},
-			asteroidSize={40, 160},
+			asteroidDensity={0, 0.9},
+			asteroidSize={0, 40},
 			asteroidFlags=PENROSE|SQUARE|HEXAGON|TRIANGLE|OCTAGON,
 		},
-
+		
 		{
 			ident=1257002,
 			faction=1257,
@@ -146,9 +144,37 @@
 			asteroidSize={0, 40},
 			asteroidFlags=PENROSE|SQUARE|HEXAGON|TRIANGLE|OCTAGON,
 		},
-
+	
 		{
 			ident=1257003,
+			faction=1257,
+			count=1,
+			position={0.25, 0.25},
+			radius={0.2, 0.2},
+			type=2,
+			color=0x5862a0,
+			fleets={
+				{1257,{{0,715555},{0.95, 71555},{0.33,12500},{1,8000}}},
+				{1257,{{0,71555},{0.95, 7155},{0.33,1250},{1,800}}},
+				{1257,{{0,7155},{0.95, 715},{0.33,125},{1,80}}},
+			},
+			fleetCount={10, 15},
+			fleetFraction=1,
+			unique={
+				{
+					"1257_SFWarship",
+					"1257_Cargoship",
+				},
+			},
+			uniqueFraction=0.2,
+			ambient={ 0,1,2 },
+			asteroidDensity={0.25, 0.5},
+			asteroidSize={40, 160},
+			asteroidFlags=PENROSE|SQUARE|HEXAGON|TRIANGLE|OCTAGON,
+		},
+
+		{
+			ident=1257004,
 			faction=1257,
 			count=20,
 			position={0.2, 1.5},
@@ -272,7 +298,7 @@
 				{1443, { {0, 7155}, {1, 7155} }},
 				{1443, { {0, 715}, {1, 715} }},
 			},
-			fleetCount={0, 3},
+			fleetCount={0, 0},
 			fleetFraction=1,
 			unique={
 				{
@@ -295,7 +321,7 @@
 				{1443, { {0, 7155}, {1, 7155} }},
 				{1443, { {0, 715}, {1, 715} }},
 			},
-			fleetCount={0, 1},
+			fleetCount={1, 1},
 			fleetFraction=1,
 			unique={
 				{
@@ -318,7 +344,7 @@
 				{1443, { {0, 7155}, {1, 7155} }},
 				{1443, { {0, 715}, {1, 715} }},
 			},
-			fleetCount={0, 1},
+			fleetCount={1, 1},
 			fleetFraction=1,
 			unique={
 				{

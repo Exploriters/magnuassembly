@@ -4322,6 +4322,7 @@ replicateBlock=0,
 		#include "_T_3883_Device.lua"
 		points=210,
 		lineColor=0x7b4700,
+		sound="SOFF",
 		cannon={
 			damage=1,
 			power=-1,
@@ -4354,6 +4355,7 @@ replicateBlock=0,
 		#include "_T_3883_Device.lua"
 		points=210,
 		lineColor=0x003e7b,
+		sound="SOFF",
 		cannon={
 			damage=1,
 			power=-1,
