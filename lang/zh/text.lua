@@ -182,9 +182,11 @@
 	"_text_phage_core"="噬菌体核心 - 连发地雷霰弹枪",
 	"_text_phage_hull"="空白蛋白质",
 	"_text_phage_generator"="缓冲引擎",
+	"_text_phage_factory"="受体节点",
 	"_blurb_phage_core"="极为坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。\n已装配连发地雷霰弹枪，接受来自全舰的蛋白质增幅器。",
 	"_blurb_phage_hull"="轻量级高速重组船体。",
 	"_blurb_phage_generator"="提供全向推进的缓冲发电机。",
+	"_blurb_phage_factory"="一个能够制造噬菌体核心的受体节点，收集太空中的资源并撑起一个小型护盾，同时抽取可怕数量的能量，消耗更长时间来重组。",
 	"_blurb_phage_booster"="蛋白质增幅器。配备反发射物点防御激光。",
 	
 	"_text_phage_booster_dmg"="伤害增幅器",
