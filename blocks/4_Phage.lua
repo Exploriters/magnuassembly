@@ -11,7 +11,7 @@
 		#include "_T_Phage_style.lua"
 		command={
 		},
-		points=20,
+		points=100,
 		durability=4.37,
 		density=0.09,
 		growRate=1.2585,
@@ -24,8 +24,8 @@
 			radius=200,
 			delay=5,
 			armor=100,
-			color=0xbfc0ff7f,
-			lineColor=0xff7fff00,
+			color=0x01c0ff7f,
+			lineColor=0x017fff00,
 			damagedColor=0xbf7fc04f,
 		},
 		capacity=2172,
@@ -258,8 +258,8 @@
 			radius=200,
 			delay=5,
 			armor=100,
-			color=0xbfc0ff7f,
-			lineColor=0xff7fff00,
+			color=0x0fc0ff7f,
+			lineColor=0x0f7fff00,
 			damagedColor=0xbf7fc04f,
 		},
 		cannonBoost={
@@ -322,7 +322,7 @@
 		capacity=172,
 		cannonBoost={
 			damage={1.05, 0},
-			power={1.05, 0},
+			power={1.01, 0},
 		},
 		shroud={
 		--	{size={4, 1}, offset={-1, 0}, taper=0, count=1, tri_color1_id=1, line_color_id=2},
@@ -343,7 +343,7 @@
 		capacity=172,
 		cannonBoost={
 			damage={1.1, 0},
-			power={1.1, 0},
+			power={1.02, 0},
 		},
 		shroud={
 		--	{size={4, 1}, offset={-1, 0}, taper=0, count=2, tri_color1_id=1, line_color_id=2},
@@ -364,7 +364,7 @@
 		capacity=172,
 		cannonBoost={
 			damage={1.15, 0},
-			power={1.15, 0},
+			power={1.03, 0},
 		},
 		shroud={
 		--	{size={4, 1}, offset={-1, 0}, taper=0, count=3, tri_color1_id=1, line_color_id=2},
@@ -385,7 +385,7 @@
 		capacity=172,
 		cannonBoost={
 			damage={1.2, 0},
-			power={1.2, 0},
+			power={1.04, 0},
 		},
 		shroud={
 		--	{size={4, 1}, offset={-1, 0}, taper=0, count=4, tri_color1_id=1, line_color_id=2},
@@ -406,7 +406,7 @@
 		capacity=172,
 		cannonBoost={
 			damage={1.25, 0},
-			power={1.25, 0},
+			power={1.05, 0},
 		},
 		shroud={
 		--	{size={4, 1}, offset={-1, 0}, taper=0, count=5, tri_color1_id=1, line_color_id=2},
@@ -427,7 +427,7 @@
 		capacity=172,
 		cannonBoost={
 			muzzleVel={1.05, 0},
-			power={1.05, 0},
+			power={1.01, 0},
 		},
 	},
 
@@ -445,7 +445,7 @@
 		capacity=172,
 		cannonBoost={
 			muzzleVel={1.1, 0},
-			power={1.1, 0},
+			power={1.02, 0},
 		},
 	},
 
@@ -463,7 +463,7 @@
 		capacity=172,
 		cannonBoost={
 			muzzleVel={1.15, 0},
-			power={1.15, 0},
+			power={1.03, 0},
 		},
 	},
 
@@ -481,7 +481,7 @@
 		capacity=172,
 		cannonBoost={
 			muzzleVel={1.2, 0},
-			power={1.2, 0},
+			power={1.04, 0},
 		},
 	},
 
@@ -499,7 +499,7 @@
 		capacity=172,
 		cannonBoost={
 			muzzleVel={1.25, 0},
-			power={1.25, 0},
+			power={1.05, 0},
 		},
 	},
 
@@ -516,7 +516,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.05, 0},
+			power={1.01, 0},
 			range={1.05, 0},
 		},
 	},
@@ -534,7 +534,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.1, 0},
+			power={1.02, 0},
 			range={1.1, 0},
 		},
 	},
@@ -552,7 +552,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.15, 0},
+			power={1.03, 0},
 			range={1.15, 0},
 		},
 	},
@@ -570,7 +570,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.2, 0},
+			power={1.04, 0},
 			range={1.2, 0},
 		},
 	},
@@ -588,7 +588,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.25, 0},
+			power={1.05, 0},
 			range={1.25, 0},
 		},
 	},
@@ -606,7 +606,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.05, 0},
+			power={1.01, 0},
 			roundsPerSec={1.05, 0},
 		},
 	},
@@ -624,7 +624,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.1, 0},
+			power={1.02, 0},
 			roundsPerSec={1.1, 0},
 		},
 	},
@@ -642,7 +642,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.15, 0},
+			power={1.03, 0},
 			roundsPerSec={1.15, 0},
 		},
 	},
@@ -660,7 +660,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.2, 0},
+			power={1.04, 0},
 			roundsPerSec={1.2, 0},
 		},
 	},
@@ -678,7 +678,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.25, 0},
+			power={1.05, 0},
 			roundsPerSec={1.25, 0},
 		},
 	},
@@ -696,7 +696,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.05, 0},
+			power={1.01, 0},
 			explodeRadius={1.0246950765959598383221038680521, 0},
 		},
 	},
@@ -714,7 +714,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.1, 0},
+			power={1.02, 0},
 			explodeRadius={1.0488088481701515469914535136799, 0},
 		},
 	},
@@ -732,7 +732,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.15, 0},
+			power={1.03, 0},
 			explodeRadius={1.0723805294763608304814159672154, 0},
 		},
 	},
@@ -750,7 +750,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.2, 0},
+			power={1.04, 0},
 			explodeRadius={1.0954451150103322269139395656016, 0},
 		},
 	},
@@ -768,7 +768,7 @@
 		bindingId=5,
 		capacity=172,
 		cannonBoost={
-			power={1.25, 0},
+			power={1.05, 0},
 			explodeRadius={1.1180339887498948482045868343656, 0},
 		},
 	},
