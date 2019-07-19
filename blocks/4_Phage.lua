@@ -39,7 +39,7 @@
 		thrusterColor1=0xbfc0ff7f,
 		torquerTorque=25000,
 		finForce=12500,
-		teleporterPower=20,
+		teleporterPower=200,
 		teleporterRadius=30000,
 		aihint_range=960,
 		aihint_muzzleVel=960,
@@ -145,6 +145,7 @@
 		#include "_T_Phage_style.lua"
 		points=-1,
 		capacity=95,
+		durability=0.15,
 		cannonBoost={
 		},
 	},
@@ -160,6 +161,7 @@
 		#include "_T_Phage_style.lua"
 		points=-1,
 		capacity=59,
+		durability=0.15,
 		cannonBoost={
 		},
 	},
