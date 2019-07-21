@@ -1260,7 +1260,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=SQUARE_LAUNCHER,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1275,7 +1275,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RECT_LONG,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1290,7 +1290,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RECT_LONG,
 		scale=2,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=32,
 		cannonBoost={
 		},
@@ -1305,7 +1305,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RECT_LONG,
 		scale=3,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=48,
 		cannonBoost={
 		},
@@ -1320,7 +1320,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RECT_LONG,
 		scale=4,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=64,
 		cannonBoost={
 		},
@@ -1335,7 +1335,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=1257014,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1350,7 +1350,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=1257017,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=8,
 		cannonBoost={
 		},
@@ -1365,7 +1365,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=1257015,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=4,
 		cannonBoost={
 		},
@@ -1380,7 +1380,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=1257016,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=12,
 		cannonBoost={
 		},
@@ -1395,7 +1395,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=ADAPTER,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=12,
 		cannonBoost={
 		},
@@ -1410,7 +1410,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RIGHT_TRI,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=8,
 		cannonBoost={
 		},
@@ -1425,7 +1425,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RIGHT_TRI2L,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1440,7 +1440,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=RIGHT_TRI2R,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1455,7 +1455,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=1257040,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=4,
 		cannonBoost={
 		},
@@ -1470,7 +1470,7 @@
 		blurb=_("_blurb_3883SBud"),
 		shape=SQUARE_1,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudS.lua"
 		points=16,
 		cannonBoost={
 		},
@@ -1485,7 +1485,7 @@
 		blurb=_("_blurb_3883STBud"),
 		shape=1257025,
 		scale=3,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=24,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1505,7 +1505,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1523,7 +1523,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=2,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1541,7 +1541,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=3,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1559,7 +1559,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=4,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=32,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1577,7 +1577,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=5,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=64,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1595,7 +1595,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257024,
 		scale=6,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=144,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1613,7 +1613,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257025,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1631,7 +1631,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257025,
 		scale=2,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1649,7 +1649,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257025,
 		scale=3,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1667,7 +1667,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257025,
 		scale=4,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=32,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1685,7 +1685,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257025,
 		scale=5,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=48,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1703,7 +1703,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257027,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1721,7 +1721,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257028,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1739,7 +1739,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257029,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1757,7 +1757,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257031,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1775,7 +1775,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257032,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1793,7 +1793,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257033,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=8,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1811,7 +1811,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257034,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1829,7 +1829,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257035,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1847,7 +1847,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257036,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1865,7 +1865,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257037,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1883,7 +1883,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257038,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1901,7 +1901,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=1257039,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
@@ -1919,7 +1919,7 @@
 		blurb=_("_blurb_3883TBud"),
 		shape=SQUARE_1,
 		scale=1,
-		#include "_T_3883_Bud.lua"
+		#include "_T_3883_BudT.lua"
 		points=16,
 		thrusterForce=0,
 		thrusterBoost=-inf,
