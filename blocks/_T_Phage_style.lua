@@ -24,3 +24,5 @@
 		turretSpeed=20,
 		chargeMaxTime=1,
 		chargeMin=0.1,
+		teleporterPower=200,
+		teleporterRadius=30000,

@@ -10,6 +10,7 @@
 		scale=1,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -24,6 +25,7 @@
 		scale=2,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -38,6 +40,7 @@
 		scale=3,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -52,6 +55,7 @@
 		scale=1,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -66,6 +70,7 @@
 		scale=2,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -80,6 +85,7 @@
 		scale=3,
 		#include "_T_Lapishull.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -94,6 +100,7 @@
 		scale=3,
 		#include "_T_Lapism_factory.lua"
 		points=101,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -108,6 +115,7 @@
 		scale=4,
 		#include "_T_Lapism_factory.lua"
 		points=100,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -122,6 +130,7 @@
 		scale=2,
 		#include "_T_Lapism_factory.lua"
 		points=99,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -137,6 +146,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=250,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -152,6 +162,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=1000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -167,6 +178,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=2250,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -182,6 +194,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=1500,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -197,6 +210,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=6000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -212,6 +226,7 @@
 		#include "_T_Lapism_container.lua"
 		points=-1,
 		capacity=9000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -226,6 +241,7 @@
 		scale=1,
 		#include "_T_Lapism_goldentri.lua"
 		points=1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -240,6 +256,7 @@
 		scale=2,
 		#include "_T_Lapism_goldentri.lua"
 		points=4,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -254,6 +271,7 @@
 		scale=3,
 		#include "_T_Lapism_goldentri.lua"
 		points=9,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -269,6 +287,7 @@
 		#include "_T_Lapism_meleespike.lua"
 		points=1,
 		meleeDamage=2,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -284,6 +303,7 @@
 		#include "_T_Lapism_meleespike.lua"
 		points=4,
 		meleeDamage=3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -299,6 +319,7 @@
 		#include "_T_Lapism_meleespike.lua"
 		points=9,
 		meleeDamage=5,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -313,6 +334,7 @@
 		scale=1,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -327,6 +349,7 @@
 		scale=2,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -341,6 +364,7 @@
 		scale=3,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -355,6 +379,7 @@
 		scale=1,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -369,6 +394,7 @@
 		scale=2,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -383,6 +409,7 @@
 		scale=3,
 		#include "_T_Lapism_clocked.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -397,6 +424,7 @@
 		scale=1,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -411,6 +439,7 @@
 		scale=2,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -425,6 +454,7 @@
 		scale=3,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -456,6 +486,7 @@
 		scale=1,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -470,6 +501,7 @@
 		scale=2,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -484,6 +516,7 @@
 		scale=3,
 		#include "_T_Lapism_ldirt.lua"
 		points=-1,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -505,6 +538,7 @@
 		growRate=2,
 		armor=0,
 		capacity=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -520,6 +554,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=-1,
 		capacity=250,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -528,8 +563,8 @@
 		sort=1257039000,
 		group=1257,
 		features=PALETTE|SHIELD,
-		name=_("_text_material_lapismarine")_("_bl")_("_text_3883shield"),
-		blurb=_("_blurb_3883shield"),
+		name=_("_text_material_lapismarine")_("_bl")_("_text_shield"),
+		blurb=_("_blurb_shield"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -543,6 +578,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -566,6 +602,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -589,6 +626,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -612,6 +650,7 @@
 			lineColor=0x3f7fc0ff,
 			damagedColor=0x0f5862a0,
 		},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -629,6 +668,7 @@
 		points=30,
 		generatorCapacityPerSec=100,
 		powerCapacity=1000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -646,6 +686,7 @@
 		points=120,
 		generatorCapacityPerSec=400,
 		powerCapacity=4000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -663,6 +704,7 @@
 		points=270,
 		generatorCapacityPerSec=900,
 		powerCapacity=9000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -680,6 +722,7 @@
 		points=180,
 		generatorCapacityPerSec=600,
 		powerCapacity=6000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -697,6 +740,7 @@
 		points=720,
 		generatorCapacityPerSec=2400,
 		powerCapacity=24000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -714,6 +758,7 @@
 		points=1620,
 		generatorCapacityPerSec=5400,
 		powerCapacity=54000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -729,6 +774,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=5,
 		photosynthPerSec=0.5,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -744,6 +790,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=30,
 		photosynthPerSec=3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -759,6 +806,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=45,
 		photosynthPerSec=4.5,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -778,6 +826,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -797,6 +846,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -816,6 +866,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -835,6 +886,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -854,6 +906,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -873,6 +926,7 @@
 		thrusterBoostTime=0,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -888,6 +942,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=1,
 		torquerTorque=25000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -903,6 +958,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=6,
 		torquerTorque=150000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -918,6 +974,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=24,
 		torquerTorque=600000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -933,6 +990,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=96,
 		torquerTorque=1350000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -948,6 +1006,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=2,
 		tractorRange=1000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -963,6 +1022,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=3,
 		tractorRange=1800,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -978,6 +1038,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=4,
 		tractorRange=3000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -993,6 +1054,7 @@
 		#include "_T_Lapisdevice.lua"
 		points=5,
 		tractorRange=10000,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1019,6 +1081,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=169.65,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1046,6 +1109,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=28.275,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1073,6 +1137,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=14.136,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1100,6 +1165,7 @@
 			color=0x5862a0,
 		},
 		turretSpeed=3.534,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1154,6 +1220,7 @@
 		},
 		
 		turretSpeed=25.132,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1207,6 +1274,7 @@
 		},
 		
 		turretSpeed=18.848,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1264,6 +1332,7 @@
 		},
 		
 		turretSpeed=9.424,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1347,6 +1416,7 @@
 		
 		},
 		turretSpeed=2.356,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1383,6 +1453,7 @@
 			}
 		},
 		turretSpeed=7.5392,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1419,6 +1490,7 @@
 			}
 		},
 		turretSpeed=3.7696,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1455,6 +1527,7 @@
 			}
 		},
 		turretSpeed=0.9424,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1477,6 +1550,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=63.612,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1499,6 +1573,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=10.602,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1522,6 +1597,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1545,6 +1621,7 @@
 			color=0xff7fc0ff,
 		},
 		turretSpeed=1.178,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1568,6 +1645,7 @@
 			linearForce=-10000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1591,6 +1669,7 @@
 			linearForce=-60000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1614,6 +1693,7 @@
 			linearForce=-240000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1637,6 +1717,7 @@
 			linearForce=-540000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1660,6 +1741,7 @@
 			linearForce=10000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1683,6 +1765,7 @@
 			linearForce=60000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1706,6 +1789,7 @@
 			linearForce=240000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1729,6 +1813,7 @@
 			linearForce=540000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1752,6 +1837,7 @@
 			immobilizeForce=20000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1775,6 +1861,7 @@
 			immobilizeForce=120000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1798,6 +1885,7 @@
 			immobilizeForce=480000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1821,6 +1909,7 @@
 			immobilizeForce=1080000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1844,6 +1933,7 @@
 			linearForce=-10000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1867,6 +1957,7 @@
 			linearForce=-60000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1890,6 +1981,7 @@
 			linearForce=-240000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1913,6 +2005,7 @@
 			linearForce=-540000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1936,6 +2029,7 @@
 			linearForce=10000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1959,6 +2053,7 @@
 			linearForce=60000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -1982,6 +2077,7 @@
 			linearForce=240000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2005,6 +2101,7 @@
 			linearForce=540000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2028,6 +2125,7 @@
 			immobilizeForce=20000,
 		},
 		turretSpeed=159.03,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2051,6 +2149,7 @@
 			immobilizeForce=120000,
 		},
 		turretSpeed=26.505,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2074,6 +2173,7 @@
 			immobilizeForce=480000,
 		},
 		turretSpeed=6.62625,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2097,6 +2197,7 @@
 			immobilizeForce=1080000,
 		},
 		turretSpeed=2.945,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2119,6 +2220,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=10.602,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2141,6 +2243,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2163,6 +2266,7 @@
 			color=0x40ffe000,
 		},
 		turretSpeed=1.178,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2190,6 +2294,7 @@
 			pattern=RANDOM,
 		},
 		turretSpeed=6.3612,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2228,6 +2333,7 @@
 			},
 		},
 		turretSpeed=1.5903,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2266,6 +2372,7 @@
 			},
 		},
 		turretSpeed=0.7068,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2294,6 +2401,7 @@
 		turretSpeed=0.7068,
 		chargeMaxTime=10,
 		chargeMin=0.3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2453,6 +2561,7 @@
 		turretSpeed=0.31413,
 		chargeMaxTime=10,
 		chargeMin=0.3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2527,6 +2636,7 @@
 		},
 		
 		turretSpeed=4.5,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2612,6 +2722,7 @@
 		},
 		
 		turretSpeed=1.125,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2686,6 +2797,7 @@
 		},
 		
 		turretSpeed=0.5,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2770,6 +2882,7 @@
 		},
 		
 		turretSpeed=0.31413,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2795,6 +2908,7 @@
 			decay=3,
 		},
 		turretSpeed=1.125,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2819,6 +2933,7 @@
 			decay=3,
 		},
 		turretSpeed=1.125,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2857,6 +2972,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2895,6 +3011,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2933,6 +3050,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -2971,6 +3089,7 @@
 			explodeRadius=0,
 		},
 		turretSpeed=125.663,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3000,6 +3119,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3029,6 +3149,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3058,6 +3179,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3087,6 +3209,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3116,6 +3239,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3145,6 +3269,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3176,6 +3301,7 @@
 		},
 		turretSpeed=125.663,
 		barrelSize={-1e-160,1e-16},
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3282,6 +3408,7 @@
 		},
 		
 		turretSpeed=0.7853,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3476,6 +3603,7 @@
 			{size={11, 3.928571428571429}, offset={38, -19.07142857142857, 0.23}, taper=0.65, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 		
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3559,6 +3687,7 @@
 		},
 	
 		turretSpeed=18.848,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3718,6 +3847,7 @@
 	--	barrelSize={-1e-160,1e-16},
 	
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3917,6 +4047,7 @@
 	--	barrelSize={-1e-160,1e-16},
 	
 		turretSpeed=1.178,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3936,6 +4067,7 @@
 			damage={1.05, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3956,6 +4088,7 @@
 			damage={1.1, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3976,6 +4109,7 @@
 			damage={1.15, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -3995,6 +4129,7 @@
 			range={1.05, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4015,6 +4150,7 @@
 			range={1.1, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4035,6 +4171,7 @@
 			range={1.15, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4054,6 +4191,7 @@
 			muzzleVel={1.05, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4074,6 +4212,7 @@
 			muzzleVel={1.1, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4094,6 +4233,7 @@
 			muzzleVel={1.15, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4113,6 +4253,7 @@
 			roundsPerSec={1.05, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4133,6 +4274,7 @@
 			roundsPerSec={1.1, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4153,6 +4295,7 @@
 			roundsPerSec={1.15, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4172,6 +4315,7 @@
 			explodeRadius={1.0246950766, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4192,6 +4336,7 @@
 			explodeRadius={1.04880884817, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4212,6 +4357,7 @@
 			explodeRadius={1.07238052948, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4231,6 +4377,7 @@
 			power={0.99, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4251,6 +4398,7 @@
 			power={0.95, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4271,6 +4419,7 @@
 			power={0.9, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4291,6 +4440,7 @@
 			power={0.87, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4311,6 +4461,7 @@
 			power={0.8, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4332,6 +4483,7 @@
 			range={0.75, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4353,6 +4505,7 @@
 			range={1.25, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4374,6 +4527,7 @@
 			range={0.5, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4394,6 +4548,7 @@
 			explodeRadius={1.18321595662, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4414,6 +4569,7 @@
 			roundsPerSec={1.5, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4435,6 +4591,7 @@
 			roundsPerSec={0.5, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4457,6 +4614,7 @@
 			range={0.5, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4529,6 +4687,7 @@
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4572,6 +4731,7 @@
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4615,6 +4775,7 @@
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4658,6 +4819,7 @@
 		launcherPower=50,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -4735,6 +4897,7 @@
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4835,6 +4998,7 @@
 		launcherPower=625,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4890,6 +5054,7 @@
 		launcherPower=100,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -4946,6 +5111,7 @@
 		launcherPower=400,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5002,6 +5168,7 @@
 		launcherPower=900,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5046,6 +5213,7 @@
 		launcherPower=400,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5102,6 +5270,7 @@
 		launcherPower=1000,
 		launcherOutSpeed=2000,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5121,6 +5290,7 @@
 		launcherPower=100,
 		launcherOutSpeed=1000,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5182,6 +5352,7 @@
 		launcherPower=100,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5237,6 +5408,7 @@
 		launcherPower=4000,
 		launcherOutSpeed=10,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5310,6 +5482,7 @@
 		launcherPower=22500,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5383,6 +5556,7 @@
 		launcherPower=10000,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 --			explodeDamage=34028235679733642748073463979561713663,
@@ -5533,6 +5707,7 @@
 		launcherPower=80000,
 		launcherOutSpeed=0,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -5603,6 +5778,7 @@
 		launcherPower=5000,
 		launcherOutSpeed=1000,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5759,6 +5935,7 @@
 			}
 		},
 		turretSpeed=0.7853,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5780,6 +5957,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5801,6 +5979,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5822,6 +6001,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5843,6 +6023,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5864,6 +6045,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -5885,6 +6067,7 @@
 		thrusterBoostTime=0.5,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -6155,6 +6338,7 @@
 		},
 		
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -6586,6 +6770,7 @@
 		},
 		
 		turretSpeed=11.78,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	-- 红0xff0000
@@ -6764,6 +6949,7 @@
 		},
 		
 		turretSpeed=1.178,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7260,6 +7446,7 @@
 		},
 		
 		turretSpeed=0.7853,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7360,6 +7547,7 @@
 		launcherPower=50000,
 		launcherOutSpeed=10,
 		launcherAngVel=0,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7460,6 +7648,7 @@
 		},
 		
 		turretSpeed=0.4712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -7486,7 +7675,8 @@
 		-- shroud={
 		-- },
 		
-		-- --FAKE--#include "_T_Lapisfakeblock.lua"
+		-- #include "_T_Lapisblock.lua"
+		--FAKE--#include "_T_Lapisfakeblock.lua"
 	-- },
 --1257209
 	
@@ -7504,6 +7694,7 @@
 		#include "_T_Lapisdevice_Ancient.lua"
 		points=-1,
 		capacity=250,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7532,6 +7723,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=16.755,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7561,6 +7753,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=12.566,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7590,6 +7783,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7619,6 +7813,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=9.424,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7648,6 +7843,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7675,6 +7871,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=15.708,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7702,6 +7899,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=15.708,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7729,6 +7927,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=9.424,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7756,6 +7955,7 @@
 		},
 		barrelCount=4,
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7785,6 +7985,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=2.513,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7814,6 +8015,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7843,6 +8045,7 @@
 		},
 		barrelCount=1,
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7898,6 +8101,7 @@
 		},
 		
 		turretSpeed=125.663,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7926,6 +8130,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=6.632,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7954,6 +8159,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=2.094,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -7983,6 +8189,7 @@
 		},
 		barrelCount=3,
 		turretSpeed=2.094,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8013,6 +8220,7 @@
 		},
 		barrelCount=2,
 		turretSpeed=2.094,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8037,6 +8245,7 @@
 			decay=0,
 		},
 		turretSpeed=50.265,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8061,6 +8270,7 @@
 			decay=0,
 		},
 		turretSpeed=16.755,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8085,6 +8295,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8109,6 +8320,7 @@
 			decay=0,
 		},
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8133,6 +8345,7 @@
 			decay=0,
 		},
 		turretSpeed=4.188,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8158,6 +8371,7 @@
 			decay=0,
 		},
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8184,6 +8398,7 @@
 			decay=0,
 		},
 		turretSpeed=2.094,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8208,6 +8423,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8232,6 +8448,7 @@
 			decay=0,
 		},
 		turretSpeed=4.712,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8256,6 +8473,7 @@
 			decay=0,
 		},
 		turretSpeed=4.188,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8281,6 +8499,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8306,6 +8525,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8331,6 +8551,7 @@
 			decay=0,
 		},
 		turretSpeed=8.377,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8356,6 +8577,7 @@
 		},
 		turretSpeed=4.188,
 		chargeMaxTime=3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 
@@ -8382,6 +8604,7 @@
 		turretSpeed=2.513,
 		chargeMaxTime=10,
 		chargeMin=0.3,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -8405,6 +8628,7 @@
 			roundsPerSec={0.66666666667, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -8428,6 +8652,7 @@
 			roundsPerSec={0.66666666667, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -8451,6 +8676,7 @@
 			roundsPerSec={0.66666666667, 0},
 		},
 		#include "_T_Lapism_boosterlaser.lua"
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	
@@ -8473,6 +8699,7 @@
 		thrusterBoostTime=0.2,
 		thrusterColor=0xff007fff,
 		thrusterColor1=0xbf7fc0ff,
+		#include "_T_Lapisblock.lua"
 		--FAKE--#include "_T_Lapisfakeblock.lua"
 	},
 	

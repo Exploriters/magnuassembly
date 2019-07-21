@@ -396,8 +396,8 @@
 	"_text_kw_ROF"="填装",
 	"_text_kw_ERD"="溅射",
 	
-	"_text_3883AfterburnerOrange"="橙色助推器",
-	"_text_3883AfterburnerBlue"="蓝色助推器",
+	"_text_3883AfterburnerOrange"="橙色后燃器",
+	"_text_3883AfterburnerBlue"="蓝色后燃器",
 	
 	"_text_3883Factory"="克隆机",
 	"_text_PowerStorger"="电容器",
@@ -425,7 +425,7 @@
 	
 	"_blurb_3883CannonS1"="发射榴弹。",
 	"_blurb_3883CannonS5"="致命的急速火炮。",
-	"_blurb_3883Afterburner1000"="手动激活，具有1000k推力，不需要连接总线。",
+	"_blurb_3883Afterburner1000"="手动激活，具有3000k推力，不需要连接总线。",
 	"_blurb_generator_0s"="标准化电力模块。",
 	"_blurb_standardPowerStorger"="提供电容但不产生电量。",
 	
