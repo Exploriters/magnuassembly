@@ -119,6 +119,37 @@
 		-- },
 		
 		{
+			ident=1257001,
+			faction=1257,
+			count=1,
+			position={1.4, 1.4},
+			radius={0.02, 0.02},
+			type=1,
+			color=0x5862a0,
+			fleets={
+				{1257,{{0,12500},{1,12500}}},
+				{1257,{{0,8000},{1,8000}}},
+				{1257,{{0,1250},{1,1250}}},
+				{1257,{{0,800},{1,800}}},
+				{1257,{{0,125},{1,125}}},
+			},
+			fleetCount={3, 9},
+			fleetFraction=1,
+			unique={
+				{
+					"1257_Lapismarine_Outer_Ring_Checkpoint",
+					"1257_Lapismarine_Guardian_Station",
+					"1257_Cargoship",
+				},
+			},
+			uniqueFraction=1,
+			ambient={ 0,1,2 },
+			asteroidDensity={0.5, 0.5},
+			asteroidSize={20, 20},
+			asteroidFlags=HEXAGON|TRIANGLE,
+		},
+		
+		{
 			ident=1257002,
 			faction=0,
 			count=1,
@@ -194,7 +225,7 @@
 		{
 			ident=1257004,
 			faction=1257,
-			count=20,
+			count=19,
 			position={0.2, 1.5},
 			radius={0.02, 0.02},
 			type=1,
@@ -319,6 +350,9 @@
 				},
 			},
 			uniqueFraction=0,
+			asteroidDensity={0.0, 0.0},
+			asteroidSize={0, 0},
+			asteroidFlags=0,
 		},
 		
 		{
@@ -342,6 +376,9 @@
 				},
 			},
 			uniqueFraction=0,
+			asteroidDensity={0.0, 0.0},
+			asteroidSize={0, 0},
+			asteroidFlags=0,
 		},
 		
 		{
@@ -365,6 +402,9 @@
 				},
 			},
 			uniqueFraction=0,
+			asteroidDensity={0.0, 0.0},
+			asteroidSize={0, 0},
+			asteroidFlags=0,
 		},
 		
 		{
