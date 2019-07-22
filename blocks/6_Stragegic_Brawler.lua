@@ -3841,7 +3841,7 @@
 		points=40,
 		cannon={
 			damage=200,
-			power=15,
+			power=5,
 			roundsPerSec=1,
 			muzzleVel=1000,
 			range=1000,
@@ -3908,7 +3908,7 @@
 		points=200,
 		cannon={
 			damage=200,
-			power=750,
+			power=250,
 			roundsPerSec=6,
 			muzzleVel=3000,
 			range=1000,
@@ -3975,7 +3975,7 @@
 		points=500,
 		cannon={
 			damage=2000,
-			power=3000,
+			power=1000,
 			roundsPerSec=1,
 			muzzleVel=1000,
 			range=1000,
@@ -4037,7 +4037,7 @@
 		points=900,
 		cannon={
 			damage=1800,
-			power=5400,
+			power=1800,
 			roundsPerSec=0.5,
 			muzzleVel=900,
 			range=900,
@@ -4102,7 +4102,7 @@
 		aihint_muzzleVel=4000,
 		cannon={
 			damage=100,
-			power=9000,
+			power=3000,
 			roundsPerSec=5,
 			muzzleVel=2000,
 			range=0,
