@@ -1,5 +1,5 @@
 
-{data={name="Explorer Lenovo", author="PLP"}, blocks={
+{data={name="Explorer Plahov", author="PLP"}, blocks={
     {0x1604b8, {-53.041, -0.024}, command={faction=1443}},
     {0x1605b8, {-293.041, -19.994}, -3.142, bindingId=2},
     {0x1605b7, {-263.041, -19.994}, 3.142, bindingId=2},
