@@ -2,7 +2,7 @@
 visible here: https://steamcommunity.com/sharedfiles/filedetails/?id=1487636498  
 Preview ships: Lapismarine Outerring Checkpoint(up) Lapismarine Rookie Knight(down)  
 
-**THIS THE EVER FIRST REASSEMBLY MOD POWERED WITH "inf" AND"nan" VALUE**  
+**THIS THE EVER FIRST REASSEMBLY MOD POWERED WITH "inf" AND "nan" VALUE**  
 
 CAUTION:  
 BETA MAY REQUIRED IF IT IS AVAILABLE  
@@ -42,5 +42,5 @@ NonForDevs:
 Russian translation  
   
 And special thanks to:  
-Lilili, Uiharu, Lily-an, Tanghao, Fgdfgfthgr, Leewvy, SSF, 7paperplane,  
+Lilili, Uiharu, Lily-an, Tanghao, Fgdfgfthgr, AnyIDElse (AKA THE ASD), Leewvy, SSF, 7paperplane,  
 and all who helped me on this repository.  
