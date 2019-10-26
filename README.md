@@ -1,5 +1,5 @@
 # magnuassembly
-visible here: https://steamcommunity.com/sharedfiles/filedetails/?id=1487636498  
+Workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=1487636498  
 Preview ships: Lapismarine Outerring Checkpoint(up) Lapismarine Rookie Knight(down)  
 
 **THIS THE EVER FIRST REASSEMBLY MOD POWERED WITH "inf" AND "nan" VALUE**  
@@ -42,5 +42,5 @@ NonForDevs:
 Russian translation  
   
 And special thanks to:  
-Lilili, Uiharu, Lily-an, Tanghao, Fgdfgfthgr, AnyIDElse (AKA THE ASD), Leewvy, SSF, 7paperplane,  
-and all who helped me on this repository.  
+Lilili, Uiharu, Lily-an, Tanghao, Fgdfgfthgr, AnyIDElse (AKA THE ASD), Lapsapnow, sumplkrum, Leewvs, SSF, 7paperplane,  
+and all who helped me and this repository.  
