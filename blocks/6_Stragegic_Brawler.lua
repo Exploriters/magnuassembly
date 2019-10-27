@@ -5466,12 +5466,12 @@ replicateBlock=0,
 		aihint_muzzleVel=350,
 		cannon={--vel600
 			recoil=8.88,
-			damage=3000,
+			damage=6000,
 			power=44444,
 			roundsPerSec=0.1,
 			color=0xc0c0c0,
 			muzzleVel=600,
-			range=100,
+			range=600,
 			explosive=FRAG_NOFLASH|ENABLED|FRAG_FINAL,
 			explodeRadius=1800,
 			
@@ -5495,7 +5495,7 @@ replicateBlock=0,
 				explodeRadius=0,
 				
 			fragment={--vel500
-				damage=2500,
+				damage=5500,
 				color=0xc0c0c0,
 				muzzleVel=100,
 				range=100,
@@ -5522,7 +5522,7 @@ replicateBlock=0,
 				explodeRadius=0,
 				
 				fragment={--vel400
-					damage=2000,
+					damage=5000,
 					color=0xc0c0c0,
 					muzzleVel=100,
 					range=100,
@@ -5549,7 +5549,7 @@ replicateBlock=0,
 				explodeRadius=0,
 				
 					fragment={--vel300
-						damage=1500,
+						damage=4500,
 						color=0xc0c0c0,
 						muzzleVel=100,
 						range=100,
@@ -5576,7 +5576,7 @@ replicateBlock=0,
 				explodeRadius=0,
 				
 						fragment={--vel200
-							damage=1000,
+							damage=4000,
 							color=0xc0c0c0,
 							muzzleVel=100,
 							range=100,
@@ -5603,7 +5603,7 @@ replicateBlock=0,
 				explodeRadius=0,
 				
 							fragment={--vel100
-								damage=500,
+								damage=3500,
 								color=0xc0c0c0,
 								muzzleVel=100,
 								range=100,
