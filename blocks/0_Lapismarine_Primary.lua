@@ -130,7 +130,7 @@
 		group=1257,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_lapism_decoy_generator"),
-		blurb=_("_blurb_lapismDecoyGenerator")_("_n")_("_blurb_lapismDecoyGenerator_Ship_1257_Knight"),
+		blurb=_("_blurb_lapism_decoy_generator")_("_n")_("_blurb_lapism_decoy_generator_ship_1257_knight"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -149,7 +149,7 @@
 		lifetime=30,
 		features=FREERES|NOCLIP|NOPALETTE|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_decoy_generator"),
-		blurb=_("_blurb_lapismDecoyGenerator")_("_n")_("_blurb_decoy_block"),
+		blurb=_("_blurb_lapism_decoy_generator")_("_n")_("_blurb_decoy_block"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -168,7 +168,7 @@
 		group=1257,
 		features=NOPALETTE|LAUNCHER,
 		name=_("_text_struction_command_launcher"),
-		blurb=_("_blurb_StructionLauncher"),
+		blurb=_("_blurb_struction_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -186,7 +186,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_struction_command_launcher"),
-		blurb=_("_blurb_StructionLauncher"),
+		blurb=_("_blurb_struction_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -205,7 +205,7 @@
 		group=1257,
 		features=NOPALETTE|FREERES,
 		name=_("_text_material_lapismarine")_("_bl")_("_text_plant_branch_block"),
-		blurb=_("_blurb_lapismblockBranch"),
+		blurb=_("_blurb_lapismblock_branch"),
 		shape=1257059,
 		scale=1,
 		fillColor=0xc0c0ff,

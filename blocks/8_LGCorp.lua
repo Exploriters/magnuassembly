@@ -3081,7 +3081,7 @@ replicateBlock=0,
 		group=1238,
 		features=PALETTE|LAUNCHER,
 		name=_("_text_38_tech")_("_bl")_("_text_lapism_melee_drone_launcher"),
-		blurb=_("_blurb_FragmentDroneLauncher"),
+		blurb=_("_blurb_fragment_drone_launcher"),
 		shape=1257007,
 		scale=1,
 		#include "_T_LGC_Device.lua"

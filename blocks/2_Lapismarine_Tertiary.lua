@@ -2632,7 +2632,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenser"),
+		blurb=_("_blurb_visual_laser_senser"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2657,7 +2657,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenser"),
+		blurb=_("_blurb_visual_laser_senser"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2682,7 +2682,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenser"),
+		blurb=_("_blurb_visual_laser_senser"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2707,7 +2707,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_friendly")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenserFriendly"),
+		blurb=_("_blurb_visual_laser_senser_friendly"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -2730,7 +2730,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_friendly")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenserFriendly"),
+		blurb=_("_blurb_visual_laser_senser_friendly"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -2753,7 +2753,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_friendly")_("_bl")_("_text_visual_laser_senser"),
-		blurb=_("_blurb_visualLaserSenserFriendly"),
+		blurb=_("_blurb_visual_laser_senser_friendly"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2776,7 +2776,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET
 		name=_("_text_decoy")_("_bl")_("_text_super_laser_senser"),
-		blurb=_("_blurb_superLaserSenser"),
+		blurb=_("_blurb_laser_senser_super"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2801,7 +2801,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_plasma_cannon"),
-		blurb=_("_blurb_shortPlasmaCannon"),
+		blurb=_("_blurb_short_plasma_cannon"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2826,7 +2826,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_blizzard_cannon"),
-		blurb=_("_blurb_BlizzardLauncher"),
+		blurb=_("_blurb_lapism_blizzard_cannon"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -2976,7 +2976,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_fragminecannon_lv1"),
-		blurb=_("_blurb_lapismFragMineCannonLv1"),
+		blurb=_("_blurb_lapism_frag_mine_cannon_s1"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -3013,7 +3013,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_fragminecannon_lv2"),
-		blurb=_("_blurb_lapismFragMineCannonLv2"),
+		blurb=_("_blurb_lapism_frag_mine_cannon_s2"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3074,7 +3074,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_fragminecannon_lv3"),
-		blurb=_("_blurb_lapismFragMineCannonLv3"),
+		blurb=_("_blurb_lapism_frag_mine_cannon_s3"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -3158,7 +3158,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_dmg"),
-		blurb=_("_blurb_lapismDmgModMk1"),
+		blurb=_("_blurb_lapism_mod_dmg_mk1"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3185,7 +3185,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_dmg")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismDmgModMk2")_("_n")_("_blurb_modreasspenalty200"),
+		blurb=_("_blurb_lapism_mod_dmg_mk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3213,7 +3213,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_dmg")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismDmgModMk3")_("_n")_("_blurb_modreasspenalty400"),
+		blurb=_("_blurb_lapism_mod_dmg_mk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3241,7 +3241,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rng"),
-		blurb=_("_blurb_lapismRngModMk1"),
+		blurb=_("_blurb_lapism_mod_rng_mk1"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3268,7 +3268,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rng")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismRngModMk2")_("_n")_("_blurb_modreasspenalty200"),
+		blurb=_("_blurb_lapism_mod_rng_mk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3296,7 +3296,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rng")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismRngModMk3")_("_n")_("_blurb_modreasspenalty400"),
+		blurb=_("_blurb_lapism_mod_rng_mk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3324,7 +3324,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_vel"),
-		blurb=_("_blurb_lapismVelModMk1"),
+		blurb=_("_blurb_lapism_mod_vel_mk1"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3351,7 +3351,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_vel")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismVelModMk2")_("_n")_("_blurb_modreasspenalty200"),
+		blurb=_("_blurb_lapism_mod_vel_mk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3379,7 +3379,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_vel")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismVelModMk3")_("_n")_("_blurb_modreasspenalty400"),
+		blurb=_("_blurb_lapism_mod_vel_mk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3407,7 +3407,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rof"),
-		blurb=_("_blurb_lapismRofModMk1"),
+		blurb=_("_blurb_lapism_mod_rof_mk1"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3434,7 +3434,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rof")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismRofModMk2")_("_n")_("_blurb_modreasspenalty200"),
+		blurb=_("_blurb_lapism_mod_rof_mk2")_("_n")_("_blurb_modreasspenalty200"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3462,7 +3462,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_rof")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismRofModMk3")_("_n")_("_blurb_modreasspenalty400"),
+		blurb=_("_blurb_lapism_mod_rof_mk3")_("_n")_("_blurb_modreasspenalty400"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3490,7 +3490,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_erd"),
-		blurb=_("_blurb_lapismErdModMk1")_("_n")_("_blurb_explosive_cannon_required"),
+		blurb=_("_blurb_lapism_mod_erd_mk1")_("_n")_("_blurb_explosive_cannon_required"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3517,7 +3517,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_erd")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismErdModMk2")_("_n")_("_blurb_modreasspenalty200")_("_n")_("_blurb_explosive_cannon_required"),
+		blurb=_("_blurb_lapism_mod_erd_mk2")_("_n")_("_blurb_modreasspenalty200")_("_n")_("_blurb_explosive_cannon_required"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3545,7 +3545,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_erd")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismErdModMk3")_("_n")_("_blurb_modreasspenalty400")_("_n")_("_blurb_explosive_cannon_required"),
+		blurb=_("_blurb_lapism_mod_erd_mk3")_("_n")_("_blurb_modreasspenalty400")_("_n")_("_blurb_explosive_cannon_required"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3573,7 +3573,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_pwr"),
-		blurb=_("_blurb_lapismPwrModMk1"),
+		blurb=_("_blurb_lapism_mod_pwr_mk1"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3600,7 +3600,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_pwr")_("_bl")_("_text_romannum2"),
-		blurb=_("_blurb_lapismPwrModMk2")_("_n")_("_blurb_modreasspenalty250"),
+		blurb=_("_blurb_lapism_mod_pwr_mk2")_("_n")_("_blurb_modreasspenalty250"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3628,7 +3628,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_pwr")_("_bl")_("_text_romannum3"),
-		blurb=_("_blurb_lapismPwrModMk3")_("_n")_("_blurb_modreasspenalty500"),
+		blurb=_("_blurb_lapism_mod_pwr_mk3")_("_n")_("_blurb_modreasspenalty500"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3656,7 +3656,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_pwr")_("_bl")_("_text_romannum4"),
-		blurb=_("_blurb_lapismPwrModMk4")_("_n")_("_blurb_modreasspenalty800"),
+		blurb=_("_blurb_lapism_mod_pwr_mk4")_("_n")_("_blurb_modreasspenalty800"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3684,7 +3684,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_pwr")_("_bl")_("_text_romannum5"),
-		blurb=_("_blurb_lapismPwrModMk5")_("_n")_("_blurb_modreasspenalty2000"),
+		blurb=_("_blurb_lapism_mod_pwr_mk5")_("_n")_("_blurb_modreasspenalty2000"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3712,7 +3712,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_short"),
-		blurb=_("_blurb_lapismSpecShortMod"),
+		blurb=_("_blurb_lapism_mod_spec_short"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3741,7 +3741,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_light"),
-		blurb=_("_blurb_lapismSpecLightMod"),
+		blurb=_("_blurb_lapism_mod_spec_light"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3770,7 +3770,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_quick"),
-		blurb=_("_blurb_lapismSpecQuickMod"),
+		blurb=_("_blurb_lapism_mod_spec_quick"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3799,7 +3799,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_blast"),
-		blurb=_("_blurb_lapismSpecBlastMod")_("_n")_("_blurb_explosive_cannon_required"),
+		blurb=_("_blurb_lapism_mod_spec_blast")_("_n")_("_blurb_explosive_cannon_required"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3827,7 +3827,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_rage"),
-		blurb=_("_blurb_lapismSpecRageMod"),
+		blurb=_("_blurb_lapism_mod_spec_rage"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3855,7 +3855,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_oneshot"),
-		blurb=_("_blurb_lapismSpecOneShotMod"),
+		blurb=_("_blurb_lapism_mod_spec_oneshot"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3884,7 +3884,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_mod_spec_weak"),
-		blurb=_("_blurb_lapismSpecWeakMod"),
+		blurb=_("_blurb_lapism_mod_spec_weak"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -3914,7 +3914,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_basic")_("_bl")_("_text_missile_drone_launcher"),
-		blurb=_("_blurb_MissileDroneLauncher"),
+		blurb=_("_blurb_missile_drone_launcher"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -3988,7 +3988,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
-		blurb=_("_blurb_QuickMissileBattery"),
+		blurb=_("_blurb_quick_missile_battery"),
 		shape=1257005,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -4032,7 +4032,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
-		blurb=_("_blurb_QuickMissileBattery"),
+		blurb=_("_blurb_quick_missile_battery"),
 		shape=1257005,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -4076,7 +4076,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER|LAUNCHER_BARRAGE,
 		name=_("_text_decoy")_("_bl")_("_text_prefix_basic")_("_bl")_("_text_missile_battery"),
-		blurb=_("_blurb_QuickMissileBattery"),
+		blurb=_("_blurb_quick_missile_battery"),
 		shape=1257005,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4120,7 +4120,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_melee_drone_launcher"),
-		blurb=_("_blurb_FragmentDroneLauncher"),
+		blurb=_("_blurb_fragment_drone_launcher"),
 		shape=1257008,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -4215,7 +4215,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_antimissile_drone_launcher"),
-		blurb=_("_blurb_lapismAntiMissileDroneLauncher"),
+		blurb=_("_blurb_lapism_anti_missile_drone_launcher"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -4273,7 +4273,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_nanobot_launcher"),
-		blurb=_("_blurb_lapismNanobotLauncherSc1"),
+		blurb=_("_blurb_lapism_nanobot_launcher_s1"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -4331,7 +4331,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_nanobot_launcher"),
-		blurb=_("_blurb_lapismNanobotLauncherSc2"),
+		blurb=_("_blurb_lapism_nanobot_launcher_s2"),
 		shape=1257007,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -4390,7 +4390,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_nanobot_launcher"),
-		blurb=_("_blurb_lapismNanobotLauncherSc3"),
+		blurb=_("_blurb_lapism_nanobot_launcher_s3"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4449,7 +4449,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_cruise_missile_battery"),
-		blurb=_("_blurb_CruiseMissileBattery"),
+		blurb=_("_blurb_cruise_missile_battery"),
 		shape=1257004,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4494,7 +4494,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_anchorsentry_launcher"),
-		blurb=_("_blurb_lapismAnchorSentryLauncher"),
+		blurb=_("_blurb_lapism_anchor_sentry_launcher"),
 		shape=1257007,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -4551,7 +4551,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_launcher_planter"),
-		blurb=_("_blurb_lapismPlanter"),
+		blurb=_("_blurb_lapism_planter"),
 		shape=1257007,
 		scale=1,
 		#include "_T_Lapisdevice.lua"
@@ -4570,7 +4570,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_guarddrone_launcher"),
-		blurb=_("_blurb_lapismGuardDroneLauncher"),
+		blurb=_("_blurb_lapism_guard_drone_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4632,7 +4632,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_deploy_cannon_launcher"),
-		blurb=_("_blurb_lapismOrbcannonLauncher"),
+		blurb=_("_blurb_lapism_orbcannon_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4687,7 +4687,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_arc4675_launcher"),
-		blurb=_("_blurb_ARC-4675Launcher"),
+		blurb=_("_blurb_arc_4675_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4696,7 +4696,7 @@
 			group=1257,
 			features=FREERES|NOCLIP|NOPALETTE|NORECOLOR|ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE,
 			name=_("_text_decoy")_("_bl")_("_text_arc4675_missile"),
-			blurb=_("_blurb_ARC-4675Orb"),
+			blurb=_("_blurb_arc_4675_orb"),
 			shape=1257006,
 			scale=3,
 			fillColor=0xffff00,
@@ -4742,7 +4742,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_arc4675_launcher"),
-		blurb=_("_blurb_ARC-4675Launcher"),
+		blurb=_("_blurb_arc_4675_launcher"),
 		shape=1257007,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -4751,7 +4751,7 @@
 			group=1257,
 			features=FREERES|NOCLIP|NOPALETTE|NORECOLOR|ALWAYSFIRE|COMMAND|FREERES|GENERATOR|LASER|NOCLIP|NOREGEN|THRUSTER|TURRET|EXPLODE,
 			name=_("_text_decoy")_("_bl")_("_text_arc4675_missile"),
-			blurb=_("_blurb_ARC-4675Orb"),
+			blurb=_("_blurb_arc_4675_orb"),
 			shape=1257006,
 			scale=2,
 			fillColor=0xffff00,
@@ -4798,7 +4798,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_strategic_shield_disturber_launcher"),
-		blurb=_("_blurb_StrategicShieldDisturberLauncher"),
+		blurb=_("_blurb_strategic_shield_sisturber_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -4960,7 +4960,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
 		name=_("_text_decoy")_("_bl")_("_text_dashing_torpedo_launcher"),
-		blurb=_("_blurb_DashingTorpedoLauncher"),
+		blurb=_("_blurb_dashing_torpedo_launcher"),
 		shape=1257007,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -5030,7 +5030,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_flatweb_fragcannon"),
-		blurb=_("_blurb_FlatWebCannon"),
+		blurb=_("_blurb_flatweb_cannon"),
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -5183,7 +5183,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257012,
 		scale=1,
 		fillColor=0x0000ff,
@@ -5206,7 +5206,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257013,
 		scale=1,
 		fillColor=0x0000ff,
@@ -5229,7 +5229,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257012,
 		scale=2,
 		fillColor=0x0000ff,
@@ -5252,7 +5252,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257013,
 		scale=2,
 		fillColor=0x0000ff,
@@ -5275,7 +5275,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257012,
 		scale=3,
 		fillColor=0x0000ff,
@@ -5298,7 +5298,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER|LAUNCHER|NEVERFIRE,
 		name=_("_text_decoy")_("_bl")_("_text_material_lapismarine")_("_bl")_("_text_thruster_heavy"),
-		blurb=_("_blurb_HeavyThruster"),
+		blurb=_("_blurb_heavy_thruster"),
 		shape=1257013,
 		scale=3,
 		fillColor=0x0000ff,
@@ -5321,7 +5321,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_bouncy_orb_fragcannon"),
-		blurb=_("_blurb_lapismOrbCannon"),
+		blurb=_("_blurb_lapism_orb_cannon"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -5548,7 +5548,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_selfsweep_cannon"),
-		blurb=_("_blurb_lapismSelfSweepCannon"),
+		blurb=_("_blurb_lapism_selfsweep_Cannon"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -5953,7 +5953,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_lapism_rainbow_thrower"),
-		blurb=_("_blurb_meleeFlamethrower"),
+		blurb=_("_blurb_melee_flamethrower"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice.lua"
@@ -6469,8 +6469,8 @@
 		sort=1258207000,
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LAUNCHER,
-		name=_("_text_decoy")_("_bl")_("_text_lapismUberTurretLauncher"),
-		blurb=_("_blurb_lapismUberTurretLauncher"),
+		name=_("_text_decoy")_("_bl")_("_text_lapism_uberturret_launcher"),
+		blurb=_("_blurb_lapism_uberturret_launcher"),
 		shape=1257007,
 		scale=3,
 		#include "_T_Lapisdevice.lua"
@@ -6479,7 +6479,7 @@
 			group=1257,
 			points=1,
 			features=FREERES|NOCLIP|NOPALETTE|CANNON|COMMAND|FREERES|GENERATOR|NOREGEN|THRUSTER|TORQUER|TURRET|SHIELD|LAUNCHER|NOCLIP_ALLY|LAUNCHER_BARRAGE,
-			name=_("_text_decoy")_("_bl")_("_text_lapismUberTurret"),
+			name=_("_text_decoy")_("_bl")_("_text_lapism_uberturret"),
 			shape=1257052,
 			fillColor=0x0000ff,
 			fillColor1=0x7fc0ff,
@@ -6536,7 +6536,7 @@
 				group=1257,
 				points=1,
 				features=FREERES|NOCLIP|NOPALETTE|FREERES|EXPLODE|NOCLIP_ALLY,
-				name=_("_text_decoy")_("_bl")_("_text_lapismUberTurretArmor"),
+				name=_("_text_decoy")_("_bl")_("_text_lapism_uberturret_armor"),
 				shape=1257006,
 				scale=3,
 				fillColor=0x0000ff,
@@ -6865,7 +6865,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_word_plasma"),
-		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_short_plasma_cannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -6894,7 +6894,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_word_plasma"),
-		blurb=_("_blurb_shortPlasmaCannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_short_plasma_cannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7019,7 +7019,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_brust_bomber_cannon"),
-		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_bomber_cannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7048,7 +7048,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_cannon"),
-		blurb=_("_blurb_lapismAncientPDCannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_pd_cannon")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7078,7 +7078,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_laser"),
-		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_pd_laser")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7102,7 +7102,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_pder_laser"),
-		blurb=_("_blurb_lapismAncientPDLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_pd_laser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7126,7 +7126,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_laser")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7150,7 +7150,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_laser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7174,7 +7174,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_llaser"),
-		blurb=_("_blurb_lapismAncientLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_laser")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7198,7 +7198,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_kite_laser"),
-		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_laser_kite")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7223,7 +7223,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_kite_laser"),
-		blurb=_("_blurb_lapismAncientKiteLaser")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_laser_kite")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7249,7 +7249,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_nanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7273,7 +7273,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_nanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7297,7 +7297,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_nanoassembler"),
-		blurb=_("_blurb_lapismAncientNanoassembler")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_nanoassembler")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7396,7 +7396,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CHARGING|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_bomber_laser"),
-		blurb=_("_blurb_lapismAncientBomberCannon")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_bomber_cannon")_("_n")_("_blurb_ancient_block"),
 		shape=TRI,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7421,7 +7421,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|CHARGING|LASER|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_doomsday_beam"),
-		blurb=_("_blurb_lapismAncientDoomsdayBeam")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_ancient_doomsday_deam")_("_n")_("_blurb_ancient_block"),
 		shape=HEXAGON,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7447,7 +7447,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_mod_spec_merge"),
-		blurb=_("_blurb_lapismSpecMergeMod")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_mod_spec_merge")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7475,7 +7475,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_mod_spec_endurance"),
-		blurb=_("_blurb_lapismSpecEnduranceMod")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_mod_spec_endurance")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7503,7 +7503,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|AUTOFIRE|CANNON_BOOST|LASER|NEVERFIRE|TURRET,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_lapism_mod_spec_turn"),
-		blurb=_("_blurb_lapismSpecTurnMod")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_lapism_mod_spec_turn")_("_n")_("_blurb_ancient_block"),
 		shape=1257008,
 		scale=2,
 		#include "_T_Lapisdevice_Ancient.lua"
@@ -7531,7 +7531,7 @@
 		group=1257,
 		features=FREERES|NOCLIP|NOPALETTE|0000000000|THRUSTER,
 		name=_("_text_decoy")_("_bl")_("_text_ancient_magnualand_tech")_("_bl")_("_text_thruster"),
-		blurb=_("_blurb_AncientMicroThruster")_("_n")_("_blurb_ancient_block"),
+		blurb=_("_blurb_ancient_micro_thruster")_("_n")_("_blurb_ancient_block"),
 		shape=1257011,
 		scale=1,
 		#include "_T_Lapisdevice_Ancient.lua"

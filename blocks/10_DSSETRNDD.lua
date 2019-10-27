@@ -4,8 +4,8 @@
 		sort=1235000000,
 		group=1235,
 		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|SHIELD|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
-		name=_("_text_dsd_tech")_("_bl")_("_text_DSDCapsule"),
-		blurb=_("_blurb_DSDCapsule"),
+		name=_("_text_dsd_tech")_("_bl")_("_text_dsdCapsule"),
+		blurb=_("_blurb_dsdCapsule"),
 		shape=SQUARE,
 		scale=2,
 		command={
@@ -48,7 +48,7 @@
 		group=1235,
 		features=PALETTE|MELEE|NORECOLOR,
 		name=_("_text_dsd_tech")_("_bl")_("_text_hull"),
-		blurb=_("_blurb_DSDDarkhull"),
+		blurb=_("_blurb_dsdDarkhull"),
 		shape=SQUARE,
 		scale=1,
 		#include "_T_DSD_HullDark.lua"
