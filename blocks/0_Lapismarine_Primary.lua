@@ -13,6 +13,8 @@
 			faction=1257,
 		},
 		#include "_T_Lapis_command_style.lua"
+	--	durability=29.02917153485443,
+		durability=29.031,
 		growRate=2.2,
 		meleeDamage=2,
 		points=20,

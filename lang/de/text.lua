@@ -15,17 +15,17 @@
 	"_text_we2bolax_tech"="WE2BoLaX",
 	"_text_b10_tech"="BoottenSalamander",
 	"_text_nullsettertech"="Antimatter",
-	"_text_3883tech"="3tr8g8gi3",
+	"_text_3883tech"="3tr8t8gi3",
 	"_text_salamander_tech"="SalamanderGens",
 	
-	"_text_faction_lapismarine"="Retrio Lapismarine",
+	"_text_faction_lapismarine"="Retro Lapismarine",
 	"_text_faction_dssetrndd"="DSSETRNDD",
 	"_text_faction_lightguard"="Light Guard",
 	"_text_faction_phage"="Phage",
 	"_text_faction_winterender"="Winter Ender",
 	"_text_faction_outlaw"="Outlaw",
 	"_text_faction_nullsetter"="Null setter",
-	"_text_faction_stragegicbrawler"="Stragegic Brawler",
+	"_text_faction_strategicbrawler"="Strategic Brawler",
 	"_text_faction_ancientmagnualand"="Ancient",
 	"_text_faction_salamander"="Salamander",
 	
@@ -416,6 +416,11 @@
 	"_text_3883CannonS4"="Neutron Bomber ASET-8",
 	"_text_3883CannonS5"="Haste EM-Shot Rail Blaster BRMG-64",
 	"_text_3883Nanoassembler"="Recovery MED-99",
+	"_text_3883CannonS1_2"="Weak Generator KAX-3",
+	"_text_3883CannonS2_2"="Flak Rail DDOX-8",
+	"_text_3883CannonS3_2"="Shotgun Masterkey DUO-16",
+	"_text_3883CannonS4_2"="Icy Snipe Rifle R-9",
+	"_text_3883CannonS5_2"="Short range mass-destruction weapon that launching a massive projectile loosing damage and speed overtime, and become a mine at the end.",
 	
 	"_blurb_3883WhiteStructue"="Heavy hard spiky white lapismarine armor. ",
 	"_blurb_3883DarkStructue"="Light ships structue. ",
@@ -424,13 +429,22 @@
 	"_blurb_3883STBud"="Part of Script Bud System and Thrust Bud System, use this wire your weapons and thrusters - if they go across. ",
 	
 	"_blurb_3883CannonS1"="Launching grenade. ",
-	"_blurb_3883CannonS5"="Deadly haste blaster. ",
+	"_blurb_3883CannonS5"="A deadly haste blaster spreading massive of projectiles in a medium. Takes 5sec cooldown after 5sec's firing. ",
+	"_blurb_3883CannonS1_2"="Left static explosive projectiles behind which explode on touch. RNG < VEL Script is suggested. ",
+	"_blurb_3883CannonS2_2"="Launching sensory explosive shot that explode after a short delay after triggered. Have a moderate spread. ",
+	"_blurb_3883CannonS3_2"="Super wide heavy shotgun, have 2 shots in every 8 seconds. Takes a bit long time to reload. ",
+	"_blurb_3883CannonS4_2"="A deadly snipe rifle firing shot deals more damage the futher it travel. ",
+	"_blurb_3883CannonS5_2"="Matter Destructor Bomber NAXX-39000",
+	
 	"_blurb_3883Afterburner1000"="Active manually, 3000k thrust force, no wiring is needed. ",
 	"_blurb_generator_0s"="Standard generator device. ",
 	"_blurb_standardPowerStorger"="Provide power storge but doesn't generate power. ",
 	
 	"_text_3883shield"="Empowered Shield",
 	"_blurb_3883shield"="Shield module which directly drain power capacity to resist damage. Out of power when taking damage will result overclock and cause the destruction of the module. ",
+	
+	"_text_3883TBud_Supressor"="TBud Supressor",
+	"_blurb_3883TBud_Supressor"="Supress TBud output port and provide script transmit. ",
 	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="Hard capsule container. \nJump device is installed. \nProvide power control, offline weapon cannot fire. \n Increasing scale of your ship will boost your fireworks, make it bigger and slower. ",
@@ -444,7 +458,7 @@
 	"_text_WE2estone"="Ender Stone",
 	"_blurb_WE2estone"="Ender Stone. ",
 	"_text_WE2assembler"="Reassemble Crystal",
-	"_blurb_WE2assembler"="Long ranged reassemble crystal with explosive. ",
+	"_blurb_WE2assembler"="Long ranged explosive reassemble crystal. Explode on touch or ",
 	"_text_WE2Bedrock"="Bedrock",
 	"_blurb_WE2Bedrock"="Invulnerable. ",
 	

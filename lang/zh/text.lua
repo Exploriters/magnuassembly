@@ -25,7 +25,7 @@
 	"_text_faction_winterender"="冬日末影族",
 	"_text_faction_outlaw"="狂徒族",
 	"_text_faction_nullsetter"="归零者",
-	"_text_faction_stragegicbrawler"="战略狂欢者",
+	"_text_faction_strategicbrawler"="战略狂欢者",
 	"_text_faction_ancientmagnualand"="古人族",
 	"_text_faction_salamander"="耐火人",
 	
@@ -416,21 +416,35 @@
 	"_text_3883CannonS4"="中子爆破炮ASET-8",
 	"_text_3883CannonS5"="疾速电磁弹轨道炮BRMG-64",
 	"_text_3883Nanoassembler"="恢复器MED-99",
+	"_text_3883CannonS1_2"="尾迹生成器KAX-3",
+	"_text_3883CannonS2_2"="自动引信轨道炮DDOX-8",
+	"_text_3883CannonS3_2"="万能钥匙霰弹枪DUO-16",
+	"_text_3883CannonS4_2"="冰霜狙击来复枪R-9",
+	"_text_3883CannonS5_2"="爆破式物质分解器NAXX-39000",
 	
 	"_blurb_3883WhiteStructue"="厚重强硬且锋利的海青装甲。",
 	"_blurb_3883DarkStructue"="轻盈的灰色船体结构组件。",
 	"_blurb_3883SBud"="武器总线，用于传递脚本。",
-	"_blurb_3883TBud"="推进器总线，用于传递推进。",
-	"_blurb_3883STBud"="武器及推进器总线，在武器总线与推进器总线交叉时，此设备很有用。",
+	"_blurb_3883TBud"="推进总线，用于传递推进。",
+	"_blurb_3883STBud"="武器及推进总线，在武器总线与推进总线交叉时，此设备很有用。",
 	
 	"_blurb_3883CannonS1"="发射榴弹。",
-	"_blurb_3883CannonS5"="致命的急速火炮。",
+	"_blurb_3883CannonS5"="一个致命的急速火炮，在持续开火5秒后需冷却5秒。",
+	"_blurb_3883CannonS1_2"="在背后留下触碰爆炸的静态弹射物。推荐使用 射程< 弹速 脚本。",
+	"_blurb_3883CannonS2_2"="发射自动引信炮弹在被触发的短暂时间后爆炸。有需要留意的散射。",
+	"_blurb_3883CannonS3_2"="散射极大的重型霰弹炮，每8秒可以发射2发。需要一些时间进行填装。",
+	"_blurb_3883CannonS4_2"="一台致命的狙击来复枪，发射的子弹飞的越远伤害越高。",
+	"_text_3883CannonS5_2"="近距离大规模杀伤性武器，发射一个随着时间损失速度和伤害的大型弹射物，并在最终变成地雷。",
+	
 	"_blurb_3883Afterburner1000"="手动激活，具有3000k推力，不需要连接总线。",
 	"_blurb_generator_0s"="标准化电力模块。",
 	"_blurb_standardPowerStorger"="提供电容但不产生电量。",
 	
 	"_text_3883shield"="过充护盾",
 	"_blurb_3883shield"="直接抽取电容器来阻挡伤害的强力护盾。能量供应不足以消耗伤害时会过载并摧毁护盾模块。",
+	
+	"_text_3883TBud_Supressor"="推进总线阻塞器",
+	"_blurb_3883TBud_Supressor"="用于堵死推进总线出口，并且提供脚本传递。",
 	
 --  WE2BoLaX
 	"_blurb_WE2BoLaXCapsule"="坚硬的驾驶室容器。\n配备跃迁设备。\n提供能量控制，断线武器无法开火。\n 舰船规模的增长会使烟花更大并降低开火频率。",
@@ -444,7 +458,7 @@
 	"_text_WE2estone"="末影石",
 	"_blurb_WE2estone"="沉重的可种植方块",
 	"_text_WE2assembler"="重组水晶",
-	"_blurb_WE2assembler"="远距离再生长增幅激光的爆炸性水晶。",
+	"_blurb_WE2assembler"="远距离再生长增幅激光的爆炸性水晶。触碰到物体时爆炸，也可手动引爆。",
 	"_text_WE2Bedrock"="基岩",
 	"_blurb_WE2Bedrock"="坚不可摧。",
 	

@@ -85,7 +85,7 @@
 	},
 
 	1443 = {
-		name=_("_text_faction_stragegicbrawler"),-- 3tr8g8gi3
+		name=_("_text_faction_strategicbrawler"),-- 3tr8g8gi3
 		playable=1,
 		start="1443_Explorer_Lapis",
 		primaries=3,
