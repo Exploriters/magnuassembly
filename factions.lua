@@ -1,7 +1,7 @@
 
 {
 	1257 = {
-		name=_("_text_faction_Lapismarine"),-- Lapismarine
+		name=_("_text_faction_lapismarine"),-- Lapismarine
 		playable=2,
 		start="1257_Knight",
 		primaries=3,
@@ -13,7 +13,7 @@
 	},
 	
 	1235 = {
-		name=_("_text_faction_DSSETRNDD"),-- SantasumuStandard
+		name=_("_text_faction_dssetrndd"),-- SantasumuStandard
 		playable=1,
 		start="1235_Venture",
 		primaries=3,
@@ -25,7 +25,7 @@
 	},
 	
 	1238 = {
-		name=_("_text_faction_Light_Guard"),-- 38Tech
+		name=_("_text_faction_lightguard"),-- 38Tech
 		playable=1,
 		start="1238_Tech_Bomber",
 		primaries=3,
@@ -38,7 +38,7 @@
 	
 	
 	1880 = {
-		name=_("_text_faction_Phage"),-- Protein
+		name=_("_text_faction_phage"),-- Protein
 		playable=1,
 		start="1880_A-1",
 		primaries=3,
@@ -50,7 +50,7 @@
 	},
 
 	1242 = {
-		name=_("_text_faction_Winter_Ender"),-- WE2BoLaX
+		name=_("_text_faction_winterender"),-- WE2BoLaX
 		playable=1,
 		start="1242_Squate2",
 		primaries=3,
@@ -62,7 +62,7 @@
 	},
 
 	1243 = {
-		name=_("_text_faction_Outlaw"),-- Bootten
+		name=_("_text_faction_outlaw"),-- Bootten
 		playable=1,
 		start="1243_Evih",
 		primaries=3,
@@ -74,7 +74,7 @@
 	},
 	
 	1881 = {
-		name=_("_text_faction_Null_setter"),-- Antimatter
+		name=_("_text_faction_nullsetter"),-- Antimatter
 		start="1881_Nanf",
 		primaries=3,
 		color0=0x800080,
@@ -85,19 +85,19 @@
 	},
 
 	1443 = {
-		name=_("_text_faction_Stragegic_Brawler"),-- 3tr8g8gi3
+		name=_("_text_faction_strategicbrawler"),-- 3tr8g8gi3
 		playable=1,
 		start="1443_Explorer_Lapis",
 		primaries=3,
 		color0=0x0984ff,
 		color1=0xea8700,
 		color2=0x3f3f3f,
-		aiflags=NO_PARENT|CAUTIOUS|DODGES|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
+		aiflags=NO_PARENT|PEACEFUL|DODGES|METAMORPHOSIS|RECKLESS|SMART_FIRE|SOCIAL|WANDER,
 		thrustSFX=1,
 	},
 
 	1259 = {
-		name=_("_text_faction_Ancient"),-- Magnualand
+		name=_("_text_faction_ancientmagnualand"),-- Magnualand
 		primaries=3,
 		start="1259_MegaOrb1",
 		color0=0x0000ff,

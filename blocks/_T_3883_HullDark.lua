@@ -1,7 +1,7 @@
 		
 		fillColor=0x2f2f2f,
 		fillColor1=0x4f4f4f,
-		lineColor=0xffffff,
+		lineColor=0x3f3f3f,
 		durability=10,
 		density=0.1,
 		growRate=40,

@@ -1,7 +1,10 @@
 
-		fillColor=0x3f3f3f,
-		fillColor1=0x4f4f4f,
-		lineColor=0xffffff,
+	--	fillColor=0x3f3f3f,
+	--	fillColor1=0x4f4f4f,
+	--	lineColor=0xffffff,
+		fillColor=0x0984ff,
+		fillColor1=0xea8700,
+		lineColor=0x3f3f3f,
 		points=16,
 		durability=12,
 		density=0.04,
@@ -11,4 +14,14 @@
 		teleporterPower=100,
 		teleporterRadius=30000,
 		capacity=0,
+		-- shroud={
+			-- {size={1, 5}, offset={-2.5, 0, -1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			-- {size={10, 0.5}, offset={-2.5, 4.5, -1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			-- {size={1, 5}, offset={6.5, 0, -1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			-- {size={10, 0.5}, offset={-2.5, -4.5, -1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		-- },
+		shroud={
+			{size={2, 1}, offset={-3.5, 0, 0.05}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			{size={0.5, 0.5}, offset={-3, 0, 0.075}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		},
 		

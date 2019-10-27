@@ -21,7 +21,7 @@ fillColor=0x0000ff,\r\n\t\tlineColor=0x7fc0ff,\r\n\t\tpoints=(\-?[0-9]+),\r\n\t\
 #include "_T_Lapisfakemissile.lua"
 
 name=_("
-name=_("_text_Decoy")_("_bl")_("
+name=_("_text_decoy")_("_bl")_("
 
 ))))))))))
 

@@ -1,7 +1,7 @@
 
 			group=1238,
 			features=COMMAND|EXPLODE|NOREGEN|THRUSTER|TORQUER|FREERES,
-			name=_("_text_38tech")_("_bl")_("_text_38techGTMissile"),
+			name=_("_text_38_tech")_("_bl")_("_text_38techGTMissile"),
 			blurb=_("_blurb_38techGTMissile"),
 			shape=1257046,
 			scale=1,

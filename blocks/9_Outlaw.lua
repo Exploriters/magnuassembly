@@ -4,7 +4,7 @@
 		sort=1243000000,
 		group=1243,
 		features=ASSEMBLER|COMMAND|GENERATOR|MELEE|TELEPORTER|THRUSTER|TORQUER|TRACTOR,
-		name=_("_text_B10tech")_("_bl")_("_text_Capsule"),
+		name=_("_text_b10_tech")_("_bl")_("_text_capsule"),
 		blurb=_("_blurb_B10Capsule"),
 		shape=COMMAND,
 		fillColor=0x821d28,
