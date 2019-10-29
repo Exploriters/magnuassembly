@@ -370,7 +370,7 @@
 	"_text_3883TriangleSBud"="三角脚本总线",
 	"_text_3883SingleSBud"="一字脚本总线",
 	"_text_3883MountSBud"="山形脚本总线",
-	"_text_3883MountSBud"="适配脚本总线",
+	"_text_3883AdapterSBud"="适配脚本总线",
 	"_text_3883TrightSBud"="直角脚本总线",
 	"_text_3883BlankSBud"="空白脚本总线",
 	"_text_3883HalfSBud"="交叉脚本总线",
