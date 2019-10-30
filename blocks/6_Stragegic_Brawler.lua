@@ -5078,7 +5078,7 @@ replicateBlock=0,
 			{size={2.88675, 1.5}, offset={5.64971, 0, 0.35},shape=602, taper=0, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 		
-		turretSpeed=4,
+		turretSpeed=1e7,
 	},
 
 	{
@@ -5161,7 +5161,7 @@ replicateBlock=0,
 			{size={11.547, 6}, offset={17.557335, 0, 0.35},shape=602, taper=0, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 		
-		turretSpeed=18,
+		turretSpeed=2,
 	},
 
 	{
@@ -5418,8 +5418,8 @@ replicateBlock=0,
 				},
 			},
 		},
-		turretSpeed=7.069,
-		turretLimit=4.712,
+		-- turretSpeed=7.069,
+		-- turretLimit=4.712,
 		
 	--	barrelSize={-1e-160,1e-16},
 	--	barrelOffset={7.8, 0},
@@ -5461,13 +5461,13 @@ replicateBlock=0,
 		shape=1243082,
 		scale=1,
 		#include "_T_3883_Device.lua"
-		points=4500,
+		points=1500,
 		aihint_range=2100,
 		aihint_muzzleVel=350,
 		cannon={--vel600
-			recoil=0.05,
+			recoil=0.15,
 			damage=3000,
-			power=44444,
+			power=133332,
 			roundsPerSec=0.1,
 			color=0xc0c0c0,
 			muzzleVel=600,
@@ -5644,7 +5644,7 @@ replicateBlock=0,
 			},
 		}}}}}}}}}}}}}},
 		
-		turretSpeed=0.2,
+		turretSpeed=1,
 		turretLimit=4.7123889803846898576939650749193,
 		
 	--	barrelSize={-1e-160,2.74},
