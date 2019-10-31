@@ -1323,7 +1323,7 @@
 		ident=1443074,
 		sort=1443774000,
 		group=1443,
-		features=CANNON_BOOST|MELEE|ACTIVATE|EXPLODE,
+		features=CANNON_BOOST|MELEE|ACTIVATE|SHIELD,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BackuppowerSubsystem"),
 		blurb=_("_blurb_3883BackuppowerSubsystem"),
 		shape=1257026,
@@ -1332,7 +1332,17 @@
 		cannonBoost={
 		},
 		growRate=0.3333,
-		activatePower=-inf,
+		activatePower=0,
+		shield={
+			strength=-1,
+			regen=-1,
+			radius=-1e-16,
+			delay=1,
+			color=0x01000000,
+			lineColor=0x01000000,
+			damagedColor=0x01000000,
+			power=0,
+		},
 	},
 
 	{
