@@ -370,7 +370,7 @@
 	"_text_3883TriangleSBud"="Triangle Script Bud",
 	"_text_3883SingleSBud"="Single Script Bud",
 	"_text_3883MountSBud"="Mount Script Bud",
-	"_text_3883MountSBud"="Adapter Script Bud",
+	"_text_3883AdapterSBud"="Adapter Script Bud",
 	"_text_3883TrightSBud"="Tright Script Bud",
 	"_text_3883BlankSBud"="Blank Script Bud",
 	"_text_3883HalfSBud"="Crossing Script Bud",
