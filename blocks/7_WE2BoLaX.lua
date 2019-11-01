@@ -462,19 +462,19 @@ replicateBlock=0,
 			
 			--left
 			{size={24, 12}, offset={-13, 0, 1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={24, 12}, offset={-8.48528137423824+0.70710678119, -8.4852813742392+0.70710678119, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={24, 12}, offset={-7.778174593, -7.778174593, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
 			--right
 			{size={24, 12}, offset={-11, 0, 1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={24, 12}, offset={-8.48528137423824-0.70710678119, -8.4852813742392+0.70710678119, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={24, 12}, offset={-9.1923881554, -7.778174593, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
 			--up
 			{size={24, 12}, offset={-12., 1, 1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={24, 12}, offset={-8.48528137423824+0.70710678119, -8.4852813742392-0.70710678119, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={24, 12}, offset={-7.778174593, -9.1923881554, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
 			--down
 			{size={24, 12}, offset={-12, -1, 1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
-			{size={24, 12}, offset={-8.48528137423824-0.70710678119, -8.4852813742392-0.70710678119, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={24, 12}, offset={-9.1923881554, -9.1923881554, 1e-16}, angle=0.78539816339744830961566084581988 , taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 	},
 	
