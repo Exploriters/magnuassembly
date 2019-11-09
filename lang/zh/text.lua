@@ -362,7 +362,7 @@
 	"_text_3883LonerSubsystem"="独行子系统",
 	"_blurb_3883LonerSubsystem"="(+)伤害增加15%。\n(-)爆炸范围面积降低100%。",
 	"_text_3883BackuppowerSubsystem"="备用能源子系统。",
-	"_blurb_3883BackuppowerSubsystem"="(+)允许通过激活此模块来获得瞬间能量恢复。\n(-)+300%子系统重组时间。\n(-)不提供传送。",
+	"_blurb_3883BackuppowerSubsystem"="(+)允许每50秒一次通过激活此模块来获得10000000瞬间能量恢复。\n(-)不提供传送。",
 	
 	"_text_3883WhiteSBud"="白色脚本总线"
 	"_text_3883KatoonSBud"="喀通脚本总线",

@@ -362,7 +362,7 @@
 	"_text_3883LonerSubsystem"="Loner Subsystem",
 	"_blurb_3883LonerSubsystem"="(+)+15% damage \n(-)-100% explode effect ",
 	"_text_3883BackuppowerSubsystem"="Backup Power Subsystem",
-	"_blurb_3883BackuppowerSubsystem"="(+)Allows a instant power restore by active this. \n(-)+300% subsystem module assemble time.\n(-)Not providing teleport. ",
+	"_blurb_3883BackuppowerSubsystem"="(+)Allows a instant 10000000 power restore by active this, can preform once every 50 seconds. \n(-)Not providing teleport. ",
 	
 	"_text_3883WhiteSBud"="White Script Bud",
 	"_text_3883KatoonSBud"="Katoon Script Bud",
