@@ -1355,7 +1355,7 @@
 			scale=1,
 			fillColor=0x0984ff,
 			fillColor1=0xea8700,
-			lineColor=0xdfdfdf,
+			lineColor=0x3f3f3f,
 			points=-1,
 			durability=1e-16,
 			density=0.01,
