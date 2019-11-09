@@ -1330,6 +1330,9 @@
 		shape=1257026,
 		scale=1,
 		#include "_T_3883_Subsystem.lua"
+		fillColor1=0x0984ff,
+		fillColor=0xea8700,
+		lineColor=0xdfdfdf,
 		cannonBoost={
 		},
 	--	growRate=0.1,
@@ -1350,8 +1353,8 @@
 			name=_("_text_3883tech")_("_bl")_("_text_3883BackuppowerSubsystem"),
 			shape=1257026,
 			scale=1,
-			fillColor1=0x0984ff,
-			fillColor=0xea8700,
+			fillColor=0x0984ff,
+			fillColor1=0xea8700,
 			lineColor=0xdfdfdf,
 			points=-1,
 			durability=1e-16,
