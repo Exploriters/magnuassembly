@@ -1324,7 +1324,7 @@
 		sort=1443774000,
 		group=1443,
 	--	features=CANNON_BOOST|MELEE|ACTIVATE|SHIELD|ONEUSE,
-		features=PALETTE|CANNON_BOOST|MELEE|LAUNCHER|TURRET|ONEUSE,
+		features=PALETTE|CANNON_BOOST|MELEE|LAUNCHER|TURRET,
 		name=_("_text_3883tech")_("_bl")_("_text_3883BackuppowerSubsystem"),
 		blurb=_("_blurb_3883BackuppowerSubsystem"),
 		shape=1257026,
