@@ -840,7 +840,7 @@
 		ident=1880034,
 		sort=1880007110,
 		group=1880,
-		features=PALETTL|CANNON_BOOST|MELEE|EXPLODE|ACTIVATE|NOICON,
+		features=PALETTL|CANNON_BOOST|MELEE|ACTIVATE|NOICON|ONEUSE|SHIELD,
 		name=_("_text_phage_de"),
 		shape=1257062,
 		#include "_T_Phage_style.lua"
@@ -848,6 +848,17 @@
 		capacity=172,
 		explodeDamage=0,
 		explodeRadius=0,
+		shield={
+			strength=-1,
+			regen=-1,
+			power=0,
+			radius=-1e-160,
+			delay=5,
+			armor=0,
+			color=0x010a0d06,
+			lineColor=0x01060d00,
+			damagedColor=0x017fc04f,
+		},
 		activatePower=0,
 	},
 
