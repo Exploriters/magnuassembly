@@ -835,4 +835,45 @@
 		launcherOutSpeed=0,
 		launcherAngVel=0,
 	},
+
+	{
+		ident=1880034,
+		sort=1880007110,
+		group=1880,
+		features=PALETTL|CANNON_BOOST|MELEE|EXPLODE|ACTIVATE|NOICON,
+		name=_("_text_phage_de"),
+		shape=1257062,
+		#include "_T_Phage_style.lua"
+		points=2,
+		capacity=172,
+		explodeDamage=0,
+		explodeRadius=0,
+		activatePower=0,
+	},
+
+	{
+		ident=1880035,
+		sort=1880007111,
+		group=1880,
+		features=CANNON_BOOST|MELEE|ACTIVATE|THRUSTER|FIN|SHIELD,
+		name=_("_text_phage_de"),
+		shape=1257062,
+		#include "_T_Phage_style.lua"
+		points=210,
+		capacity=172,
+		activatePower=800,
+		thrusterForce=500000,
+		finForce=1000000,
+		shield={
+			strength=1920,
+			regen=960,
+			power=-20,
+			radius=200,
+			delay=5,
+			armor=100,
+			color=0x010a0d06,
+			lineColor=0x01060d00,
+			damagedColor=0xbf7fc04f,
+		},
+	},
 	

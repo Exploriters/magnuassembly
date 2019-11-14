@@ -1045,7 +1045,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=12,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1086,7 +1086,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=12,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1127,7 +1127,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=12,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1168,7 +1168,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=2,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1209,7 +1209,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=2,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1250,7 +1250,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=2,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1291,7 +1291,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=4,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1332,7 +1332,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=4,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1373,7 +1373,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=4,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1471,7 +1471,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=108,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1512,7 +1512,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=108,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1553,7 +1553,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=108,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1594,7 +1594,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=18,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1635,7 +1635,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=18,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1676,7 +1676,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=18,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1717,7 +1717,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=36,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1758,7 +1758,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=36,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
@@ -1799,7 +1799,7 @@
 		fillColor1=0x0000003f,
 		lineColor=0x00003f,
 		points=36,
-		durability=1,
+		durability=0.02,
 		density=0.05,
 		growRate=inf,
 		shield={
