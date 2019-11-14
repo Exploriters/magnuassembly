@@ -21,7 +21,7 @@
 			-- {size={10, 0.5}, offset={-2.5, -4.5, -1e-16}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		-- },
 		shroud={
-			{size={2, 1}, offset={-3.5, 0, 0.05}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			{size={2, 1}, offset={-3.5, 0, 0.025}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			{size={0.5, 0.5}, offset={-3, 0, 0.075}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		},
 		
