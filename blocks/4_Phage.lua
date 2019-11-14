@@ -842,7 +842,7 @@
 		group=1880,
 		features=PALETTL|CANNON_BOOST|MELEE|ACTIVATE|NOICON|ONEUSE|SHIELD,
 		name=_("_text_phage_de"),
-		shape=1257062,
+		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
 		points=2,
 		capacity=172,
@@ -868,7 +868,7 @@
 		group=1880,
 		features=CANNON_BOOST|MELEE|ACTIVATE|THRUSTER|FIN|SHIELD,
 		name=_("_text_phage_de"),
-		shape=1257062,
+		shape=PENTAGON,
 		#include "_T_Phage_style.lua"
 		points=210,
 		capacity=172,
