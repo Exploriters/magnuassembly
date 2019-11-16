@@ -196,6 +196,8 @@
 	"_text_phage_booster_erd"="爆炸增幅器",
 	"_text_phage_homingshieldbomb_launcher"="诱导爆炸性护盾投射器",
 	"_text_phage_homingshieldbomb"="诱导爆炸性护盾",
+	"_text_phage_decoupler"="分离器",
+	"_text_phage_empowered_booster"="供能冲刺",
 	
 	"_text_nullsetter_command"="归零者",
 	"_text_nullsetter_hull"="反物质",

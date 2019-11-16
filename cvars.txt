@@ -1,3 +1,4 @@
+kParserMaxWarnings = 1
  COLOR_R = 0x5862a0
 # COLOR_RESOURCE0 = 0x9603d8
 # COLOR_RESOURCE1 = 0x0061c8

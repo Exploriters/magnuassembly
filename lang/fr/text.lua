@@ -196,6 +196,8 @@
 	"_text_phage_booster_erd"="Explode Booster",
 	"_text_phage_homingshieldbomb_launcher"="Homing Explosive Shield Launcher",
 	"_text_phage_homingshieldbomb"="Homing Explosive Shield",
+	"_text_phage_decoupler"="Decoupler",
+	"_text_phage_empowered_booster"="Empowered Sprint",
 	
 	"_text_nullsetter_command"="Null Setter",
 	"_text_nullsetter_hull"="Anti Matter",
