@@ -1046,6 +1046,28 @@ replicateBlock=0,
 			},
 		},
 		turretSpeed=9.424,
+		
+	--	barrelSize={-1e-160,1e-16},
+		barrelOffset={5.2, 0},
+	--	barrelTaper=1,
+	--	barrelCount=1,
+		shroud={
+			--外壳主体
+		--	{size={6.667, 3.333}, offset={-5, 0, 0.40}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		--	{size={10.667, 4}, offset={1.667, 0, 0.40}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--外壳顶层凸起
+		--	{size={1.667, 1}, offset={-0.833, 0, 0.41}, taper=1.2, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+		--	{size={2.5, 1.2}, offset={0.833, 0, 0.41}, taper=0.8, count=1, tri_color_id=0, tri_color1_id=0, line_color_id=2},
+			--外壳
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1257010, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={25.981, 30}, offset={5.2, 0, 0.32},shape=1235011, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={17.32067, 20}, offset={5.2, 0, 0.33},shape=TRI, angle=3.1415926535897932384626433832795, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			--套管
+			{size={11.547, 3}, offset={17.933835, 1.2, 0.34},shape=1235012, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={11.547, 3}, offset={17.933835, -1.2, 0.34},shape=1235013, taper=1, count=2, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		},
+		
+		turretSpeed=18.848,
 	},
 	
 	{
