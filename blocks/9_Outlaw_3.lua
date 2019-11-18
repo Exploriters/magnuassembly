@@ -1,5 +1,6 @@
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243900,
 		sort=1243900000,
 		group=1243,
@@ -18,6 +19,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243901,
 		sort=1243901000,
 		group=1243,
@@ -36,6 +38,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243902,
 		sort=1243902000,
 		group=1243,
@@ -54,6 +57,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243903,
 		sort=1243903000,
 		group=1243,
@@ -124,6 +128,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243904,
 		sort=1243904000,
 		group=1243,
@@ -144,6 +149,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243905,
 		sort=1243905000,
 		group=1243,
@@ -225,6 +231,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243910,
 		sort=1243910000,
 		group=1243,
@@ -320,6 +327,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243911,
 		sort=1243902001,
 		group=1243,

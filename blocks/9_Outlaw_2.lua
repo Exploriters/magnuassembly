@@ -1,6 +1,7 @@
 
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243400,
 		sort=1243400000,
 		group=1243,
@@ -14,6 +15,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243401,
 		sort=1243402001,
 		group=1243,
@@ -49,6 +51,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243402,
 		sort=1243402000,
 		group=1243,
@@ -85,6 +88,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243403,
 		sort=1243403000,
 		group=1243,
@@ -100,6 +104,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243404,
 		sort=1243404000,
 		group=1243,
@@ -115,6 +120,7 @@
 	},
 	
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243405,
 		sort=1243403001,
 		group=1243,
@@ -130,6 +136,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243406,
 		sort=1243404001,
 		group=1243,
@@ -145,6 +152,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243407,
 		sort=1243403002,
 		group=1243,
@@ -160,6 +168,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243408,
 		sort=1243404002,
 		group=1243,
@@ -175,6 +184,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243409,
 		sort=1243409000,
 		group=1243,
@@ -198,6 +208,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243410,
 		sort=1243410000,
 		group=1243,
@@ -221,6 +232,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243411,
 		sort=1243411000,
 		group=1243,
@@ -244,6 +256,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243412,
 		sort=1243412000,
 		group=1243,
@@ -309,6 +322,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243413,
 		sort=1243408999,
 		group=1243,
@@ -322,6 +336,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243414,
 		sort=1243414000,
 		group=1243,
@@ -400,6 +415,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243415,
 		sort=1243415000,
 		group=1243,
@@ -434,6 +450,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243416,
 		sort=1243416000,
 		group=1243,
@@ -536,6 +553,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243417,
 		sort=1243417000,
 		group=1243,
@@ -599,6 +617,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243418,
 		sort=1243418000,
 		group=1243,
@@ -691,6 +710,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243419,
 		sort=1243419000,
 		group=1243,
@@ -731,6 +751,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243421,
 		sort=1243421000,
 		group=1243,
@@ -771,6 +792,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243422,
 		sort=1243422000,
 		group=1243,
@@ -809,6 +831,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243423,
 		sort=1243423001,
 		group=1243,
@@ -835,6 +858,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243424,
 		sort=1243424001,
 		group=1243,
@@ -894,6 +918,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243425,
 		sort=1243425001,
 		group=1243,
@@ -922,6 +947,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243426,
 		sort=1243426000,
 		group=1243,
@@ -1065,6 +1091,7 @@
 	},
 
 	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1243427,
 		sort=1243427000,
 		group=1243,
