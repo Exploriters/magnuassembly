@@ -5,9 +5,7 @@
 			blurb=_("_blurb_38techGTMissile"),
 			shape=1257046,
 			scale=1,
-			fillColor=0xffbf00,
-			fillColor1=0x725538,
-			lineColor=0xbfbfbf,
+			#include "_T_LGC_Launchable.lua"
 			points=100,
 			durability=6,
 			density=0.2,

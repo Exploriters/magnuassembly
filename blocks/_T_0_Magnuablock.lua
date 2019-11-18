@@ -1,3 +1,3 @@
 
 		elasticity=1,
-		capacity=0,
+		capacity=1e-16,
