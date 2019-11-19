@@ -1342,11 +1342,26 @@ replicateBlock=0,
 			{size={1.25*16, 16*1.25}, offset={1.25*-12, -17.5*1.25, 0.32}, shape=1235003, angle=pi, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={1.25*16, 16*1.25}, offset={1.25*-12, 17.5*1.25, 0.32}, shape=1235004, angle=pi, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
+			{size={1.25*16*12.5e-1, 1.636*1.25*12.5e-1}, offset={1.25*-40, 21.5*1.25, 0.34}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			{size={1.25*16*12.5e-1, 1.636*1.25*12.5e-1}, offset={1.25*-40, -21.5*1.25, 0.34}, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			
+			{size={1.25*16*0.75, 16*1.25*0.75}, offset={1.25*-12, -17.5*1.25, 0.32}, shape=1235003, angle=pi, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			{size={1.25*16*0.75, 16*1.25*0.75}, offset={1.25*-12, 17.5*1.25, 0.32}, shape=1235004, angle=pi, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+			
+			{size={1.25*33*1.4117647058823529411764705882353, 2.1*1.25*1.4117647058823529411764705882353}, offset={-1.25*39, -19.5*1.25, 0.30}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={1.25*33*1.4117647058823529411764705882353, 2.1*1.25*1.4117647058823529411764705882353}, offset={-1.25*39, 19.5*1.25, 0.30}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
 		--	{size={1.25*93.17647, 7.2*1.25}, offset={-1.25*6, -17.5*1.25, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 		--	{size={1.25*93.17647, 7.2*1.25}, offset={-1.25*6, 17.5*1.25, 0.33}, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			
 			{size={1.25*33.17647, 4.2*1.25*2}, offset={1.25*15.588235, -15.5*1.25, 0.32}, shape=1235004, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
 			{size={1.25*33.17647, 4.2*1.25*2}, offset={1.25*15.588235, 15.5*1.25, 0.32}, shape=1235003, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
+			{size={1.25*33.17647*0.85, 4.2*1.25*2*0.85}, offset={1.25*15.588235, -15.5*1.25, 0.31}, shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={1.25*33.17647*0.85, 4.2*1.25*2*0.85}, offset={1.25*15.588235, 15.5*1.25, 0.31}, shape=SQUARE_1, taper=1, count=1, tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			
+		--	{size={1.25*33.17647*0.75, 4.2*1.25*2*0.75}, offset={1.25*15.588235, -15.5*1.25, 0.32}, shape=1235004, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
+		--	{size={1.25*33.17647*0.75, 4.2*1.25*2*0.75}, offset={1.25*15.588235, 15.5*1.25, 0.32}, shape=1235003, taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 			
 		--	{size={1.25*4*0.88235294117647058823529411764706*1.1, 12*1.25*0.88235294117647058823529411764706*0.95}, offset={1.25*60, -10.5*1.25, 0.35},shape=COMMAND , taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
 		--	{size={1.25*4*0.88235294117647058823529411764706*1.1, 12*1.25*0.88235294117647058823529411764706*0.95}, offset={1.25*60, 0*1.25, 0.35},shape=COMMAND , taper=1, count=1, tri_color_id=2, tri_color1_id=2, line_color_id=2},
