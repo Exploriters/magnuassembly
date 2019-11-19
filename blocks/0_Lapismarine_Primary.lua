@@ -71,6 +71,10 @@
 		blurb=_("_blurb_lapism_seed"),
 		shape=1257009,
 		scale=1,
+		command={
+			flags=NONE,
+			faction=5,
+		},
 		fillColor=0xc0c0ff,
 		fillColor1=0x7fc0ff,
 		lineColor=0x5862a0,
