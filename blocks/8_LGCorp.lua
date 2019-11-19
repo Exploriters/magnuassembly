@@ -2138,7 +2138,7 @@ replicateBlock=0,
 			features=EXPLODE|NOREGEN|FREERES|NOCLIP,
 			name=_("_text_38_tech")_("_bl")_("_text_38techHeliumFlashbang"),
 			blurb=_("_blurb_38techHeliumFlashbang"),
-			shape=1257046,
+			shape=1257094,
 			scale=1,
 			#include "_T_LGC_Launchable.lua"
 			points=4000,

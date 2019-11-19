@@ -542,12 +542,12 @@
 	"_blurb_38techGBLauncher"="发射一颗致命炸弹轰爆一大片区域。",
 	"_blurb_38techGBMissile"="准备好冲击。",
 	
-	"_text_38techDSB_Launcher"="反物质炸弹投射平台",
-	"_text_38techDSB_Missile"="反物质炸弹",
-	"_text_38techDSB_Bomb"="反物质炸弹核心",
-	"_blurb_38techDSB_Launcher"="发射更加最为致命的恐怖炸弹用于轰掉一整个敌人舰队。\n比黄色主序星亮一千倍的真正光芒被释放之时，宇宙也要为之颤动，星空暗淡无光，万物只余灰烬。 \n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
-	"_blurb_38techDSB_Missile"="将一颗极端致命的反舰队炸弹带入深空。",
-	"_blurb_38techDSB_Bomb"="发射时起爆。",
+	"_text_38techAMB_Launcher"="反物质炸弹投射平台",
+	"_text_38techAMB_Missile"="反物质炸弹",
+	"_text_38techAMB_Bomb"="反物质炸弹核心",
+	"_blurb_38techAMB_Launcher"="发射更加最为致命的恐怖炸弹用于轰掉一整个敌人舰队。\n比黄色主序星亮一千倍的真正光芒被释放之时，宇宙也要为之颤动，星空暗淡无光，万物只余灰烬。 \n(*)炸弹能够在不发挥其主要功能的情况下被摧毁。",
+	"_blurb_38techAMB_Missile"="将一颗极端致命的反舰队炸弹带入深空。",
+	"_blurb_38techAMB_Bomb"="发射时起爆。",
 -- 引导十
 	"_blurb_b10_Armor"="坚硬的重型装甲。",
 	"_blurb_b10_Capsule"="坚硬的驾驶室容器。\n配备跃迁设备，跃迁并消耗电容器。",
