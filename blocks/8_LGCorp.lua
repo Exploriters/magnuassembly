@@ -762,8 +762,8 @@ replicateBlock=0,
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_LGC_Device.lua"
-		points=20,
-		tractorRange=5000,
+		points=80,
+		tractorRange=10000,
 	},
 
 	{
@@ -777,8 +777,8 @@ replicateBlock=0,
 		shape=HEXAGON,
 		scale=3,
 		#include "_T_LGC_Device.lua"
-		points=10,
-		capacity=16200,
+		points=100,
+		capacity=162000,
 	},
 
 	{
