@@ -4,7 +4,7 @@
 		lineColor=0xffffff,
 		points=200,
 		durability=20,
-		density=1000,
+		density=1e6,
 		growRate=1,
 		capacity=0,
 		meleeDamage=1,
