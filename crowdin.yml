@@ -1,0 +1,3 @@
+files:
+  - source: /lang-pre/en/text.lua
+    translation: /lang-pre/%two_letters_code%/%original_file_name%
