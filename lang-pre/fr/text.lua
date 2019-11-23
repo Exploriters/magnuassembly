@@ -106,11 +106,11 @@
 	"_text_lapism_strategic_smartbomb"="SuperNova Smartbomb",
 	"_text_visual_laser_senser"="Laser Senser",
 	"_text_super_laser_senser"="Senser Field",
-	"_text_plasma_cannon"="Plasma Cannon",
+	"_text_plasma_cannon"="Canon plasma",
 	"_text_lapism_blizzard_cannon"="Blizzard Launcher",
-	"_text_lapism_fragminecannon_lv1"="Canon à Mine",
-	"_text_lapism_fragminecannon_lv2"="Canon à Grappe de Mine",
-	"_text_lapism_fragminecannon_lv3"="Canon à Champs de Mine",
+	"_text_lapism_fragminecannon_lv1"="Lance Mine",
+	"_text_lapism_fragminecannon_lv2"="Lanceur de Grappe de Mine",
+	"_text_lapism_fragminecannon_lv3"="Lanceur de Champs de Mine",
 	
 	"_text_lapism_mod_dmg"="Damage Modify Module",
 	"_text_lapism_mod_rng"="Range Modify Module",
@@ -131,7 +131,7 @@
 	
 	"_text_missile_drone_launcher"="Missile Drone Launcher",
 	"_text_missile_drone"="Missile Drone",
-	"_text_missile_battery"="Batterie de missile",
+	"_text_missile_battery"="Batterie de Missile",
 	"_text_block_missile"="Missile",
 	"_text_lapism_melee_drone_launcher"="Fragment Drone Launcher",
 	"_text_lapism_melee_drone"="Fragment Drone",
@@ -232,7 +232,7 @@
 	"_blurb_autocannon"="Standard autocannon. ",
 	"_blurb_lapism_phaser"="Classical and deadly. ",
 	"_blurb_proximity_flak"="Area blast flak cannon. ",
-	"_blurb_standard_laser"="Standard laser. ",
+	"_blurb_standard_laser"="Laser standard. ",
 	
 	"_blurb_beam_pull_friendly"="Friendly tractor beam. ",
 	"_blurb_beam_push_friendly"="Friendly force beam. ",
