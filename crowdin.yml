@@ -1,5 +1,3 @@
 files:
   - source: /lang/en/text.lua
     translation: /lang-pre/%two_letters_code%/%original_file_name%
-  - source: /lang/zh/text.lua
-    translation: /lang-pre/%two_letters_code%/%original_file_name%
