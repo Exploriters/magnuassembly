@@ -2,6 +2,8 @@
 -- This text.lua is an Chinese thanslation document.
 -- 这个text.lua是一份中文翻译文档。
 {
+#include "../source.lua"
+
 	"_SQUARE_BLANK"=" ",
 	"_bl"="",
 	"_n"="\n",
