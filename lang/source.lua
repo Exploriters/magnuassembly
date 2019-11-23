@@ -1,7 +1,4 @@
--- encoding="UTF-8",
--- This text.lua is an English thanslation document.
 
-{
 	"_SQUARE_BLANK"=" ",
 	"_bl"=" ",
 	"_n"="\n",
@@ -601,4 +598,4 @@
 -- Magnualand
 	"_text_sov_generator"="Territorial Claim Unit",
 	"_blurb_sov_generator"="Provide warping portal and safety. ",
-}
+
