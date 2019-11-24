@@ -175,9 +175,9 @@
 	"_text_pder_laser"="Point Defender Laser",
 	"_text_lapism_kite_laser"="Kite Laser",
 	"_text_lapism_bomber_laser"="Bomber Laser",
-	"_text_lapism_doomsday_beam"="Doomsday Beam",
+	"_text_lapism_doomsday_beam"="Laser destructeur de monde",
 	
-	"_text_lapism_decoy_generator"="Decoy Generator",
+	"_text_lapism_decoy_generator"="Générateur de Leurre",
 	
 	"_text_phage_core"="Phage Core - Repeat Mine Shotgun",
 	"_text_phage_hull"="Blank Protein",
