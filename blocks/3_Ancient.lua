@@ -1058,6 +1058,30 @@
 	
 	{
 		#include "_T_0_Magnuablock.lua"
+		ident=1259412,
+		sort=1259000000,
+		group=1259,
+		features=PALETTE|INVULNERABLE|GENERATOR,
+		name=_("_text_ancient_magnualand_tech")_("_bl")_("欠电机"),
+		shape=SQUARE,
+		scale=3,
+		fillColor=0xeeffff,
+		fillColor1=0x7fc0ff,
+		lineColor=0x0000ff,
+		points=100,
+		durability=inf,
+		density=1,
+		growRate=inf,
+		generatorCapacityPerSec=-inf,
+		powerCapacity=-inf,
+		shroud={
+			{size={0, 10}, offset={7.5, 0, 1e-16}, taper=1, count=1, angle=0.25*pi , tri_color_id=0, tri_color1_id=1, line_color_id=2},
+			{size={0, 10}, offset={7.5, 0, 1e-16}, taper=1, count=1, angle=-0.25*pi , tri_color_id=0, tri_color1_id=1, line_color_id=2},
+		},
+	},
+	
+	{
+		#include "_T_0_Magnuablock.lua"
 		ident=1259600,
 		sort=1259600000,
 		group=1259,
