@@ -2,6 +2,8 @@
 -- This text.lua is an English thanslation document.
 
 {
+#include "../source.lua"
+
 	"_SQUARE_BLANK"=" ",
 	"_bl"=" ",
 	"_n"="\n",
