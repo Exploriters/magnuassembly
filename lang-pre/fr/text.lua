@@ -6,7 +6,7 @@
 	"_bl"=" ",
 	"_n"="\n",
 	
-	"_text_word_ancient"="Ancient",
+	"_text_word_ancient"="Ancien",
 	"_text_ancient_magnualand_tech"="Magnualand",
 	"_text_material_lapismarine"="Lapismarine",
 	"_text_dsd_tech"="SantasumuSalamander",
@@ -14,7 +14,7 @@
 	"_text_protein_tech"="Protein",
 	"_text_we2bolax_bolax_tech"="WE2BoLaX",
 	"_text_b10__tech"="BoottenSalamander",
-	"_text_nullsettertech"="Antimatter",
+	"_text_nullsettertech"="Antimatière",
 	"_text_3883tech"="3tr8t8gi3",
 	"_text_salamander_tech"="SalamanderGens",
 	
@@ -29,7 +29,7 @@
 	"_text_faction_ancientmagnualand"="Ancient",
 	"_text_faction_salamander"="Salamander",
 	
-	"_blurb_decoy_block"="(*)Holo fake parts. ",
+	"_blurb_decoy_block"="(*)Fausses parties holographiques . ",
 	"_blurb_ancient_block"="(*)Ancient tech block. ",
 	"_blurb_explosive_cannon_required"="(i)Explosive is required for boosting cannon. ",
 	
@@ -137,7 +137,7 @@
 	"_text_lapism_melee_drone"="Fragment Drone",
 	"_text_antimissile_drone_launcher"="Anti Missile Drone Launcher",
 	"_text_antimissile_drone"="Anti Missile Drone",
-	"_text_lapism_nanobot_launcher"="Nanobot Launcher",
+	"_text_lapism_nanobot_launcher"="Lanceur de Nanobot",
 	"_text_lapism_nanobot"="First Aid Nanobot Injector",
 	"_text_cruise_missile_battery"="Cruise Missile Battery",
 	"_text_cruise_missile"="Cruise Missile",
@@ -291,7 +291,7 @@
 	"_blurb_lapism_mod_spec_turn"="(+)+2% range \n(+)+16% muzzle velocity \n(-)-33.3% rate of fire ",
 	
 	"_blurb_missile_drone_launcher"="Missile drone launcher. ",
-	"_blurb_quick_missile_battery"="Quick missile battery. ",
+	"_blurb_quick_missile_battery"="Batterie de missile rapide. ",
 	"_blurb_fragment_drone_launcher"="Melee drone launcher, deals mass of damage to both shield and armor. ",
 	"_blurb_lapism_anti_missile_drone_launcher"="Launcher of the most lovely anti missile drone ever. ",
 	"_blurb_lapism_nanobot_launcher_s1"="Nanobot injector drone launcher, repair 1000 health per drone. ",
