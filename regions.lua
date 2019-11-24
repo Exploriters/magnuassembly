@@ -149,7 +149,7 @@
 		
 		{
 			ident=1257002,
-			faction=1257,
+		--	faction=1257,
 			count=1,
 			position={0.75, 0.75},
 			radius={0.3, 0.3},
@@ -282,7 +282,13 @@
 			fleetFraction=1,
 			unique={
 				{
-					"1257_SFWarship",
+					"1257_Survival_Game_Terminator",
+				},
+				{
+					"1257_Lapismarine_Outer_Ring_Checkpoint",
+				},
+				{
+					"1257_Cargoship",
 					"1257_Cargoship",
 				},
 			},
@@ -505,7 +511,7 @@
 				},
 			},
 			uniqueFraction=0,
-			ambient={ -1, 0 },
+			ambient={ -1 },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
 			asteroidFlags=SQUARE,
@@ -531,7 +537,7 @@
 				},
 			},
 			uniqueFraction=0,
-			ambient={ 0 },
+			ambient={ },
 			asteroidDensity={0.25, 0.5},
 			asteroidSize={40, 160},
 			asteroidFlags=SQUARE,
