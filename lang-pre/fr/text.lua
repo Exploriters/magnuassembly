@@ -319,8 +319,8 @@
 	"_blurb_lapism_ancient_bomber_cannon"="Ancient bomber standard weapon. ",
 	"_blurb_lapism_ancient_pd_cannon"="Ancient point defense cannon. ",
 	"_blurb_lapism_ancient_pd_laser"="Ancient point defense laser. ",
-	"_blurb_lapism_ancient_laser"="Ancient laser. ",
-	"_blurb_lapism_ancient_laser_kite"="Ancient kiter laser. ",
+	"_blurb_lapism_ancient_laser"="Ancien laser. ",
+	"_blurb_lapism_ancient_laser_kite"="Ancien laser à longue portée. ",
 	"_blurb_lapism_ancient_nanoassembler"="Ancient nanoassembler. ",
 	"_blurb_lapism_ancient_doomsday_deam"="Ancient doomsday laser. ",
 	
