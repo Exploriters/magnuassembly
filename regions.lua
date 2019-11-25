@@ -149,7 +149,7 @@
 		
 		{
 			ident=1257002,
-		--	faction=1257,
+			faction=1257,
 			count=1,
 			position={0.75, 0.75},
 			radius={0.3, 0.3},
